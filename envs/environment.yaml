@@ -1,4 +1,4 @@
-name: pci-pmi-data
+name: pci-pmi-projects
 channels:
 - conda-forge
 - bioconda
