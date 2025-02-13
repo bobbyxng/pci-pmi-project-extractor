@@ -1,0 +1,56 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.6",
+    "attributes": {
+      "OBJECTID": "1003",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.6",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1075",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Ultranet (DE)",
+      "PROJECT_FULL_TITLE": "Internal line between Osterath and Philippsburg (DE) to increase capacity at Western borders [currently known as \"Ultranet\"]",
+      "TECHNICAL_DESCR": "<p>The Ultranet project consists of a 2 GW HVDC-connection of approximately 340 km from the Region of Osterath (Rhineland) to the Region of Philippsburg (Baden-W&uuml;rttemberg). It&#39;s a pilot project with DC circuits on the same pylons as AC lines. It represents a separate subsection for the large-scale transmission link from the North Sea coast to Baden-W&uuml;rttemberg (together with project 1.4.1).</p>\n\n<p>Note: the project is split into different phases and the first sections started construction in 2023.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Amprion GmbH (DE) ; TransnetBW GmbH (DE)",
+      "COMMISSIONING_DATE": "31/12/2026",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "404122.435696"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            737588.1405000016,
+            6667563.465300001
+          ],
+          [
+            939682.2195000015,
+            6317602.144199997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

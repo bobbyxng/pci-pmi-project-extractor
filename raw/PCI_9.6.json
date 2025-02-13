@@ -1,0 +1,304 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.6",
+    "attributes": {
+      "OBJECTID": "4804",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.6",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1192",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "National Hydrogen Backbone of the Netherlands",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in the Netherlands [currently known as Netherlands National Hydrogen Backbone] ",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The H2 Backbone of the Netherlands is the national hydrogen network that will connect supply and demand with the future hydrogen storage facility in the northern Netherlands, with import and with other cross-border networks for hydrogen transportation. The development of the hydrogen network is taking place step by step, starting with the Dutch industrial regions (Eemshaven, North Sea Canal area, Rotterdam, Zeeland).<br />\n&nbsp;</p>\n\n<p style=\"text-align:justify\">The network will be based on the current natural gas network , part of which will become available for the transmission of hydrogen. The network will cover approximately 642 km of converted natural gas and newly built H2 pipelines.</p>\n\n<p style=\"text-align:justify\">The project covers the following sections:</p>\n\n<p style=\"text-align:justify\">- 37.1 km from Eemshaven, port area, to Scheemda,</p>\n\n<p style=\"text-align:justify\">- 21.2 km from Scheemda to Oude Statenzijl (Dutch-German border),</p>\n\n<p style=\"text-align:justify\">- 67.8 km from Scheemda to Elim,</p>\n\n<p style=\"text-align:justify\">- 20.8 km from Elim to Vlieghuis (Dutch-German border),</p>\n\n<p style=\"text-align:justify\">- 92.9 km from Elim to Angerlo,</p>\n\n<p style=\"text-align:justify\">- 8.9 km from Angerlo to Zevenaar (Dutch-German border),</p>\n\n<p style=\"text-align:justify\">- 42.5 km from Angerlo to Ravenstein,</p>\n\n<p style=\"text-align:justify\">- 102.4 km from Ravenstein to Moerdijk,</p>\n\n<p style=\"text-align:justify\">- 82.5 km from Moerdijk to Zeeland, port area,</p>\n\n<p style=\"text-align:justify\">- 54.3 km from Moerdijk to Rotterdam, port area,</p>\n\n<p style=\"text-align:justify\">- 111.2 km from Rotterdam to Amsterdam, port area.</p>\n\n<p style=\"text-align:justify\">Once complete, the Dutch H2 Backbone will connect offshore H2 production sites as well as imported H2 with consumers in the Netherlands, Germany and Belgium. The network will have a capacity of around 4 GW in 2030.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "NL",
+      "PROMOTERS": "N.V. NEDERLANDSE GASUNIE (NE)",
+      "COMMISSIONING_DATE": "31/12/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1082411.598662"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            425351.21770000085,
+            6679490.637100004
+          ],
+          [
+            424085.06980000064,
+            6659194.450300001
+          ],
+          [
+            482091.30519999936,
+            6698103.103600003
+          ]
+        ],
+        [
+          [
+            482091.30519999936,
+            6698103.103600003
+          ],
+          [
+            484197.59490000084,
+            6684787.688500002
+          ]
+        ],
+        [
+          [
+            482091.30519999936,
+            6698103.103600003
+          ],
+          [
+            486439.5694000013,
+            6701027.258400001
+          ]
+        ],
+        [
+          [
+            482090.3103,
+            6698109.398100004
+          ],
+          [
+            482091.30519999936,
+            6698103.103600003
+          ]
+        ],
+        [
+          [
+            486439.5694000013,
+            6701027.258400001
+          ],
+          [
+            405597.9079999998,
+            6709865.380400002
+          ]
+        ],
+        [
+          [
+            486439.5694000013,
+            6701027.258400001
+          ],
+          [
+            509807.7569000013,
+            6743580.644000001
+          ],
+          [
+            511798.4833999984,
+            6753495.528999999
+          ],
+          [
+            509289.11939999834,
+            6766460.170400001
+          ]
+        ],
+        [
+          [
+            507485.557599999,
+            6739307.056699999
+          ],
+          [
+            592415.0566999987,
+            6725796.692000002
+          ],
+          [
+            630170.0769999996,
+            6760756.996799998
+          ],
+          [
+            639981.7637999989,
+            6773434.1369
+          ],
+          [
+            677265.7267000005,
+            6793648.006099999
+          ]
+        ],
+        [
+          [
+            631102.5505000018,
+            6763743.5506
+          ],
+          [
+            631102.6810000017,
+            6763743.363799997
+          ]
+        ],
+        [
+          [
+            509289.11939999834,
+            6766460.170400001
+          ],
+          [
+            489088.4167000018,
+            6770309.9362
+          ],
+          [
+            457991.98490000144,
+            6792377.355899997
+          ]
+        ],
+        [
+          [
+            509289.11939999834,
+            6766460.170400001
+          ],
+          [
+            532346.8368999995,
+            6766897.015699998
+          ],
+          [
+            567750.5537,
+            6791036.757700004
+          ],
+          [
+            534882.5835000016,
+            6856572.977499999
+          ]
+        ],
+        [
+          [
+            677265.7267000005,
+            6793648.006099999
+          ],
+          [
+            682499.9094000012,
+            6782073.890500002
+          ]
+        ],
+        [
+          [
+            677265.7267000005,
+            6793648.006099999
+          ],
+          [
+            704606.8469999991,
+            6867018.990699999
+          ],
+          [
+            715488.1046000011,
+            6895230.360699996
+          ],
+          [
+            732394.4978,
+            6924075.5669
+          ]
+        ],
+        [
+          [
+            534882.5835000016,
+            6856572.977499999
+          ],
+          [
+            552931.0351999998,
+            6856217.017200001
+          ]
+        ],
+        [
+          [
+            534882.5835000016,
+            6856572.977499999
+          ],
+          [
+            529990.871199999,
+            6869302.2897000015
+          ],
+          [
+            502439.2972000018,
+            6872900.136500001
+          ]
+        ],
+        [
+          [
+            732394.4978,
+            6924075.5669
+          ],
+          [
+            761190.5505000018,
+            6920283.497400001
+          ]
+        ],
+        [
+          [
+            732394.4978,
+            6924075.5669
+          ],
+          [
+            765112.2789000012,
+            6998944.8913
+          ]
+        ],
+        [
+          [
+            765112.2789000012,
+            6998944.8913
+          ],
+          [
+            772047.3832999989,
+            6998492.601599999
+          ]
+        ],
+        [
+          [
+            765112.2789000012,
+            6998944.8913
+          ],
+          [
+            772118.1167000011,
+            7014976.612499997
+          ]
+        ],
+        [
+          [
+            764553.6754000001,
+            6998981.321999997
+          ],
+          [
+            765112.2789000012,
+            6998944.8913
+          ]
+        ],
+        [
+          [
+            772118.1167000011,
+            7014976.612499997
+          ],
+          [
+            802866.7258000001,
+            7021256.5940999985
+          ]
+        ],
+        [
+          [
+            772118.1167000011,
+            7014976.612499997
+          ],
+          [
+            764719.3359000012,
+            7059573.700999998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "8.2",
+    "attributes": {
+      "OBJECTID": "4176",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "8.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1171",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "Atlantic offshore grids",
+      "CORRIDOR_NUMBER": "20",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection South Atlantic",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection South Atlantic (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection South Atlantic will consist of&nbsp;a 320kV HVDC link connecting up to 1,2GW of offshore wind farm to the onshore substation Granzay (400kV). The project includes 2 substations (offshore and inland) each comprising a converter HVDC/HVAC and a total cable route length of ca. 140 km (offshore + onshore).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -209093.77809999883,
+      "y": 5757705.900300004,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "8.2",
+    "attributes": {
+      "OBJECTID": "4481",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "8.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1171",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "Atlantic offshore grids",
+      "CORRIDOR_NUMBER": "20",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection South Atlantic",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection South Atlantic (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection South Atlantic will consist of&nbsp;a 320kV HVDC link connecting up to 1,2GW of offshore wind farm to the onshore substation Granzay (400kV). The project includes 2 substations (offshore and inland) each comprising a converter HVDC/HVAC and a total cable route length of ca. 140 km (offshore + onshore).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -57620.78150000051,
+      "y": 5815470.5326000005,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "8.2",
+    "attributes": {
+      "OBJECTID": "3860",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "8.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1171",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "Atlantic offshore grids",
+      "CORRIDOR_NUMBER": "20",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection South Atlantic",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection South Atlantic (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection South Atlantic will consist of&nbsp;a 320kV HVDC link connecting up to 1,2GW of offshore wind farm to the onshore substation Granzay (400kV). The project includes 2 substations (offshore and inland) each comprising a converter HVDC/HVAC and a total cable route length of ca. 140 km (offshore + onshore).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "80084.358832"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -57620.78150000051,
+            5815470.5326000005
+          ],
+          [
+            -67063.8748999983,
+            5801220.1347
+          ],
+          [
+            -81100.4998999983,
+            5798100.8847
+          ],
+          [
+            -96891.70300000161,
+            5796931.165899999
+          ],
+          [
+            -108978.79679999873,
+            5796346.306500003
+          ],
+          [
+            -118731.59250000119,
+            5800683.0264
+          ],
+          [
+            -124048.55730000138,
+            5801541.276600003
+          ],
+          [
+            -126811.70439999923,
+            5801729.673
+          ],
+          [
+            -127732.75340000167,
+            5802504.191500001
+          ],
+          [
+            -128339.80840000138,
+            5802294.862199999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "8.2",
+    "attributes": {
+      "OBJECTID": "3861",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "8.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1171",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "Atlantic offshore grids",
+      "CORRIDOR_NUMBER": "20",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection South Atlantic",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection South Atlantic (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection South Atlantic will consist of&nbsp;a 320kV HVDC link connecting up to 1,2GW of offshore wind farm to the onshore substation Granzay (400kV). The project includes 2 substations (offshore and inland) each comprising a converter HVDC/HVAC and a total cable route length of ca. 140 km (offshore + onshore).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "97016.312897"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -128339.80840000138,
+            5802294.862199999
+          ],
+          [
+            -136771.80160000175,
+            5795895.477399997
+          ],
+          [
+            -142864.08680000156,
+            5795590.863200001
+          ],
+          [
+            -147433.30059999973,
+            5796504.705899999
+          ],
+          [
+            -156876.34259999916,
+            5797418.548699997
+          ],
+          [
+            -162054.78500000015,
+            5795590.863200001
+          ],
+          [
+            -166014.7703000009,
+            5790412.4208
+          ],
+          [
+            -171802.4411999993,
+            5785233.978399999
+          ],
+          [
+            -180027.0262000002,
+            5778227.8505000025
+          ],
+          [
+            -189774.68239999935,
+            5771221.722599998
+          ],
+          [
+            -198913.1101000011,
+            5764215.5945999995
+          ],
+          [
+            -209093.77809999883,
+            5757705.900300004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

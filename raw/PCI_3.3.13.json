@@ -1,0 +1,112 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.13",
+    "attributes": {
+      "OBJECTID": "1019",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.3.13",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1111",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Morzyczyn-Dunowo-S\u0142upsk-\u017barnowiec (PL)",
+      "PROJECT_FULL_TITLE": "Internal line between Morzyczyn-Dunowo-S\u0142upsk-\u017barnowiec (PL)",
+      "TECHNICAL_DESCR": "<p>The modernisation of the Morzyczyn-Dunowo-S\u0142upsk-\u017barnowiec 400 kV line represents the longest section of modernization of North Line. This project consists of:</p>\n\n<ul>\n<li>The modernization of Morzyczyn-Dunowo 400 kV,</li>\n<li>The modernization of Dunowo-S\u0142upsk&nbsp;400 kV,</li>\n<li>The modernization of S\u0142upsk-\u017barnowiec&nbsp;400 kV,</li>\n<li>The modernization of Dunowo substation.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>\n</ul>\n\n<p>The section Morzyczyn-Dunowo 400 kV has been commissioned following its modernization.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL) ",
+      "COMMISSIONING_DATE": "31/05/2026",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works",
+      "SHAPE.LEN": "487618.367602"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1658220.9050000012,
+            7048854.288999997
+          ],
+          [
+            1656149.6017000005,
+            7055033.790799998
+          ],
+          [
+            1754971.2533,
+            7155520.907700002
+          ],
+          [
+            1776373.6499000005,
+            7185637.1043
+          ],
+          [
+            1791814.9362000003,
+            7194211.127599999
+          ],
+          [
+            1783940.9261999987,
+            7205663.689900003
+          ],
+          [
+            1810540.9411999993,
+            7218657.999399997
+          ],
+          [
+            1867333.6964000016,
+            7253666.082699999
+          ],
+          [
+            1880175.067499999,
+            7267424.673699997
+          ],
+          [
+            1936356.3447000012,
+            7263144.329800002
+          ],
+          [
+            1957223.6286000013,
+            7273157.506800003
+          ],
+          [
+            1956841.4688000008,
+            7279348.891099997
+          ],
+          [
+            1967389.7698,
+            7283323.570699997
+          ],
+          [
+            1987186.9393000007,
+            7280419.005400002
+          ],
+          [
+            1999875.4688000008,
+            7287833.353699997
+          ],
+          [
+            2015444.4640000015,
+            7307197.106399998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.4.2",
+    "attributes": {
+      "OBJECTID": "983",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.4.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1069",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "1.4",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Korridor B (DE)",
+      "PROJECT_FULL_TITLE": "Internal line between Heide/West to Polsum to increase capacity from Northern Germany to the Ruhr-Area [currently known as \"Korridor B\"]",
+      "TECHNICAL_DESCR": "<p>The project is part of the grid expansion project [currently known as &quot;Korridor B&quot;] for low-loss transmission of high power over long distances from Northern Germany, a region characterised by a large number of regenerative onshore and offshore energy sources, to the high-production region of Ruhr-Area. It consists of a new HVDC cable of approximately 440 km from Heide/West to Polsum, with a transfer capacity of 2 GW.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "AMPRION GmbH (DE)",
+      "COMMISSIONING_DATE": "31/12/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "522783.785357"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            784827.2899999991,
+            6732681.136799999
+          ],
+          [
+            1006722.9486000016,
+            7206036.397600003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

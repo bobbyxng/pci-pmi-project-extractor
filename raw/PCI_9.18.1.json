@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.18.1",
+    "attributes": {
+      "OBJECTID": "2246",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.18.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1220",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.18",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Null",
+      "PROJECT_FULL_TITLE": "GreenWilhelmshaven electrolyser",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The Green Wilhelmshaven Electrolyser project will be an important domestic source for green hydrogen to the European hydrogen backbone. With the decarbonisation of energy imports, Wilhelmshaven is now facing a major transformation as an energy and industrial location, with enormous opportunities to become a hub for green energy sources for Europe.&nbsp;At the site of the coal-fired power plant that was decommissioned at the end of 2021, Uniper will build and operate a large-scale electrolyser.&nbsp;</p>\n\n<p style=\"text-align:justify\">The electrolyser will have a capacity of up to 1 GW and produce up to 1.1 Mt/y of RFNBO hydrogen in the final phase. The ramp-up phase is scheduled to begin early 2028 with the commissioning of an 1st phase electrolysis capacity of 200\u202fMW.&nbsp;&nbsp;</p>\n\n<p style=\"text-align:justify\">Due to its location on the North Sea, Wilhelmshaven is situated in a windy area with a steadily growing capacity of onshore and offshore wind farms for the generation of renewable electricity. Specifically, the transmission system operator Tennet is planning to integrate two offshore grid connection systems into the extra-high voltage grid via the Wilhelmshaven2 grid connection point with a transmission capacity of 2 x 2\u202fGW.&nbsp;</p>\n\n<p style=\"text-align:justify\">The site is particularly suitable for large-scale electrolysis because, on the one hand, grid congestions in the German electricity grid can be avoided and, on the other hand, the connection to the hydrogen core network and the integration of nearby hydrogen storage facilities mean that consumption centres in north-west Europe can be reliably supplied with green hydrogen. With the hydrogen transport projects H2ercules (OGE) and Hyperlink (Gasunie), customers in neighbouring European countries can also benefit in addition to customers in Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Uniper Hydrogen GmbH",
+      "COMMISSIONING_DATE": "2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 906457.6039000005,
+      "y": 7088000.510799997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

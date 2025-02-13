@@ -1,0 +1,3104 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "961",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 559380.4411999993,
+      "y": 7623588.657300003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "962",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 475696.4593000002,
+      "y": 7627866.0195999965,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Other essential CO2 equipement",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "972",
+      "INFRA": "35",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 931658.9785000011,
+      "y": 7493282.398400001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "963",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2081978.0461000018,
+      "y": 7245450.649700001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "964",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2093262.1689000018,
+      "y": 7906654.821099997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "965",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1336353.3062999994,
+      "y": 6673817.456799999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "966",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1099615.5998000018,
+      "y": 6868304.611500002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "967",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1101529.1818999983,
+      "y": 7080303.494400002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "968",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1405581.4503999986,
+      "y": 7496474.173,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "969",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1109871.7985000014,
+      "y": 7772968.160899997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "970",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1084668.8431000002,
+      "y": 7470915.6054000035,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "971",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 937986.6009999998,
+      "y": 7453829.693099998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1292",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "379911.193695"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1084668.8431000002,
+            7470915.6054000035
+          ],
+          [
+            1095383.3478000015,
+            7476298.9113000035
+          ],
+          [
+            1117861.1772999987,
+            7488111.405599996
+          ],
+          [
+            1123989.6510999985,
+            7491088.115699999
+          ],
+          [
+            1127151.3454999998,
+            7492485.011
+          ],
+          [
+            1133505.443,
+            7495073.3675
+          ],
+          [
+            1139884.3997999988,
+            7497495.703699999
+          ],
+          [
+            1152683.4268999994,
+            7502051.418700002
+          ],
+          [
+            1161954.2105999999,
+            7505094.592100002
+          ],
+          [
+            1168147.740699999,
+            7506966.083400004
+          ],
+          [
+            1176809.4294999987,
+            7509427.860799998
+          ],
+          [
+            1182531.7844000012,
+            7511278.302599996
+          ],
+          [
+            1185360.8209999986,
+            7512353.5266999975
+          ],
+          [
+            1188163.9012999982,
+            7513564.850199997
+          ],
+          [
+            1190932.7511,
+            7514949.612499997
+          ],
+          [
+            1193656.6596999988,
+            7516557.138599999
+          ],
+          [
+            1196372.2831999995,
+            7518461.634900004
+          ],
+          [
+            1199039.9693999998,
+            7520596.821599998
+          ],
+          [
+            1201669.0793000013,
+            7522912.615999997
+          ],
+          [
+            1204266.0265999995,
+            7525372.245099999
+          ],
+          [
+            1209164.9287,
+            7530405.739
+          ],
+          [
+            1213956.8440999985,
+            7535809.411399998
+          ],
+          [
+            1216303.7613999993,
+            7538658.408799998
+          ],
+          [
+            1220905.0458000004,
+            7544678.932599999
+          ],
+          [
+            1225410.567499999,
+            7550951.3116
+          ],
+          [
+            1232121.1314000003,
+            7560505.435800001
+          ],
+          [
+            1236659.1000999995,
+            7566708.878700003
+          ],
+          [
+            1238971.0025999993,
+            7569635.755500004
+          ],
+          [
+            1241330.555300001,
+            7572376.221600004
+          ],
+          [
+            1243304.9362000003,
+            7574433.145300001
+          ],
+          [
+            1245326.7551000006,
+            7576294.0682
+          ],
+          [
+            1247401.635400001,
+            7577924.290100001
+          ],
+          [
+            1250280.7802999988,
+            7579716.190800004
+          ],
+          [
+            1253242.6064999998,
+            7581128.329099998
+          ],
+          [
+            1256265.8242999986,
+            7582250.362300001
+          ],
+          [
+            1259334.2595999986,
+            7583147.916100003
+          ],
+          [
+            1262435.8574,
+            7583866.568099998
+          ],
+          [
+            1268691.256099999,
+            7584907.034199998
+          ],
+          [
+            1274993.1559999995,
+            7585656.780199997
+          ],
+          [
+            1290796.6909999996,
+            7587315.332400002
+          ],
+          [
+            1313444.2115999982,
+            7590364.248800002
+          ],
+          [
+            1331912.0047999993,
+            7592545.965300001
+          ],
+          [
+            1338058.1895999983,
+            7593414.244800001
+          ],
+          [
+            1350981.7498000003,
+            7595473.734399997
+          ],
+          [
+            1354212.061900001,
+            7595802.5222999975
+          ],
+          [
+            1357391.2016999982,
+            7595953.223399997
+          ],
+          [
+            1360569.6050000004,
+            7595939.803499997
+          ],
+          [
+            1363744.521400001,
+            7595772.816699997
+          ],
+          [
+            1366912.5406000018,
+            7595447.759900004
+          ],
+          [
+            1370069.2586999983,
+            7594943.534900002
+          ],
+          [
+            1373208.8506000005,
+            7594219.906800002
+          ],
+          [
+            1376406.0573999994,
+            7593207.2842999995
+          ],
+          [
+            1379578.4111000001,
+            7591947.145499997
+          ],
+          [
+            1382724.7003999986,
+            7590466.2973000035
+          ],
+          [
+            1385957.627700001,
+            7588663.4130000025
+          ],
+          [
+            1389160.6528000012,
+            7586531.847099997
+          ],
+          [
+            1392575.663899999,
+            7583989.264700003
+          ],
+          [
+            1396083.0353000015,
+            7581154.7874
+          ],
+          [
+            1399563.1955999993,
+            7578146.600400001
+          ],
+          [
+            1402896.9420999996,
+            7575082.7786
+          ],
+          [
+            1405966.3137999997,
+            7572084.469400004
+          ],
+          [
+            1408228.7358999997,
+            7569745.137599997
+          ],
+          [
+            1411740.4090999998,
+            7565874.6281
+          ],
+          [
+            1413648.7738999985,
+            7563616.171400003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1293",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "925338.219171"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            937986.6009999998,
+            7453829.693099998
+          ],
+          [
+            913224.7881999984,
+            7450145.8527000025
+          ],
+          [
+            907138.1169000007,
+            7449209.0449
+          ],
+          [
+            900249.3544999994,
+            7448065.929200001
+          ],
+          [
+            894967.2987999991,
+            7447218.859999999
+          ],
+          [
+            891834.8214000016,
+            7446780.904100001
+          ],
+          [
+            888274.5800999999,
+            7446407.917000003
+          ],
+          [
+            883982.2252000012,
+            7446206.522699997
+          ],
+          [
+            881427.5494000018,
+            7446219.204599999
+          ],
+          [
+            875680.7140999995,
+            7446509.829999998
+          ],
+          [
+            872606.508200001,
+            7446812.155299999
+          ],
+          [
+            869455.9026999995,
+            7447255.004500002
+          ],
+          [
+            866261.0408000015,
+            7447883.195900001
+          ],
+          [
+            863048.6515000015,
+            7448759.427100003
+          ],
+          [
+            860174.7716000006,
+            7449799.802500002
+          ],
+          [
+            857307.0791999996,
+            7451045.106600001
+          ],
+          [
+            854446.7670000009,
+            7452448.5889
+          ],
+          [
+            851595.4857000001,
+            7453975.935599998
+          ],
+          [
+            845931.946800001,
+            7457318.453599997
+          ],
+          [
+            839963.188000001,
+            7461265.867200002
+          ],
+          [
+            837045.4879000001,
+            7463387.060199998
+          ],
+          [
+            834198.2905000001,
+            7465631.9749
+          ],
+          [
+            831451.5088,
+            7468037.635499999
+          ],
+          [
+            828846.3484999985,
+            7470658.407499999
+          ],
+          [
+            826438.5133999996,
+            7473569.5167
+          ],
+          [
+            824302.1101999991,
+            7476871.4789
+          ],
+          [
+            822749.4888000004,
+            7480074.1175
+          ],
+          [
+            821459.3731999993,
+            7483588.682300001
+          ],
+          [
+            820440.7314000018,
+            7487363.2294000015
+          ],
+          [
+            819718.5401999988,
+            7491360.9221
+          ],
+          [
+            819263.054299999,
+            7496467.617200002
+          ],
+          [
+            819182.4444000013,
+            7501782.0407000035
+          ],
+          [
+            819385.0476999991,
+            7507237.257799998
+          ],
+          [
+            819806.3449999988,
+            7512781.4750000015
+          ],
+          [
+            820404.4730000012,
+            7518373.8191
+          ],
+          [
+            821156.7802999988,
+            7523980.804099999
+          ],
+          [
+            821991.9419,
+            7529244.068899997
+          ],
+          [
+            823915.0811999999,
+            7539732.546599999
+          ],
+          [
+            826023.6682000011,
+            7550177.376999997
+          ],
+          [
+            829322.1130000018,
+            7565785.619400002
+          ],
+          [
+            832678.9699999988,
+            7581341.159699999
+          ],
+          [
+            839413.3781000003,
+            7611968.138400003
+          ],
+          [
+            843958.2756000012,
+            7632347.333800003
+          ],
+          [
+            847804.8354000002,
+            7648712.7205
+          ],
+          [
+            850554.7925999984,
+            7659417.548100002
+          ],
+          [
+            852032.4079000019,
+            7664649.095299996
+          ],
+          [
+            853614.2501000017,
+            7669755.434299998
+          ],
+          [
+            855338.4792000018,
+            7674689.094499998
+          ],
+          [
+            857200.7600000016,
+            7679328.811399996
+          ],
+          [
+            859200.7226999998,
+            7683800.843599997
+          ],
+          [
+            861301.5221999995,
+            7688150.515799999
+          ],
+          [
+            863475.0348999985,
+            7692412.472400002
+          ],
+          [
+            867960.9112999998,
+            7700771.066799998
+          ],
+          [
+            872546.9897000007,
+            7709014.200199999
+          ],
+          [
+            888784.4697000012,
+            7737697.612599999
+          ],
+          [
+            898098.9281000011,
+            7754062.335600004
+          ],
+          [
+            907521.9448999986,
+            7770342.120700002
+          ],
+          [
+            921720.8905999996,
+            7794696.504900001
+          ],
+          [
+            926483.7347000018,
+            7802762.862899996
+          ],
+          [
+            931297.2815000005,
+            7810717.045999996
+          ],
+          [
+            936215.1458999999,
+            7818428.7654
+          ],
+          [
+            938740.6594000012,
+            7822126.579999998
+          ],
+          [
+            941289.5504000001,
+            7825633.057499997
+          ],
+          [
+            943886.5373000018,
+            7829023.9799000025
+          ],
+          [
+            949178.8814999983,
+            7835567.121799998
+          ],
+          [
+            957265.1678999998,
+            7844996.7795
+          ],
+          [
+            962729.3816,
+            7851044.823799998
+          ],
+          [
+            968273.1305,
+            7856781.427100003
+          ],
+          [
+            971091.2267999984,
+            7859460.0429000035
+          ],
+          [
+            973954.3878000006,
+            7861951.277800001
+          ],
+          [
+            976910.0892999992,
+            7864243.664300002
+          ],
+          [
+            979911.4109999985,
+            7866345.236500002
+          ],
+          [
+            986004.3561000004,
+            7870169.806599997
+          ],
+          [
+            992166.1689999998,
+            7873704.9174000025
+          ],
+          [
+            1004566.2580000013,
+            7880453.352300003
+          ],
+          [
+            1038712.6257000007,
+            7898810.221000001
+          ],
+          [
+            1051258.5423000008,
+            7905292.758699998
+          ],
+          [
+            1060922.9838999994,
+            7909996.152400002
+          ],
+          [
+            1077055.9989,
+            7917681.381099999
+          ],
+          [
+            1086741.6944000013,
+            7922231.449699998
+          ],
+          [
+            1093205.2496000007,
+            7925158.7733
+          ],
+          [
+            1099682.0610999987,
+            7927863.113499999
+          ],
+          [
+            1102929.5406999998,
+            7929062.422399998
+          ],
+          [
+            1106186.4622000009,
+            7930102.560599998
+          ],
+          [
+            1109456.4167999998,
+            7930922.871200003
+          ],
+          [
+            1112679.1405000016,
+            7931465.8244
+          ],
+          [
+            1115914.4902000017,
+            7931796.029299997
+          ],
+          [
+            1119159.0667000003,
+            7931971.123199999
+          ],
+          [
+            1125666.1964999996,
+            7932020.306599997
+          ],
+          [
+            1135449.4937999994,
+            7931715.527099997
+          ],
+          [
+            1148505.2773000002,
+            7931066.388400003
+          ],
+          [
+            1158293.4164999984,
+            7930441.075599998
+          ],
+          [
+            1164812.074000001,
+            7929859.146600001
+          ],
+          [
+            1171247.1253999993,
+            7929013.193999998
+          ],
+          [
+            1180772.8068000004,
+            7927298.862899996
+          ],
+          [
+            1199804.4811000004,
+            7923329.677500002
+          ],
+          [
+            1215646.6988999993,
+            7919822.332199998
+          ],
+          [
+            1225109.2509000003,
+            7917373.5502
+          ],
+          [
+            1228244.729699999,
+            7916406.085600004
+          ],
+          [
+            1231364.5769999996,
+            7915312.167300001
+          ],
+          [
+            1234463.2137999982,
+            7914046.7195999995
+          ],
+          [
+            1237463.7126999982,
+            7912610.807800002
+          ],
+          [
+            1243410.2281000018,
+            7909296.813100003
+          ],
+          [
+            1258167.638700001,
+            7900109.098200001
+          ],
+          [
+            1261129.2371000014,
+            7898351.180100001
+          ],
+          [
+            1264103.585000001,
+            7896698.6532000005
+          ],
+          [
+            1267096.3370999992,
+            7895200.5956000015
+          ],
+          [
+            1270010.8564000018,
+            7893941.678999998
+          ],
+          [
+            1272943.7102999985,
+            7892855.535700001
+          ],
+          [
+            1275890.4864000008,
+            7891924.9833
+          ],
+          [
+            1278847.6499999985,
+            7891146.078500003
+          ],
+          [
+            1281812.355799999,
+            7890529.0825999975
+          ],
+          [
+            1284782.2712999992,
+            7890100.256399997
+          ],
+          [
+            1287755.4076999985,
+            7889904.551100001
+          ],
+          [
+            1290698.1105999984,
+            7889997.4023
+          ],
+          [
+            1293996.935899999,
+            7890484.877099998
+          ],
+          [
+            1297603.822900001,
+            7891342.852300003
+          ],
+          [
+            1301382.508299999,
+            7892512.407499999
+          ],
+          [
+            1305196.9684000015,
+            7893934.180299997
+          ],
+          [
+            1308911.8268,
+            7895546.122599997
+          ],
+          [
+            1312370.2166000009,
+            7897255.255599998
+          ],
+          [
+            1318103.982900001,
+            7900488.530100003
+          ],
+          [
+            1321895.2421000004,
+            7902853.606600001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1294",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1128408.234109"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1405581.4503999986,
+            7496474.173
+          ],
+          [
+            1406139.442400001,
+            7496388.119599998
+          ],
+          [
+            1406894.3249999993,
+            7495241.009800002
+          ],
+          [
+            1407755.8431000002,
+            7493111.1439
+          ],
+          [
+            1408729.0133000016,
+            7489512.702600002
+          ],
+          [
+            1409580.8352000006,
+            7484859.088500001
+          ],
+          [
+            1410239.104699999,
+            7479379.500200003
+          ],
+          [
+            1410616.8751999997,
+            7474139.865900002
+          ],
+          [
+            1410833.3561999984,
+            7468631.575999998
+          ],
+          [
+            1410931.7870000005,
+            7463025.909699999
+          ],
+          [
+            1410988.5978999995,
+            7450806.1008
+          ],
+          [
+            1411075.2741999999,
+            7444910.869800001
+          ],
+          [
+            1411346.634300001,
+            7439736.2842999995
+          ],
+          [
+            1411885.3588999994,
+            7435258.9877
+          ],
+          [
+            1412779.7435000017,
+            7431130.680399999
+          ],
+          [
+            1413741.9279000014,
+            7428287.197999999
+          ],
+          [
+            1414934.5351000018,
+            7425726.740800001
+          ],
+          [
+            1416338.0018999986,
+            7423476.531300001
+          ],
+          [
+            1418266.7588,
+            7421217.881999999
+          ],
+          [
+            1420412.8696000017,
+            7419356.9111
+          ],
+          [
+            1422722.6530999988,
+            7417818.778099999
+          ],
+          [
+            1425155.5793999992,
+            7416552.302900001
+          ],
+          [
+            1427681.5412999988,
+            7415526.508299999
+          ],
+          [
+            1430450.892000001,
+            7414671.878200002
+          ],
+          [
+            1433276.9290000014,
+            7414010.221900001
+          ],
+          [
+            1436141.8839000016,
+            7413493.3957
+          ],
+          [
+            1439032.8816,
+            7413087.153700002
+          ],
+          [
+            1444858.9144000001,
+            7412523.135799997
+          ],
+          [
+            1451153.2184999995,
+            7412216.028499998
+          ],
+          [
+            1467981.0432000011,
+            7411980.669399999
+          ],
+          [
+            1477793.499400001,
+            7411578.762699999
+          ],
+          [
+            1515477.6261,
+            7408949.381300002
+          ],
+          [
+            1533394.1064000018,
+            7407466.737000003
+          ],
+          [
+            1542312.8473999985,
+            7406859.428300001
+          ],
+          [
+            1551429.7578000017,
+            7406590.196199998
+          ],
+          [
+            1563586.3192000017,
+            7406599.6536
+          ],
+          [
+            1572675.8850000016,
+            7406936.0239999965
+          ],
+          [
+            1578845.8971000016,
+            7407537.879500002
+          ],
+          [
+            1581900.3762000017,
+            7408029.1071000025
+          ],
+          [
+            1584922.2214000002,
+            7408708.4432
+          ],
+          [
+            1587897.6686999984,
+            7409648.033
+          ],
+          [
+            1590809.1849000007,
+            7410949.784599997
+          ],
+          [
+            1593781.2765000015,
+            7412879.823399998
+          ],
+          [
+            1597015.1590999998,
+            7415528.863799997
+          ],
+          [
+            1600401.137600001,
+            7418692.397500001
+          ],
+          [
+            1603829.7038999982,
+            7422164.561800003
+          ],
+          [
+            1610384.6722999997,
+            7429251.993000001
+          ],
+          [
+            1618901.1695000008,
+            7438907.777000003
+          ],
+          [
+            1619360.4068999998,
+            7439326.138499998
+          ],
+          [
+            1642665.7668000013,
+            7449087.862099998
+          ],
+          [
+            1696966.4935999997,
+            7471985.784000002
+          ],
+          [
+            1709753.6556999981,
+            7477285.7700999975
+          ],
+          [
+            1716161.1849999987,
+            7479807.637900002
+          ],
+          [
+            1722590.6141999997,
+            7482126.953299999
+          ],
+          [
+            1725779.0769000016,
+            7483158.172200002
+          ],
+          [
+            1732175.3585,
+            7485041.211300001
+          ],
+          [
+            1748216.4376999997,
+            7489282.7601
+          ],
+          [
+            1809233.2208000012,
+            7504861.126999997
+          ],
+          [
+            1822084.6563999988,
+            7508055.961000003
+          ],
+          [
+            1834648.6136000007,
+            7510859.2722999975
+          ],
+          [
+            1865338.4748000018,
+            7516915.363399997
+          ],
+          [
+            1881151.6886,
+            7520426.6175
+          ],
+          [
+            1944649.1361999996,
+            7535522.532700002
+          ],
+          [
+            1954032.6790000014,
+            7538014.3330999985
+          ],
+          [
+            1960256.3546000011,
+            7539943.729500003
+          ],
+          [
+            1963350.6391000003,
+            7541055.138999999
+          ],
+          [
+            1969441.7776999995,
+            7543620.9103000015
+          ],
+          [
+            1975494.5055,
+            7546507.7082
+          ],
+          [
+            1984537.6537000015,
+            7551136.194799997
+          ],
+          [
+            1993558.5373000018,
+            7555937.838799998
+          ],
+          [
+            2002547.886500001,
+            7560874.841600001
+          ],
+          [
+            2014476.235199999,
+            7567634.362199999
+          ],
+          [
+            2032346.2492999993,
+            7577923.169699997
+          ],
+          [
+            2041258.6273999996,
+            7583202.6307
+          ],
+          [
+            2047227.123300001,
+            7586903.946599998
+          ],
+          [
+            2056218.121199999,
+            7592738.511200003
+          ],
+          [
+            2065178.1048000008,
+            7598727.886799999
+          ],
+          [
+            2074081.8704999983,
+            7604917.323299997
+          ],
+          [
+            2079935.9461000003,
+            7609305.434500001
+          ],
+          [
+            2082814.9662999995,
+            7611650.329700001
+          ],
+          [
+            2085644.8354000002,
+            7614148.767499998
+          ],
+          [
+            2088407.5588000007,
+            7616856.388099998
+          ],
+          [
+            2091120.2851000018,
+            7619856.214000002
+          ],
+          [
+            2093762.3268,
+            7623074.443300001
+          ],
+          [
+            2096349.8770999983,
+            7626458.814800002
+          ],
+          [
+            2098894.1768999994,
+            7629971.6919
+          ],
+          [
+            2101402.162300002,
+            7633587.813100003
+          ],
+          [
+            2106317.9804,
+            7641080.781199999
+          ],
+          [
+            2111108.7773,
+            7648965.453000002
+          ],
+          [
+            2118112.593199998,
+            7661351.216499999
+          ],
+          [
+            2138875.201699998,
+            7699403.387400001
+          ],
+          [
+            2145768.7947999984,
+            7712271.553499997
+          ],
+          [
+            2150236.8060999997,
+            7721048.858800001
+          ],
+          [
+            2152381.6985,
+            7725551.561899997
+          ],
+          [
+            2154428.400600001,
+            7730169.152099997
+          ],
+          [
+            2156233.2293,
+            7734639.401100002
+          ],
+          [
+            2157915.1231000014,
+            7739220.8544000015
+          ],
+          [
+            2159463.2622000016,
+            7743895.325599998
+          ],
+          [
+            2160853.599300001,
+            7748651.393600002
+          ],
+          [
+            2162046.8233999982,
+            7753483.710000001
+          ],
+          [
+            2162985.6147000007,
+            7758392.480999999
+          ],
+          [
+            2163591.1449999996,
+            7763383.0973000005
+          ],
+          [
+            2163790.3220000006,
+            7767928.474100001
+          ],
+          [
+            2163691.704999998,
+            7772509.4014
+          ],
+          [
+            2163331.2463000007,
+            7777088.427100003
+          ],
+          [
+            2162728.1317000017,
+            7781627.310699999
+          ],
+          [
+            2161885.5681999996,
+            7786085.1548999995
+          ],
+          [
+            2160674.6602,
+            7790895.890299998
+          ],
+          [
+            2159230.306400001,
+            7795580.485699996
+          ],
+          [
+            2157610.0744000003,
+            7800160.013400003
+          ],
+          [
+            2155855.7465999983,
+            7804647.533200003
+          ],
+          [
+            2153995.985199999,
+            7809048.375500001
+          ],
+          [
+            2152048.371100001,
+            7813360.136799999
+          ],
+          [
+            2150020.855300002,
+            7817572.343699999
+          ],
+          [
+            2147912.6724000014,
+            7821665.764799997
+          ],
+          [
+            2145761.0736999996,
+            7825554.944200002
+          ],
+          [
+            2143546.3473000005,
+            7829335.9815
+          ],
+          [
+            2138993.8929000013,
+            7836674.5656
+          ],
+          [
+            2132007.4527000003,
+            7847361.328199998
+          ],
+          [
+            2117549.138799999,
+            7868874.2238000035
+          ],
+          [
+            2111761.8900999986,
+            7877647.652999997
+          ],
+          [
+            2102122.231800001,
+            7892609.949900001
+          ],
+          [
+            2093262.1689000018,
+            7906654.821099997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1295",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1016451.65361"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1405581.4503999986,
+            7496474.173
+          ],
+          [
+            1406139.442400001,
+            7496388.119599998
+          ],
+          [
+            1406894.3249999993,
+            7495241.009800002
+          ],
+          [
+            1407755.8431000002,
+            7493111.1439
+          ],
+          [
+            1408729.0133000016,
+            7489512.702600002
+          ],
+          [
+            1409580.8352000006,
+            7484859.088500001
+          ],
+          [
+            1410239.104699999,
+            7479379.500200003
+          ],
+          [
+            1410616.8751999997,
+            7474139.865900002
+          ],
+          [
+            1410833.3561999984,
+            7468631.575999998
+          ],
+          [
+            1410931.7870000005,
+            7463025.909699999
+          ],
+          [
+            1410988.5978999995,
+            7450806.1008
+          ],
+          [
+            1411075.2741999999,
+            7444910.869800001
+          ],
+          [
+            1411346.634300001,
+            7439736.2842999995
+          ],
+          [
+            1411885.3588999994,
+            7435258.9877
+          ],
+          [
+            1412779.7435000017,
+            7431130.680399999
+          ],
+          [
+            1413741.9279000014,
+            7428287.197999999
+          ],
+          [
+            1414934.5351000018,
+            7425726.740800001
+          ],
+          [
+            1416338.0018999986,
+            7423476.531300001
+          ],
+          [
+            1418266.7588,
+            7421217.881999999
+          ],
+          [
+            1420412.8696000017,
+            7419356.9111
+          ],
+          [
+            1422722.6530999988,
+            7417818.778099999
+          ],
+          [
+            1425155.5793999992,
+            7416552.302900001
+          ],
+          [
+            1427681.5412999988,
+            7415526.508299999
+          ],
+          [
+            1430450.892000001,
+            7414671.878200002
+          ],
+          [
+            1433276.9290000014,
+            7414010.221900001
+          ],
+          [
+            1436141.8839000016,
+            7413493.3957
+          ],
+          [
+            1439032.8816,
+            7413087.153700002
+          ],
+          [
+            1444858.9144000001,
+            7412523.135799997
+          ],
+          [
+            1451153.2184999995,
+            7412216.028499998
+          ],
+          [
+            1467981.0432000011,
+            7411980.669399999
+          ],
+          [
+            1477793.499400001,
+            7411578.762699999
+          ],
+          [
+            1515477.6261,
+            7408949.381300002
+          ],
+          [
+            1533394.1064000018,
+            7407466.737000003
+          ],
+          [
+            1542312.8473999985,
+            7406859.428300001
+          ],
+          [
+            1551429.7578000017,
+            7406590.196199998
+          ],
+          [
+            1563586.3192000017,
+            7406599.6536
+          ],
+          [
+            1572675.8850000016,
+            7406936.0239999965
+          ],
+          [
+            1578845.8971000016,
+            7407537.879500002
+          ],
+          [
+            1581900.3762000017,
+            7408029.1071000025
+          ],
+          [
+            1584922.2214000002,
+            7408708.4432
+          ],
+          [
+            1587897.6686999984,
+            7409648.033
+          ],
+          [
+            1590809.1849000007,
+            7410949.784599997
+          ],
+          [
+            1593781.2765000015,
+            7412879.823399998
+          ],
+          [
+            1597015.1590999998,
+            7415528.863799997
+          ],
+          [
+            1600401.137600001,
+            7418692.397500001
+          ],
+          [
+            1603829.7038999982,
+            7422164.561800003
+          ],
+          [
+            1610384.6722999997,
+            7429251.993000001
+          ],
+          [
+            1618901.1695000008,
+            7438907.777000003
+          ],
+          [
+            1619360.4068999998,
+            7439326.138499998
+          ],
+          [
+            1642665.7668000013,
+            7449087.862099998
+          ],
+          [
+            1786651.2030999996,
+            7462947.694399998
+          ],
+          [
+            1813146.3291000016,
+            7465345.359399997
+          ],
+          [
+            1832804.3539999984,
+            7466689.962300003
+          ],
+          [
+            1954049.1801999994,
+            7474214.534500003
+          ],
+          [
+            2005970.9439000003,
+            7477229.9782000035
+          ],
+          [
+            2018928.2778000012,
+            7477775.186300002
+          ],
+          [
+            2025396.7877999991,
+            7477765.762599997
+          ],
+          [
+            2028625.4015000015,
+            7477611.233599998
+          ],
+          [
+            2031848.208900001,
+            7477305.403499998
+          ],
+          [
+            2034932.7619999982,
+            7476838.183200002
+          ],
+          [
+            2038011.8852999993,
+            7476228.833400004
+          ],
+          [
+            2044159.1469999999,
+            7474716.127599999
+          ],
+          [
+            2053362.9767000005,
+            7472002.838299997
+          ],
+          [
+            2062633.3495000005,
+            7468877.913999997
+          ],
+          [
+            2068915.6561999992,
+            7466548.291500002
+          ],
+          [
+            2075187.1418000013,
+            7464083.004100002
+          ],
+          [
+            2081438.3387999982,
+            7461435.2848000005
+          ],
+          [
+            2084458.6627999991,
+            7460051.354699999
+          ],
+          [
+            2090462.7666000016,
+            7457062.637999997
+          ],
+          [
+            2093439.5445999987,
+            7455439.346500002
+          ],
+          [
+            2096390.9756000005,
+            7453702.5901999995
+          ],
+          [
+            2099306.9701999985,
+            7451818.147399999
+          ],
+          [
+            2102173.5643999986,
+            7449738.478
+          ],
+          [
+            2104790.867899999,
+            7447584.078400001
+          ],
+          [
+            2107354.7815999985,
+            7445242.542300001
+          ],
+          [
+            2109866.5940999985,
+            7442738.3401999995
+          ],
+          [
+            2112322.7287999988,
+            7440083.4155
+          ],
+          [
+            2114714.2894,
+            7437277.603699997
+          ],
+          [
+            2117239.105700001,
+            7434035.946099997
+          ],
+          [
+            2119664.9483999982,
+            7430628.136699997
+          ],
+          [
+            2121976.9395999983,
+            7427066.241599999
+          ],
+          [
+            2124147.8203999996,
+            7423346.122299999
+          ],
+          [
+            2126135.7831999995,
+            7419447.110100001
+          ],
+          [
+            2127881.592,
+            7415330.872400001
+          ],
+          [
+            2129304.973200001,
+            7410939.5044
+          ],
+          [
+            2130291.548700001,
+            7406496.571400002
+          ],
+          [
+            2130984.9312000014,
+            7401816.104800001
+          ],
+          [
+            2131452.958799999,
+            7396960.237000003
+          ],
+          [
+            2131746.2487999983,
+            7391977.445100002
+          ],
+          [
+            2131900.7808,
+            7386905.328400001
+          ],
+          [
+            2131939.952399999,
+            7381773.005400002
+          ],
+          [
+            2131876.098000001,
+            7376603.154799998
+          ],
+          [
+            2131711.4910000004,
+            7371413.736599997
+          ],
+          [
+            2131420.8093999997,
+            7365815.7795
+          ],
+          [
+            2131031.7927,
+            7360221.650899999
+          ],
+          [
+            2130560.8707999997,
+            7354639.384499997
+          ],
+          [
+            2130014.850499999,
+            7349076.621600002
+          ],
+          [
+            2129391.5238000005,
+            7343541.6022000015
+          ],
+          [
+            2128679.7522,
+            7338044.122199997
+          ],
+          [
+            2127953.0504,
+            7333129.363600001
+          ],
+          [
+            2127159.821800001,
+            7328247.8138
+          ],
+          [
+            2125435.3057999983,
+            7318566.115999997
+          ],
+          [
+            2123587.621199999,
+            7308985.0891999975
+          ],
+          [
+            2121609.541000001,
+            7299395.561700001
+          ],
+          [
+            2119446.605799999,
+            7289909.116499998
+          ],
+          [
+            2118264.1191999987,
+            7285323.446400002
+          ],
+          [
+            2116976.1283,
+            7280900.273400001
+          ],
+          [
+            2115540.159699999,
+            7276703.012100004
+          ],
+          [
+            2113898.7617999986,
+            7272817.3631
+          ],
+          [
+            2111975.8401999995,
+            7269278.083499998
+          ],
+          [
+            2109624.7540999986,
+            7265942.7195999995
+          ],
+          [
+            2106708.520199999,
+            7262651.463500001
+          ],
+          [
+            2103385.1468,
+            7259490.059799999
+          ],
+          [
+            2099814.0885999985,
+            7256542.748800002
+          ],
+          [
+            2096100.3759000003,
+            7253841.7443
+          ],
+          [
+            2092476.5681000017,
+            7251467.531300001
+          ],
+          [
+            2089121.6510000005,
+            7249446.556699999
+          ],
+          [
+            2082454.4706999995,
+            7245792.242700003
+          ],
+          [
+            2081978.0461000018,
+            7245450.649700001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1296",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "491789.165708"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1021334.5131999999,
+            7148912.068700001
+          ],
+          [
+            1009198.626699999,
+            7147549.847499996
+          ],
+          [
+            997825.2386999987,
+            7143049.1501
+          ],
+          [
+            987210.0766999982,
+            7142406.402599998
+          ],
+          [
+            978490.4792000018,
+            7141121.0647
+          ],
+          [
+            968254.4299999997,
+            7152053.1118
+          ],
+          [
+            954227.2514000013,
+            7166867.670699999
+          ],
+          [
+            931480.4754999988,
+            7168802.057499997
+          ],
+          [
+            906459.0219999999,
+            7182356.072300002
+          ],
+          [
+            887503.3753999993,
+            7197874.987099998
+          ],
+          [
+            865893.9382000007,
+            7219912.645800002
+          ],
+          [
+            848833.8561999984,
+            7248524.037199996
+          ],
+          [
+            834806.6777000017,
+            7293603.216300003
+          ],
+          [
+            826466.1931000017,
+            7352135.348899998
+          ],
+          [
+            827603.5320000015,
+            7379910.623400003
+          ],
+          [
+            838218.6941,
+            7397818.668799996
+          ],
+          [
+            847696.5174000002,
+            7408450.353100002
+          ],
+          [
+            874234.4226999991,
+            7423758.953900002
+          ],
+          [
+            899634.9891999997,
+            7436428.017499998
+          ],
+          [
+            913224.7881999984,
+            7450145.8527000025
+          ],
+          [
+            937986.6009999998,
+            7453829.693099998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1282",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "480581.854058"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1336353.3062999994,
+            6673817.456799999
+          ],
+          [
+            1300164.4530000016,
+            6833708.382100001
+          ],
+          [
+            1101529.1818999983,
+            7080303.494400002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1283",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "203511.035594"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1099615.5998000018,
+            6868304.611500002
+          ],
+          [
+            1300164.4530000016,
+            6833708.382100001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1284",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "251931.858505"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1101529.1818999983,
+            7080303.494400002
+          ],
+          [
+            1038540.049899999,
+            7324233.875
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1285",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "133864.083225"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1038540.049899999,
+            7324233.875
+          ],
+          [
+            1035028.8104999997,
+            7458051.900600001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1286",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "39956.911317"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            937986.6009999998,
+            7453829.693099998
+          ],
+          [
+            931658.9785000011,
+            7493282.398400001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1287",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "323687.694938"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1035028.8104999997,
+            7458051.900600001
+          ],
+          [
+            1109871.7985000014,
+            7772968.160899997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1288",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "475409.896837"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            931658.9785000011,
+            7493282.398400001
+          ],
+          [
+            475696.4593000002,
+            7627866.0195999965
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1289",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "83793.225591"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            475696.4593000002,
+            7627866.0195999965
+          ],
+          [
+            559380.4411999993,
+            7623588.657300003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1290",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "493487.602036"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            937986.6009999998,
+            7453829.693099998
+          ],
+          [
+            1035028.8104999997,
+            7458051.900600001
+          ],
+          [
+            1084668.8431000002,
+            7470915.6054000035
+          ],
+          [
+            1207217.131000001,
+            7420304.354999997
+          ],
+          [
+            1405581.4503999986,
+            7496474.173
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.4",
+    "attributes": {
+      "OBJECTID": "1291",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1141",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Bifrost",
+      "PROJECT_FULL_TITLE": "Bifrost \u2013 transport and storage project with offshore storage in DK from emitters from Denmark, Germany, Poland and Sweden",
+      "TECHNICAL_DESCR": "<p>The project intends to repurpose existing oil and gas infrastructure where possible, such as offshore facilities (e.g. platforms, interconnections) and the offshore gas transportation system, as well as newly built infrastructure to be developed where necessary.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- The development of a dedicated onshore and offshore CO2 transportation network from different regions in Denmark and Germany to the geological storage sites.</p>\n\n<p>- The length of onshore pipelines, other than upstream, is indeterminate, while the offshore pipeline infrastructure has a length of circa 360 km.</p>\n\n<p>- Marine transport is also being considered to ensure the possibility of sourcing from more remote locations looking at shipping export solutions. Shipping is outside of the PCI scope.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and offshore facilities as described below.</p>\n\n<p>- Surface and injection facilities associated to offshore Danish geological storages in the North Sea: Harald depleted gas fields, located on the far western edge of the Danish North Sea, approximately 260 km direct from the shore. The fields are connected via the pipeline connection to Nybro, on the west coast of Jutland, which is the pipeline that could be repurposed for CO2 transportation for the project Bifrost, and Saline aquifers nearby the Harald storage area.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>Shipping is outside of the PCI scope.</p>\n\n<p>Phase 1 will mainly rely on the storage capacity of the Harald depleted fields. The estimated storage capacity is 2.5 Mt/y over 15 years with a total storage capacity of circa 40 Mt.</p>\n\n<p>Phase 2 will rely on saline aquifers offshore Denmark, in the vicinity of the Harald infrastructure. The estimated storage capacity is 10.5 Mt/y over 23 years with a total storage capacity of circa 220 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, PL, SE",
+      "PROMOTERS": "Nords\u00f8fonden (DK) ; \u00d8rsted Salg & Service A/S (DK) ; ARC \u2013 I/S Amager  ; Ressourcecenter (DK) ; Evida (DK) ; BlueNord Denmark A/S (DK) ; TotalEnergies SE (F)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "105538.245937"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1021334.5131999999,
+            7148912.068700001
+          ],
+          [
+            1101529.1818999983,
+            7080303.494400002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

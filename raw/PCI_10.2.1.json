@@ -1,0 +1,236 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.2.1",
+    "attributes": {
+      "OBJECTID": "1931",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "10.2.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1235",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "10.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "Project CGHI",
+      "PROJECT_FULL_TITLE": " Internal hydrogen infrastructure in Czechia towards Germany",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The Czech-German Hydrogen Interconnector (CGHI), Czech part, aims to create a hydrogen interconnector to connect high potential hydrogen supply areas in Northern Germany and the Baltic countries with expected high demand clusters in the EU (predominantly in South Germany and North Bohemia). Additionally, it will also enable connection of local suppliers and consumers along the corridor. The North-South supply corridor is promoted by three European gas transmission companies: GASCADE (DE), NET4GAS (CZ) and Open Grid Europe (DE).</p>\n\n<p>The project represents repurposing of around 170 km of existing gas pipeline within the western branch of the Czech gas transmission system to enable 100% hydrogen transportation. The total potential capacity of the repurposed transmission pipeline is 1.56 Mt/y or 144 GWh/d in both directions.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "CZ",
+      "PROMOTERS": "NET4GAS, s.r.o. (CZ)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "235861.112938"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1498302.5284000002,
+            6551806.619000003
+          ],
+          [
+            1497978.8900000006,
+            6550960.347599998
+          ],
+          [
+            1497642.7879999988,
+            6550905.773900002
+          ],
+          [
+            1497101.5315999985,
+            6551066.5484
+          ],
+          [
+            1496568.4101000018,
+            6550241.006700002
+          ],
+          [
+            1495802.8896999992,
+            6549677.051899999
+          ],
+          [
+            1494890.081700001,
+            6546716.887699999
+          ],
+          [
+            1495218.0540000014,
+            6545909.316399999
+          ],
+          [
+            1494666.568599999,
+            6542243.261500001
+          ],
+          [
+            1495585.2950000018,
+            6540158.587399997
+          ],
+          [
+            1497619.9340999983,
+            6537546.507700004
+          ],
+          [
+            1498989.8093000017,
+            6534624.642499998
+          ],
+          [
+            1499261.240600001,
+            6532874.882299997
+          ],
+          [
+            1498804.7126999982,
+            6531801.008900002
+          ],
+          [
+            1498976.2261999995,
+            6529365.3517
+          ],
+          [
+            1498324.2313,
+            6528302.097900003
+          ],
+          [
+            1500146.5980999991,
+            6522987.670699999
+          ],
+          [
+            1502182.3627999984,
+            6520792.972999997
+          ],
+          [
+            1501124.5971000008,
+            6512277.0326000005
+          ],
+          [
+            1497419.1799999997,
+            6507731.112800002
+          ],
+          [
+            1499367.8471000008,
+            6501764.869999997
+          ],
+          [
+            1500733.4114000015,
+            6500573.240699999
+          ],
+          [
+            1501426.927099999,
+            6489739.043499999
+          ],
+          [
+            1497661.6997000016,
+            6484135.5053
+          ],
+          [
+            1496080.0282000005,
+            6480780.297399998
+          ],
+          [
+            1492445.7307000011,
+            6477730.211900003
+          ],
+          [
+            1490303.6623999998,
+            6471624.823700003
+          ],
+          [
+            1490626.2536999993,
+            6464721.599799998
+          ],
+          [
+            1491437.1196999997,
+            6449652.3598000035
+          ],
+          [
+            1484687.7501999997,
+            6439777.523000002
+          ],
+          [
+            1477166.4626000002,
+            6433650.4580999985
+          ],
+          [
+            1475507.5368999988,
+            6428707.6630000025
+          ],
+          [
+            1464100.7738000005,
+            6424373.6674000025
+          ],
+          [
+            1446273.5370000005,
+            6412665.335699998
+          ],
+          [
+            1444187.4494000003,
+            6409436.773699999
+          ],
+          [
+            1440706.488400001,
+            6407124.841300003
+          ],
+          [
+            1437077.0091999993,
+            6398735.381800003
+          ],
+          [
+            1424959.271400001,
+            6394823.946999997
+          ],
+          [
+            1414011.3200000003,
+            6389937.718900003
+          ],
+          [
+            1412576.313099999,
+            6388809.169100001
+          ],
+          [
+            1410149.0445000008,
+            6388728.868500002
+          ],
+          [
+            1404346.5165,
+            6387759.076099999
+          ],
+          [
+            1400443.943500001,
+            6389087.498999998
+          ],
+          [
+            1396888.9061999992,
+            6388336.371799998
+          ],
+          [
+            1395719.3773000017,
+            6387788.783799998
+          ],
+          [
+            1394729.2496999986,
+            6386713.371699996
+          ],
+          [
+            1394356.0218999982,
+            6386651.402500004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

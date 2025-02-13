@@ -1,0 +1,369 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.1",
+    "attributes": {
+      "OBJECTID": "652",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "4.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1041",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "North Sea Wind Power Hub (DK, DE, NL)",
+      "PROJECT_FULL_TITLE": "One or more hubs in the North Sea with interconnectors to bordering North Sea countries (Denmark, the Netherlands and Germany) [currently known as \u201cNorth Sea Wind Power Hub\u201d]",
+      "TECHNICAL_DESCR": "<p>A large scale European electricity system for offshore wind is proposed to be developed in the North Sea. It includes the construction of one or more hubs at a suitable location in the North Sea with interconnectors to bordering North Sea countries. The whole system may function as a hub for transport of wind energy, an interconnection hub to the connected countries, a working hub for offshore wind developers and a location for possible power-to-gas solutions. This project is a first building block in the North Sea Wind Power Hub (NSWPH) connecting up to 14GW future offshore wind parks to the systems of Denmark, the Netherlands and Germany around 2035. An integral part of the NSWPH is to assess the perspectives of coupling large-scale wind power production with the gas system through power-to-gas (PtG) technology. The total length is 2258 km.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, NL",
+      "PROMOTERS": "Gasunie (NL) ; TenneT (NL) ; TenneT (DE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2035",
+      "CEF_ACTIONS": "1.19-0001-nlde-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/1.19-0001-NLDE-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 373532.44000000134,
+      "y": 7335123.450499997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.1",
+    "attributes": {
+      "OBJECTID": "1023",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1041",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "North Sea Wind Power Hub (DK, DE, NL)",
+      "PROJECT_FULL_TITLE": "One or more hubs in the North Sea with interconnectors to bordering North Sea countries (Denmark, the Netherlands and Germany) [currently known as \u201cNorth Sea Wind Power Hub\u201d]",
+      "TECHNICAL_DESCR": "<p>A large scale European electricity system for offshore wind is proposed to be developed in the North Sea. It includes the construction of one or more hubs at a suitable location in the North Sea with interconnectors to bordering North Sea countries. The whole system may function as a hub for transport of wind energy, an interconnection hub to the connected countries, a working hub for offshore wind developers and a location for possible power-to-gas solutions. This project is a first building block in the North Sea Wind Power Hub (NSWPH) connecting up to 14GW future offshore wind parks to the systems of Denmark, the Netherlands and Germany around 2035. An integral part of the NSWPH is to assess the perspectives of coupling large-scale wind power production with the gas system through power-to-gas (PtG) technology. The total length is 2258 km.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, NL",
+      "PROMOTERS": "Gasunie (NL) ; TenneT (NL) ; TenneT (DE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2035",
+      "CEF_ACTIONS": "1.19-0001-nlde-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/1.19-0001-NLDE-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "602259.244804"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            963534.6468000002,
+            7456010.1492
+          ],
+          [
+            373532.44000000134,
+            7335123.450499997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.1",
+    "attributes": {
+      "OBJECTID": "1024",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1041",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "North Sea Wind Power Hub (DK, DE, NL)",
+      "PROJECT_FULL_TITLE": "One or more hubs in the North Sea with interconnectors to bordering North Sea countries (Denmark, the Netherlands and Germany) [currently known as \u201cNorth Sea Wind Power Hub\u201d]",
+      "TECHNICAL_DESCR": "<p>A large scale European electricity system for offshore wind is proposed to be developed in the North Sea. It includes the construction of one or more hubs at a suitable location in the North Sea with interconnectors to bordering North Sea countries. The whole system may function as a hub for transport of wind energy, an interconnection hub to the connected countries, a working hub for offshore wind developers and a location for possible power-to-gas solutions. This project is a first building block in the North Sea Wind Power Hub (NSWPH) connecting up to 14GW future offshore wind parks to the systems of Denmark, the Netherlands and Germany around 2035. An integral part of the NSWPH is to assess the perspectives of coupling large-scale wind power production with the gas system through power-to-gas (PtG) technology. The total length is 2258 km.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, NL",
+      "PROMOTERS": "Gasunie (NL) ; TenneT (NL) ; TenneT (DE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2035",
+      "CEF_ACTIONS": "1.19-0001-nlde-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/1.19-0001-NLDE-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "556354.100841"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            470148.85240000114,
+            6787222.771200001
+          ],
+          [
+            373532.44000000134,
+            7335123.450499997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.1",
+    "attributes": {
+      "OBJECTID": "1025",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1041",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "North Sea Wind Power Hub (DK, DE, NL)",
+      "PROJECT_FULL_TITLE": "One or more hubs in the North Sea with interconnectors to bordering North Sea countries (Denmark, the Netherlands and Germany) [currently known as \u201cNorth Sea Wind Power Hub\u201d]",
+      "TECHNICAL_DESCR": "<p>A large scale European electricity system for offshore wind is proposed to be developed in the North Sea. It includes the construction of one or more hubs at a suitable location in the North Sea with interconnectors to bordering North Sea countries. The whole system may function as a hub for transport of wind energy, an interconnection hub to the connected countries, a working hub for offshore wind developers and a location for possible power-to-gas solutions. This project is a first building block in the North Sea Wind Power Hub (NSWPH) connecting up to 14GW future offshore wind parks to the systems of Denmark, the Netherlands and Germany around 2035. An integral part of the NSWPH is to assess the perspectives of coupling large-scale wind power production with the gas system through power-to-gas (PtG) technology. The total length is 2258 km.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, NL",
+      "PROMOTERS": "Gasunie (NL) ; TenneT (NL) ; TenneT (DE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2035",
+      "CEF_ACTIONS": "1.19-0001-nlde-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/1.19-0001-NLDE-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "475224.750594"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            760517.8405000009,
+            7059295.853299998
+          ],
+          [
+            373532.44000000134,
+            7335123.450499997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.1",
+    "attributes": {
+      "OBJECTID": "1026",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1041",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "North Sea Wind Power Hub (DK, DE, NL)",
+      "PROJECT_FULL_TITLE": "One or more hubs in the North Sea with interconnectors to bordering North Sea countries (Denmark, the Netherlands and Germany) [currently known as \u201cNorth Sea Wind Power Hub\u201d]",
+      "TECHNICAL_DESCR": "<p>A large scale European electricity system for offshore wind is proposed to be developed in the North Sea. It includes the construction of one or more hubs at a suitable location in the North Sea with interconnectors to bordering North Sea countries. The whole system may function as a hub for transport of wind energy, an interconnection hub to the connected countries, a working hub for offshore wind developers and a location for possible power-to-gas solutions. This project is a first building block in the North Sea Wind Power Hub (NSWPH) connecting up to 14GW future offshore wind parks to the systems of Denmark, the Netherlands and Germany around 2035. An integral part of the NSWPH is to assess the perspectives of coupling large-scale wind power production with the gas system through power-to-gas (PtG) technology. The total length is 2258 km.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, NL",
+      "PROMOTERS": "Gasunie (NL) ; TenneT (NL) ; TenneT (DE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2035",
+      "CEF_ACTIONS": "1.19-0001-nlde-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/1.19-0001-NLDE-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "686727.381664"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1037617.3225999996,
+            7160235.585199997
+          ],
+          [
+            373532.44000000134,
+            7335123.450499997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.1",
+    "attributes": {
+      "OBJECTID": "1027",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1041",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "North Sea Wind Power Hub (DK, DE, NL)",
+      "PROJECT_FULL_TITLE": "One or more hubs in the North Sea with interconnectors to bordering North Sea countries (Denmark, the Netherlands and Germany) [currently known as \u201cNorth Sea Wind Power Hub\u201d]",
+      "TECHNICAL_DESCR": "<p>A large scale European electricity system for offshore wind is proposed to be developed in the North Sea. It includes the construction of one or more hubs at a suitable location in the North Sea with interconnectors to bordering North Sea countries. The whole system may function as a hub for transport of wind energy, an interconnection hub to the connected countries, a working hub for offshore wind developers and a location for possible power-to-gas solutions. This project is a first building block in the North Sea Wind Power Hub (NSWPH) connecting up to 14GW future offshore wind parks to the systems of Denmark, the Netherlands and Germany around 2035. An integral part of the NSWPH is to assess the perspectives of coupling large-scale wind power production with the gas system through power-to-gas (PtG) technology. The total length is 2258 km.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, NL",
+      "PROMOTERS": "Gasunie (NL) ; TenneT (NL) ; TenneT (DE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2035",
+      "CEF_ACTIONS": "1.19-0001-nlde-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/1.19-0001-NLDE-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "647332.994857"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            939074.7490000017,
+            7020160.114600003
+          ],
+          [
+            373532.44000000134,
+            7335123.450499997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.1",
+    "attributes": {
+      "OBJECTID": "1028",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1041",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "North Sea Wind Power Hub (DK, DE, NL)",
+      "PROJECT_FULL_TITLE": "One or more hubs in the North Sea with interconnectors to bordering North Sea countries (Denmark, the Netherlands and Germany) [currently known as \u201cNorth Sea Wind Power Hub\u201d]",
+      "TECHNICAL_DESCR": "<p>A large scale European electricity system for offshore wind is proposed to be developed in the North Sea. It includes the construction of one or more hubs at a suitable location in the North Sea with interconnectors to bordering North Sea countries. The whole system may function as a hub for transport of wind energy, an interconnection hub to the connected countries, a working hub for offshore wind developers and a location for possible power-to-gas solutions. This project is a first building block in the North Sea Wind Power Hub (NSWPH) connecting up to 14GW future offshore wind parks to the systems of Denmark, the Netherlands and Germany around 2035. An integral part of the NSWPH is to assess the perspectives of coupling large-scale wind power production with the gas system through power-to-gas (PtG) technology. The total length is 2258 km.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, DK, NL",
+      "PROMOTERS": "Gasunie (NL) ; TenneT (NL) ; TenneT (DE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2035",
+      "CEF_ACTIONS": "1.19-0001-nlde-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/1.19-0001-NLDE-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "860834.150227"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1188565.2162999995,
+            7058072.899599999
+          ],
+          [
+            373532.44000000134,
+            7335123.450499997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.9",
+    "attributes": {
+      "OBJECTID": "648",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.9",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1061",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "BRABO II+III (BE)",
+      "PROJECT_FULL_TITLE": "Internal lines at the Belgian north border between Zandvliet and Lillo-Liefkenshoek (BE), and between Liefkenshoek and Mercator, including a substation in Lillo (BE) [currently known as \"BRABO II + III\"]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The project covers a new 380 kV double-circuit AC overhead line between Zandvliet (BE) and Mercator (BE) of around 36 km and a new substation 380kV at Lillo.&nbsp;The overhead lines will have a transport capacity of 1900 MVA each. This investment has the goal to increase the hosting capacity for new load and generation in the vicinity of Antwerp whilst also reinforcing the grid allowing more cross border flows with the Netherlands.</p>\n\n<p style=\"text-align:justify\">A part of the project, namely BRABO II has been commissioned since December 2020.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": "Elia Transmission Belgium (BE)",
+      "COMMISSIONING_DATE": "01/07/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 479480.71449999884,
+      "y": 6674734.415399998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.9",
+    "attributes": {
+      "OBJECTID": "1014",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.9",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1061",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "BRABO II+III (BE)",
+      "PROJECT_FULL_TITLE": "Internal lines at the Belgian north border between Zandvliet and Lillo-Liefkenshoek (BE), and between Liefkenshoek and Mercator, including a substation in Lillo (BE) [currently known as \"BRABO II + III\"]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The project covers a new 380 kV double-circuit AC overhead line between Zandvliet (BE) and Mercator (BE) of around 36 km and a new substation 380kV at Lillo.&nbsp;The overhead lines will have a transport capacity of 1900 MVA each. This investment has the goal to increase the hosting capacity for new load and generation in the vicinity of Antwerp whilst also reinforcing the grid allowing more cross border flows with the Netherlands.</p>\n\n<p style=\"text-align:justify\">A part of the project, namely BRABO II has been commissioned since December 2020.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": "Elia Transmission Belgium (BE)",
+      "COMMISSIONING_DATE": "01/07/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "59033.49423"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            472769.29399999976,
+            6648575.506700002
+          ],
+          [
+            472937.59980000183,
+            6648887.258299999
+          ],
+          [
+            472560.7060999982,
+            6649249.380400002
+          ],
+          [
+            472215.80209999904,
+            6649579.193000004
+          ],
+          [
+            471896.0284000002,
+            6649885.772200003
+          ],
+          [
+            471797.0656999983,
+            6650195.294
+          ],
+          [
+            471664.3920999989,
+            6650609.092299998
+          ],
+          [
+            471526.5064000003,
+            6651041.053000003
+          ],
+          [
+            471424.02149999887,
+            6651361.138599999
+          ],
+          [
+            471308.3313000016,
+            6651722.586199999
+          ],
+          [
+            471198.2243000008,
+            6652067.624899998
+          ],
+          [
+            471076.1656999998,
+            6652448.193899997
+          ],
+          [
+            470953.57349999994,
+            6652833.043200001
+          ],
+          [
+            470840.7153999992,
+            6653185.357299998
+          ],
+          [
+            470734.22560000047,
+            6653517.829700001
+          ],
+          [
+            470580.5095000006,
+            6653999.270199999
+          ],
+          [
+            470422.62110000104,
+            6654493.340400003
+          ],
+          [
+            470285.1185999997,
+            6654922.853799999
+          ],
+          [
+            470118.20969999954,
+            6655444.487400003
+          ],
+          [
+            469959.31159999967,
+            6655940.314800002
+          ],
+          [
+            469827.5700000003,
+            6656341.8532000035
+          ],
+          [
+            469650.0133999996,
+            6656882.325900003
+          ],
+          [
+            469476.5546000004,
+            6657411.5907000005
+          ],
+          [
+            469746.30900000036,
+            6657875.860699996
+          ],
+          [
+            470005.3434999995,
+            6658320.326700002
+          ],
+          [
+            470277.6118000001,
+            6658789.235200003
+          ],
+          [
+            470570.91519999877,
+            6659293.445
+          ],
+          [
+            470848.0302999988,
+            6659769.384599999
+          ],
+          [
+            471113.22509999946,
+            6660225.538900003
+          ],
+          [
+            471365.7507000007,
+            6660658.871200003
+          ],
+          [
+            471564.8550999984,
+            6661000.0964
+          ],
+          [
+            472023.4087000005,
+            6661361.555299997
+          ],
+          [
+            472449.9301000014,
+            6661589.538999997
+          ],
+          [
+            472843.66959999874,
+            6662006.548199996
+          ],
+          [
+            473304.4605999999,
+            6662369.048100002
+          ],
+          [
+            473773.1807000004,
+            6662738.100599997
+          ],
+          [
+            474138.84430000186,
+            6663050.788099997
+          ],
+          [
+            474574.6660999991,
+            6663423.832500003
+          ],
+          [
+            475043.3401999995,
+            6663825.1752
+          ],
+          [
+            475461.8328000009,
+            6664181.801600002
+          ],
+          [
+            475831.6336000003,
+            6664595.018600002
+          ],
+          [
+            476193.21229999885,
+            6664998.9755000025
+          ],
+          [
+            476572.5731000006,
+            6665423.8301
+          ],
+          [
+            476952.82090000063,
+            6665850.0876
+          ],
+          [
+            477249.30900000036,
+            6666044.358999997
+          ],
+          [
+            477573.80310000107,
+            6666036.257799998
+          ],
+          [
+            477699.2756999992,
+            6666354.806100003
+          ],
+          [
+            478079.54190000147,
+            6666669.764399998
+          ],
+          [
+            477970.6504999995,
+            6667217.510700002
+          ],
+          [
+            477500.5703999996,
+            6667229.313100003
+          ],
+          [
+            476925.6702999994,
+            6667256.716700003
+          ],
+          [
+            476508.006000001,
+            6667276.489600003
+          ],
+          [
+            476098.1088999994,
+            6667725.292999998
+          ],
+          [
+            475984.38969999924,
+            6668606.552100003
+          ],
+          [
+            476160.26619999856,
+            6669054.3825
+          ],
+          [
+            476390.26150000095,
+            6669521.876800001
+          ],
+          [
+            476633.47309999913,
+            6670015.399700001
+          ],
+          [
+            476870.85280000046,
+            6670496.421700001
+          ],
+          [
+            477126.98629999906,
+            6671015.5185
+          ],
+          [
+            477367.0577000007,
+            6671501.673
+          ],
+          [
+            477720.5815999992,
+            6672120.684500001
+          ],
+          [
+            478057.6570000015,
+            6672765.744000003
+          ],
+          [
+            478308.90509999916,
+            6672822.7053999975
+          ],
+          [
+            478438.48099999875,
+            6673084.7326000035
+          ],
+          [
+            478964.5769000016,
+            6674444.311999999
+          ],
+          [
+            479120.20160000026,
+            6674919.515000001
+          ],
+          [
+            479480.71449999884,
+            6674734.415399998
+          ],
+          [
+            479362.54410000145,
+            6674849.5414
+          ],
+          [
+            479705.51949999854,
+            6675094.006300002
+          ],
+          [
+            480242.8586000018,
+            6675336.876000002
+          ],
+          [
+            480758.26790000126,
+            6675608.955499999
+          ],
+          [
+            481570.90019999817,
+            6675959.039800003
+          ],
+          [
+            482012.7272000015,
+            6676142.991400003
+          ],
+          [
+            482280.6732000001,
+            6676603.5119
+          ],
+          [
+            482489.28599999845,
+            6677002.615000002
+          ],
+          [
+            483158.8726999983,
+            6677412.067699999
+          ],
+          [
+            483726.71339999884,
+            6677608.519699998
+          ],
+          [
+            484225.75869999826,
+            6678004.287699997
+          ],
+          [
+            484539.0117000006,
+            6678305.846500002
+          ],
+          [
+            484458.7503999993,
+            6678775.751900002
+          ],
+          [
+            484378.377700001,
+            6679245.862499997
+          ],
+          [
+            484240.2302000001,
+            6679870.461900003
+          ],
+          [
+            484149.61620000005,
+            6680280.5929000005
+          ],
+          [
+            484035.17969999835,
+            6680797.650899999
+          ],
+          [
+            484043.75129999965,
+            6681345.924900003
+          ],
+          [
+            484052.32290000096,
+            6681902.789499998
+          ],
+          [
+            484059.78130000085,
+            6682369.3376
+          ],
+          [
+            484067.0170999989,
+            6682828.961599998
+          ],
+          [
+            484076.4792999998,
+            6683434.050999999
+          ],
+          [
+            483775.6939999983,
+            6683864.680799998
+          ],
+          [
+            483480.5859999992,
+            6684287.133699998
+          ],
+          [
+            483148.9653000012,
+            6684761.483400002
+          ],
+          [
+            482865.54580000043,
+            6685220.528999999
+          ],
+          [
+            482636.4503000006,
+            6685591.706299998
+          ],
+          [
+            482309.61630000174,
+            6686120.868199997
+          ],
+          [
+            481833.50279999897,
+            6686418.090999998
+          ],
+          [
+            481334.3462000005,
+            6686729.7676
+          ],
+          [
+            480846.3216000013,
+            6687034.680200003
+          ],
+          [
+            480359.07620000094,
+            6687338.7124999985
+          ],
+          [
+            479871.3854999989,
+            6687643.112800002
+          ],
+          [
+            479248.33029999956,
+            6687739.767200001
+          ],
+          [
+            478646.9824000001,
+            6687786.668099999
+          ],
+          [
+            478034.8365000002,
+            6687829.289399996
+          ],
+          [
+            477423.247299999,
+            6687872.2676
+          ],
+          [
+            476811.4353,
+            6687915.067599997
+          ],
+          [
+            476178.58399999887,
+            6687964.822899997
+          ],
+          [
+            475527.36499999836,
+            6687551.9877
+          ],
+          [
+            475017.07649999857,
+            6687709.6294
+          ],
+          [
+            474400.47780000046,
+            6687810.029600002
+          ],
+          [
+            473942.17550000176,
+            6687755.281900004
+          ],
+          [
+            473496.5634999983,
+            6687698.572999999
+          ],
+          [
+            473078.33619999886,
+            6687551.809299998
+          ],
+          [
+            473025.57079999894,
+            6687183.395999998
+          ],
+          [
+            472988.27870000154,
+            6687090.136200003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

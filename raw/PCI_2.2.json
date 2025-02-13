@@ -1,0 +1,56 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.2",
+    "attributes": {
+      "OBJECTID": "1007",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "2.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1085",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": "SuedOstLink (DE)",
+      "PROJECT_FULL_TITLE": "Internal line in Germany between Wolmirstedt and Isar [currently known as SuedOstLink]",
+      "TECHNICAL_DESCR": "<p>A new undeground 525 kV DC cable (HVDC) of about 540 km in Germany from North-East Germany (area of Wolmirstedt), an area with high installed capacities of RES,&nbsp;to the South of Bavaria (area of Isar),&nbsp;with high consumption and connections to storage capabilities.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "50Hertz Transmission (DE) ; TenneT (DE)",
+      "COMMISSIONING_DATE": "31/12/2027",
+      "CEF_ACTIONS": "3.12-0009-de-s-m-17",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/3.12-0009-DE-S-M-17.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "709427.038864"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1368901.488499999,
+            6208424.3330999985
+          ],
+          [
+            1292026.2287000008,
+            6913673.876100004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

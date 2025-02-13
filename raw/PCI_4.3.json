@@ -1,0 +1,480 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.3",
+    "attributes": {
+      "OBJECTID": "4063",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "4.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1185",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind connection Centre Manche 1",
+      "PROJECT_FULL_TITLE": "High voltage offshore substation and connection to Menuel (FR) [currently known as \u201cOffshore Wind connection Centre Manche 1\u201d]",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Centre Manche 1 will consist in a 320 kV HVDC hub in Normandy, connecting a 1,05 GW offshore wind project (&ldquo;Centre Manche 1&rdquo;) and 200 MW from a second offshore wind project (&ldquo;Centre Manche 2&rdquo;) to the onshore 400 kV substation of Menuel. The project will consist of a HVDC offshore platform with converter station, an onshore converter station and a HVDC onshore &amp; offshore cables. The total cable route length will be of 100 km (offshore + onshore).</p>\n\n<p>This project will be related to the Offshore wind Connection Centre Manche 2 project: an AC interlink may be developed between the two offshore substations of Centre Manche 1 and Centre Manche 2.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "03/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -175518.73849999905,
+      "y": 6356121.288800001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.3",
+    "attributes": {
+      "OBJECTID": "4064",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "4.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1185",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind connection Centre Manche 1",
+      "PROJECT_FULL_TITLE": "High voltage offshore substation and connection to Menuel (FR) [currently known as \u201cOffshore Wind connection Centre Manche 1\u201d]",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Centre Manche 1 will consist in a 320 kV HVDC hub in Normandy, connecting a 1,05 GW offshore wind project (&ldquo;Centre Manche 1&rdquo;) and 200 MW from a second offshore wind project (&ldquo;Centre Manche 2&rdquo;) to the onshore 400 kV substation of Menuel. The project will consist of a HVDC offshore platform with converter station, an onshore converter station and a HVDC onshore &amp; offshore cables. The total cable route length will be of 100 km (offshore + onshore).</p>\n\n<p>This project will be related to the Offshore wind Connection Centre Manche 2 project: an AC interlink may be developed between the two offshore substations of Centre Manche 1 and Centre Manche 2.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "03/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -74457.15080000088,
+      "y": 6422165.9111,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.3",
+    "attributes": {
+      "OBJECTID": "3851",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1185",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind connection Centre Manche 1",
+      "PROJECT_FULL_TITLE": "High voltage offshore substation and connection to Menuel (FR) [currently known as \u201cOffshore Wind connection Centre Manche 1\u201d]",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Centre Manche 1 will consist in a 320 kV HVDC hub in Normandy, connecting a 1,05 GW offshore wind project (&ldquo;Centre Manche 1&rdquo;) and 200 MW from a second offshore wind project (&ldquo;Centre Manche 2&rdquo;) to the onshore 400 kV substation of Menuel. The project will consist of a HVDC offshore platform with converter station, an onshore converter station and a HVDC onshore &amp; offshore cables. The total cable route length will be of 100 km (offshore + onshore).</p>\n\n<p>This project will be related to the Offshore wind Connection Centre Manche 2 project: an AC interlink may be developed between the two offshore substations of Centre Manche 1 and Centre Manche 2.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "03/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "42395.170703"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -175518.73849999905,
+            6356121.288800001
+          ],
+          [
+            -175467.42419999838,
+            6356427.210100003
+          ],
+          [
+            -176006.4739000015,
+            6357539.000200003
+          ],
+          [
+            -175851.49709999934,
+            6357586.167000003
+          ],
+          [
+            -175992.99760000035,
+            6357896.1206
+          ],
+          [
+            -175514.59099999815,
+            6358111.740500003
+          ],
+          [
+            -174793.61199999973,
+            6358414.956
+          ],
+          [
+            -174456.70589999855,
+            6358489.075300001
+          ],
+          [
+            -173600.96449999884,
+            6358529.504100002
+          ],
+          [
+            -172967.58100000024,
+            6358556.456500001
+          ],
+          [
+            -172468.96009999886,
+            6358697.9570999965
+          ],
+          [
+            -171727.76669999957,
+            6358852.933899999
+          ],
+          [
+            -170952.88269999996,
+            6359129.196900003
+          ],
+          [
+            -170184.73680000007,
+            6359304.387999997
+          ],
+          [
+            -169322.25730000064,
+            6359385.245499998
+          ],
+          [
+            -168661.9213999994,
+            6359418.936099999
+          ],
+          [
+            -167449.05950000137,
+            6360106.2245000005
+          ],
+          [
+            -165778.0053000003,
+            6360497.035599999
+          ],
+          [
+            -164834.6682999991,
+            6359856.913999997
+          ],
+          [
+            -164174.3324000016,
+            6359533.484200001
+          ],
+          [
+            -163655.49700000137,
+            6359499.7936
+          ],
+          [
+            -163183.8284999989,
+            6359594.127300002
+          ],
+          [
+            -162597.61190000176,
+            6359789.532799996
+          ],
+          [
+            -162294.39649999887,
+            6359897.342699997
+          ],
+          [
+            -160791.79529999942,
+            6359964.723899998
+          ],
+          [
+            -158426.7146999985,
+            6359351.554899998
+          ],
+          [
+            -156762.3986000009,
+            6358859.671999998
+          ],
+          [
+            -156277.25389999896,
+            6358441.908500001
+          ],
+          [
+            -155050.91580000147,
+            6357309.903999999
+          ],
+          [
+            -154478.17540000007,
+            6356959.521700002
+          ],
+          [
+            -153959.34010000154,
+            6356669.782499999
+          ],
+          [
+            -152571.28700000048,
+            6355888.160400003
+          ],
+          [
+            -152396.09589999914,
+            6355753.398000002
+          ],
+          [
+            -152254.59530000016,
+            6355497.349299997
+          ],
+          [
+            -152059.18980000168,
+            6355167.181400001
+          ],
+          [
+            -151695.3311999999,
+            6354513.5836
+          ],
+          [
+            -151432.54450000077,
+            6354203.630000003
+          ],
+          [
+            -151088.90029999986,
+            6354271.011200003
+          ],
+          [
+            -150799.16099999845,
+            6354156.463100001
+          ],
+          [
+            -150374.65940000117,
+            6354297.9636999965
+          ],
+          [
+            -150037.75329999998,
+            6355079.5858
+          ],
+          [
+            -149498.7036000006,
+            6355355.8488000035
+          ],
+          [
+            -148979.86820000038,
+            6355180.6576000005
+          ],
+          [
+            -148663.17650000006,
+            6355800.564800002
+          ],
+          [
+            -148178.03170000017,
+            6356056.613399997
+          ],
+          [
+            -147982.6262000017,
+            6355578.206799999
+          ],
+          [
+            -147409.88589999825,
+            6355625.373599999
+          ],
+          [
+            -146567.62070000172,
+            6355456.920599997
+          ],
+          [
+            -145631.02180000022,
+            6355322.158200003
+          ],
+          [
+            -144040.50919999927,
+            6355746.343999997
+          ],
+          [
+            -140404.95050000027,
+            6357555.898100004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.3",
+    "attributes": {
+      "OBJECTID": "3852",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1185",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind connection Centre Manche 1",
+      "PROJECT_FULL_TITLE": "High voltage offshore substation and connection to Menuel (FR) [currently known as \u201cOffshore Wind connection Centre Manche 1\u201d]",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Centre Manche 1 will consist in a 320 kV HVDC hub in Normandy, connecting a 1,05 GW offshore wind project (&ldquo;Centre Manche 1&rdquo;) and 200 MW from a second offshore wind project (&ldquo;Centre Manche 2&rdquo;) to the onshore 400 kV substation of Menuel. The project will consist of a HVDC offshore platform with converter station, an onshore converter station and a HVDC onshore &amp; offshore cables. The total cable route length will be of 100 km (offshore + onshore).</p>\n\n<p>This project will be related to the Offshore wind Connection Centre Manche 2 project: an AC interlink may be developed between the two offshore substations of Centre Manche 1 and Centre Manche 2.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "03/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "102261.282122"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -140404.95050000027,
+            6357555.898100004
+          ],
+          [
+            -138878.13919999823,
+            6358423.661600001
+          ],
+          [
+            -138235.54179999977,
+            6360274.342
+          ],
+          [
+            -138338.3574000001,
+            6363050.362499997
+          ],
+          [
+            -138286.94959999993,
+            6366289.053099997
+          ],
+          [
+            -137592.94449999928,
+            6368345.364699997
+          ],
+          [
+            -136616.1964999996,
+            6369836.190499999
+          ],
+          [
+            -134045.80710000172,
+            6371224.200800002
+          ],
+          [
+            -132503.57349999994,
+            6372997.769500002
+          ],
+          [
+            -130498.66970000044,
+            6375156.896600001
+          ],
+          [
+            -128725.10110000148,
+            6377058.984700002
+          ],
+          [
+            -125486.41039999947,
+            6380863.160999998
+          ],
+          [
+            -124021.28849999979,
+            6382662.433600001
+          ],
+          [
+            -122299.12759999931,
+            6387546.173500001
+          ],
+          [
+            -120062.88879999891,
+            6391967.243199997
+          ],
+          [
+            -117878.05779999867,
+            6395283.045599997
+          ],
+          [
+            -112917.20630000159,
+            6399215.741300002
+          ],
+          [
+            -110192.5934999995,
+            6401246.348999999
+          ],
+          [
+            -108264.80139999837,
+            6403071.325400002
+          ],
+          [
+            -104897.5912999995,
+            6405667.418700002
+          ],
+          [
+            -100502.22549999878,
+            6408649.0704
+          ],
+          [
+            -84793.33960000053,
+            6415295.9564
+          ],
+          [
+            -84962.58779999986,
+            6422122.299800001
+          ],
+          [
+            -74457.15080000088,
+            6422165.9111
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

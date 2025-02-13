@@ -1,0 +1,88 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.1",
+    "attributes": {
+      "OBJECTID": "1009",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.3.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1114",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Tsirguliina (EE)-Valmiera (LV) interconnection",
+      "PROJECT_FULL_TITLE": "Interconnection between Tsirguliina (EE) and Valmiera (LV)",
+      "TECHNICAL_DESCR": "<p>Reinforcement of existing 330 kV OHL between Tsirguliina (EE) and Valmiera (LV) with a length of 62 km (49 km in LV and 13 km in EE) and a planned capacity of 1000 MVA.&nbsp;The main target of existing transmission line reconstruction in a territory of Latvia and Estonia is to increase the transmission capacity between Estonia and Latvia which is essential during synchronisation mode to ensure maximum possible flexibility and power flows exchange on Estonian-Latvian cross-border. The line provides direct effect for system stability in case of high North-South flows and in case of several contingencies in Baltic States during synchronous operation with continental Europe.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EE, LV",
+      "PROMOTERS": "Elering AS (EE) ; Augstsprieguma tikls AS (LV)",
+      "COMMISSIONING_DATE": "31/12/2024",
+      "CEF_ACTIONS": "4.8.1-0021-ltlv-w-m-18",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.1-0021-LTLV-W-M-18.pdf",
+      "STUDIES_OR_WORKS": "Works",
+      "SHAPE.LEN": "110681.424862"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2914017.7688999996,
+            7935406.103600003
+          ],
+          [
+            2904394.174899999,
+            7918610.290100001
+          ],
+          [
+            2904233.7875000015,
+            7918513.678499997
+          ],
+          [
+            2897793.0643999986,
+            7904433.984200001
+          ],
+          [
+            2874991.3817999996,
+            7883520.108400002
+          ],
+          [
+            2855617.0036999993,
+            7872298.512500003
+          ],
+          [
+            2843436.5363,
+            7870037.568999998
+          ],
+          [
+            2834916.031199999,
+            7867581.599699996
+          ],
+          [
+            2834493.7963000014,
+            7868291.042999998
+          ],
+          [
+            2834353.712000001,
+            7868488.808200002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

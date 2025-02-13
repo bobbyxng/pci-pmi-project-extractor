@@ -1,0 +1,205 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.2",
+    "attributes": {
+      "OBJECTID": "1601",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "4.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1184",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Triton Link (BE, DK)",
+      "PROJECT_FULL_TITLE": "Offshore hybrid interconnector between Belgium and Denmark [currently known as \u201cTriton Link\u201d]",
+      "TECHNICAL_DESCR": "<p>The construction of a dual-purpose offshore hybrid HVDC interconnector between Belgium and Denmark integrating 4 GW of offshore wind in the Danish Exclusive Economic Zone in the North Sea. This project creates a first transmission link between the Danish and Belgian electricity transmission systems. It is an offshore hybrid project as it merges two purposes: i) interconnecting two countries and ii) integrating offshore RES. The exact integration of the hybrid HVDC interconnector to offshore &amp; onshore grid connection nodes in Belgium &amp; Denmark have been defined: harbour of Ghent in Belgium and Revsing in Denmark. The project consists of two elements: 1) Connection between Belgium and the Danish Energy Island (2 GW, 773 km), 2) Connection between Denmark and the Danish Energy Island (2 GW, 214 km).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "BE, DK",
+      "PROMOTERS": "Elia (BE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 728957.132199999,
+      "y": 7656585.6712,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.2",
+    "attributes": {
+      "OBJECTID": "1602",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "4.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1184",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Triton Link (BE, DK)",
+      "PROJECT_FULL_TITLE": "Offshore hybrid interconnector between Belgium and Denmark [currently known as \u201cTriton Link\u201d]",
+      "TECHNICAL_DESCR": "<p>The construction of a dual-purpose offshore hybrid HVDC interconnector between Belgium and Denmark integrating 4 GW of offshore wind in the Danish Exclusive Economic Zone in the North Sea. This project creates a first transmission link between the Danish and Belgian electricity transmission systems. It is an offshore hybrid project as it merges two purposes: i) interconnecting two countries and ii) integrating offshore RES. The exact integration of the hybrid HVDC interconnector to offshore &amp; onshore grid connection nodes in Belgium &amp; Denmark have been defined: harbour of Ghent in Belgium and Revsing in Denmark. The project consists of two elements: 1) Connection between Belgium and the Danish Energy Island (2 GW, 773 km), 2) Connection between Denmark and the Danish Energy Island (2 GW, 214 km).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "BE, DK",
+      "PROMOTERS": "Elia (BE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1020519.8170000017,
+      "y": 7460509.122400001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.2",
+    "attributes": {
+      "OBJECTID": "1603",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "4.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1184",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Triton Link (BE, DK)",
+      "PROJECT_FULL_TITLE": "Offshore hybrid interconnector between Belgium and Denmark [currently known as \u201cTriton Link\u201d]",
+      "TECHNICAL_DESCR": "<p>The construction of a dual-purpose offshore hybrid HVDC interconnector between Belgium and Denmark integrating 4 GW of offshore wind in the Danish Exclusive Economic Zone in the North Sea. This project creates a first transmission link between the Danish and Belgian electricity transmission systems. It is an offshore hybrid project as it merges two purposes: i) interconnecting two countries and ii) integrating offshore RES. The exact integration of the hybrid HVDC interconnector to offshore &amp; onshore grid connection nodes in Belgium &amp; Denmark have been defined: harbour of Ghent in Belgium and Revsing in Denmark. The project consists of two elements: 1) Connection between Belgium and the Danish Energy Island (2 GW, 773 km), 2) Connection between Denmark and the Danish Energy Island (2 GW, 214 km).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "BE, DK",
+      "PROMOTERS": "Elia (BE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 419052.1462999992,
+      "y": 6647619.640500002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.2",
+    "attributes": {
+      "OBJECTID": "1610",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1184",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Triton Link (BE, DK)",
+      "PROJECT_FULL_TITLE": "Offshore hybrid interconnector between Belgium and Denmark [currently known as \u201cTriton Link\u201d]",
+      "TECHNICAL_DESCR": "<p>The construction of a dual-purpose offshore hybrid HVDC interconnector between Belgium and Denmark integrating 4 GW of offshore wind in the Danish Exclusive Economic Zone in the North Sea. This project creates a first transmission link between the Danish and Belgian electricity transmission systems. It is an offshore hybrid project as it merges two purposes: i) interconnecting two countries and ii) integrating offshore RES. The exact integration of the hybrid HVDC interconnector to offshore &amp; onshore grid connection nodes in Belgium &amp; Denmark have been defined: harbour of Ghent in Belgium and Revsing in Denmark. The project consists of two elements: 1) Connection between Belgium and the Danish Energy Island (2 GW, 773 km), 2) Connection between Denmark and the Danish Energy Island (2 GW, 214 km).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "BE, DK",
+      "PROMOTERS": "Elia (BE) ; Energinet (DK)",
+      "COMMISSIONING_DATE": "2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1557052.599912"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            419142.2388000004,
+            6647640.494800001
+          ],
+          [
+            340015.40040000156,
+            6672358.704499997
+          ],
+          [
+            278148.85599999875,
+            6715219.516199999
+          ],
+          [
+            396725.0775000006,
+            7048222.3882
+          ],
+          [
+            729188.4829999991,
+            7656326.669399999
+          ],
+          [
+            910621.5485999994,
+            7516805.252899997
+          ],
+          [
+            1020519.8170000017,
+            7460509.122400001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.1.6",
+    "attributes": {
+      "OBJECTID": "3887",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.1.6",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1177",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.1",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2Hercules South",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Germany connecting to France [currently known as H2Hercules South]",
+      "TECHNICAL_DESCR": "<p>The H2ercules South project will enable pure hydrogen imports from various regions of hydrogen production: Iberian Peninsula via France to Medelsheim, Germany as well as Baltic Sea, Eastern Europe and North Africa via Czechia to Waidhaus, Germany.</p>\n\n<p>This project connects the demand centers in Bavaria, such as Ingolstadt or Nuremberg,&nbsp;which are characterised by a lot of industry (steel industry, refineries, chemical parks and others) and thus offer numerous decarbonization opportunities for the use of hydrogen.</p>\n\n<p>The infrastructure concerns sections: I &ndash; MEGAL of approx. 458 km of repurposed pipelines and II &ndash; connection Ingolstadt of approx. 103 km of repurposed pipelines.</p>\n\n<p>The aimed transmission capacity from France to Germany and reverse is estimated at 192 GWh/day (1.8 Mt/y).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Open Grid Europe GmbH (DE)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "146812.360704"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1351127.0566999987,
+            6382427.776900001
+          ],
+          [
+            1346852.2287999988,
+            6343519.161899999
+          ],
+          [
+            1300740.8729999997,
+            6246223.277900003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.1.6",
+    "attributes": {
+      "OBJECTID": "3888",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.1.6",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1177",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.1",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2Hercules South",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Germany connecting to France [currently known as H2Hercules South]",
+      "TECHNICAL_DESCR": "<p>The H2ercules South project will enable pure hydrogen imports from various regions of hydrogen production: Iberian Peninsula via France to Medelsheim, Germany as well as Baltic Sea, Eastern Europe and North Africa via Czechia to Waidhaus, Germany.</p>\n\n<p>This project connects the demand centers in Bavaria, such as Ingolstadt or Nuremberg,&nbsp;which are characterised by a lot of industry (steel industry, refineries, chemical parks and others) and thus offer numerous decarbonization opportunities for the use of hydrogen.</p>\n\n<p>The infrastructure concerns sections: I &ndash; MEGAL of approx. 458 km of repurposed pipelines and II &ndash; connection Ingolstadt of approx. 103 km of repurposed pipelines.</p>\n\n<p>The aimed transmission capacity from France to Germany and reverse is estimated at 192 GWh/day (1.8 Mt/y).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Open Grid Europe GmbH (DE)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "647137.855235"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            809397.0982999988,
+            6295568.107799999
+          ],
+          [
+            837358.3068000004,
+            6349160.912699997
+          ],
+          [
+            943329.6900999993,
+            6399224.061399996
+          ],
+          [
+            1107443.1110999994,
+            6418438.171400003
+          ],
+          [
+            1250958.2980000004,
+            6354596.5918999985
+          ],
+          [
+            1351127.0566999987,
+            6382427.776900001
+          ],
+          [
+            1394093.9094000012,
+            6387058.291299999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

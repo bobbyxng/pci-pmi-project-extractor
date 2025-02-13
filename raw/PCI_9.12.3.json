@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Hydrogen terminal",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.12.3",
+    "attributes": {
+      "OBJECTID": "3525",
+      "INFRA": "28",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.12.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1207",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.12",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Ammonia reception facility ACE Rotterdam",
+      "PROJECT_FULL_TITLE": "Ammonia reception facility ACE Rotterdam",
+      "TECHNICAL_DESCR": "<p>The project consists in the development of a reception facility in the Port of Rotterdam and aims at importing 10 Mt/y of H2 by 2030. This project introduces an open access approach, by incorporating cracking services to convert stored ammonia back into H2, in one package.&nbsp;&nbsp;<br />\nThe project includes the following main components:&nbsp;&nbsp;<br />\n- Construction of several new tanks (e.g. 5 pcs x 85,000 m3/tank) and repurposing of 2 LNG tanks (combined storage capacity of 60,000 m3 and in a combined NH3 storage capacity of 485,000 m3);&nbsp;&nbsp;<br />\n- Establishment of several berths for imports via Very Large Gas Carriers (VLGCs) and Medium Gas Carriers (MGCs), as well as provision for exports via barges and coasters;&nbsp;&nbsp;<br />\n- Realization of several cracker units with a combined green H2\u202fproduction capacity of 1.22 Mt, including a connection to the HNS-grid;&nbsp;&nbsp;<br />\nThe project will be implemented in two phases:&nbsp;<br />\n- Phase 1: With a peak H2 production capacity of \u202f52.9 GWh/d. The facility is estimated to have three ammonia dissociators, each with a max.\u202fpeak production capacity of 600 t/d of H2. This assumes continuous production and a load factor of 92% due to on average about 8% (maintenance) downtime. &nbsp;<br />\nThroughput volume: 3.75 Mt/y of NH3. Marine handling capacity: a minimun of two (V)LGC berths and at least one barge/short-sea berth and a peak (un)loading rate of 2,500 t/h.<br />\n- Phase 2: The expected average capacity of the facility in the 2nd phase is increased to 3,342 t/d, 111.4 GWh/d or 1.22 Mt/y of green H2.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "NL",
+      "PROMOTERS": "N.V. NEDERLANDSE GASUNIE",
+      "COMMISSIONING_DATE": "2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 452452.77490000054,
+      "y": 6790036.370300002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

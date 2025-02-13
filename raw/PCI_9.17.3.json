@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.17.3",
+    "attributes": {
+      "OBJECTID": "5125",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.17.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1219",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.17",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "SeaH2Land ",
+      "PROJECT_FULL_TITLE": "SeaH2Land electrolyser ",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The SeaH2Land project combines offshore wind with a 1 GW electrolyser onshore in the Dutch province of Zeeland and the Belgium province of East-Flanders with commissioning foreseen around 2030.</p>\n\n<p style=\"text-align:justify\">The industrial cross-border cluster, called Smart Delta Resources area, houses a variety of companies of different subsectors.</p>\n\n<p style=\"text-align:justify\">The demand for hydrogen in the region is more than 0.58 Mt/y &ndash; making it the largest hydrogen cluster in the Benelux - which will increase towards more than 1.081 Mt/y in 2050.</p>\n\n<p style=\"text-align:justify\">The project is composed of three phases:&nbsp;&nbsp;&nbsp;</p>\n\n<ul>\n<li style=\"text-align: justify;\">The technology demonstration phase is currently ongoing, for which commissioning is expected in 2025/2026.</li>\n<li style=\"text-align: justify;\">For up to 400 MW, commissioning is planned for 2029.</li>\n<li style=\"text-align: justify;\">The phase towards 1 GW electrolysis commissioning date is expected in around 2030.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Orsted Hydrogen Netherlands Holding BV",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 411163.5485999994,
+      "y": 6701389.866700001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

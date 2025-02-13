@@ -1,0 +1,270 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.20",
+    "attributes": {
+      "OBJECTID": "5445",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.20",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1153",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Cronos (BE, UK)",
+      "PROJECT_FULL_TITLE": "Interconnection between Zeebrugge area (BE) and Kemsley, Kent (UK) [currently known as Cronos]",
+      "TECHNICAL_DESCR": "<p>The Cronos Energy interconnector will create a direct power link between Belgium in the Bruegel area (previously Zeebrugge area) and the United Kingdom in Kemsley, Kent.&nbsp;The project encompasses construction of a 202 km long 525kV HVDC cable link with a transfer capacity of 1400 MW and two VSC bipole converter stations, one in the UK and one in Belgium.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, UK",
+      "PROMOTERS": "Cronos Energy Ltd (UK)",
+      "COMMISSIONING_DATE": "31/10/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 469933.4006999992,
+      "y": 6606243.399300002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.20",
+    "attributes": {
+      "OBJECTID": "5446",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.20",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1153",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Cronos (BE, UK)",
+      "PROJECT_FULL_TITLE": "Interconnection between Zeebrugge area (BE) and Kemsley, Kent (UK) [currently known as Cronos]",
+      "TECHNICAL_DESCR": "<p>The Cronos Energy interconnector will create a direct power link between Belgium in the Bruegel area (previously Zeebrugge area) and the United Kingdom in Kemsley, Kent.&nbsp;The project encompasses construction of a 202 km long 525kV HVDC cable link with a transfer capacity of 1400 MW and two VSC bipole converter stations, one in the UK and one in Belgium.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, UK",
+      "PROMOTERS": "Cronos Energy Ltd (UK)",
+      "COMMISSIONING_DATE": "31/10/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 84781.63580000028,
+      "y": 6686760.976499997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.20",
+    "attributes": {
+      "OBJECTID": "4492",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.20",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1153",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Cronos (BE, UK)",
+      "PROJECT_FULL_TITLE": "Interconnection between Zeebrugge area (BE) and Kemsley, Kent (UK) [currently known as Cronos]",
+      "TECHNICAL_DESCR": "<p>The Cronos Energy interconnector will create a direct power link between Belgium in the Bruegel area (previously Zeebrugge area) and the United Kingdom in Kemsley, Kent.&nbsp;The project encompasses construction of a 202 km long 525kV HVDC cable link with a transfer capacity of 1400 MW and two VSC bipole converter stations, one in the UK and one in Belgium.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, UK",
+      "PROMOTERS": "Cronos Energy Ltd (UK)",
+      "COMMISSIONING_DATE": "31/10/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "421796.833366"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            84791.7677000016,
+            6686755.6919
+          ],
+          [
+            94410.59549999982,
+            6685341.746799998
+          ],
+          [
+            99277.17190000042,
+            6683890.609099999
+          ],
+          [
+            103857.80970000103,
+            6684732.854000002
+          ],
+          [
+            105613.13030000031,
+            6685288.622500002
+          ],
+          [
+            108300.57070000097,
+            6688846.839299999
+          ],
+          [
+            109978.93039999902,
+            6689842.244099997
+          ],
+          [
+            111625.00899999961,
+            6688931.4103000015
+          ],
+          [
+            114105.84970000014,
+            6689186.0309000015
+          ],
+          [
+            115068.74839999899,
+            6691280.514200002
+          ],
+          [
+            117375.75989999995,
+            6692857.8486
+          ],
+          [
+            120916.62920000032,
+            6693907.620899998
+          ],
+          [
+            124201.05860000104,
+            6694456.461099997
+          ],
+          [
+            127152.07690000162,
+            6696208.559799999
+          ],
+          [
+            143695.7351000011,
+            6702713.572499998
+          ],
+          [
+            159500.1264999993,
+            6703546.972999997
+          ],
+          [
+            161970.9050000012,
+            6704501.529299997
+          ],
+          [
+            178763.19889999926,
+            6707697.836900003
+          ],
+          [
+            208051.0073999986,
+            6709261.391000003
+          ],
+          [
+            230410.30600000173,
+            6699792.849699996
+          ],
+          [
+            246782.38269999996,
+            6693034.719899997
+          ],
+          [
+            248742.12070000172,
+            6688139.800999999
+          ],
+          [
+            270124.55700000003,
+            6688650.2381
+          ],
+          [
+            276599.3407999985,
+            6689718.505999997
+          ],
+          [
+            285922.29679999873,
+            6686906.916100003
+          ],
+          [
+            307610.53709999844,
+            6685967.806999996
+          ],
+          [
+            319655.01199999824,
+            6684352.563500002
+          ],
+          [
+            324919.2199999988,
+            6682976.443700001
+          ],
+          [
+            348258.49439999834,
+            6681258.5205999985
+          ],
+          [
+            351604.1667000018,
+            6679909.814599998
+          ],
+          [
+            351943.52710000053,
+            6678765.639899999
+          ],
+          [
+            395878.06500000134,
+            6654293.005800001
+          ],
+          [
+            404747.04470000044,
+            6644779.278999999
+          ],
+          [
+            469933.4006999992,
+            6606243.399300002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

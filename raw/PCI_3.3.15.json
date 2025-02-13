@@ -1,0 +1,260 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.15",
+    "attributes": {
+      "OBJECTID": "655",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.3.15",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1113",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Synchronous condensers (LT, LV, EE)",
+      "PROJECT_FULL_TITLE": "Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power in Lithuania, Latvia and Estonia",
+      "TECHNICAL_DESCR": "<p>Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EE, LT, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE) ; LITGRID AB (LT)",
+      "COMMISSIONING_DATE": "31/12/2025",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2939062.2052999996,
+      "y": 7555909.651600003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.15",
+    "attributes": {
+      "OBJECTID": "656",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.3.15",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1113",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Synchronous condensers (LT, LV, EE)",
+      "PROJECT_FULL_TITLE": "Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power in Lithuania, Latvia and Estonia",
+      "TECHNICAL_DESCR": "<p>Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EE, LT, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE) ; LITGRID AB (LT)",
+      "COMMISSIONING_DATE": "31/12/2025",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2474829.5385,
+      "y": 7554530.8565,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.15",
+    "attributes": {
+      "OBJECTID": "690",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.3.15",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1113",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Synchronous condensers (LT, LV, EE)",
+      "PROJECT_FULL_TITLE": "Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power in Lithuania, Latvia and Estonia",
+      "TECHNICAL_DESCR": "<p>Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EE, LT, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE) ; LITGRID AB (LT)",
+      "COMMISSIONING_DATE": "31/12/2025",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2749418.1413000003,
+      "y": 8233271.834200002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.15",
+    "attributes": {
+      "OBJECTID": "691",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.3.15",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1113",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Synchronous condensers (LT, LV, EE)",
+      "PROJECT_FULL_TITLE": "Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power in Lithuania, Latvia and Estonia",
+      "TECHNICAL_DESCR": "<p>Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EE, LT, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE) ; LITGRID AB (LT)",
+      "COMMISSIONING_DATE": "31/12/2025",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2360091.072999999,
+      "y": 7667048.569200002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.15",
+    "attributes": {
+      "OBJECTID": "692",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.3.15",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1113",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Synchronous condensers (LT, LV, EE)",
+      "PROJECT_FULL_TITLE": "Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power in Lithuania, Latvia and Estonia",
+      "TECHNICAL_DESCR": "<p>Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EE, LT, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE) ; LITGRID AB (LT)",
+      "COMMISSIONING_DATE": "31/12/2025",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2834440.3713999987,
+      "y": 7333293.7707,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.15",
+    "attributes": {
+      "OBJECTID": "693",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.3.15",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1113",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Synchronous condensers (LT, LV, EE)",
+      "PROJECT_FULL_TITLE": "Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power in Lithuania, Latvia and Estonia",
+      "TECHNICAL_DESCR": "<p>Synchronous condensers providing inertia, voltage stability, frequency stability and short-circuit power.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EE, LT, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE) ; LITGRID AB (LT)",
+      "COMMISSIONING_DATE": "31/12/2025",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 3106234.4992000014,
+      "y": 8238666.089500003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Hydrogen storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.23",
+    "attributes": {
+      "OBJECTID": "3530",
+      "INFRA": "29",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.23",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1227",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Storage GeoH2 (FR)",
+      "PROJECT_FULL_TITLE": "Storage GeoH2 (FR)",
+      "TECHNICAL_DESCR": "<p>The G&eacute;om&eacute;thane GeoH2 hydrogen project, in Manosque, \u202faims to develop, build and operate a hydrogen underground storage facility, including the connection pipeline Hynframed, \u202fallowing for an integrated approach to decarbonization in the Fos-Lavera-Marseille area and subsequent interconnection with H2Med and Hy-Fen.&nbsp;<br />\nThe storage facility has an initial capacity of 6,000 tons in 2 salt caverns. These 2 caverns are already built in Manosque and are currently full of brine.&nbsp;<br />\nMore particularly the project will develop two repurposed salt cavern in brine, as well as dedicated surface facilities for H2 storage (on Geom&eacute;thane natural gas storage in Manosque, near Marseille - Fos-sur-Mer).&nbsp;<br />\nThe project will have the following technical specifications:&nbsp;<br />\n- Maximum injection / withdrawal rates: 6 GWh/d (may be adapted depending on market needs)&nbsp;<br />\n- Working gas volume: 6,000 t / 250 GWh&nbsp;<br />\n- Expected increase in underground hydrogen storage capacity: \u202f67 mcm&nbsp;<br />\nThe extension options include a 2nd phase: up to 50 kt / 2.05 TWh/ 583 mcm, leaching additional caverns within the permit in force and repurposing to H2 of existing natural gas facilities, offering significant flexibility potential to hydrogen producers, shippers and ultimately consumers.&nbsp;</p>\n\n<p>The GEOH2 in Manosque, aims to be connected through Hyframed, to the H2Med &amp; Hy-Fen corridor, developed to transfer hydrogen from the Iberia peninsula to Germany. GRTgaz Hyframed project is a 120 km pipeline that connects Manosque to Fos-sur-Mer, the starting point of Hy-Fen and the expected landing point of BarMar.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "G\u00e9om\u00e9thane ; GRTgaz",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 644759.1460000016,
+      "y": 5443428.269299999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.23",
+    "attributes": {
+      "OBJECTID": "4491",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.23",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1227",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Storage GeoH2 (FR)",
+      "PROJECT_FULL_TITLE": "Storage GeoH2 (FR)",
+      "TECHNICAL_DESCR": "<p>The G&eacute;om&eacute;thane GeoH2 hydrogen project, in Manosque, \u202faims to develop, build and operate a hydrogen underground storage facility, including the connection pipeline Hynframed, \u202fallowing for an integrated approach to decarbonization in the Fos-Lavera-Marseille area and subsequent interconnection with H2Med and Hy-Fen.&nbsp;<br />\nThe storage facility has an initial capacity of 6,000 tons in 2 salt caverns. These 2 caverns are already built in Manosque and are currently full of brine.&nbsp;<br />\nMore particularly the project will develop two repurposed salt cavern in brine, as well as dedicated surface facilities for H2 storage (on Geom&eacute;thane natural gas storage in Manosque, near Marseille - Fos-sur-Mer).&nbsp;<br />\nThe project will have the following technical specifications:&nbsp;<br />\n- Maximum injection / withdrawal rates: 6 GWh/d (may be adapted depending on market needs)&nbsp;<br />\n- Working gas volume: 6,000 t / 250 GWh&nbsp;<br />\n- Expected increase in underground hydrogen storage capacity: \u202f67 mcm&nbsp;<br />\nThe extension options include a 2nd phase: up to 50 kt / 2.05 TWh/ 583 mcm, leaching additional caverns within the permit in force and repurposing to H2 of existing natural gas facilities, offering significant flexibility potential to hydrogen producers, shippers and ultimately consumers.&nbsp;</p>\n\n<p>The GEOH2 in Manosque, aims to be connected through Hyframed, to the H2Med &amp; Hy-Fen corridor, developed to transfer hydrogen from the Iberia peninsula to Germany. GRTgaz Hyframed project is a 120 km pipeline that connects Manosque to Fos-sur-Mer, the starting point of Hy-Fen and the expected landing point of BarMar.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "G\u00e9om\u00e9thane ; GRTgaz",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "123663.943917"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            644759.1460000016,
+            5443428.269299999
+          ],
+          [
+            541915.4472000003,
+            5374755.533500001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

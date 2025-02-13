@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electricity storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.12",
+    "attributes": {
+      "OBJECTID": "2564",
+      "INFRA": "3",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1064",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydro-pumped storage Navaleo (ES)",
+      "PROJECT_FULL_TITLE": "Purifying-Pumped Hydroelectric Energy Storage NAVALEO (ES)",
+      "TECHNICAL_DESCR": "<p>P-PHES NAVALEO is a purifying pumped hydroelectric energy storage with an installed capacity of 552 MW (3 x 184 MW) in generating mode and 548 MW in pumping mode. The project has energy storage capacity of 3.6 GWh, a cycle efficiency of up to 78% and generates an annual capacity of 1332 GWh/year.</p>\n\n<p>The project consists of two reservoirs with a volume of 2.23 million&nbsp;m3. The power plant is integrated in a purifying cycle of water flowing through abandoned mines that are currently being directly discharged to the rivers.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "CDR TREMOR S.L. (ES)",
+      "COMMISSIONING_DATE": "31/12/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -712162.1009000018,
+      "y": 5246807.615900002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

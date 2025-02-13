@@ -1,0 +1,100 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.1.3",
+    "attributes": {
+      "OBJECTID": "998",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "2.1.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1078",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.1",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Westtirol (AT) -Zell-Ziller (AT)",
+      "PROJECT_FULL_TITLE": "Internal line between Westtirol - Zell/Ziller (AT)",
+      "TECHNICAL_DESCR": "<p>This project comprises an upgrade of the existing 220 kV line Westtirol (AT) - Zell-Ziller (AT) and the construction of an additional 220/380kV transformer. The line length is of 105 km.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "AT",
+      "PROMOTERS": "Austrian Power Grid AG (AT)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "139431.315158"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1324431.7699000016,
+            5980305.413900003
+          ],
+          [
+            1315955.5335999988,
+            5985093.2852
+          ],
+          [
+            1276198.3471000008,
+            5978573.6483
+          ],
+          [
+            1255549.0483000018,
+            5978682.054399997
+          ],
+          [
+            1251189.9996999986,
+            5980526.4388
+          ],
+          [
+            1241433.625500001,
+            5986165.460699998
+          ],
+          [
+            1235951.1405999996,
+            5990187.698399998
+          ],
+          [
+            1230849.3682999983,
+            5989991.728600003
+          ],
+          [
+            1220773.2846000008,
+            5986190.560999997
+          ],
+          [
+            1209934.7736999989,
+            5981829.759999998
+          ],
+          [
+            1201902.5157999992,
+            5977474.916699998
+          ],
+          [
+            1197844.1411999986,
+            5978836.626100004
+          ],
+          [
+            1193344.4959999993,
+            5976698.929499999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

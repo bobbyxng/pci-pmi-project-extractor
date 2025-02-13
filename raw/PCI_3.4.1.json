@@ -1,0 +1,96 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.4.1",
+    "attributes": {
+      "OBJECTID": "1001",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.4.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1095",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.4",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Northern Finland (FI) - Northern Sweden interconnection (SE)",
+      "PROJECT_FULL_TITLE": "Interconnection between northern Finland and northern Sweden",
+      "TECHNICAL_DESCR": "<p>A new 400 kV AC electricity overhead line interconnection between Sweden and Finland, connecting the substations Messaure (Sweden) and Pyh&auml;nselk&auml; (Finland). The transmission line will cross the border river Tornio from Risudden in Sweden to Vuennonkoski in Finland.&nbsp;It includes an internal 400 kV overhead line in North Finland. In addition to the transmission lines, the project includes two new substations, Viitaj&auml;rvi substation and Isomaa series compensation station both in Finland and extensions to three existing substations, Messaure substation and Isovaara series compensation station both in Sweden as well as Pyh&auml;nselk&auml; substation in Finland. The total length of the line is 380 km, of which 180 km in Sweden and 200 km in Finland. The Aurora Line will increase the transmission capacity from Sweden to Finland by 800 MW and from Finland to Sweden by 900 MW.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "FI, SE",
+      "PROMOTERS": "Fingrid (FI) ; Svenska Kraftn\u00e4t (SE)",
+      "COMMISSIONING_DATE": "31/12/2025",
+      "CEF_ACTIONS": "4.10.1-0016-fise-s-m-18 ; 4.10.1-w-m-21-aurora line",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.10.1-0016-FISE-S-M-18.pdf ; https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101069619/CEF2027",
+      "STUDIES_OR_WORKS": "Studies ; WORKS",
+      "SHAPE.LEN": "516908.090092"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2729184.214499999,
+            9854076.588100001
+          ],
+          [
+            2720161.7586999983,
+            9855597.8028
+          ],
+          [
+            2711131.5161999986,
+            9857713.468599997
+          ],
+          [
+            2703704.1812999994,
+            9859238.359700002
+          ],
+          [
+            2699195.1567,
+            9861446.544600002
+          ],
+          [
+            2693141.6180999987,
+            9863710.777800001
+          ],
+          [
+            2685937.7087000012,
+            9865437.512500003
+          ],
+          [
+            2680764.3455,
+            9866466.511299998
+          ],
+          [
+            2652773.7923999988,
+            9870033.958400004
+          ],
+          [
+            2553594.7575000003,
+            9898767.4938
+          ],
+          [
+            2399883.1347999983,
+            9979251.509099998
+          ],
+          [
+            2263171.3341999985,
+            10065702.6017
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

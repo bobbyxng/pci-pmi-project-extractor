@@ -1,0 +1,578 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.2.2",
+    "attributes": {
+      "OBJECTID": "4165",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.2.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1179",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Moselle-saar hydrogen-conversion (MosaHYc)",
+      "PROJECT_FULL_TITLE": "Hydrogen valley in France to the German border [currently known as MosaHYyc]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">Moselle-saar hydrogen-conversion (MosaHYc) is a cross-border hydrogen project between France and Germany linking producers of low carbon or renewable hydrogen with industrial (steel) and mobility consumers across the Mosel-Saarland region.</p>\n\n<p style=\"text-align:justify\">The project aims to develop a 94 km (42 km on the German side and 52 km on the French side) cross-border 100% hydrogen infrastructure composed of new &amp; repurposed pipelines as follows:</p>\n\n<p style=\"text-align:justify\">&bull; New 19 km (16 km on the German side and 3 km on the French side) from Bouzonville (FR) to Dillingen (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 53 km (7 km on the German side and 46 km on the French side) from Carling (FR) to Perl (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 2 km from V&ouml;lklingen (DE) to F&uuml;rstenhausen (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 20 km (17 km on German side and 3 km on the French side) from Carling (FR) to F&uuml;rstenhausen (DE).</p>\n\n<p style=\"text-align:justify\">The project will deliver up to 5.5 GWh/day (0.05 Mt/y) of cross-border capacity when starting and up to 15 GWh/d&nbsp;(0.2 Mt/y) are planned for 2030.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE, FR",
+      "PROMOTERS": "GRTgaz (FR) ; Creos Deutschland Wasserstoff GmbH (DE)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "78680.670944"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            709159.8000999987,
+            6362561.200900003
+          ],
+          [
+            709915.3213,
+            6362326.659500003
+          ],
+          [
+            710403.0328000002,
+            6361807.183499999
+          ],
+          [
+            712353.2443000004,
+            6361069.352399997
+          ],
+          [
+            712185.6004000008,
+            6360403.452
+          ],
+          [
+            713520.9393000007,
+            6358523.968900003
+          ],
+          [
+            713901.9582999982,
+            6357816.259099998
+          ],
+          [
+            715336.2784999982,
+            6356220.251500003
+          ],
+          [
+            715372.9807000011,
+            6355956.721299998
+          ],
+          [
+            715587.2501000017,
+            6355101.036899999
+          ],
+          [
+            716851.7410999984,
+            6353934.765799999
+          ],
+          [
+            718741.4675999992,
+            6352682.2848000005
+          ],
+          [
+            719359.9783999994,
+            6350890.6831
+          ],
+          [
+            720854.7659000009,
+            6348313.531000003
+          ],
+          [
+            722390.1733000018,
+            6346625.566799998
+          ],
+          [
+            722428.1658999994,
+            6345791.485600002
+          ],
+          [
+            723073.9756999984,
+            6344445.996799998
+          ],
+          [
+            723370.928199999,
+            6342407.499200001
+          ],
+          [
+            724143.0982999988,
+            6340084.037199996
+          ],
+          [
+            724975.2769999988,
+            6339629.451200001
+          ],
+          [
+            725836.2012999989,
+            6337368.592699997
+          ],
+          [
+            728057.0720999986,
+            6333946.133699998
+          ],
+          [
+            728983.4624999985,
+            6333501.686700001
+          ],
+          [
+            730032.4860000014,
+            6329127.751900002
+          ],
+          [
+            730146.4932000004,
+            6328264.423600003
+          ],
+          [
+            730858.0410999991,
+            6327735.655500002
+          ],
+          [
+            730843.5047000013,
+            6326120.710199997
+          ],
+          [
+            730877.8015000001,
+            6324807.818099998
+          ],
+          [
+            731521.6583000012,
+            6321387.441200003
+          ],
+          [
+            732378.5465999991,
+            6318704.351499997
+          ],
+          [
+            732157.6349,
+            6315125.429899998
+          ],
+          [
+            732031.3040000014,
+            6313956.418799996
+          ],
+          [
+            733813.4836999997,
+            6311775.029100001
+          ],
+          [
+            735145.299899999,
+            6310541.874899998
+          ],
+          [
+            737660.2419000007,
+            6307790.358800001
+          ],
+          [
+            738312.9177000001,
+            6307430.079300001
+          ],
+          [
+            738270.75,
+            6307218.130599998
+          ],
+          [
+            738970.1757999994,
+            6306612.0669
+          ],
+          [
+            740730.2248999998,
+            6306406.637699999
+          ],
+          [
+            743570.0753000006,
+            6305678.671499997
+          ],
+          [
+            744627.1554999985,
+            6304751.720200002
+          ],
+          [
+            745203.1090999991,
+            6303631.720299996
+          ],
+          [
+            746553.4437999986,
+            6302576.545400001
+          ],
+          [
+            746943.3768999986,
+            6301362.893299997
+          ],
+          [
+            746686.9545999989,
+            6300710.411799997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.2.2",
+    "attributes": {
+      "OBJECTID": "4166",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.2.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1179",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Moselle-saar hydrogen-conversion (MosaHYc)",
+      "PROJECT_FULL_TITLE": "Hydrogen valley in France to the German border [currently known as MosaHYyc]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">Moselle-saar hydrogen-conversion (MosaHYc) is a cross-border hydrogen project between France and Germany linking producers of low carbon or renewable hydrogen with industrial (steel) and mobility consumers across the Mosel-Saarland region.</p>\n\n<p style=\"text-align:justify\">The project aims to develop a 94 km (42 km on the German side and 52 km on the French side) cross-border 100% hydrogen infrastructure composed of new &amp; repurposed pipelines as follows:</p>\n\n<p style=\"text-align:justify\">&bull; New 19 km (16 km on the German side and 3 km on the French side) from Bouzonville (FR) to Dillingen (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 53 km (7 km on the German side and 46 km on the French side) from Carling (FR) to Perl (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 2 km from V&ouml;lklingen (DE) to F&uuml;rstenhausen (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 20 km (17 km on German side and 3 km on the French side) from Carling (FR) to F&uuml;rstenhausen (DE).</p>\n\n<p style=\"text-align:justify\">The project will deliver up to 5.5 GWh/day (0.05 Mt/y) of cross-border capacity when starting and up to 15 GWh/d&nbsp;(0.2 Mt/y) are planned for 2030.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE, FR",
+      "PROMOTERS": "GRTgaz (FR) ; Creos Deutschland Wasserstoff GmbH (DE)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "30647.150556"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            744627.1554999985,
+            6304751.720200002
+          ],
+          [
+            745293.5262000002,
+            6306058.2870000005
+          ],
+          [
+            746811.6072000004,
+            6305083.945299998
+          ],
+          [
+            747698.5797000006,
+            6305601.6696000025
+          ],
+          [
+            748941.1908,
+            6306586.987499997
+          ],
+          [
+            749529.8938999996,
+            6307564.526900001
+          ],
+          [
+            752623.2162999995,
+            6309086.770900004
+          ],
+          [
+            753037.1376999989,
+            6310045.8442
+          ],
+          [
+            754441.0357000008,
+            6310642.991899997
+          ],
+          [
+            754574.6497000009,
+            6310524.068000004
+          ],
+          [
+            755209.740699999,
+            6310841.2817
+          ],
+          [
+            756583.5031999983,
+            6312622.676899999
+          ],
+          [
+            757331.0139000006,
+            6314122.981600001
+          ],
+          [
+            757784.7307999991,
+            6314436.436800003
+          ],
+          [
+            757974.060899999,
+            6313566.0276999995
+          ],
+          [
+            758576.6970999986,
+            6313308.177000001
+          ],
+          [
+            759414.8819999993,
+            6313867.159999996
+          ],
+          [
+            760187.0667999983,
+            6313435.866800003
+          ],
+          [
+            762955.2767999992,
+            6314318.758599997
+          ],
+          [
+            765366.1567000002,
+            6314551.8939
+          ],
+          [
+            765302.7115000002,
+            6315695.404600002
+          ],
+          [
+            764883.4970999993,
+            6315865.835100003
+          ],
+          [
+            764881.0824000016,
+            6316315.894900002
+          ],
+          [
+            765950.5304999985,
+            6317257.667300001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.2.2",
+    "attributes": {
+      "OBJECTID": "4167",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.2.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1179",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Moselle-saar hydrogen-conversion (MosaHYc)",
+      "PROJECT_FULL_TITLE": "Hydrogen valley in France to the German border [currently known as MosaHYyc]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">Moselle-saar hydrogen-conversion (MosaHYc) is a cross-border hydrogen project between France and Germany linking producers of low carbon or renewable hydrogen with industrial (steel) and mobility consumers across the Mosel-Saarland region.</p>\n\n<p style=\"text-align:justify\">The project aims to develop a 94 km (42 km on the German side and 52 km on the French side) cross-border 100% hydrogen infrastructure composed of new &amp; repurposed pipelines as follows:</p>\n\n<p style=\"text-align:justify\">&bull; New 19 km (16 km on the German side and 3 km on the French side) from Bouzonville (FR) to Dillingen (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 53 km (7 km on the German side and 46 km on the French side) from Carling (FR) to Perl (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 2 km from V&ouml;lklingen (DE) to F&uuml;rstenhausen (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 20 km (17 km on German side and 3 km on the French side) from Carling (FR) to F&uuml;rstenhausen (DE).</p>\n\n<p style=\"text-align:justify\">The project will deliver up to 5.5 GWh/day (0.05 Mt/y) of cross-border capacity when starting and up to 15 GWh/d&nbsp;(0.2 Mt/y) are planned for 2030.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE, FR",
+      "PROMOTERS": "GRTgaz (FR) ; Creos Deutschland Wasserstoff GmbH (DE)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "29808.420473"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            730843.5047000013,
+            6326120.710199997
+          ],
+          [
+            731759.0819999985,
+            6325362.469899997
+          ],
+          [
+            735714.9028000012,
+            6325811.976599999
+          ],
+          [
+            736322.5965000018,
+            6326467.013300002
+          ],
+          [
+            737087.7855000012,
+            6326772.977499999
+          ],
+          [
+            737327.3423999995,
+            6328364.9130000025
+          ],
+          [
+            738422.6730000004,
+            6329401.6536
+          ],
+          [
+            739082.3387000002,
+            6329436.737999998
+          ],
+          [
+            740136.4367999993,
+            6330370.273500003
+          ],
+          [
+            741743.314100001,
+            6330337.447300002
+          ],
+          [
+            741882.4441,
+            6331858.900700003
+          ],
+          [
+            742628.7802999988,
+            6331914.512999997
+          ],
+          [
+            742612.0592,
+            6332528.0261999965
+          ],
+          [
+            743491.0546000004,
+            6332789.124399997
+          ],
+          [
+            744109.6471999995,
+            6333431.472000003
+          ],
+          [
+            744531.7124000005,
+            6333318.972900003
+          ],
+          [
+            745298.495099999,
+            6332802.039899997
+          ],
+          [
+            745718.6295999996,
+            6332763.3364999965
+          ],
+          [
+            745756.7012000009,
+            6333464.381899998
+          ],
+          [
+            745929.6270999983,
+            6333532.558700003
+          ],
+          [
+            748079.5700999983,
+            6332139.263999999
+          ],
+          [
+            748300.4693000019,
+            6331557.623199999
+          ],
+          [
+            748811.3244999982,
+            6331447.600599997
+          ],
+          [
+            749808.6961999983,
+            6332692.296700001
+          ],
+          [
+            750069.5078000017,
+            6333546.2326000035
+          ],
+          [
+            752291.4627999999,
+            6334454.741700001
+          ],
+          [
+            752191.1983999982,
+            6334581.574900001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.2.2",
+    "attributes": {
+      "OBJECTID": "4168",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.2.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1179",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Moselle-saar hydrogen-conversion (MosaHYc)",
+      "PROJECT_FULL_TITLE": "Hydrogen valley in France to the German border [currently known as MosaHYyc]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">Moselle-saar hydrogen-conversion (MosaHYc) is a cross-border hydrogen project between France and Germany linking producers of low carbon or renewable hydrogen with industrial (steel) and mobility consumers across the Mosel-Saarland region.</p>\n\n<p style=\"text-align:justify\">The project aims to develop a 94 km (42 km on the German side and 52 km on the French side) cross-border 100% hydrogen infrastructure composed of new &amp; repurposed pipelines as follows:</p>\n\n<p style=\"text-align:justify\">&bull; New 19 km (16 km on the German side and 3 km on the French side) from Bouzonville (FR) to Dillingen (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 53 km (7 km on the German side and 46 km on the French side) from Carling (FR) to Perl (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 2 km from V&ouml;lklingen (DE) to F&uuml;rstenhausen (DE)</p>\n\n<p style=\"text-align:justify\">&bull; Repurposed 20 km (17 km on German side and 3 km on the French side) from Carling (FR) to F&uuml;rstenhausen (DE).</p>\n\n<p style=\"text-align:justify\">The project will deliver up to 5.5 GWh/day (0.05 Mt/y) of cross-border capacity when starting and up to 15 GWh/d&nbsp;(0.2 Mt/y) are planned for 2030.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE, FR",
+      "PROMOTERS": "GRTgaz (FR) ; Creos Deutschland Wasserstoff GmbH (DE)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "657.703929"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            751372.2857000008,
+            6334078.9102
+          ],
+          [
+            751662.4428999983,
+            6333488.670199998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

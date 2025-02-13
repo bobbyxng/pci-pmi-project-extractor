@@ -1,0 +1,424 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.4",
+    "attributes": {
+      "OBJECTID": "4168",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "4.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1186",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind connection Centre Manche 2",
+      "PROJECT_FULL_TITLE": "High voltage offshore substation and connection to Tourbe (FR) [currently known as \u201cOffshore Wind connection Centre Manche 2\u201d]",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Centre Manche 2 will consist in a 320 kV HVDC hub in Normandy and will include more precisely an HVDC offshore platform with converter station, an onshore converter station, and HVDC onshore &amp; offshore cables. This hub will connect 1,25 GW of the offshore wind project (Centre Manche 2) to the onshore 400 kV substation Tourbe. The total route length will be of 110km from the substation Centre Manche 2 to the onshore substation Tourbe.<br />\n<br />\nThis project will be related to the Offshore wind Connection Centre Manche 1 project: an AC interlink may be developped between the two offshore substations of Centre Manche 1 and Centre Manche 2.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "09/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -29374.43510000035,
+      "y": 6293354.4692,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.4",
+    "attributes": {
+      "OBJECTID": "4169",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "4.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1186",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind connection Centre Manche 2",
+      "PROJECT_FULL_TITLE": "High voltage offshore substation and connection to Tourbe (FR) [currently known as \u201cOffshore Wind connection Centre Manche 2\u201d]",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Centre Manche 2 will consist in a 320 kV HVDC hub in Normandy and will include more precisely an HVDC offshore platform with converter station, an onshore converter station, and HVDC onshore &amp; offshore cables. This hub will connect 1,25 GW of the offshore wind project (Centre Manche 2) to the onshore 400 kV substation Tourbe. The total route length will be of 110km from the substation Centre Manche 2 to the onshore substation Tourbe.<br />\n<br />\nThis project will be related to the Offshore wind Connection Centre Manche 1 project: an AC interlink may be developped between the two offshore substations of Centre Manche 1 and Centre Manche 2.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "09/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -74457.15080000088,
+      "y": 6422165.9111,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.4",
+    "attributes": {
+      "OBJECTID": "3854",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1186",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind connection Centre Manche 2",
+      "PROJECT_FULL_TITLE": "High voltage offshore substation and connection to Tourbe (FR) [currently known as \u201cOffshore Wind connection Centre Manche 2\u201d]",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Centre Manche 2 will consist in a 320 kV HVDC hub in Normandy and will include more precisely an HVDC offshore platform with converter station, an onshore converter station, and HVDC onshore &amp; offshore cables. This hub will connect 1,25 GW of the offshore wind project (Centre Manche 2) to the onshore 400 kV substation Tourbe. The total route length will be of 110km from the substation Centre Manche 2 to the onshore substation Tourbe.<br />\n<br />\nThis project will be related to the Offshore wind Connection Centre Manche 1 project: an AC interlink may be developped between the two offshore substations of Centre Manche 1 and Centre Manche 2.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "09/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "35330.459332"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -28494.71779999882,
+            6324462.032399997
+          ],
+          [
+            -28621.424800001085,
+            6322610.184299998
+          ],
+          [
+            -28766.099300000817,
+            6321380.4516
+          ],
+          [
+            -28717.87440000102,
+            6320319.505800001
+          ],
+          [
+            -28958.998500000685,
+            6319306.7848000005
+          ],
+          [
+            -29441.246599998325,
+            6318655.749799997
+          ],
+          [
+            -29875.269900001585,
+            6318077.052100003
+          ],
+          [
+            -30044.056699998677,
+            6317643.028800003
+          ],
+          [
+            -28717.87440000102,
+            6316750.869800001
+          ],
+          [
+            -29585.92100000009,
+            6315521.137199998
+          ],
+          [
+            -29851.157499998808,
+            6314749.5402000025
+          ],
+          [
+            -30068.169100001454,
+            6314098.5053
+          ],
+          [
+            -29875.269900001585,
+            6313519.807599999
+          ],
+          [
+            -30598.642000000924,
+            6312145.4004999995
+          ],
+          [
+            -31032.66530000046,
+            6311012.117399998
+          ],
+          [
+            -31563.13819999993,
+            6310336.9701000005
+          ],
+          [
+            -31661.499899998307,
+            6309803.813600004
+          ],
+          [
+            -31990.187800001353,
+            6309323.423500001
+          ],
+          [
+            -32198.778299998492,
+            6309121.1538999975
+          ],
+          [
+            -32464.256999999285,
+            6308678.689400002
+          ],
+          [
+            -32698.13109999895,
+            6308621.801100001
+          ],
+          [
+            -32988.893599998206,
+            6308198.2993
+          ],
+          [
+            -33222.7677000016,
+            6307793.760300003
+          ],
+          [
+            -33380.79080000147,
+            6307484.035099998
+          ],
+          [
+            -33184.84219999984,
+            6307243.840000004
+          ],
+          [
+            -32919.36340000108,
+            6306706.5616
+          ],
+          [
+            -32976.251699998975,
+            6306535.896700002
+          ],
+          [
+            -32710.772999998182,
+            6305815.3116
+          ],
+          [
+            -32596.996399998665,
+            6305600.400200002
+          ],
+          [
+            -32685.489300001413,
+            6304696.508299999
+          ],
+          [
+            -32622.28009999916,
+            6304405.745899998
+          ],
+          [
+            -32097.64350000024,
+            6304096.0207
+          ],
+          [
+            -31933.29949999973,
+            6303274.300800003
+          ],
+          [
+            -31914.33680000156,
+            6302642.2086
+          ],
+          [
+            -31851.12750000134,
+            6302016.437299997
+          ],
+          [
+            -31623.57429999858,
+            6301656.144699998
+          ],
+          [
+            -31347.729299999774,
+            6301221.2651999965
+          ],
+          [
+            -31473.13639999926,
+            6300938.087899998
+          ],
+          [
+            -30890.60020000115,
+            6300646.819799997
+          ],
+          [
+            -31084.778900001198,
+            6300003.602799997
+          ],
+          [
+            -30749.011500000954,
+            6299117.662299998
+          ],
+          [
+            -30696.421500001103,
+            6298397.582800001
+          ],
+          [
+            -30712.60300000012,
+            6297612.777099997
+          ],
+          [
+            -30757.102299999446,
+            6296492.204000004
+          ],
+          [
+            -30704.512200001627,
+            6295290.723099999
+          ],
+          [
+            -30381.630399998277,
+            6294543.344800003
+          ],
+          [
+            -29971.71950000152,
+            6293844.085000001
+          ],
+          [
+            -29720.976700000465,
+            6293502.1548999995
+          ],
+          [
+            -29374.43510000035,
+            6293354.4692
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.4",
+    "attributes": {
+      "OBJECTID": "3853",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1186",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind connection Centre Manche 2",
+      "PROJECT_FULL_TITLE": "High voltage offshore substation and connection to Tourbe (FR) [currently known as \u201cOffshore Wind connection Centre Manche 2\u201d]",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Centre Manche 2 will consist in a 320 kV HVDC hub in Normandy and will include more precisely an HVDC offshore platform with converter station, an onshore converter station, and HVDC onshore &amp; offshore cables. This hub will connect 1,25 GW of the offshore wind project (Centre Manche 2) to the onshore 400 kV substation Tourbe. The total route length will be of 110km from the substation Centre Manche 2 to the onshore substation Tourbe.<br />\n<br />\nThis project will be related to the Offshore wind Connection Centre Manche 1 project: an AC interlink may be developped between the two offshore substations of Centre Manche 1 and Centre Manche 2.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "09/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "117755.428428"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -74457.15080000088,
+            6422165.9111
+          ],
+          [
+            -72761.06610000134,
+            6422164.8418999985
+          ],
+          [
+            -72525.59340000153,
+            6407683.270400003
+          ],
+          [
+            -76712.5923999995,
+            6403109.949000001
+          ],
+          [
+            -73125.31289999932,
+            6396947.186800003
+          ],
+          [
+            -70825.77479999885,
+            6392808.018100001
+          ],
+          [
+            -69813.97800000012,
+            6387657.052699998
+          ],
+          [
+            -66962.55070000142,
+            6376159.362000003
+          ],
+          [
+            -38264.31469999999,
+            6350312.553199999
+          ],
+          [
+            -33573.25690000132,
+            6340746.474600002
+          ],
+          [
+            -30721.82959999889,
+            6329064.820799999
+          ],
+          [
+            -28494.71779999882,
+            6324462.032399997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

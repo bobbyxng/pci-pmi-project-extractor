@@ -1,0 +1,1612 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5441",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "243223.492183"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            626909.0773999989,
+            6574350.013300002
+          ],
+          [
+            629747.4422000013,
+            6582218.916599996
+          ],
+          [
+            621872.4307000004,
+            6586193.792300001
+          ],
+          [
+            628848.9490999989,
+            6596513.094999999
+          ],
+          [
+            636438.2927000001,
+            6608916.310999997
+          ],
+          [
+            634151.7870999984,
+            6612784.981399998
+          ],
+          [
+            620188.4338999987,
+            6616272.383299999
+          ],
+          [
+            619303.3817999996,
+            6619244.914499998
+          ],
+          [
+            614377.0872000009,
+            6625733.697300002
+          ],
+          [
+            604861.0923000015,
+            6623981.5779
+          ],
+          [
+            584807.1840999983,
+            6622241.924800001
+          ],
+          [
+            573673.2113999985,
+            6618344.4322
+          ],
+          [
+            567003.1468999982,
+            6621064.2238000035
+          ],
+          [
+            565397.8189999983,
+            6628768.670000002
+          ],
+          [
+            559167.7776000015,
+            6633385.9965
+          ],
+          [
+            554538.2177999988,
+            6638321.260200001
+          ],
+          [
+            555146.1741999984,
+            6641614.928900003
+          ],
+          [
+            548889.0386000015,
+            6642347.2685
+          ],
+          [
+            544404.0733000003,
+            6646574.425499998
+          ],
+          [
+            533992.9840000011,
+            6646972.2946000025
+          ],
+          [
+            530712.6053999998,
+            6649064.172799997
+          ],
+          [
+            519741.249499999,
+            6647514.758400001
+          ],
+          [
+            514763.87409999967,
+            6653373.828299999
+          ],
+          [
+            507564.2987000011,
+            6659639.321199998
+          ],
+          [
+            500595.569600001,
+            6660440.502499998
+          ],
+          [
+            499179.6928000003,
+            6665590.576399997
+          ],
+          [
+            491057.5694999993,
+            6668398.387400001
+          ],
+          [
+            490165.8865999989,
+            6674275.303999998
+          ],
+          [
+            485454.94619999826,
+            6676984.0726
+          ],
+          [
+            483648.64119999856,
+            6677339.3081
+          ],
+          [
+            479572.6206,
+            6674263.137900002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5442",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "19591.612346"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            476289.34050000086,
+            6668698.304899998
+          ],
+          [
+            478130.86499999836,
+            6668848.195699997
+          ],
+          [
+            479375.07129999995,
+            6670283.1613000035
+          ],
+          [
+            479678.18719999865,
+            6671778.725599997
+          ],
+          [
+            479254.2254000008,
+            6672488.959600002
+          ],
+          [
+            479572.6206,
+            6674263.137900002
+          ],
+          [
+            480604.19409999996,
+            6673659.363300003
+          ],
+          [
+            482120.14009999856,
+            6671462.980999999
+          ],
+          [
+            479895.8348999992,
+            6668483.739500001
+          ],
+          [
+            479830.9772000015,
+            6667712.3539
+          ],
+          [
+            480231.68459999934,
+            6667191.861000001
+          ],
+          [
+            482678.06540000066,
+            6666107.052199997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5443",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "6762.654787"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            473626.7069000006,
+            6674210.690800004
+          ],
+          [
+            475267.9422999993,
+            6673264.9629999995
+          ],
+          [
+            476694.7943999991,
+            6672274.687700003
+          ],
+          [
+            477413.78920000046,
+            6672292.411899999
+          ],
+          [
+            477889.56489999965,
+            6673084.070600003
+          ],
+          [
+            479254.2254000008,
+            6672488.959600002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5444",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "4092.904813"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            482120.14009999856,
+            6671462.980999999
+          ],
+          [
+            482337.22030000016,
+            6671079.3895
+          ],
+          [
+            484132.09050000086,
+            6671889.913900003
+          ],
+          [
+            485422.91899999976,
+            6672969.463500001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5445",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "16946.247758"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            479572.6206,
+            6674263.137900002
+          ],
+          [
+            477455.1964999996,
+            6676002.1228
+          ],
+          [
+            476544.2307999991,
+            6682386.008000001
+          ],
+          [
+            476670.8614999987,
+            6683830.210900001
+          ],
+          [
+            475032.5958000012,
+            6684093.2619
+          ],
+          [
+            473669.2140999995,
+            6685657.675999999
+          ],
+          [
+            473078.60440000147,
+            6687446.330700003
+          ],
+          [
+            473597.28269999847,
+            6687901.2742
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5446",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "2666.669294"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            476495.9145000018,
+            6672412.715899996
+          ],
+          [
+            474413.4274000004,
+            6670747.071099997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5447",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "3096.601998"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            482696.4631000012,
+            6666082.411899999
+          ],
+          [
+            485222.7479999997,
+            6664291.649899997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5448",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "2801.454734"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            483490.429299999,
+            6665519.6074
+          ],
+          [
+            482670.1460000016,
+            6664478.509199999
+          ],
+          [
+            481444.08960000053,
+            6665300.367399998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5449",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "103231.463347"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            292566.91970000044,
+            6609001.6061
+          ],
+          [
+            338509.0207000002,
+            6614331.7267
+          ],
+          [
+            377761.9549999982,
+            6655636.258400001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5450",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "53616.301062"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            426677.27329999954,
+            6655202.143299997
+          ],
+          [
+            430031.37790000066,
+            6654373.1027000025
+          ],
+          [
+            434735.2897000015,
+            6655850.108400002
+          ],
+          [
+            447212.6649999991,
+            6660026.626500003
+          ],
+          [
+            455344.8570000008,
+            6662165.052299999
+          ],
+          [
+            464359.5929000005,
+            6663180.176799998
+          ],
+          [
+            473932.6805999987,
+            6664249.323399998
+          ],
+          [
+            476244.2806000002,
+            6668637.868600003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5451",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "4538.276527"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            426677.27329999954,
+            6655202.143299997
+          ],
+          [
+            427888.75609999895,
+            6656642.906999998
+          ],
+          [
+            427726.17119999975,
+            6657123.898199998
+          ],
+          [
+            427137.6206,
+            6657882.023500003
+          ],
+          [
+            426249.7190999985,
+            6658266.840599999
+          ],
+          [
+            426260.51040000096,
+            6658487.241700001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5452",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "25239.317638"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            420704.64979999885,
+            6651057.187799998
+          ],
+          [
+            421899.79349999875,
+            6651888.320100002
+          ],
+          [
+            422044.1262000017,
+            6653303.122900002
+          ],
+          [
+            422792.8995000012,
+            6655298.313199997
+          ],
+          [
+            426677.27329999954,
+            6655202.143299997
+          ],
+          [
+            427020.4012000002,
+            6653891.123300001
+          ],
+          [
+            426705.4492999986,
+            6652560.524700001
+          ],
+          [
+            425086.14130000025,
+            6649688.775700003
+          ],
+          [
+            423459.1649999991,
+            6647237.802000001
+          ],
+          [
+            423053.9959000014,
+            6646718.810500003
+          ],
+          [
+            423110.2157999985,
+            6646462.357199997
+          ],
+          [
+            423745.72940000147,
+            6646279.776500002
+          ],
+          [
+            423975.1284000017,
+            6645439.701200001
+          ],
+          [
+            423385.6422000006,
+            6645169.052100003
+          ],
+          [
+            423581.12750000134,
+            6644395.309199996
+          ],
+          [
+            423330.81810000166,
+            6644295.490999997
+          ],
+          [
+            423387.52160000056,
+            6643882.254100002
+          ],
+          [
+            423015.6281000003,
+            6643846.645000003
+          ],
+          [
+            423041.91640000045,
+            6644088.003899999
+          ],
+          [
+            422025.72890000045,
+            6644137.652800001
+          ],
+          [
+            422146.2010000013,
+            6644345.851599999
+          ],
+          [
+            421572.86609999835,
+            6644784.225599997
+          ],
+          [
+            421658.77160000056,
+            6644966.2302
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5453",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "3592.128723"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            423015.6281000003,
+            6643846.645000003
+          ],
+          [
+            422616.0778999999,
+            6643382.645800002
+          ],
+          [
+            420748.85170000046,
+            6643594.757799998
+          ],
+          [
+            420121.89169999957,
+            6642690.222900003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5454",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "3399.959227"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            418436.53599999845,
+            6639737.376999997
+          ],
+          [
+            420121.89169999957,
+            6642690.222900003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5455",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "10854.159986"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            414194.76040000096,
+            6638572.256999999
+          ],
+          [
+            415119.66420000046,
+            6641212.902500004
+          ],
+          [
+            417184.9748999998,
+            6642412.048299998
+          ],
+          [
+            416591.3647999987,
+            6643467.0266999975
+          ],
+          [
+            417659.3029999994,
+            6644433.501500003
+          ],
+          [
+            420121.89169999957,
+            6642690.222900003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5456",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "9539.099355"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            629452.9466000013,
+            6574820.957000002
+          ],
+          [
+            631575.7379000001,
+            6571218.2897000015
+          ],
+          [
+            629568.7690000013,
+            6566250.866800003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5457",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "123719.860474"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            447507.9734000005,
+            6538148.310800001
+          ],
+          [
+            414467.875,
+            6579804.973899998
+          ],
+          [
+            400457.4866999984,
+            6609483.363600001
+          ],
+          [
+            393419.17080000043,
+            6646552.956200004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5458",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "85825.986333"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            422962.93019999936,
+            6643783.861000001
+          ],
+          [
+            416660.9017999992,
+            6644050.183399998
+          ],
+          [
+            413130.3167999983,
+            6644090.1303
+          ],
+          [
+            409495.7943999991,
+            6647005.152599998
+          ],
+          [
+            404386.3299999982,
+            6644766.839599997
+          ],
+          [
+            400847.7333999984,
+            6646538.026900001
+          ],
+          [
+            399517.0225000009,
+            6645433.9701000005
+          ],
+          [
+            392412.14070000127,
+            6646737.7513
+          ],
+          [
+            382245.3147,
+            6651535.8024
+          ],
+          [
+            377179.12220000103,
+            6656169.314099997
+          ],
+          [
+            374139.03759999946,
+            6659794.9036
+          ],
+          [
+            368787.76669999957,
+            6664318.257600002
+          ],
+          [
+            362311.0676999986,
+            6670998.792999998
+          ],
+          [
+            363366.9342,
+            6673666.039499998
+          ],
+          [
+            360492.8225999996,
+            6677836.455300003
+          ],
+          [
+            360690.06650000066,
+            6678292.608900003
+          ],
+          [
+            358868.8205999993,
+            6683226.433300003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5459",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "79953.5247"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            407474.1160000004,
+            6511144.859499998
+          ],
+          [
+            412746.5945999995,
+            6512938.1570999995
+          ],
+          [
+            415175.5207999982,
+            6527192.713100001
+          ],
+          [
+            422961.6895000003,
+            6530704.263300002
+          ],
+          [
+            436000.56120000035,
+            6535919.476499997
+          ],
+          [
+            450800.304299999,
+            6538785.9921
+          ],
+          [
+            472500.51680000126,
+            6543769.280100003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5460",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "58051.92688"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            680735.8084999993,
+            6570080.504100002
+          ],
+          [
+            664559.504900001,
+            6565450.827
+          ],
+          [
+            647479.2415999994,
+            6572739.5918999985
+          ],
+          [
+            638988.6972999983,
+            6578034.110100001
+          ],
+          [
+            629452.9466000013,
+            6574820.957000002
+          ],
+          [
+            626909.0773999989,
+            6574350.013300002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.5",
+    "attributes": {
+      "OBJECTID": "5461",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1191",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Belgian Hydrogen Backbone",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Belgium [currently known as Belgian Hydrogen Backbone]",
+      "TECHNICAL_DESCR": "<p>The Belgian Hydrogen Backbone has the ambition to link hydrogen import facilities (terminals located in Antwerp, Zeebrugge and Dunkirk) and local hydrogen production in Belgium with industrial clusters through an interconnected hydrogen backbone.</p>\n\n<p>The Belgian Hydrogen Backbone consists of the following key parts:</p>\n\n<p>- Interconnection BE - NL, connecting the ports of Ghent and Antwerp towards NL of approx. 100 km new pipelines.</p>\n\n<p>- Interconnection BE - DE, section Antwerp - Eynatten of approx. 220 km of new pipelines and section Maldegem - Desteldonk of approx. 35 km of repurposed pipelines.</p>\n\n<p>- Import Zeebrugge -&nbsp;BE, section Zeebrugge - Maldegem of approx. 25 km of repurposed pipelines.</p>\n\n<p>- Import Dunkirk -&nbsp;BE, section Alveringem - Maldegem of approx. 80 km&nbsp;new or&nbsp;repurposed pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons - Valenciennes&nbsp;Cluster of approx. 55 km new pipelines.</p>\n\n<p>- Interconnection BE -&nbsp;FR, section Mons -&nbsp; Zomergem&nbsp;of approx. 115 km of new pipelines.</p>\n\n<p>The project will be executed in different phases. During the first phase (expected to be commissioned for mid-2026), focus will be on developing the H2 backbone in some domestic industrial clusters including cross border connection to the Netherlands (for a cross-border capacity of 0.33 Mt/y). Subsequent phase(s) will follow immediately based on further commercial interactions and alignment with adjacent TSOs entailing the connection of the H2 backbone respectively to (i) the port of Antwerp-Bruges to the German border (phase 2 representing a cross-border capacity of 0.85 Mt/y) and (ii) French border including connection to Zeebrugge (representing a cross-border capacity of progressively 0.22 Mt/y (Mons), 0.33 Mt/y (Blaregnies), 0.44 Mt/y (Alveringem), and 0.44 Mt/y (Zeebrugge).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": " Fluxys Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "41340.637989"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            432104.4791000001,
+            6505465.0251
+          ],
+          [
+            443438.26110000163,
+            6521654.808700003
+          ],
+          [
+            452290.1565000005,
+            6530209.854999997
+          ],
+          [
+            447507.9734000005,
+            6538148.310800001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

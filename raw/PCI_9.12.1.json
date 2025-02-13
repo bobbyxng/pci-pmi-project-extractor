@@ -1,0 +1,88 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Hydrogen terminal",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.12.1",
+    "attributes": {
+      "OBJECTID": "4806",
+      "INFRA": "28",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.12.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1205",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.12",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Rotterdam LH2 reception facility",
+      "PROJECT_FULL_TITLE": "Rotterdam LH2 reception facility",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">Rotterdam LH2 includes a reception facility for refuelling liquid hydrogen road trailers.<br />\nThe ammonia import terminal will grow over time to facilitate the increasing flows of ammonia into Europe.<br />\nThe import terminal includes de- and re-loading infrastructure itself (LH2 Pumps with a flowrate of 250 m3/h and loading arms to de-load the ships and fuel barks); as well as two LH2 storage facilities with a capacity of 12,500 m3 each.&nbsp;<br />\nThe terminal will have the following technical characteristics:<br />\n- H2 Import capacity: 3.36 GWh/d (based on the number of jetties at the terminal and the discharge flow rates from vessels into the terminal)<br />\n- Injection capacity: 3.36 GWh/d<br />\n- Storage capacity: 25,000 m3<br />\nThe project is expected to lead to an increase in hydrogen reception facility send-out capacity of 3.36 GWh/d.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "NL",
+      "PROMOTERS": "Shell New Energies BV",
+      "COMMISSIONING_DATE": "2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -989205.9858000018,
+      "y": 4572707.658799998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Hydrogen terminal",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.12.1",
+    "attributes": {
+      "OBJECTID": "4807",
+      "INFRA": "28",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.12.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1205",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.12",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Rotterdam LH2 reception facility",
+      "PROJECT_FULL_TITLE": "Rotterdam LH2 reception facility",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">Rotterdam LH2 includes a reception facility for refuelling liquid hydrogen road trailers.<br />\nThe ammonia import terminal will grow over time to facilitate the increasing flows of ammonia into Europe.<br />\nThe import terminal includes de- and re-loading infrastructure itself (LH2 Pumps with a flowrate of 250 m3/h and loading arms to de-load the ships and fuel barks); as well as two LH2 storage facilities with a capacity of 12,500 m3 each.&nbsp;<br />\nThe terminal will have the following technical characteristics:<br />\n- H2 Import capacity: 3.36 GWh/d (based on the number of jetties at the terminal and the discharge flow rates from vessels into the terminal)<br />\n- Injection capacity: 3.36 GWh/d<br />\n- Storage capacity: 25,000 m3<br />\nThe project is expected to lead to an increase in hydrogen reception facility send-out capacity of 3.36 GWh/d.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "NL",
+      "PROMOTERS": "Shell New Energies BV",
+      "COMMISSIONING_DATE": "2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 451770.12110000104,
+      "y": 6792422.793799996,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

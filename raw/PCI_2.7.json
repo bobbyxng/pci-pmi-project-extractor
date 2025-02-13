@@ -1,0 +1,232 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.7",
+    "attributes": {
+      "OBJECTID": "1605",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "2.7",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1161",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " Otrokovice (CZ) - Ladce (SK)",
+      "PROJECT_FULL_TITLE": "Interconnector between Otrokovice (CZ) - Ladce (SK)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">A construction of a new AC 400 kV cross-border OHL single-circuit line between the 420 kV substations Otrokovice (CZ) and Ladce (SK) with a total length of 78 km and a transmission capacity 1694 MW. Taking into consideration the ongoing gradual decommissioning of the 220 kV transmission network and its replacement by 400 kV grid on both Czech and Slovak systems including the common profile, the construction of the new 400 kV interconnector is one of the measures aiming at replacing the existing 220 kV interconnectors and increasing the transmission capacity on the Czech-Slovak border.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "CZ, SK",
+      "PROMOTERS": "SEPS (SK) ; \u010cEPS a.s. (CZ)",
+      "COMMISSIONING_DATE": "12/2035",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "94612.201036"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1954958.8491000012,
+            6311955.8574
+          ],
+          [
+            1954223.063099999,
+            6314727.726899996
+          ],
+          [
+            1951809.0075999983,
+            6317970.988200001
+          ],
+          [
+            1951680.0062999986,
+            6319017.3006
+          ],
+          [
+            1952484.7747000009,
+            6319950.831699997
+          ],
+          [
+            1954808.0876999982,
+            6320670.332699999
+          ],
+          [
+            1957420.9393000007,
+            6325020.643600002
+          ],
+          [
+            1958378.5434000008,
+            6325956.871600002
+          ],
+          [
+            1959798.3387999982,
+            6325690.889300004
+          ],
+          [
+            1962963.5874000005,
+            6324007.549000002
+          ],
+          [
+            1964419.9046999998,
+            6323889.358400002
+          ],
+          [
+            1966011.3121999986,
+            6321286.138099998
+          ],
+          [
+            1967255.247200001,
+            6321074.525799997
+          ],
+          [
+            1970255.8995999992,
+            6321506.4366
+          ],
+          [
+            1972521.0971000008,
+            6322976.222499996
+          ],
+          [
+            1973605.0355000012,
+            6322857.914999999
+          ],
+          [
+            1974609.9877000004,
+            6322200.660700001
+          ],
+          [
+            1978975.8150999993,
+            6321756.177500002
+          ],
+          [
+            1979483.243999999,
+            6320902.256300002
+          ],
+          [
+            1978691.4624000005,
+            6318994.7654
+          ],
+          [
+            1980010.3401999995,
+            6315653.7029
+          ],
+          [
+            1980736.1801999994,
+            6315103.486400001
+          ],
+          [
+            1981993.3462000005,
+            6315637.225599997
+          ],
+          [
+            1983333.232900001,
+            6316293.427100003
+          ],
+          [
+            1984082.1061000004,
+            6316473.306999996
+          ],
+          [
+            1984813.8467000015,
+            6316033.101099998
+          ],
+          [
+            1985644.3255999982,
+            6314858.940700002
+          ],
+          [
+            1986088.491700001,
+            6314821.004699998
+          ],
+          [
+            1987954.9838999994,
+            6315058.181100003
+          ],
+          [
+            1990972.5089999996,
+            6314220.006700002
+          ],
+          [
+            1991929.6535999998,
+            6313244.825499997
+          ],
+          [
+            1993741.7824999988,
+            6310746.2255000025
+          ],
+          [
+            1994239.311900001,
+            6308193.514399998
+          ],
+          [
+            1994897.4833999984,
+            6307142.192400001
+          ],
+          [
+            1998332.2481999993,
+            6307033.133400001
+          ],
+          [
+            1999853.833900001,
+            6306305.297200002
+          ],
+          [
+            2003589.8269999996,
+            6307822.1972
+          ],
+          [
+            2006200.7688000016,
+            6307938.331299998
+          ],
+          [
+            2009168.8440999985,
+            6304527.4969
+          ],
+          [
+            2011431.4591000006,
+            6303774.3191
+          ],
+          [
+            2012976.8277000003,
+            6303837.815700002
+          ],
+          [
+            2014472.0198,
+            6304082.478799999
+          ],
+          [
+            2015969.3079999983,
+            6304327.2119999975
+          ],
+          [
+            2017028.0661999993,
+            6305293.9987
+          ],
+          [
+            2018237.7474999987,
+            6305590.2771999985
+          ],
+          [
+            2018355.058699999,
+            6305734.424099997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

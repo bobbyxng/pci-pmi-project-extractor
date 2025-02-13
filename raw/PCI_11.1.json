@@ -1,0 +1,320 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "11.1",
+    "attributes": {
+      "OBJECTID": "2247",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "11.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1240",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "BEMIP Hydrogen",
+      "CORRIDOR_NUMBER": "23",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydrogen interconnector between Sweden and Finland",
+      "PROJECT_FULL_TITLE": "Hydrogen interconnector between Sweden and Finland [currently known as Nordic Hydrogen Route  Bothnian Bay]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">Nordic Hydrogen Route (NHR) &ndash; Bothnian Bay is a cross-border infrastructure project in the Swedish and Finish Bothnian Bay connecting production/ storage/ export facilities for hydrogen as well as hydrogen offtakers in Sweden and in Finland. The project aims to develop a 1,021 km (526 km on Swedish and 495 km on Finnish sides) 100% hydrogen infrastructure composed of both new onshore and potentially offshore pipelines.</p>\n\n<p>On the Swedish section<br />\n&bull; New 180 km from &Ouml;rnsk&ouml;ldsvik to Ume&aring;,<br />\n&bull; New 209 km from Ume&aring; to Boden,<br />\n&bull; New 137 km from Boden to the Swedish-Finnish border point.<br />\nOn the Finnish section<br />\n&bull; New 15 km from Swedish-Finnish border point Tornio to the harbor of Tornio (R&ouml;ytt&auml;),<br />\n&bull; New 140 km from harbor of Tornio (R&ouml;ytt&auml;) to Oulu,<br />\n&bull; New 70 km from Oulu to Raahe,<br />\n&bull; New 150 km from Raahe to Kokkola,<br />\n&bull; New 120 km from Kokkola to Vaasa.</p>\n\n<p>Transmission capacity up to 4.4 Mt/y. Hydrogen supply potential of ~2.7 Mt/y by 2030 and ~6 Mt/y by 2040. Details provided reflect the planning status by April 2024, but may be revised in the following months.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FI, SE",
+      "PROMOTERS": "Gasgrid Finland Oy (FI)  ; Nordion Energi AB (SE) ",
+      "COMMISSIONING_DATE": "31/12/2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "2074456.849836"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2089470.5269000009,
+            9161713.484399997
+          ],
+          [
+            2129675.5229,
+            9197314.854999997
+          ],
+          [
+            2139496.5907000005,
+            9228619.508500002
+          ],
+          [
+            2161593.9930999987,
+            9248261.644000001
+          ],
+          [
+            2193205.5549000017,
+            9248568.552299999
+          ],
+          [
+            2227886.2003999986,
+            9265141.604199998
+          ],
+          [
+            2263334.116799999,
+            9294758.261600003
+          ],
+          [
+            2282669.3440000005,
+            9312098.584299996
+          ],
+          [
+            2302311.4794999994,
+            9326216.369199999
+          ],
+          [
+            2301697.662700001,
+            9390974.034699999
+          ],
+          [
+            2313360.1807000004,
+            9448058.990999997
+          ],
+          [
+            2334229.9496,
+            9514965.015
+          ],
+          [
+            2337912.8500000015,
+            9545655.8517
+          ],
+          [
+            2339140.4835,
+            9558546.0031
+          ],
+          [
+            2344051.0174000002,
+            9567139.437399998
+          ],
+          [
+            2346506.2842999995,
+            9591692.106799997
+          ],
+          [
+            2352951.3599999994,
+            9611334.242299996
+          ],
+          [
+            2366148.4197999984,
+            9635886.911600001
+          ],
+          [
+            2375355.6708000004,
+            9661974.1228
+          ],
+          [
+            2380573.1130999997,
+            9671795.1906
+          ],
+          [
+            2409422.4996000007,
+            9704941.294200003
+          ],
+          [
+            2444716.9618000016,
+            9729187.055200003
+          ],
+          [
+            2464972.914000001,
+            9756501.899899997
+          ],
+          [
+            2473566.348299999,
+            9773688.7685
+          ],
+          [
+            2476021.6152000017,
+            9803151.971699998
+          ],
+          [
+            2479397.6072999984,
+            9820645.748599999
+          ],
+          [
+            2485842.6829999983,
+            9839060.250699997
+          ],
+          [
+            2493208.4838000014,
+            9846732.959799998
+          ],
+          [
+            2573311.5676000006,
+            9840901.700900003
+          ],
+          [
+            2605843.8544999994,
+            9838446.433899999
+          ],
+          [
+            2637762.3247000016,
+            9841822.425999999
+          ],
+          [
+            2688709.1136000007,
+            9836911.892099999
+          ],
+          [
+            2708504.7032999992,
+            9835837.712800004
+          ],
+          [
+            2725691.571899999,
+            9823407.9239
+          ],
+          [
+            2737047.181499999,
+            9808215.959799998
+          ],
+          [
+            2755154.7751,
+            9800850.159000002
+          ],
+          [
+            2790449.237300001,
+            9784123.652999997
+          ],
+          [
+            2803339.388799999,
+            9779520.027400002
+          ],
+          [
+            2830040.416700002,
+            9754353.541299999
+          ],
+          [
+            2836945.8550000004,
+            9741616.844099998
+          ],
+          [
+            2834337.1338,
+            9676552.2703
+          ],
+          [
+            2838633.851,
+            9638802.541100003
+          ],
+          [
+            2844158.2016000003,
+            9609339.337899998
+          ],
+          [
+            2842316.7514000013,
+            9585553.939400002
+          ],
+          [
+            2835257.8588999994,
+            9579108.863700002
+          ],
+          [
+            2826971.3330000006,
+            9577727.776100002
+          ],
+          [
+            2815462.269299999,
+            9566218.712300003
+          ],
+          [
+            2789375.0581,
+            9551026.748099998
+          ],
+          [
+            2761446.3966999985,
+            9539517.6844
+          ],
+          [
+            2749016.6077999994,
+            9526934.441299997
+          ],
+          [
+            2738428.269099999,
+            9518954.823799998
+          ],
+          [
+            2724003.5758999996,
+            9491026.1624
+          ],
+          [
+            2718172.3169,
+            9470923.664300002
+          ],
+          [
+            2686253.8467000015,
+            9410155.807599999
+          ],
+          [
+            2673363.6953000017,
+            9375168.253799997
+          ],
+          [
+            2642059.0418,
+            9346318.867299996
+          ],
+          [
+            2624565.264899999,
+            9337111.616300002
+          ],
+          [
+            2618427.097600002,
+            9325756.006700002
+          ],
+          [
+            2588043.1691999994,
+            9304272.420999996
+          ],
+          [
+            2525126.954,
+            9251791.0902
+          ],
+          [
+            2507940.0854,
+            9215575.902900003
+          ],
+          [
+            2492901.5753999986,
+            9192250.866999999
+          ],
+          [
+            2499960.4679000005,
+            9178746.8988
+          ],
+          [
+            2494436.1173,
+            9157877.129900001
+          ],
+          [
+            2479090.6988999993,
+            9140690.261299998
+          ],
+          [
+            2455458.7545999996,
+            9127493.201499999
+          ],
+          [
+            2436737.3442,
+            9126725.930600002
+          ],
+          [
+            2409729.407900002,
+            9123656.846900001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

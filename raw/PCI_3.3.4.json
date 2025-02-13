@@ -1,0 +1,64 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.4",
+    "attributes": {
+      "OBJECTID": "1000",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.3.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1117",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Vilnius-Neris (LT)",
+      "PROJECT_FULL_TITLE": "Internal line between Vilnius and Neris (LT)",
+      "TECHNICAL_DESCR": "<p>New single circuit 330 kV OHL (943 MVA, 80 km length).</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "LT",
+      "PROMOTERS": "LITGRID AB (LT)",
+      "COMMISSIONING_DATE": "02/11/2025",
+      "CEF_ACTIONS": "4.8.1-0021-ltlv-w-m-18",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.1-0021-LTLV-W-M-18.pdf",
+      "STUDIES_OR_WORKS": "Works",
+      "SHAPE.LEN": "47499.028494"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2796115.0819000006,
+            7286791.9542
+          ],
+          [
+            2813520.5139999986,
+            7293844.553900003
+          ],
+          [
+            2811778.7201000005,
+            7305684.369599998
+          ],
+          [
+            2797505.6308999993,
+            7314453.699500002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

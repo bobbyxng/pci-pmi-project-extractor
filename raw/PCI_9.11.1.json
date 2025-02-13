@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Hydrogen terminal",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.11.1",
+    "attributes": {
+      "OBJECTID": "3537",
+      "INFRA": "28",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.11.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1202",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.11",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Ammonia Import Terminal Brunsb\u00fcttel ",
+      "PROJECT_FULL_TITLE": " Ammonia reception facility terminal Brunsb\u00fcttel ",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The project Ammonia Import Terminal in Brunsb&uuml;ttel aims to enable the import of a significant amount of green ammonia. Around 300,000 tons of green NH3/y will arrive via the terminal in Brunsb&uuml;ttel in a first phase. In the second phase, the overall import capacity will be increased to approximately 1.9 Mt/y of green NH3, which amount to about 0.233 Mt/y of H2 after the cracking process, which shall inject H2 into the pipeline grid.<br />\nThe hydrogen terminal, which is composed of berthing infrastructure with unloading facilities; transport pipeline from jetty/berth to the facility; ammonia storage tank; boil-off-gas system, send-out facilities (loading arms for trucks and train wagons); flare (overpressure reduction system); ammonia cracker; hydrogen metering and if necessary compression station; will have the following technical characteristics:<br />\n- NH3 Import capacity: 30 GWh/d (1.9 Mt/y)<br />\n- H2 Injection capacity: 23 GWh/d (0.233 Mt/y)<br />\n- Storage capacity: 125,000 m3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />\nThe project is expected to lead to a capacity increment of 23.5 GWh/d (700 t/d).</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "RWE Supply & Trading GmbH",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1023135.6673999988,
+      "y": 7149570.3904,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

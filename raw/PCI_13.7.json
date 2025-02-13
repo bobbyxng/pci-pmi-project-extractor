@@ -1,0 +1,84 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.7",
+    "attributes": {
+      "OBJECTID": "2573",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.7",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1144",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Delta Rhine Corridor",
+      "PROJECT_FULL_TITLE": "Delta Rhine Corridor \u2013This project will transport CO2 from Germany, The Netherlands and potentially Belgium to offshore storage infrastructure off the Dutch coast",
+      "TECHNICAL_DESCR": "<p>The Delta Rhine Corridor Project envisages a new-built high-capacity pipeline to transport carbon dioxide from emitters to CO2 export infrastructure in the Rotterdam harbour (such as the Aramis PCI). Via this export infrastructure, the CO2 can be transported to geological storage sites, located offshore in the North Sea.</p>\n\n<p>The infrastructure elements comprising this PCI are:&nbsp;</p>\n\n<ul>\n<li>Pipelines, other than upstream, collecting CO2 from industry clusters in the Rotterdam area, Chemelot, the German Ruhr area, Rhineland region, Rhineland-Palatinate and potentially Antwerp.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>The project aims to tie in at the Maasvlakte in the Aramis PCI infrastructure for further transport of the CO2 to permanent geological storage in depleted gas reservoirs in the North Sea. Other CO2 storage, export or utilization infrastructure projects could also be connected to the Delta Rhine Corridor.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, DE, NL",
+      "PROMOTERS": "Gasunie (NL) ; Shell (NL) ; BASF (DE) ; OGE (DE) ; Port of Rotterdam (NL)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "530333.198852"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            781170.2096999995,
+            6730599.991300002
+          ],
+          [
+            737776.9494999982,
+            6727132.788900003
+          ],
+          [
+            692182.2620999999,
+            6689563.989399999
+          ],
+          [
+            774455.6083000004,
+            6588954.618299998
+          ],
+          [
+            768851.3478000015,
+            6572183.161700003
+          ],
+          [
+            817778.9096999988,
+            6485708.0436
+          ],
+          [
+            890064.1570999995,
+            6420808.690700002
+          ],
+          [
+            912078.0212999992,
+            6417598.335500002
+          ],
+          [
+            935312.6576999985,
+            6360844.8500000015
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

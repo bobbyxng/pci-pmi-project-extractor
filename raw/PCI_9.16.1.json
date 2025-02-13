@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.16.1",
+    "attributes": {
+      "OBJECTID": "2243",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.16.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1215",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.16",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " CarlHYng electrolyser",
+      "PROJECT_FULL_TITLE": " CarlHYng electrolyser",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">CarlHYng is an ambitious renewable and low-carbon hydrogen production project situated in the town of Carling (France). The project aims to achieve a total capacity of 300 MW&nbsp;by implementing three successive units between 2027 and 2030. This phased approach will culminate in a nominal production output of 0.051 Mt/y of hydrogen.</p>\n\n<p style=\"text-align:justify\">Verso Energy, the developer behind CarlHYng, has strategically harnessed a portfolio of renewable assets both locally and across France. These assets will supply the necessary electricity to the project&rsquo;s electrolysers. Notably, the majority of the electricity powering the electrolysis process will be sourced from renewable energy, with the remaining portion coming from low-carbon sources.</p>\n\n<p style=\"text-align:justify\">To facilitate the distribution of this green hydrogen, CarlHYng&rsquo;s production plant will be seamlessly integrated into the 100% hydrogen pipeline. This pipeline, a collaborative effort involving GRTgaz, Creos, and Encevo, forms a crucial component of the mosaHYc project. Its purpose is to serve cross-border hydrogen consumers, including the German steel manufacturer SHS Group.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "Verso Energy SAS in collaboration with Siemens Energy",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 746566.5441000015,
+      "y": 6301900.4472,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

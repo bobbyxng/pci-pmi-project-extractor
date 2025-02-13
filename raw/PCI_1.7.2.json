@@ -1,0 +1,146 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.7.2",
+    "attributes": {
+      "OBJECTID": "687",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.7.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1062",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Pyrenean crossing 2 (ES, FR)",
+      "PROJECT_FULL_TITLE": "Interconnection between Arag\u00f3n region (ES) and Marsillon (FR) [currently known as \u201cPyrenean crossing 2\u201d]",
+      "TECHNICAL_DESCR": "<p>A new 145&nbsp;km HVDC interconnection between France and Spain located in the central part of the Pyrenees between Arag&oacute;n region (Spain) and Marsillon (France). The project consists of a new HVDC line of 2 GW transfer capacity, internal AC reinforcements and two substations in Spain.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES) ; RTE - R\u00e9seau de Transport d'Electricit\u00e9 (FR)",
+      "COMMISSIONING_DATE": "Null",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -126277.93600000069,
+      "y": 5180018.625600003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.7.2",
+    "attributes": {
+      "OBJECTID": "689",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.7.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1062",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Pyrenean crossing 2 (ES, FR)",
+      "PROJECT_FULL_TITLE": "Interconnection between Arag\u00f3n region (ES) and Marsillon (FR) [currently known as \u201cPyrenean crossing 2\u201d]",
+      "TECHNICAL_DESCR": "<p>A new 145&nbsp;km HVDC interconnection between France and Spain located in the central part of the Pyrenees between Arag&oacute;n region (Spain) and Marsillon (France). The project consists of a new HVDC line of 2 GW transfer capacity, internal AC reinforcements and two substations in Spain.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES) ; RTE - R\u00e9seau de Transport d'Electricit\u00e9 (FR)",
+      "COMMISSIONING_DATE": "Null",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -61012.425799999386,
+      "y": 5246289.080799997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.7.2",
+    "attributes": {
+      "OBJECTID": "996",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.7.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1062",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Pyrenean crossing 2 (ES, FR)",
+      "PROJECT_FULL_TITLE": "Interconnection between Arag\u00f3n region (ES) and Marsillon (FR) [currently known as \u201cPyrenean crossing 2\u201d]",
+      "TECHNICAL_DESCR": "<p>A new 145&nbsp;km HVDC interconnection between France and Spain located in the central part of the Pyrenees between Arag&oacute;n region (Spain) and Marsillon (France). The project consists of a new HVDC line of 2 GW transfer capacity, internal AC reinforcements and two substations in Spain.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES) ; RTE - R\u00e9seau de Transport d'Electricit\u00e9 (FR)",
+      "COMMISSIONING_DATE": "Null",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "217724.939044"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -66322.72940000147,
+            5370888.223399997
+          ],
+          [
+            -61012.425799999386,
+            5246289.080799997
+          ],
+          [
+            -126277.93600000069,
+            5180018.625600003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

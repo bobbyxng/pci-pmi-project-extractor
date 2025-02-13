@@ -1,0 +1,223 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.11",
+    "attributes": {
+      "OBJECTID": "662",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.3.11",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1107",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Dunowo-\u017bydowo Kierzkowo (PL) ",
+      "PROJECT_FULL_TITLE": "Internal line between Dunowo and \u017bydowo Kierzkowo (PL)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The Dunowo-\u017bydowo Kierzkowo 400 kV line is interrelated with the project aiming to build the Pi\u0142a Krzewina-\u017bydowo&nbsp;Kierzkowo line.</p>\n\n<p style=\"text-align:justify\">The Dunowo-\u017bydowo Kierzkowo 400 kV project includes:</p>\n\n<p style=\"text-align:justify\">-The reconstruction of Dunowo electrical station with installation of 400/110 kV transformers and,</p>\n\n<p style=\"text-align:justify\">-The construction of new double-circuit 400 kV line.</p>\n\n<p style=\"text-align:justify\">The lines Dunowo-\u017bydowo Kierzkowo 400 kV and Pi\u0142a Krzewina-\u017bydowo&nbsp;Kierzkowo 400 kV will be connected to each other.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL) ",
+      "COMMISSIONING_DATE": "31/12/2026",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1791814.9362000003,
+      "y": 7194211.127599999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.11",
+    "attributes": {
+      "OBJECTID": "2561",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.3.11",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1107",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Dunowo-\u017bydowo Kierzkowo (PL) ",
+      "PROJECT_FULL_TITLE": "Internal line between Dunowo and \u017bydowo Kierzkowo (PL)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The Dunowo-\u017bydowo Kierzkowo 400 kV line is interrelated with the project aiming to build the Pi\u0142a Krzewina-\u017bydowo&nbsp;Kierzkowo line.</p>\n\n<p style=\"text-align:justify\">The Dunowo-\u017bydowo Kierzkowo 400 kV project includes:</p>\n\n<p style=\"text-align:justify\">-The reconstruction of Dunowo electrical station with installation of 400/110 kV transformers and,</p>\n\n<p style=\"text-align:justify\">-The construction of new double-circuit 400 kV line.</p>\n\n<p style=\"text-align:justify\">The lines Dunowo-\u017bydowo Kierzkowo 400 kV and Pi\u0142a Krzewina-\u017bydowo&nbsp;Kierzkowo 400 kV will be connected to each other.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL) ",
+      "COMMISSIONING_DATE": "31/12/2026",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works",
+      "SHAPE.LEN": "88761.757283"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1860122.739500001,
+            7173226.083800003
+          ],
+          [
+            1858710.7065999992,
+            7172894.815800004
+          ],
+          [
+            1857099.304200001,
+            7172059.968999997
+          ],
+          [
+            1851555.4343000017,
+            7172243.715099998
+          ],
+          [
+            1850873.2743000016,
+            7171835.965599999
+          ],
+          [
+            1849204.316300001,
+            7170077.4771
+          ],
+          [
+            1840659.0122999996,
+            7167356.057099998
+          ],
+          [
+            1836699.7501000017,
+            7168703.734200001
+          ],
+          [
+            1834596.1864,
+            7169613.7842999995
+          ],
+          [
+            1829185.4580000006,
+            7171096.275899999
+          ],
+          [
+            1822088.0172999986,
+            7169411.038199998
+          ],
+          [
+            1818238.3328999989,
+            7169675.4758
+          ],
+          [
+            1815403.6235999987,
+            7170392.462899998
+          ],
+          [
+            1812524.3702000007,
+            7168974.323399998
+          ],
+          [
+            1811451.136599999,
+            7168702.466799997
+          ],
+          [
+            1808742.375,
+            7169540.887199998
+          ],
+          [
+            1806310.5412999988,
+            7170335.548600003
+          ],
+          [
+            1803400.1992000006,
+            7171322.708999999
+          ],
+          [
+            1802522.8101000004,
+            7172949.7749999985
+          ],
+          [
+            1801178.701299999,
+            7178254.207000002
+          ],
+          [
+            1798017.7873000018,
+            7180169.413699999
+          ],
+          [
+            1796456.7421999983,
+            7182976.748000003
+          ],
+          [
+            1796362.4266000018,
+            7187576.847599998
+          ],
+          [
+            1794116.4857,
+            7188934.950800002
+          ],
+          [
+            1791998.9266000018,
+            7189554.571500003
+          ],
+          [
+            1790921.5967999995,
+            7193133.617299996
+          ],
+          [
+            1791077.0744999982,
+            7193608.482299998
+          ],
+          [
+            1791549.6651000008,
+            7193783.7700999975
+          ]
+        ],
+        [
+          [
+            1791549.6651000008,
+            7193783.7700999975
+          ],
+          [
+            1791668.814100001,
+            7193944.963399999
+          ]
+        ],
+        [
+          [
+            1791549.6651000008,
+            7193783.7700999975
+          ],
+          [
+            1791615.3388999999,
+            7193987.436399996
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

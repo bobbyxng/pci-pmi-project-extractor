@@ -1,0 +1,76 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.25",
+    "attributes": {
+      "OBJECTID": "1983",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.25",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1230",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "CHE Pipeline",
+      "PROJECT_FULL_TITLE": "Offshore hydrogen pipeline Norway \u2013 Germany ",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The CHE Pipeline project seeks to build a dedicated open-access high pressure hydrogen pipeline from the West coast of Norway to northern Germany. The design of the hydrogen transport infrastructure is under evaluation and will either be based on (1) a partially new- and-partially repurposed natural gas offshore pipeline, (2) a completely new offshore pipeline and (3) a new pipeline that is connected to the Aquaductus pipeline in the German sector.</p>\n\n<p style=\"text-align:justify\">In the repurposed case, a new hydrogen pipeline will be tied into the existing Europipe pipeline with a subsea connection. Three options are currently under assessment for the pipeline section to Germany: (1) repurposed Europipe 1 to Dornum, (2) new built pipeline to Wilhelmshaven (completely new from the hydrogen plant in Norway to Wilhelmshaven) and (3) tie-in to the Aquaductus pipeline.&nbsp;</p>\n\n<p style=\"text-align:justify\">The project also includes an onshore receiving terminal at the exit point of the pipeline in all cases, except for the Aquaductus case. In the Aquaductus case the receiving terminal will be part of the Aquaductus scope. The maximum transport capacity of a newly built hydrogen pipeline infrastructure is up to 4 Mt/y of hydrogen. This hydrogen pipeline infrastructure will allow low-carbon and renewable hydrogen produced in the North and Norwegian Sea Basin to directly connect to the transport pipeline.</p>\n\n<p style=\"text-align:justify\">More specifically the project consists of 3 concepts under review :</p>\n\n<p style=\"text-align:justify\">Concept 1</p>\n\n<p style=\"text-align:justify\">New 360 km 40&rsquo;&rsquo; offshore pipeline from the West coast of Norway to Draupner. The new pipeline will be tied into the Existing Europipe pipeline, which will be disconnected from the natural gas network and re-qualified for hydrogen transport.&nbsp;Europipe is approximately 600 km long and 40&rsquo;&rsquo; in diameter. The capacity of this concept is pending confirmation from DNV, due to ongoing evaluations of Europipe, but is expected to be in the range 1.7 to 4 Mt/y</p>\n\n<p style=\"text-align:justify\">Concept 2</p>\n\n<p style=\"text-align:justify\">New 937 km 40&rsquo;&rsquo; offshore pipeline from the West coast of Norway to a new built receiving terminal in the Wilhelmshaven area. The capacity of this concept is 4 Mt/y.</p>\n\n<p style=\"text-align:justify\">Concept 3</p>\n\n<p style=\"text-align:justify\">New 600 km 40&rsquo;&rsquo; offshore pipeline from the West coast of Norway to tie-in point to Aquaductus at the entry to the German EEZ (Aquaductus phase 2). From this point the hydrogen will be transported to a new built receiving terminal in the Wilhelmshaven area. The capacity of the pipeline from Norway to the Aquaductus tie-in point is 4 Mt/y.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, NO",
+      "PROMOTERS": "Equinor ASA ; GASSCO AS",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1774291.896594"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            848459.2969999984,
+            7114942.771399997
+          ],
+          [
+            486227.05040000007,
+            7522689.592500001
+          ],
+          [
+            269390.2254000008,
+            7997362.904100001
+          ],
+          [
+            427360.9197999984,
+            8423730.769000001
+          ],
+          [
+            504480.1435999982,
+            8594125.142800003
+          ],
+          [
+            564333.3495999984,
+            8586750.510700002
+          ],
+          [
+            562505.2701999992,
+            8582099.036399998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

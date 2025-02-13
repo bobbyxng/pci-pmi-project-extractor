@@ -1,0 +1,385 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.1",
+    "attributes": {
+      "OBJECTID": "2561",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1099",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Stanis\u0142aw\u00f3w-Ostro\u0142\u0119ka (PL)",
+      "PROJECT_FULL_TITLE": "Internal line between Stanis\u0142aw\u00f3w and Ostro\u0142\u0119ka (PL)",
+      "TECHNICAL_DESCR": "<p>Construction of new 400 kV AC double-circuit OHL line with a length of 108 km and capacity of 2x1870 MVA between Ostro\u0142\u0119ka and Stanis\u0142aw&oacute;w.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "5",
+      "IMPLEMENTATION_STATUS_DESCR": "Commissioned",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL)",
+      "COMMISSIONING_DATE": "06/12/2023",
+      "CEF_ACTIONS": "4.5.2-0008-pl-s-m-18",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.5.2-0008-PL-S-M-18.pdf",
+      "STUDIES_OR_WORKS": "Studies"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2392661.476500001,
+      "y": 6912695.289899997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.1",
+    "attributes": {
+      "OBJECTID": "2562",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1099",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Stanis\u0142aw\u00f3w-Ostro\u0142\u0119ka (PL)",
+      "PROJECT_FULL_TITLE": "Internal line between Stanis\u0142aw\u00f3w and Ostro\u0142\u0119ka (PL)",
+      "TECHNICAL_DESCR": "<p>Construction of new 400 kV AC double-circuit OHL line with a length of 108 km and capacity of 2x1870 MVA between Ostro\u0142\u0119ka and Stanis\u0142aw&oacute;w.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "5",
+      "IMPLEMENTATION_STATUS_DESCR": "Commissioned",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL)",
+      "COMMISSIONING_DATE": "06/12/2023",
+      "CEF_ACTIONS": "4.5.2-0008-pl-s-m-18",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.5.2-0008-PL-S-M-18.pdf",
+      "STUDIES_OR_WORKS": "Studies"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2407249.1821000017,
+      "y": 7002727.690099999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.1",
+    "attributes": {
+      "OBJECTID": "2563",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1099",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Stanis\u0142aw\u00f3w-Ostro\u0142\u0119ka (PL)",
+      "PROJECT_FULL_TITLE": "Internal line between Stanis\u0142aw\u00f3w and Ostro\u0142\u0119ka (PL)",
+      "TECHNICAL_DESCR": "<p>Construction of new 400 kV AC double-circuit OHL line with a length of 108 km and capacity of 2x1870 MVA between Ostro\u0142\u0119ka and Stanis\u0142aw&oacute;w.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "5",
+      "IMPLEMENTATION_STATUS_DESCR": "Commissioned",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL)",
+      "COMMISSIONING_DATE": "06/12/2023",
+      "CEF_ACTIONS": "4.5.2-0008-pl-s-m-18",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.5.2-0008-PL-S-M-18.pdf",
+      "STUDIES_OR_WORKS": "Studies"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2399793.973000001,
+      "y": 6849112.113300003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.1",
+    "attributes": {
+      "OBJECTID": "2241",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1099",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Stanis\u0142aw\u00f3w-Ostro\u0142\u0119ka (PL)",
+      "PROJECT_FULL_TITLE": "Internal line between Stanis\u0142aw\u00f3w and Ostro\u0142\u0119ka (PL)",
+      "TECHNICAL_DESCR": "<p>Construction of new 400 kV AC double-circuit OHL line with a length of 108 km and capacity of 2x1870 MVA between Ostro\u0142\u0119ka and Stanis\u0142aw&oacute;w.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "5",
+      "IMPLEMENTATION_STATUS_DESCR": "Commissioned",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL)",
+      "COMMISSIONING_DATE": "06/12/2023",
+      "CEF_ACTIONS": "4.5.2-0008-pl-s-m-18",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.5.2-0008-PL-S-M-18.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "173044.645058"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2393184.8489999995,
+            6912206.364100002
+          ],
+          [
+            2392896.6812000014,
+            6911101.9641999975
+          ],
+          [
+            2393356.4288000017,
+            6908180.127700001
+          ],
+          [
+            2396937.942400001,
+            6906224.582400002
+          ],
+          [
+            2398756.571800001,
+            6903685.031999998
+          ],
+          [
+            2399477.3805,
+            6898039.963200003
+          ],
+          [
+            2399644.968800001,
+            6895216.886
+          ],
+          [
+            2400334.9598000012,
+            6891946.566299997
+          ],
+          [
+            2403691.1226999983,
+            6886765.095200002
+          ],
+          [
+            2401920.7485999987,
+            6880501.134900004
+          ],
+          [
+            2402818.6622,
+            6876111.481799997
+          ],
+          [
+            2401937.6614999995,
+            6872990.992700003
+          ],
+          [
+            2401754.8291999996,
+            6867389.944399998
+          ],
+          [
+            2401881.081599999,
+            6863710.7782000005
+          ],
+          [
+            2402981.785799999,
+            6857474.240400001
+          ],
+          [
+            2402485.5933,
+            6854322.001699999
+          ],
+          [
+            2401288.061999999,
+            6853546.977600001
+          ],
+          [
+            2400553.4507,
+            6849497.302599996
+          ],
+          [
+            2400070.642000001,
+            6849125.5035
+          ],
+          [
+            2399898.979200002,
+            6849116.811099999
+          ]
+        ],
+        [
+          [
+            2392893.41,
+            6912546.6338
+          ],
+          [
+            2393184.8489999995,
+            6912206.364100002
+          ]
+        ],
+        [
+          [
+            2392746.1316,
+            6912664.446699999
+          ],
+          [
+            2392815.147599999,
+            6912508.8222
+          ],
+          [
+            2393184.8489999995,
+            6912206.364100002
+          ]
+        ],
+        [
+          [
+            2392775.6380999982,
+            6912678.986000001
+          ],
+          [
+            2392893.41,
+            6912546.6338
+          ]
+        ],
+        [
+          [
+            2407344.1543000005,
+            7002772.788800001
+          ],
+          [
+            2407492.0714999996,
+            7002808.3763
+          ],
+          [
+            2409005.9144,
+            7003401.001199998
+          ],
+          [
+            2409418.6427000016,
+            7003288.622000001
+          ],
+          [
+            2410096.850400001,
+            7001298.185099997
+          ],
+          [
+            2411064.7503000014,
+            6995069.7883
+          ],
+          [
+            2413057.774799999,
+            6993670.648100004
+          ],
+          [
+            2412734.0953,
+            6988116.241700001
+          ],
+          [
+            2413535.5122999996,
+            6975074.1021
+          ],
+          [
+            2413535.7128,
+            6970017.517200001
+          ],
+          [
+            2410454.1284000017,
+            6964350.408
+          ],
+          [
+            2405229.3869999982,
+            6963640.082400002
+          ],
+          [
+            2403468.9208000004,
+            6962042.146300003
+          ],
+          [
+            2401092.1865000017,
+            6959112.501699999
+          ],
+          [
+            2398532.3266000003,
+            6956668.823100001
+          ],
+          [
+            2396992.8297000006,
+            6941441.038599998
+          ],
+          [
+            2396391.7443999983,
+            6940351.8662
+          ],
+          [
+            2396205.2085000016,
+            6933817.799000002
+          ],
+          [
+            2393926.660799999,
+            6927669.983999997
+          ],
+          [
+            2393885.3603000008,
+            6924616.046800002
+          ],
+          [
+            2394044.543299999,
+            6918246.829700001
+          ],
+          [
+            2393324.2983999997,
+            6913422.9397
+          ],
+          [
+            2392893.41,
+            6912546.6338
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

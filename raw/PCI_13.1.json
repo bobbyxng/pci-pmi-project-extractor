@@ -1,0 +1,1841 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.1",
+    "attributes": {
+      "OBJECTID": "668",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1049",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CO2 TransPorts (NL, BE)",
+      "PROJECT_FULL_TITLE": "CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas",
+      "TECHNICAL_DESCR": "<p>CO2TransPorts is comprised of multiple pipelines proposed to be developed in two distinct project phases. Phase 1 of this PCI is focused on the development of local CO2 collection infrastructure in the Rotterdam and Antwerp port areas. In the Netherlands, the pipeline segment (&lsquo;Rotterdam CO2 Collection Network&rsquo;) will be developed for both the transport and storage of CO2 in the Rotterdam region. In Belgium, the pipeline segment (&lsquo;Antwerp CO2 Collection Network&rsquo;) will consist of local CO2 collection pipelines being developed in the Antwerp region, which will be stored before 2027.</p>\n\n<p>Phase 2 is focused on developing the &lsquo;International Backbone (Antwerp to Rotterdam)&rsquo;, which is the primary piece of cross-border pipeline infrastructure. The international pipeline will stretch from the most northern point of the Antwerp port area, cross the Dutch-Belgian border and connect to Rotterdam&rsquo;s pipeline in the eastern part of the port. Further, the Belgian collection network (&lsquo;Belgium National Backbone&rsquo;) will also be expanded beyond Antwerp to connect to numerous industrial clusters. As Phase 3 is in concept phase, no construction dates are available.&nbsp;</p>\n\n<p>The volumes collected in the Antwerp area before 2027 will be associated with the Northern Lights PCI. For the launching volumes of the collection network in Rotterdam, offshore storage is provided in the P-18 depleted gas fields off the coast of The Hague. Capacity of these fields is 37 Mt of CO2 and it can accommodate a supply rate of the order of 2-3 Mt/y and possibly up to 5 Mt/y. It is therefore planned to utilise the P18 fields to their maximum storage capacity over the initial 15-year operational period at a storage rate of 2.5 Mt/y.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Dedicated CO2 collection pipelines in the Antwerp and Rotterdam areas, excluding upstream pipelines, as well as fixed facilities for liquefaction, buffer storage and CO2 converters in view of its further transportation by pipeline or other modes of transport.</li>\n<li>Surface and injection facilities associated to the P-18 fields.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Havenbedrijf Rotterdam N.V (NL) ; North Sea Port (BE/NL) ; Havenbedrijf Antwerpen NV van publiek recht (BE)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "12.3-0022-nl-s-m-18 ; 12.3-0022-nl-w-m-20 ; 12.3-0027-benl-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-S-M-18.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-W-M-20.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0027-BENL-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies ; Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 435487.59109999985,
+      "y": 6816475.3926,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.1",
+    "attributes": {
+      "OBJECTID": "669",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1049",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CO2 TransPorts (NL, BE)",
+      "PROJECT_FULL_TITLE": "CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas",
+      "TECHNICAL_DESCR": "<p>CO2TransPorts is comprised of multiple pipelines proposed to be developed in two distinct project phases. Phase 1 of this PCI is focused on the development of local CO2 collection infrastructure in the Rotterdam and Antwerp port areas. In the Netherlands, the pipeline segment (&lsquo;Rotterdam CO2 Collection Network&rsquo;) will be developed for both the transport and storage of CO2 in the Rotterdam region. In Belgium, the pipeline segment (&lsquo;Antwerp CO2 Collection Network&rsquo;) will consist of local CO2 collection pipelines being developed in the Antwerp region, which will be stored before 2027.</p>\n\n<p>Phase 2 is focused on developing the &lsquo;International Backbone (Antwerp to Rotterdam)&rsquo;, which is the primary piece of cross-border pipeline infrastructure. The international pipeline will stretch from the most northern point of the Antwerp port area, cross the Dutch-Belgian border and connect to Rotterdam&rsquo;s pipeline in the eastern part of the port. Further, the Belgian collection network (&lsquo;Belgium National Backbone&rsquo;) will also be expanded beyond Antwerp to connect to numerous industrial clusters. As Phase 3 is in concept phase, no construction dates are available.&nbsp;</p>\n\n<p>The volumes collected in the Antwerp area before 2027 will be associated with the Northern Lights PCI. For the launching volumes of the collection network in Rotterdam, offshore storage is provided in the P-18 depleted gas fields off the coast of The Hague. Capacity of these fields is 37 Mt of CO2 and it can accommodate a supply rate of the order of 2-3 Mt/y and possibly up to 5 Mt/y. It is therefore planned to utilise the P18 fields to their maximum storage capacity over the initial 15-year operational period at a storage rate of 2.5 Mt/y.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Dedicated CO2 collection pipelines in the Antwerp and Rotterdam areas, excluding upstream pipelines, as well as fixed facilities for liquefaction, buffer storage and CO2 converters in view of its further transportation by pipeline or other modes of transport.</li>\n<li>Surface and injection facilities associated to the P-18 fields.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Havenbedrijf Rotterdam N.V (NL) ; North Sea Port (BE/NL) ; Havenbedrijf Antwerpen NV van publiek recht (BE)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "12.3-0022-nl-s-m-18 ; 12.3-0022-nl-w-m-20 ; 12.3-0027-benl-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-S-M-18.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-W-M-20.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0027-BENL-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies ; Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 432116.6506999992,
+      "y": 6834146.900700003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.1",
+    "attributes": {
+      "OBJECTID": "670",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1049",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CO2 TransPorts (NL, BE)",
+      "PROJECT_FULL_TITLE": "CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas",
+      "TECHNICAL_DESCR": "<p>CO2TransPorts is comprised of multiple pipelines proposed to be developed in two distinct project phases. Phase 1 of this PCI is focused on the development of local CO2 collection infrastructure in the Rotterdam and Antwerp port areas. In the Netherlands, the pipeline segment (&lsquo;Rotterdam CO2 Collection Network&rsquo;) will be developed for both the transport and storage of CO2 in the Rotterdam region. In Belgium, the pipeline segment (&lsquo;Antwerp CO2 Collection Network&rsquo;) will consist of local CO2 collection pipelines being developed in the Antwerp region, which will be stored before 2027.</p>\n\n<p>Phase 2 is focused on developing the &lsquo;International Backbone (Antwerp to Rotterdam)&rsquo;, which is the primary piece of cross-border pipeline infrastructure. The international pipeline will stretch from the most northern point of the Antwerp port area, cross the Dutch-Belgian border and connect to Rotterdam&rsquo;s pipeline in the eastern part of the port. Further, the Belgian collection network (&lsquo;Belgium National Backbone&rsquo;) will also be expanded beyond Antwerp to connect to numerous industrial clusters. As Phase 3 is in concept phase, no construction dates are available.&nbsp;</p>\n\n<p>The volumes collected in the Antwerp area before 2027 will be associated with the Northern Lights PCI. For the launching volumes of the collection network in Rotterdam, offshore storage is provided in the P-18 depleted gas fields off the coast of The Hague. Capacity of these fields is 37 Mt of CO2 and it can accommodate a supply rate of the order of 2-3 Mt/y and possibly up to 5 Mt/y. It is therefore planned to utilise the P18 fields to their maximum storage capacity over the initial 15-year operational period at a storage rate of 2.5 Mt/y.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Dedicated CO2 collection pipelines in the Antwerp and Rotterdam areas, excluding upstream pipelines, as well as fixed facilities for liquefaction, buffer storage and CO2 converters in view of its further transportation by pipeline or other modes of transport.</li>\n<li>Surface and injection facilities associated to the P-18 fields.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Havenbedrijf Rotterdam N.V (NL) ; North Sea Port (BE/NL) ; Havenbedrijf Antwerpen NV van publiek recht (BE)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "12.3-0022-nl-s-m-18 ; 12.3-0022-nl-w-m-20 ; 12.3-0027-benl-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-S-M-18.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-W-M-20.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0027-BENL-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies ; Works"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 462970.18090000004,
+      "y": 6964628.2815999985,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.1",
+    "attributes": {
+      "OBJECTID": "962",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1049",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CO2 TransPorts (NL, BE)",
+      "PROJECT_FULL_TITLE": "CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas",
+      "TECHNICAL_DESCR": "<p>CO2TransPorts is comprised of multiple pipelines proposed to be developed in two distinct project phases. Phase 1 of this PCI is focused on the development of local CO2 collection infrastructure in the Rotterdam and Antwerp port areas. In the Netherlands, the pipeline segment (&lsquo;Rotterdam CO2 Collection Network&rsquo;) will be developed for both the transport and storage of CO2 in the Rotterdam region. In Belgium, the pipeline segment (&lsquo;Antwerp CO2 Collection Network&rsquo;) will consist of local CO2 collection pipelines being developed in the Antwerp region, which will be stored before 2027.</p>\n\n<p>Phase 2 is focused on developing the &lsquo;International Backbone (Antwerp to Rotterdam)&rsquo;, which is the primary piece of cross-border pipeline infrastructure. The international pipeline will stretch from the most northern point of the Antwerp port area, cross the Dutch-Belgian border and connect to Rotterdam&rsquo;s pipeline in the eastern part of the port. Further, the Belgian collection network (&lsquo;Belgium National Backbone&rsquo;) will also be expanded beyond Antwerp to connect to numerous industrial clusters. As Phase 3 is in concept phase, no construction dates are available.&nbsp;</p>\n\n<p>The volumes collected in the Antwerp area before 2027 will be associated with the Northern Lights PCI. For the launching volumes of the collection network in Rotterdam, offshore storage is provided in the P-18 depleted gas fields off the coast of The Hague. Capacity of these fields is 37 Mt of CO2 and it can accommodate a supply rate of the order of 2-3 Mt/y and possibly up to 5 Mt/y. It is therefore planned to utilise the P18 fields to their maximum storage capacity over the initial 15-year operational period at a storage rate of 2.5 Mt/y.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Dedicated CO2 collection pipelines in the Antwerp and Rotterdam areas, excluding upstream pipelines, as well as fixed facilities for liquefaction, buffer storage and CO2 converters in view of its further transportation by pipeline or other modes of transport.</li>\n<li>Surface and injection facilities associated to the P-18 fields.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Havenbedrijf Rotterdam N.V (NL) ; North Sea Port (BE/NL) ; Havenbedrijf Antwerpen NV van publiek recht (BE)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "12.3-0022-nl-s-m-18 ; 12.3-0022-nl-w-m-20 ; 12.3-0027-benl-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-S-M-18.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-W-M-20.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0027-BENL-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies ; Works",
+      "SHAPE.LEN": "73084.536992"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            481267.5753000006,
+            6663287.786700003
+          ],
+          [
+            481076.2058000006,
+            6662710.335900001
+          ],
+          [
+            480830.14620000124,
+            6662105.224799998
+          ],
+          [
+            479628.98149999976,
+            6662413.958700001
+          ],
+          [
+            479398.7045000009,
+            6662410.875600003
+          ],
+          [
+            479284.0476000011,
+            6662446.4067
+          ],
+          [
+            479277.2507000007,
+            6662465.768100001
+          ],
+          [
+            479174.27589999884,
+            6662829.315700002
+          ],
+          [
+            478731.9818999991,
+            6662932.310099997
+          ],
+          [
+            477999.4686000012,
+            6663277.365500003
+          ],
+          [
+            477426.08100000024,
+            6663456.354199998
+          ],
+          [
+            476744.0100999996,
+            6663624.6523
+          ],
+          [
+            475679.34120000154,
+            6663896.315099999
+          ],
+          [
+            475459.5614,
+            6663764.976800002
+          ],
+          [
+            475118.05380000174,
+            6663704.810199998
+          ],
+          [
+            474625.9028000012,
+            6664029.070699997
+          ],
+          [
+            474319.9219000004,
+            6664580.376999997
+          ]
+        ],
+        [
+          [
+            482026.8616999984,
+            6666354.787100002
+          ],
+          [
+            482080.95050000027,
+            6666506.140600003
+          ],
+          [
+            482008.03830000013,
+            6666545.347000003
+          ],
+          [
+            481894.5804999992,
+            6666405.3561
+          ]
+        ],
+        [
+          [
+            481894.5804999992,
+            6666405.3561
+          ],
+          [
+            480996.7659999989,
+            6665297.5801
+          ],
+          [
+            481086.2386999987,
+            6665234.133599997
+          ],
+          [
+            481233.1928999983,
+            6665342.492600001
+          ],
+          [
+            481495.0091000013,
+            6665280.498499997
+          ],
+          [
+            482156.21990000084,
+            6664849.483599998
+          ],
+          [
+            482735.9877999984,
+            6664371.285899997
+          ],
+          [
+            482910.8451000005,
+            6664149.766400002
+          ],
+          [
+            482302.7595999986,
+            6663500.972499996
+          ],
+          [
+            481826.15029999986,
+            6662793.822300002
+          ],
+          [
+            481655.5179999992,
+            6663077.748199999
+          ],
+          [
+            481397.48640000075,
+            6663350.241300002
+          ],
+          [
+            481275.8867999986,
+            6663271.467100002
+          ]
+        ],
+        [
+          [
+            481894.5804999992,
+            6666405.3561
+          ],
+          [
+            482170.6585999988,
+            6666299.549999997
+          ],
+          [
+            482307.6358000003,
+            6666238.030000001
+          ],
+          [
+            482612.66589999944,
+            6666056.370999999
+          ],
+          [
+            482661.18840000033,
+            6666156.289499998
+          ]
+        ],
+        [
+          [
+            476097.54679999873,
+            6668547.596000001
+          ],
+          [
+            475799.52859999985,
+            6667751.0874999985
+          ],
+          [
+            475498.07499999925,
+            6667725.681999996
+          ],
+          [
+            474427.7842000015,
+            6665507.572400004
+          ],
+          [
+            473963.6810000017,
+            6664969.211900003
+          ],
+          [
+            474312.4323000014,
+            6664581.2663
+          ]
+        ],
+        [
+          [
+            476133.59860000014,
+            6668559.2267
+          ],
+          [
+            475952.7355000004,
+            6668570.4353
+          ],
+          [
+            475952.1270999983,
+            6668662.369099997
+          ],
+          [
+            475870.3753999993,
+            6668660.822899997
+          ],
+          [
+            475824.58309999853,
+            6668661.897699997
+          ],
+          [
+            475822.5513000004,
+            6668797.1576000005
+          ],
+          [
+            475711.16310000047,
+            6668869.861100003
+          ],
+          [
+            475759.2221999988,
+            6668952.610100001
+          ],
+          [
+            475836.40100000054,
+            6669222.156000003
+          ],
+          [
+            475888.7544,
+            6669368.948700003
+          ],
+          [
+            475964.3020000011,
+            6669517.548199996
+          ],
+          [
+            476044.5454999991,
+            6669675.969899997
+          ],
+          [
+            476106.42060000077,
+            6669811.954999998
+          ],
+          [
+            476077.5949999988,
+            6669824.827799998
+          ],
+          [
+            476091.4175999984,
+            6669842.450599998
+          ]
+        ],
+        [
+          [
+            480798.55579999834,
+            6669698.800300002
+          ],
+          [
+            480449.9778999984,
+            6669283.000799999
+          ],
+          [
+            480134.74599999934,
+            6668854.270900004
+          ],
+          [
+            479998.34490000084,
+            6668688.472099997
+          ],
+          [
+            479862.3830999993,
+            6668475.533399999
+          ],
+          [
+            479816.36730000004,
+            6668354.896899998
+          ],
+          [
+            479768.4180999994,
+            6668138.871299997
+          ],
+          [
+            479749.9052999988,
+            6667879.508900002
+          ],
+          [
+            479764.2553999983,
+            6667616.681199998
+          ],
+          [
+            479959.2822000012,
+            6667330.948299997
+          ],
+          [
+            480063.3696000017,
+            6667106.423500001
+          ],
+          [
+            480219.44420000166,
+            6667087.451300003
+          ],
+          [
+            480790.7056999989,
+            6666848.706299998
+          ],
+          [
+            481559.9527999982,
+            6666533.601099998
+          ],
+          [
+            481894.5804999992,
+            6666405.3561
+          ]
+        ],
+        [
+          [
+            482241.41010000184,
+            6671021.8552
+          ],
+          [
+            482231.54360000044,
+            6671018.6875
+          ]
+        ],
+        [
+          [
+            482241.41010000184,
+            6671021.8552
+          ],
+          [
+            482218.4987999983,
+            6670949.486699998
+          ],
+          [
+            482262.77600000054,
+            6670889.515699998
+          ],
+          [
+            481804.5934999995,
+            6670246.322800003
+          ],
+          [
+            481757.4028999992,
+            6670293.1455999985
+          ],
+          [
+            481657.7729000002,
+            6670381.4749
+          ],
+          [
+            481361.3216000013,
+            6670142.081100002
+          ],
+          [
+            481004.2452000007,
+            6669902.008900002
+          ],
+          [
+            480797.39090000093,
+            6669700.114
+          ]
+        ],
+        [
+          [
+            482241.63259999827,
+            6671022.557899997
+          ],
+          [
+            482241.41010000184,
+            6671021.8552
+          ]
+        ],
+        [
+          [
+            479600.7008999996,
+            6671828.004500002
+          ],
+          [
+            479714.19519999996,
+            6671475.950400002
+          ],
+          [
+            479447.12950000167,
+            6670590.0546
+          ],
+          [
+            478767.2509999983,
+            6669380.945699997
+          ],
+          [
+            478053.45540000126,
+            6668799.8445999995
+          ],
+          [
+            476078.7685999982,
+            6668563.941200003
+          ]
+        ],
+        [
+          [
+            485976.625500001,
+            6671949.001699999
+          ],
+          [
+            485954.60909999907,
+            6671845.556299999
+          ],
+          [
+            485559.4855000004,
+            6671863.757700004
+          ],
+          [
+            485222.80799999833,
+            6671882.0402000025
+          ],
+          [
+            485384.41429999843,
+            6672466.156099997
+          ],
+          [
+            485101.8440000005,
+            6672554.412699997
+          ],
+          [
+            484953.8531000018,
+            6672714.502999999
+          ],
+          [
+            484514.2402999997,
+            6672450.631099999
+          ],
+          [
+            484332.71460000053,
+            6671980.732699998
+          ],
+          [
+            484035.6202000007,
+            6671771.172200002
+          ],
+          [
+            483967.63610000163,
+            6671898.1511999965
+          ],
+          [
+            482991.8563000001,
+            6671334.072800003
+          ],
+          [
+            482526.36459999904,
+            6671113.341700003
+          ],
+          [
+            482241.41010000184,
+            6671021.8552
+          ]
+        ],
+        [
+          [
+            478210.7879000008,
+            6672839.066
+          ],
+          [
+            478229.2131000012,
+            6672866.690099999
+          ],
+          [
+            477850.77160000056,
+            6673064.309
+          ],
+          [
+            477774.65619999915,
+            6672911.188699998
+          ]
+        ],
+        [
+          [
+            477774.65619999915,
+            6672911.188699998
+          ],
+          [
+            477887.95710000023,
+            6673023.036200002
+          ],
+          [
+            478169.97780000046,
+            6672856.119199999
+          ],
+          [
+            479330.08469999954,
+            6672291.9001
+          ],
+          [
+            479601.0302999988,
+            6671847.5847999975
+          ]
+        ],
+        [
+          [
+            477774.65619999915,
+            6672911.188699998
+          ],
+          [
+            477575.2382999994,
+            6672510.022699997
+          ],
+          [
+            477454.7996000014,
+            6672336.292000003
+          ],
+          [
+            477268.17980000004,
+            6672367.287900001
+          ],
+          [
+            477038.65300000086,
+            6672284.475299999
+          ],
+          [
+            476732.13529999927,
+            6672308.696000002
+          ],
+          [
+            476466.71819999814,
+            6672422.714299999
+          ],
+          [
+            475910.36199999973,
+            6672713.360200003
+          ],
+          [
+            475454.34600000083,
+            6673060.129299998
+          ],
+          [
+            475211.55579999834,
+            6673300.400899999
+          ],
+          [
+            475269.96279999986,
+            6673371.579700001
+          ]
+        ],
+        [
+          [
+            478474.29089999944,
+            6675050.818099998
+          ],
+          [
+            477659.43079999834,
+            6672797.441500001
+          ],
+          [
+            477774.65619999915,
+            6672911.188699998
+          ]
+        ],
+        [
+          [
+            478474.29089999944,
+            6675050.818099998
+          ],
+          [
+            478502.7738999985,
+            6675027.627099998
+          ]
+        ],
+        [
+          [
+            478475.5976999998,
+            6675054.431900002
+          ],
+          [
+            478474.29089999944,
+            6675050.818099998
+          ]
+        ],
+        [
+          [
+            478456.6933999993,
+            6675063.673799999
+          ],
+          [
+            478458.20749999955,
+            6675063.9133
+          ]
+        ],
+        [
+          [
+            478458.20749999955,
+            6675063.9133
+          ],
+          [
+            478474.29089999944,
+            6675050.818099998
+          ]
+        ],
+        [
+          [
+            478458.20749999955,
+            6675063.9133
+          ],
+          [
+            478523.1196000017,
+            6675074.180399999
+          ],
+          [
+            478784.36609999835,
+            6674929.270900004
+          ],
+          [
+            478957.30849999934,
+            6674816.236599997
+          ],
+          [
+            479208.71609999985,
+            6674643.244800001
+          ],
+          [
+            479393.82140000165,
+            6674532.898000002
+          ],
+          [
+            479596.71290000156,
+            6674393.892999999
+          ],
+          [
+            479670.0566999987,
+            6674335.935800001
+          ],
+          [
+            479829.7309000008,
+            6674245.1862
+          ],
+          [
+            479999.15839999914,
+            6674120.181100003
+          ],
+          [
+            480080.68279999867,
+            6674058.825300001
+          ],
+          [
+            480156.4635999985,
+            6674117.270400003
+          ],
+          [
+            480831.52969999984,
+            6673562.459399998
+          ],
+          [
+            481274.2699000016,
+            6672899.032200001
+          ],
+          [
+            481819.5318999998,
+            6672081.1875
+          ],
+          [
+            482168.9572999999,
+            6671456.355099998
+          ],
+          [
+            482284.0797000006,
+            6671335.082900003
+          ],
+          [
+            482225.05790000036,
+            6671266.457400002
+          ],
+          [
+            482192.67770000175,
+            6671196.452
+          ],
+          [
+            482233.84329999983,
+            6671077.133400001
+          ],
+          [
+            482240.87680000067,
+            6671023.241899997
+          ]
+        ],
+        [
+          [
+            476885.8376000002,
+            6678809.3697
+          ],
+          [
+            477095.67550000176,
+            6677073.5524
+          ],
+          [
+            477415.6009000018,
+            6675894.107299998
+          ],
+          [
+            477882.7996999994,
+            6675530.293300003
+          ],
+          [
+            478408.8887999989,
+            6675104.068899997
+          ],
+          [
+            478458.20749999955,
+            6675063.9133
+          ]
+        ],
+        [
+          [
+            477423.09160000086,
+            6683667.335600004
+          ],
+          [
+            477639.3520999998,
+            6683585.184699997
+          ],
+          [
+            477597.62260000035,
+            6682984.277599998
+          ],
+          [
+            477480.0764000006,
+            6682169.108900003
+          ],
+          [
+            477180.66050000116,
+            6681782.796899997
+          ],
+          [
+            476822.74489999935,
+            6681367.971199997
+          ],
+          [
+            476679.16220000014,
+            6680727.8301
+          ],
+          [
+            476813.50989999995,
+            6679607.902000003
+          ],
+          [
+            476898.03880000114,
+            6678808.5392
+          ]
+        ],
+        [
+          [
+            476415.8878000006,
+            6683784.843500003
+          ],
+          [
+            477004.51150000095,
+            6683717.676100001
+          ],
+          [
+            477405.43250000104,
+            6683667.3364999965
+          ]
+        ],
+        [
+          [
+            473560.49130000174,
+            6687916.947400004
+          ],
+          [
+            473028.47949999943,
+            6687795.763899997
+          ],
+          [
+            473000.09849999845,
+            6687456.0929000005
+          ],
+          [
+            473456.2344000004,
+            6685876.0385000035
+          ],
+          [
+            473583.3878999986,
+            6685458.721500002
+          ],
+          [
+            473815.77650000155,
+            6685196.741300002
+          ],
+          [
+            474259.17080000043,
+            6684772.832900003
+          ],
+          [
+            474553.55779999867,
+            6684486.4155
+          ],
+          [
+            475138.6640999988,
+            6683980.037900001
+          ],
+          [
+            476104.1490999982,
+            6683919.412600003
+          ],
+          [
+            476400.71660000086,
+            6683795.361299999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.1",
+    "attributes": {
+      "OBJECTID": "1030",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1049",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CO2 TransPorts (NL, BE)",
+      "PROJECT_FULL_TITLE": "CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas",
+      "TECHNICAL_DESCR": "<p>CO2TransPorts is comprised of multiple pipelines proposed to be developed in two distinct project phases. Phase 1 of this PCI is focused on the development of local CO2 collection infrastructure in the Rotterdam and Antwerp port areas. In the Netherlands, the pipeline segment (&lsquo;Rotterdam CO2 Collection Network&rsquo;) will be developed for both the transport and storage of CO2 in the Rotterdam region. In Belgium, the pipeline segment (&lsquo;Antwerp CO2 Collection Network&rsquo;) will consist of local CO2 collection pipelines being developed in the Antwerp region, which will be stored before 2027.</p>\n\n<p>Phase 2 is focused on developing the &lsquo;International Backbone (Antwerp to Rotterdam)&rsquo;, which is the primary piece of cross-border pipeline infrastructure. The international pipeline will stretch from the most northern point of the Antwerp port area, cross the Dutch-Belgian border and connect to Rotterdam&rsquo;s pipeline in the eastern part of the port. Further, the Belgian collection network (&lsquo;Belgium National Backbone&rsquo;) will also be expanded beyond Antwerp to connect to numerous industrial clusters. As Phase 3 is in concept phase, no construction dates are available.&nbsp;</p>\n\n<p>The volumes collected in the Antwerp area before 2027 will be associated with the Northern Lights PCI. For the launching volumes of the collection network in Rotterdam, offshore storage is provided in the P-18 depleted gas fields off the coast of The Hague. Capacity of these fields is 37 Mt of CO2 and it can accommodate a supply rate of the order of 2-3 Mt/y and possibly up to 5 Mt/y. It is therefore planned to utilise the P18 fields to their maximum storage capacity over the initial 15-year operational period at a storage rate of 2.5 Mt/y.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Dedicated CO2 collection pipelines in the Antwerp and Rotterdam areas, excluding upstream pipelines, as well as fixed facilities for liquefaction, buffer storage and CO2 converters in view of its further transportation by pipeline or other modes of transport.</li>\n<li>Surface and injection facilities associated to the P-18 fields.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Havenbedrijf Rotterdam N.V (NL) ; North Sea Port (BE/NL) ; Havenbedrijf Antwerpen NV van publiek recht (BE)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "12.3-0022-nl-s-m-18 ; 12.3-0022-nl-w-m-20 ; 12.3-0027-benl-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-S-M-18.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-W-M-20.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0027-BENL-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies ; Works",
+      "SHAPE.LEN": "52076.590363"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            473963.6810000017,
+            6664969.211900003
+          ],
+          [
+            466074.4466000013,
+            6664231.694399998
+          ],
+          [
+            460970.6239,
+            6663748.8288
+          ],
+          [
+            455348.2168999985,
+            6663418.098999999
+          ],
+          [
+            447542.992899999,
+            6661036.8442
+          ],
+          [
+            440200.7906999998,
+            6658192.567699999
+          ],
+          [
+            434776.8216000013,
+            6656472.772600003
+          ],
+          [
+            431204.93939999864,
+            6655546.729099996
+          ],
+          [
+            426971.59760000184,
+            6656075.8967999965
+          ],
+          [
+            423267.42350000143,
+            6656340.480700001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.1",
+    "attributes": {
+      "OBJECTID": "1031",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1049",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CO2 TransPorts (NL, BE)",
+      "PROJECT_FULL_TITLE": "CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas",
+      "TECHNICAL_DESCR": "<p>CO2TransPorts is comprised of multiple pipelines proposed to be developed in two distinct project phases. Phase 1 of this PCI is focused on the development of local CO2 collection infrastructure in the Rotterdam and Antwerp port areas. In the Netherlands, the pipeline segment (&lsquo;Rotterdam CO2 Collection Network&rsquo;) will be developed for both the transport and storage of CO2 in the Rotterdam region. In Belgium, the pipeline segment (&lsquo;Antwerp CO2 Collection Network&rsquo;) will consist of local CO2 collection pipelines being developed in the Antwerp region, which will be stored before 2027.</p>\n\n<p>Phase 2 is focused on developing the &lsquo;International Backbone (Antwerp to Rotterdam)&rsquo;, which is the primary piece of cross-border pipeline infrastructure. The international pipeline will stretch from the most northern point of the Antwerp port area, cross the Dutch-Belgian border and connect to Rotterdam&rsquo;s pipeline in the eastern part of the port. Further, the Belgian collection network (&lsquo;Belgium National Backbone&rsquo;) will also be expanded beyond Antwerp to connect to numerous industrial clusters. As Phase 3 is in concept phase, no construction dates are available.&nbsp;</p>\n\n<p>The volumes collected in the Antwerp area before 2027 will be associated with the Northern Lights PCI. For the launching volumes of the collection network in Rotterdam, offshore storage is provided in the P-18 depleted gas fields off the coast of The Hague. Capacity of these fields is 37 Mt of CO2 and it can accommodate a supply rate of the order of 2-3 Mt/y and possibly up to 5 Mt/y. It is therefore planned to utilise the P18 fields to their maximum storage capacity over the initial 15-year operational period at a storage rate of 2.5 Mt/y.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Dedicated CO2 collection pipelines in the Antwerp and Rotterdam areas, excluding upstream pipelines, as well as fixed facilities for liquefaction, buffer storage and CO2 converters in view of its further transportation by pipeline or other modes of transport.</li>\n<li>Surface and injection facilities associated to the P-18 fields.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Havenbedrijf Rotterdam N.V (NL) ; North Sea Port (BE/NL) ; Havenbedrijf Antwerpen NV van publiek recht (BE)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "12.3-0022-nl-s-m-18 ; 12.3-0022-nl-w-m-20 ; 12.3-0027-benl-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-S-M-18.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-W-M-20.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0027-BENL-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies ; Works",
+      "SHAPE.LEN": "280093.413177"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            505006.06859999895,
+            6747147.315800004
+          ],
+          [
+            504892.8761,
+            6748950.314199999
+          ],
+          [
+            505193.2895000018,
+            6749579.982299998
+          ],
+          [
+            504651.95439999923,
+            6751900.509800002
+          ],
+          [
+            504633.36129999906,
+            6752150.8495000005
+          ],
+          [
+            503822.87139999866,
+            6754067.2403
+          ],
+          [
+            503599.60069999844,
+            6754543.326200001
+          ],
+          [
+            502453.8359999992,
+            6755672.791599996
+          ],
+          [
+            501956.6627999991,
+            6756100.118199997
+          ],
+          [
+            500283.00019999966,
+            6756799.233900003
+          ],
+          [
+            499975.16319999844,
+            6757358.694899999
+          ],
+          [
+            499922.93499999866,
+            6758382.765699998
+          ],
+          [
+            499505.37640000135,
+            6758391.771200001
+          ],
+          [
+            498148.2952999994,
+            6759422.575900003
+          ],
+          [
+            498003.1413999982,
+            6759480.821800001
+          ],
+          [
+            497957.85929999873,
+            6759811.890100002
+          ],
+          [
+            497114.7916000001,
+            6761200.057400003
+          ],
+          [
+            496986.754900001,
+            6762026.133299999
+          ],
+          [
+            496858.94640000165,
+            6762718.954099998
+          ],
+          [
+            496543.056499999,
+            6763963.769000001
+          ],
+          [
+            496361.7142999992,
+            6764417.125399999
+          ],
+          [
+            496300.2476999983,
+            6766020.345700003
+          ],
+          [
+            496250.28180000186,
+            6767246.821800001
+          ],
+          [
+            497228.3365999982,
+            6767955.965899996
+          ],
+          [
+            497471.1783999987,
+            6770422.100100003
+          ],
+          [
+            497712.15410000086,
+            6772060.017499998
+          ],
+          [
+            497675.22309999913,
+            6773136.946599998
+          ],
+          [
+            497404.54670000076,
+            6773475.875
+          ],
+          [
+            496029.0881999992,
+            6774656.327500001
+          ],
+          [
+            494870.6272,
+            6775687.444300003
+          ],
+          [
+            494169.2307000011,
+            6775419.114299998
+          ],
+          [
+            493491.62970000133,
+            6776195.2315
+          ],
+          [
+            492627.8740000017,
+            6776119.976499997
+          ],
+          [
+            491170.85979999974,
+            6775974.804700002
+          ],
+          [
+            490094.9237000011,
+            6776219.299000002
+          ],
+          [
+            489869.1748000011,
+            6777054.5961000025
+          ],
+          [
+            489795.7820999995,
+            6777537.017200001
+          ],
+          [
+            489043.20380000025,
+            6777670.397699997
+          ],
+          [
+            488449.6361999996,
+            6777907.199699998
+          ],
+          [
+            483260.73380000144,
+            6779097.685699999
+          ],
+          [
+            481196.93400000036,
+            6778333.315399997
+          ],
+          [
+            481884.86730000004,
+            6776804.575000003
+          ],
+          [
+            479821.06749999896,
+            6776651.700900003
+          ],
+          [
+            474394.0384999998,
+            6776269.515600003
+          ],
+          [
+            473858.9792999998,
+            6780320.678300001
+          ],
+          [
+            473935.4162000008,
+            6781620.1076000035
+          ],
+          [
+            470037.12790000066,
+            6782613.7892
+          ],
+          [
+            464992.28400000185,
+            6785518.3961
+          ],
+          [
+            464227.91380000114,
+            6787582.195900001
+          ],
+          [
+            462316.98800000176,
+            6789034.499499999
+          ],
+          [
+            460864.6845000014,
+            6788805.1884
+          ],
+          [
+            459106.6328999996,
+            6789493.121600002
+          ],
+          [
+            450234.56170000136,
+            6788072.156499997
+          ],
+          [
+            449069.66209999844,
+            6793459.436700001
+          ],
+          [
+            449506.8797999993,
+            6797099.367600001
+          ],
+          [
+            448558.3229999989,
+            6797519.009499997
+          ],
+          [
+            450010.6264999993,
+            6806844.327100001
+          ],
+          [
+            435487.59109999985,
+            6816475.3926
+          ],
+          [
+            432116.6506999992,
+            6834146.900700003
+          ],
+          [
+            462970.18090000004,
+            6964628.2815999985
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.1",
+    "attributes": {
+      "OBJECTID": "1032",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1049",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CO2 TransPorts (NL, BE)",
+      "PROJECT_FULL_TITLE": "CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas",
+      "TECHNICAL_DESCR": "<p>CO2TransPorts is comprised of multiple pipelines proposed to be developed in two distinct project phases. Phase 1 of this PCI is focused on the development of local CO2 collection infrastructure in the Rotterdam and Antwerp port areas. In the Netherlands, the pipeline segment (&lsquo;Rotterdam CO2 Collection Network&rsquo;) will be developed for both the transport and storage of CO2 in the Rotterdam region. In Belgium, the pipeline segment (&lsquo;Antwerp CO2 Collection Network&rsquo;) will consist of local CO2 collection pipelines being developed in the Antwerp region, which will be stored before 2027.</p>\n\n<p>Phase 2 is focused on developing the &lsquo;International Backbone (Antwerp to Rotterdam)&rsquo;, which is the primary piece of cross-border pipeline infrastructure. The international pipeline will stretch from the most northern point of the Antwerp port area, cross the Dutch-Belgian border and connect to Rotterdam&rsquo;s pipeline in the eastern part of the port. Further, the Belgian collection network (&lsquo;Belgium National Backbone&rsquo;) will also be expanded beyond Antwerp to connect to numerous industrial clusters. As Phase 3 is in concept phase, no construction dates are available.&nbsp;</p>\n\n<p>The volumes collected in the Antwerp area before 2027 will be associated with the Northern Lights PCI. For the launching volumes of the collection network in Rotterdam, offshore storage is provided in the P-18 depleted gas fields off the coast of The Hague. Capacity of these fields is 37 Mt of CO2 and it can accommodate a supply rate of the order of 2-3 Mt/y and possibly up to 5 Mt/y. It is therefore planned to utilise the P18 fields to their maximum storage capacity over the initial 15-year operational period at a storage rate of 2.5 Mt/y.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Dedicated CO2 collection pipelines in the Antwerp and Rotterdam areas, excluding upstream pipelines, as well as fixed facilities for liquefaction, buffer storage and CO2 converters in view of its further transportation by pipeline or other modes of transport.</li>\n<li>Surface and injection facilities associated to the P-18 fields.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Havenbedrijf Rotterdam N.V (NL) ; North Sea Port (BE/NL) ; Havenbedrijf Antwerpen NV van publiek recht (BE)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "12.3-0022-nl-s-m-18 ; 12.3-0022-nl-w-m-20 ; 12.3-0027-benl-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-S-M-18.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-W-M-20.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0027-BENL-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies ; Works",
+      "SHAPE.LEN": "8819.126533"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            423267.42350000143,
+            6656340.480700001
+          ],
+          [
+            423532.0073999986,
+            6654223.809799999
+          ],
+          [
+            423532.0073999986,
+            6652967.036399998
+          ],
+          [
+            421481.4825000018,
+            6647939.943099998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.1",
+    "attributes": {
+      "OBJECTID": "1033",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1049",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CO2 TransPorts (NL, BE)",
+      "PROJECT_FULL_TITLE": "CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas",
+      "TECHNICAL_DESCR": "<p>CO2TransPorts is comprised of multiple pipelines proposed to be developed in two distinct project phases. Phase 1 of this PCI is focused on the development of local CO2 collection infrastructure in the Rotterdam and Antwerp port areas. In the Netherlands, the pipeline segment (&lsquo;Rotterdam CO2 Collection Network&rsquo;) will be developed for both the transport and storage of CO2 in the Rotterdam region. In Belgium, the pipeline segment (&lsquo;Antwerp CO2 Collection Network&rsquo;) will consist of local CO2 collection pipelines being developed in the Antwerp region, which will be stored before 2027.</p>\n\n<p>Phase 2 is focused on developing the &lsquo;International Backbone (Antwerp to Rotterdam)&rsquo;, which is the primary piece of cross-border pipeline infrastructure. The international pipeline will stretch from the most northern point of the Antwerp port area, cross the Dutch-Belgian border and connect to Rotterdam&rsquo;s pipeline in the eastern part of the port. Further, the Belgian collection network (&lsquo;Belgium National Backbone&rsquo;) will also be expanded beyond Antwerp to connect to numerous industrial clusters. As Phase 3 is in concept phase, no construction dates are available.&nbsp;</p>\n\n<p>The volumes collected in the Antwerp area before 2027 will be associated with the Northern Lights PCI. For the launching volumes of the collection network in Rotterdam, offshore storage is provided in the P-18 depleted gas fields off the coast of The Hague. Capacity of these fields is 37 Mt of CO2 and it can accommodate a supply rate of the order of 2-3 Mt/y and possibly up to 5 Mt/y. It is therefore planned to utilise the P18 fields to their maximum storage capacity over the initial 15-year operational period at a storage rate of 2.5 Mt/y.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Dedicated CO2 collection pipelines in the Antwerp and Rotterdam areas, excluding upstream pipelines, as well as fixed facilities for liquefaction, buffer storage and CO2 converters in view of its further transportation by pipeline or other modes of transport.</li>\n<li>Surface and injection facilities associated to the P-18 fields.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Havenbedrijf Rotterdam N.V (NL) ; North Sea Port (BE/NL) ; Havenbedrijf Antwerpen NV van publiek recht (BE)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "12.3-0022-nl-s-m-18 ; 12.3-0022-nl-w-m-20 ; 12.3-0027-benl-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-S-M-18.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-W-M-20.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0027-BENL-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies ; Works",
+      "SHAPE.LEN": "76450.070271"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            473532.1644000001,
+            6687949.372199997
+          ],
+          [
+            473942.2917000018,
+            6688346.145199999
+          ],
+          [
+            474791.7522,
+            6688564.249600001
+          ],
+          [
+            475751.60550000146,
+            6688969.9604
+          ],
+          [
+            475580.54100000113,
+            6690004.3213
+          ],
+          [
+            476006.09870000184,
+            6690382.306500003
+          ],
+          [
+            476263.5756999999,
+            6691280.806000002
+          ],
+          [
+            475909.0271999985,
+            6692606.674699999
+          ],
+          [
+            475671.1207999997,
+            6693740.9723000005
+          ],
+          [
+            475835.7360999994,
+            6694115.970799997
+          ],
+          [
+            476000.77690000087,
+            6694606.327299997
+          ],
+          [
+            475971.7028999999,
+            6695644.891800001
+          ],
+          [
+            476265.686900001,
+            6696342.414099999
+          ],
+          [
+            476963.4668999985,
+            6697698.171700001
+          ],
+          [
+            476683.38800000027,
+            6698315.744999997
+          ],
+          [
+            478124.6766999997,
+            6699439.740800001
+          ],
+          [
+            478505.8139999993,
+            6700592.928000003
+          ],
+          [
+            478814.62260000035,
+            6702505.679799996
+          ],
+          [
+            478622.7906000018,
+            6703181.3342999965
+          ],
+          [
+            478696.808699999,
+            6703877.062899999
+          ],
+          [
+            478712.5192999989,
+            6704239.784500003
+          ],
+          [
+            478694.09259999916,
+            6704642.565499999
+          ],
+          [
+            478828.5617999993,
+            6704874.667000003
+          ],
+          [
+            479365.28229999915,
+            6704989.116999999
+          ],
+          [
+            480459.66479999945,
+            6705022.302900001
+          ],
+          [
+            480954.47360000014,
+            6705350.063500002
+          ],
+          [
+            482078.39770000055,
+            6706926.4388
+          ],
+          [
+            483639.76779999956,
+            6708719.593199998
+          ],
+          [
+            484267.77490000054,
+            6709409.684199996
+          ],
+          [
+            485108.74130000174,
+            6709780.383299999
+          ],
+          [
+            486826.4534999989,
+            6710351.290799998
+          ],
+          [
+            489811.3698000014,
+            6711371.580799997
+          ],
+          [
+            490456.5406999998,
+            6712303.6307
+          ],
+          [
+            491977.08889999986,
+            6714539.227600001
+          ],
+          [
+            492548.1741000004,
+            6715848.191799998
+          ],
+          [
+            494360.24969999865,
+            6719367.8156
+          ],
+          [
+            494880.5474999994,
+            6720445.462099999
+          ],
+          [
+            495593.3696000017,
+            6720835.566299997
+          ],
+          [
+            497256.8531000018,
+            6722934.330600001
+          ],
+          [
+            497815.991799999,
+            6723606.929700002
+          ],
+          [
+            498124.2606999986,
+            6723721.680200003
+          ],
+          [
+            498285.87319999933,
+            6724150.4089
+          ],
+          [
+            498973.1926999986,
+            6724531.812600002
+          ],
+          [
+            499571.9732999988,
+            6725410.720700003
+          ],
+          [
+            499527.4486999996,
+            6725757.146200001
+          ],
+          [
+            499715.1623999998,
+            6726521.046099998
+          ],
+          [
+            500006.3575000018,
+            6726814.608199999
+          ],
+          [
+            500766.3121000007,
+            6729400.935500003
+          ],
+          [
+            501325.3192999996,
+            6731222.129600003
+          ],
+          [
+            501708.2551999986,
+            6732100.6928
+          ],
+          [
+            502631.1532000005,
+            6732937.5704
+          ],
+          [
+            503728.30150000006,
+            6734441.405000001
+          ],
+          [
+            503933.6904999986,
+            6734782.187399998
+          ],
+          [
+            505592.3392999992,
+            6735184.796400003
+          ],
+          [
+            506207.995099999,
+            6735724.2817
+          ],
+          [
+            506354.66149999946,
+            6736167.344400004
+          ],
+          [
+            506340.74379999936,
+            6737942.239399999
+          ],
+          [
+            506454.254900001,
+            6738649.694499999
+          ],
+          [
+            507198.6832999997,
+            6738955.287600003
+          ],
+          [
+            506814.068500001,
+            6740206.328100003
+          ],
+          [
+            505743.82119999826,
+            6741618.495300002
+          ],
+          [
+            505142.61300000176,
+            6742484.9668999985
+          ]
+        ],
+        [
+          [
+            505112.4213999994,
+            6742446.347599998
+          ],
+          [
+            505006.47850000113,
+            6747152.0825999975
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.1",
+    "attributes": {
+      "OBJECTID": "1034",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1049",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CO2 TransPorts (NL, BE)",
+      "PROJECT_FULL_TITLE": "CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas",
+      "TECHNICAL_DESCR": "<p>CO2TransPorts is comprised of multiple pipelines proposed to be developed in two distinct project phases. Phase 1 of this PCI is focused on the development of local CO2 collection infrastructure in the Rotterdam and Antwerp port areas. In the Netherlands, the pipeline segment (&lsquo;Rotterdam CO2 Collection Network&rsquo;) will be developed for both the transport and storage of CO2 in the Rotterdam region. In Belgium, the pipeline segment (&lsquo;Antwerp CO2 Collection Network&rsquo;) will consist of local CO2 collection pipelines being developed in the Antwerp region, which will be stored before 2027.</p>\n\n<p>Phase 2 is focused on developing the &lsquo;International Backbone (Antwerp to Rotterdam)&rsquo;, which is the primary piece of cross-border pipeline infrastructure. The international pipeline will stretch from the most northern point of the Antwerp port area, cross the Dutch-Belgian border and connect to Rotterdam&rsquo;s pipeline in the eastern part of the port. Further, the Belgian collection network (&lsquo;Belgium National Backbone&rsquo;) will also be expanded beyond Antwerp to connect to numerous industrial clusters. As Phase 3 is in concept phase, no construction dates are available.&nbsp;</p>\n\n<p>The volumes collected in the Antwerp area before 2027 will be associated with the Northern Lights PCI. For the launching volumes of the collection network in Rotterdam, offshore storage is provided in the P-18 depleted gas fields off the coast of The Hague. Capacity of these fields is 37 Mt of CO2 and it can accommodate a supply rate of the order of 2-3 Mt/y and possibly up to 5 Mt/y. It is therefore planned to utilise the P18 fields to their maximum storage capacity over the initial 15-year operational period at a storage rate of 2.5 Mt/y.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Dedicated CO2 collection pipelines in the Antwerp and Rotterdam areas, excluding upstream pipelines, as well as fixed facilities for liquefaction, buffer storage and CO2 converters in view of its further transportation by pipeline or other modes of transport.</li>\n<li>Surface and injection facilities associated to the P-18 fields.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "BE, NL",
+      "PROMOTERS": "Havenbedrijf Rotterdam N.V (NL) ; North Sea Port (BE/NL) ; Havenbedrijf Antwerpen NV van publiek recht (BE)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "12.3-0022-nl-s-m-18 ; 12.3-0022-nl-w-m-20 ; 12.3-0027-benl-s-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-S-M-18.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0022-NL-W-M-20.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/12.3-0027-BENL-S-M-20.pdf",
+      "STUDIES_OR_WORKS": "Studies ; Works",
+      "SHAPE.LEN": "60465.514017"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            423267.42350000143,
+            6656340.480700001
+          ],
+          [
+            427134.75769999996,
+            6659941.026100002
+          ],
+          [
+            429516.0124000013,
+            6662904.3653
+          ],
+          [
+            431526.84980000183,
+            6667613.9580999985
+          ],
+          [
+            431791.43360000104,
+            6670630.214100003
+          ],
+          [
+            431368.0995000005,
+            6673064.385700002
+          ],
+          [
+            429410.1788999997,
+            6674069.804300003
+          ],
+          [
+            426341.00609999895,
+            6673911.053999998
+          ],
+          [
+            425600.17130000144,
+            6676398.142300002
+          ],
+          [
+            424700.5861000009,
+            6677721.0616
+          ],
+          [
+            423906.8344999999,
+            6679890.649300002
+          ],
+          [
+            423430.58359999955,
+            6682536.487899996
+          ],
+          [
+            423385.88969999924,
+            6692010.9296
+          ],
+          [
+            422738.2558000013,
+            6692456.177900001
+          ],
+          [
+            421384.20259999856,
+            6693866.543099999
+          ],
+          [
+            419501.53990000114,
+            6695051.923299998
+          ],
+          [
+            416123.6592000015,
+            6695565.0383
+          ],
+          [
+            413574.63870000094,
+            6698538.3358
+          ],
+          [
+            410018.4979999997,
+            6701327.4657000005
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electricity storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.11",
+    "attributes": {
+      "OBJECTID": "1282",
+      "INFRA": "3",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.11",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1060",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydro-pumped storage Kaunertal (AT)",
+      "PROJECT_FULL_TITLE": "Kaunertal Storage Extension Project (AT)",
+      "TECHNICAL_DESCR": "<p>The project, referred to as the Pumped Hydro Storage Versetz, is part of the extension of the existing hydro storage power plant &ldquo;Kraftwerk Kaunertal&rdquo; (&ldquo;Kaunertal Extension Project&rdquo;). It includes adding a pumping capacity of 400 MW max (4x Francis Type), with an associated turbining capacity of 440 MW max. This provides a storage capacity of 64 GWh related to the power station Versetz with an expected net annual generation of 1060 GWh.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "AT",
+      "PROMOTERS": "TIWAG-Tiroler Wasserkraft AG (AT)",
+      "COMMISSIONING_DATE": "10/2034",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1187335.4699000008,
+      "y": 5953441.6457,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

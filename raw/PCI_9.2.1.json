@@ -1,0 +1,272 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.2.1",
+    "attributes": {
+      "OBJECTID": "4161",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.2.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1178",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Rhine Hydrogen Network (RHYn)",
+      "PROJECT_FULL_TITLE": " Hydrogen valley in Germany to the French border [currently known as RHYn] ",
+      "TECHNICAL_DESCR": "<p>The project group of RHYn in France and RHYn Interco in Germany aim at interconnecting future hydrogen infrastructure, producers and consumers between France and Germany by mainly repurposing methane infrastructure.</p>\n\n<p>In France, RHYn project concerns phased development of infrastructure:</p>\n\n<p>- Fessenheim &ndash; Ottmarsheim &ndash; repurposed pipeline with a new connection to Mulhouse of approx. 38 km</p>\n\n<p>- Basel airport connection new or repurposed pipeline section of approx. 25 km</p>\n\n<p>- Fessenheim &ndash; Marckolsheim repurposed pipeline section of approx. 38 km</p>\n\n<p>- Fessenheim &nbsp;&ndash; Tunsel (DE) new pipeline section of approx. 5 km.</p>\n\n<p>In Germany, RHYn Interco project covers:</p>\n\n<p>- Rhine crossing to Tunsel new pipeline section of approx. 15 km</p>\n\n<p>-Tunsel to Freiburg im Breisgau repurposed pipeline section of approx. 20 km</p>\n\n<p>- Freiburg area repurposed pipeline section of approx. 10 km.</p>\n\n<p>The expected total length of the project will be in the range of 150 km and aimed incremental transmission capacity to and from Germany at 12 GWh/day representing 0.1 Mt/y of hydrogen.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, FR",
+      "PROMOTERS": "Terranets bw GmbH (DE) ; GRTgaz (FR)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "8751.556135"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            844109.2734000012,
+            6091898.487199999
+          ],
+          [
+            835381.0920999981,
+            6091259.2798999995
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.2.1",
+    "attributes": {
+      "OBJECTID": "4162",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.2.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1178",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Rhine Hydrogen Network (RHYn)",
+      "PROJECT_FULL_TITLE": " Hydrogen valley in Germany to the French border [currently known as RHYn] ",
+      "TECHNICAL_DESCR": "<p>The project group of RHYn in France and RHYn Interco in Germany aim at interconnecting future hydrogen infrastructure, producers and consumers between France and Germany by mainly repurposing methane infrastructure.</p>\n\n<p>In France, RHYn project concerns phased development of infrastructure:</p>\n\n<p>- Fessenheim &ndash; Ottmarsheim &ndash; repurposed pipeline with a new connection to Mulhouse of approx. 38 km</p>\n\n<p>- Basel airport connection new or repurposed pipeline section of approx. 25 km</p>\n\n<p>- Fessenheim &ndash; Marckolsheim repurposed pipeline section of approx. 38 km</p>\n\n<p>- Fessenheim &nbsp;&ndash; Tunsel (DE) new pipeline section of approx. 5 km.</p>\n\n<p>In Germany, RHYn Interco project covers:</p>\n\n<p>- Rhine crossing to Tunsel new pipeline section of approx. 15 km</p>\n\n<p>-Tunsel to Freiburg im Breisgau repurposed pipeline section of approx. 20 km</p>\n\n<p>- Freiburg area repurposed pipeline section of approx. 10 km.</p>\n\n<p>The expected total length of the project will be in the range of 150 km and aimed incremental transmission capacity to and from Germany at 12 GWh/day representing 0.1 Mt/y of hydrogen.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, FR",
+      "PROMOTERS": "Terranets bw GmbH (DE) ; GRTgaz (FR)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "94300.653466"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            835761.9759000018,
+            6039637.940099999
+          ],
+          [
+            835352.9842000008,
+            6089660.161799997
+          ],
+          [
+            835945.9057999998,
+            6123392.693599999
+          ],
+          [
+            835943.3566000015,
+            6123402.052299999
+          ],
+          [
+            835942.4686000012,
+            6123405.315399997
+          ],
+          [
+            835942.0720000006,
+            6123406.7654
+          ],
+          [
+            835941.2507999986,
+            6123409.781199999
+          ],
+          [
+            836863.1425999999,
+            6133890.621799998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.2.1",
+    "attributes": {
+      "OBJECTID": "4163",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.2.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1178",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Rhine Hydrogen Network (RHYn)",
+      "PROJECT_FULL_TITLE": " Hydrogen valley in Germany to the French border [currently known as RHYn] ",
+      "TECHNICAL_DESCR": "<p>The project group of RHYn in France and RHYn Interco in Germany aim at interconnecting future hydrogen infrastructure, producers and consumers between France and Germany by mainly repurposing methane infrastructure.</p>\n\n<p>In France, RHYn project concerns phased development of infrastructure:</p>\n\n<p>- Fessenheim &ndash; Ottmarsheim &ndash; repurposed pipeline with a new connection to Mulhouse of approx. 38 km</p>\n\n<p>- Basel airport connection new or repurposed pipeline section of approx. 25 km</p>\n\n<p>- Fessenheim &ndash; Marckolsheim repurposed pipeline section of approx. 38 km</p>\n\n<p>- Fessenheim &nbsp;&ndash; Tunsel (DE) new pipeline section of approx. 5 km.</p>\n\n<p>In Germany, RHYn Interco project covers:</p>\n\n<p>- Rhine crossing to Tunsel new pipeline section of approx. 15 km</p>\n\n<p>-Tunsel to Freiburg im Breisgau repurposed pipeline section of approx. 20 km</p>\n\n<p>- Freiburg area repurposed pipeline section of approx. 10 km.</p>\n\n<p>The expected total length of the project will be in the range of 150 km and aimed incremental transmission capacity to and from Germany at 12 GWh/day representing 0.1 Mt/y of hydrogen.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, FR",
+      "PROMOTERS": "Terranets bw GmbH (DE) ; GRTgaz (FR)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "16794.630677"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            818900.5188999996,
+            6067553.200199999
+          ],
+          [
+            835513.5991000012,
+            6070015.960000001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.2.1",
+    "attributes": {
+      "OBJECTID": "4164",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.2.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1178",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Rhine Hydrogen Network (RHYn)",
+      "PROJECT_FULL_TITLE": " Hydrogen valley in Germany to the French border [currently known as RHYn] ",
+      "TECHNICAL_DESCR": "<p>The project group of RHYn in France and RHYn Interco in Germany aim at interconnecting future hydrogen infrastructure, producers and consumers between France and Germany by mainly repurposing methane infrastructure.</p>\n\n<p>In France, RHYn project concerns phased development of infrastructure:</p>\n\n<p>- Fessenheim &ndash; Ottmarsheim &ndash; repurposed pipeline with a new connection to Mulhouse of approx. 38 km</p>\n\n<p>- Basel airport connection new or repurposed pipeline section of approx. 25 km</p>\n\n<p>- Fessenheim &ndash; Marckolsheim repurposed pipeline section of approx. 38 km</p>\n\n<p>- Fessenheim &nbsp;&ndash; Tunsel (DE) new pipeline section of approx. 5 km.</p>\n\n<p>In Germany, RHYn Interco project covers:</p>\n\n<p>- Rhine crossing to Tunsel new pipeline section of approx. 15 km</p>\n\n<p>-Tunsel to Freiburg im Breisgau repurposed pipeline section of approx. 20 km</p>\n\n<p>- Freiburg area repurposed pipeline section of approx. 10 km.</p>\n\n<p>The expected total length of the project will be in the range of 150 km and aimed incremental transmission capacity to and from Germany at 12 GWh/day representing 0.1 Mt/y of hydrogen.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, FR",
+      "PROMOTERS": "Terranets bw GmbH (DE) ; GRTgaz (FR)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "45696.047414"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            851132.1638999991,
+            6091456.747500002
+          ],
+          [
+            851132.1765000001,
+            6091456.732799999
+          ]
+        ],
+        [
+          [
+            844109.2734000012,
+            6091898.487199999
+          ],
+          [
+            851093.9578000009,
+            6091435.461900003
+          ],
+          [
+            854797.8647000007,
+            6098333.218599997
+          ],
+          [
+            859040.939100001,
+            6102414.9824
+          ],
+          [
+            861292.8396999985,
+            6112081.759300001
+          ],
+          [
+            863776.5764000006,
+            6115731.1941
+          ],
+          [
+            873101.8938000016,
+            6110609.971600004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

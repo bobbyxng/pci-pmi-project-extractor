@@ -1,0 +1,217 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.6",
+    "attributes": {
+      "OBJECTID": "2893",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.6",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1143",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CCS Baltic Consortium",
+      "PROJECT_FULL_TITLE": "CCS Baltic Consortium \u2013 cross-border CO2 transport from Latvia and Lithuania with a multi-modal LCO2 terminal based in Klaipeda",
+      "TECHNICAL_DESCR": "<p>The project will develop a first cross-border carbon dioxide infrastructure in the Baltic region, with substantial GHG emission reductions in the connected industrial clusters operating in the hard to abate sector.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Fixed facilities for liquefaction, buffer storage and CO2 converters in a new multimodal LCO2 export/import terminal in Klaipeda seaport.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>The onshore transport from industrial emitters in Lithuania and Latvia to the new multimodal terminal in Klaipeda will primarily use existing rail infrastructure, which is not part of the PCI. Alternative CO2 pipeline transportation, other than upstream, will be analysed in the future.</p>\n\n<p>Transport from Klaipeda to onshore/offshore permanent storage sites will be realised via shipping, outside the PCI scope. Potential CO2 storage/sequestration sites located offshore Denmark, North Sea are under consideration.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "LT, LV",
+      "PROMOTERS": "Larvik Shipping AS (NO) ; AB KN Energies (LT) ; SCHWENK Latvia SIA (LV) ; Mitsui O.S.K. Lines, Ltd. (JP) ; Akmenes cementas AB (LT)",
+      "COMMISSIONING_DATE": "03/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 592344.5914999992,
+      "y": 7687054.162900001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.6",
+    "attributes": {
+      "OBJECTID": "2894",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.6",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1143",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CCS Baltic Consortium",
+      "PROJECT_FULL_TITLE": "CCS Baltic Consortium \u2013 cross-border CO2 transport from Latvia and Lithuania with a multi-modal LCO2 terminal based in Klaipeda",
+      "TECHNICAL_DESCR": "<p>The project will develop a first cross-border carbon dioxide infrastructure in the Baltic region, with substantial GHG emission reductions in the connected industrial clusters operating in the hard to abate sector.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Fixed facilities for liquefaction, buffer storage and CO2 converters in a new multimodal LCO2 export/import terminal in Klaipeda seaport.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>The onshore transport from industrial emitters in Lithuania and Latvia to the new multimodal terminal in Klaipeda will primarily use existing rail infrastructure, which is not part of the PCI. Alternative CO2 pipeline transportation, other than upstream, will be analysed in the future.</p>\n\n<p>Transport from Klaipeda to onshore/offshore permanent storage sites will be realised via shipping, outside the PCI scope. Potential CO2 storage/sequestration sites located offshore Denmark, North Sea are under consideration.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "LT, LV",
+      "PROMOTERS": "Larvik Shipping AS (NO) ; AB KN Energies (LT) ; SCHWENK Latvia SIA (LV) ; Mitsui O.S.K. Lines, Ltd. (JP) ; Akmenes cementas AB (LT)",
+      "COMMISSIONING_DATE": "03/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 475696.4593000002,
+      "y": 7627866.0195999965,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.6",
+    "attributes": {
+      "OBJECTID": "2890",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.6",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1143",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CCS Baltic Consortium",
+      "PROJECT_FULL_TITLE": "CCS Baltic Consortium \u2013 cross-border CO2 transport from Latvia and Lithuania with a multi-modal LCO2 terminal based in Klaipeda",
+      "TECHNICAL_DESCR": "<p>The project will develop a first cross-border carbon dioxide infrastructure in the Baltic region, with substantial GHG emission reductions in the connected industrial clusters operating in the hard to abate sector.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Fixed facilities for liquefaction, buffer storage and CO2 converters in a new multimodal LCO2 export/import terminal in Klaipeda seaport.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>The onshore transport from industrial emitters in Lithuania and Latvia to the new multimodal terminal in Klaipeda will primarily use existing rail infrastructure, which is not part of the PCI. Alternative CO2 pipeline transportation, other than upstream, will be analysed in the future.</p>\n\n<p>Transport from Klaipeda to onshore/offshore permanent storage sites will be realised via shipping, outside the PCI scope. Potential CO2 storage/sequestration sites located offshore Denmark, North Sea are under consideration.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "LT, LV",
+      "PROMOTERS": "Larvik Shipping AS (NO) ; AB KN Energies (LT) ; SCHWENK Latvia SIA (LV) ; Mitsui O.S.K. Lines, Ltd. (JP) ; Akmenes cementas AB (LT)",
+      "COMMISSIONING_DATE": "03/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2550881.567400001,
+      "y": 7622668.389600001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.6",
+    "attributes": {
+      "OBJECTID": "2891",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.6",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1143",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CCS Baltic Consortium",
+      "PROJECT_FULL_TITLE": "CCS Baltic Consortium \u2013 cross-border CO2 transport from Latvia and Lithuania with a multi-modal LCO2 terminal based in Klaipeda",
+      "TECHNICAL_DESCR": "<p>The project will develop a first cross-border carbon dioxide infrastructure in the Baltic region, with substantial GHG emission reductions in the connected industrial clusters operating in the hard to abate sector.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Fixed facilities for liquefaction, buffer storage and CO2 converters in a new multimodal LCO2 export/import terminal in Klaipeda seaport.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>The onshore transport from industrial emitters in Lithuania and Latvia to the new multimodal terminal in Klaipeda will primarily use existing rail infrastructure, which is not part of the PCI. Alternative CO2 pipeline transportation, other than upstream, will be analysed in the future.</p>\n\n<p>Transport from Klaipeda to onshore/offshore permanent storage sites will be realised via shipping, outside the PCI scope. Potential CO2 storage/sequestration sites located offshore Denmark, North Sea are under consideration.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "LT, LV",
+      "PROMOTERS": "Larvik Shipping AS (NO) ; AB KN Energies (LT) ; SCHWENK Latvia SIA (LV) ; Mitsui O.S.K. Lines, Ltd. (JP) ; Akmenes cementas AB (LT)",
+      "COMMISSIONING_DATE": "03/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2515038.361200001,
+      "y": 7697393.3456000015,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.6",
+    "attributes": {
+      "OBJECTID": "2892",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.6",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1143",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "CCS Baltic Consortium",
+      "PROJECT_FULL_TITLE": "CCS Baltic Consortium \u2013 cross-border CO2 transport from Latvia and Lithuania with a multi-modal LCO2 terminal based in Klaipeda",
+      "TECHNICAL_DESCR": "<p>The project will develop a first cross-border carbon dioxide infrastructure in the Baltic region, with substantial GHG emission reductions in the connected industrial clusters operating in the hard to abate sector.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>Fixed facilities for liquefaction, buffer storage and CO2 converters in a new multimodal LCO2 export/import terminal in Klaipeda seaport.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>The onshore transport from industrial emitters in Lithuania and Latvia to the new multimodal terminal in Klaipeda will primarily use existing rail infrastructure, which is not part of the PCI. Alternative CO2 pipeline transportation, other than upstream, will be analysed in the future.</p>\n\n<p>Transport from Klaipeda to onshore/offshore permanent storage sites will be realised via shipping, outside the PCI scope. Potential CO2 storage/sequestration sites located offshore Denmark, North Sea are under consideration.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "LT, LV",
+      "PROMOTERS": "Larvik Shipping AS (NO) ; AB KN Energies (LT) ; SCHWENK Latvia SIA (LV) ; Mitsui O.S.K. Lines, Ltd. (JP) ; Akmenes cementas AB (LT)",
+      "COMMISSIONING_DATE": "03/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2349274.7338000014,
+      "y": 7503946.615000002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

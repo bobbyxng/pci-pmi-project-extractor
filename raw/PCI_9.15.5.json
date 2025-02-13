@@ -1,0 +1,88 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.15.5",
+    "attributes": {
+      "OBJECTID": "1933",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.15.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1214",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.15",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Asturias H2 valley electrolyser",
+      "PROJECT_FULL_TITLE": " Asturias H2 valley electrolyser",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">EDP Group has the ambition of developing 1 GW of electrolysis in the region of Asturias by 2030, if&nbsp;market conditions are favourable.</p>\n\n<p style=\"text-align:justify\">The Asturias H2 Valley project comprises a 150 MW electrolyser in its initial phase. Its purpose is to generate and distribute green hydrogen, utilising electricity sourced from renewable power facilities (including onshore wind, solar, and hydro). The hydrogen will be supplied to local consumers, including a refuelling station. The project is situated in the town of Abo&ntilde;o, which falls within the municipalities of Carre&ntilde;o and Gij&oacute;n in Asturias (Spain). Notably, this location is adjacent to an existing coal power plant. The first operational phase is scheduled to commence by the end of 2026, and all necessary environmental and grid connection permits have already been secured.</p>\n\n<p style=\"text-align:justify\">The second phase of the project will be divided between two hubs: the Abo&ntilde;o H2 hub (which adds 350 MW of electrolysis to the initial phase) and the future Soto H2 hub (with 500 MW of electrolysis situated at EDP&rsquo;s thermal power plant in Soto de Ribera, approximately 40 km away from Abo&ntilde;o). These two hubs will be interconnected by a high-capacity hydrogen pipeline that aligns with the European Hydrogen Backbone initiative. In total, this second phase will contribute 1 GW of electrolysis capacity, with an estimated yearly production of 0.126 Mt/y of hydrogen split equally between the two locations (Soto and Abo&ntilde;o).</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "H2 Abo\u00f1o, S.A. (EDP Group)",
+      "COMMISSIONING_DATE": "31/12/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -654873.0833999999,
+      "y": 5360163.567599997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.15.5",
+    "attributes": {
+      "OBJECTID": "1934",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.15.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1214",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.15",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Asturias H2 valley electrolyser",
+      "PROJECT_FULL_TITLE": " Asturias H2 valley electrolyser",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">EDP Group has the ambition of developing 1 GW of electrolysis in the region of Asturias by 2030, if&nbsp;market conditions are favourable.</p>\n\n<p style=\"text-align:justify\">The Asturias H2 Valley project comprises a 150 MW electrolyser in its initial phase. Its purpose is to generate and distribute green hydrogen, utilising electricity sourced from renewable power facilities (including onshore wind, solar, and hydro). The hydrogen will be supplied to local consumers, including a refuelling station. The project is situated in the town of Abo&ntilde;o, which falls within the municipalities of Carre&ntilde;o and Gij&oacute;n in Asturias (Spain). Notably, this location is adjacent to an existing coal power plant. The first operational phase is scheduled to commence by the end of 2026, and all necessary environmental and grid connection permits have already been secured.</p>\n\n<p style=\"text-align:justify\">The second phase of the project will be divided between two hubs: the Abo&ntilde;o H2 hub (which adds 350 MW of electrolysis to the initial phase) and the future Soto H2 hub (with 500 MW of electrolysis situated at EDP&rsquo;s thermal power plant in Soto de Ribera, approximately 40 km away from Abo&ntilde;o). These two hubs will be interconnected by a high-capacity hydrogen pipeline that aligns with the European Hydrogen Backbone initiative. In total, this second phase will contribute 1 GW of electrolysis capacity, with an estimated yearly production of 0.126 Mt/y of hydrogen split equally between the two locations (Soto and Abo&ntilde;o).</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "H2 Abo\u00f1o, S.A. (EDP Group)",
+      "COMMISSIONING_DATE": "31/12/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -636903.6686000004,
+      "y": 5396318.820100002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

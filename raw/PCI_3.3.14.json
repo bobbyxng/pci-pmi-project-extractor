@@ -1,0 +1,80 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.14",
+    "attributes": {
+      "OBJECTID": "1018",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.3.14",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1112",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line \u017barnowiec-Gda\u0144sk/Gda\u0144sk Przyja\u017a\u0144-Gda\u0144sk B\u0142onia (PL)",
+      "PROJECT_FULL_TITLE": "Internal line between \u017barnowiec-Gda\u0144sk/Gda\u0144sk Przyja\u017a\u0144-Gda\u0144sk B\u0142onia (PL)",
+      "TECHNICAL_DESCR": "<p>The \u017barnowiec-Gda\u0144sk/Gda\u0144sk Przyja\u017a\u0144-Gda\u0144sk B\u0142onia 400 kV line consists of the&nbsp;last section of the modernization of the North Line.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL) ",
+      "COMMISSIONING_DATE": "31/08/2026",
+      "CEF_ACTIONS": "4.8.10-0005-lvee-w-m-20",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.10-0005-LVEE-W-M-20.pdf",
+      "STUDIES_OR_WORKS": "Works",
+      "SHAPE.LEN": "142037.999624"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2015444.4640000015,
+            7307197.106399998
+          ],
+          [
+            2024266.5711999983,
+            7248761.958800003
+          ],
+          [
+            2037107.9422999993,
+            7232862.879500002
+          ],
+          [
+            2046260.9692000002,
+            7223687.4826000035
+          ],
+          [
+            2052816.9677999988,
+            7234380.229099996
+          ],
+          [
+            2057593.066300001,
+            7220938.745700002
+          ],
+          [
+            2067071.2531000003,
+            7219715.861699998
+          ],
+          [
+            2080218.4189000018,
+            7220633.006899998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

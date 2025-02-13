@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.17.2",
+    "attributes": {
+      "OBJECTID": "2245",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.17.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1218",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.17",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2-Fifty ",
+      "PROJECT_FULL_TITLE": "H2-Fifty electrolyser",
+      "TECHNICAL_DESCR": "<p>H2-Fifty is a 250 MW water electrolysis plant in the Port of Rotterdam.</p>\n\n<p>It is expected to produce up to 0.040 Mt/y (&gt;100 tonnes H2/day green hydrogen) from renewable electricity.</p>\n\n<p>The green hydrogen will be supplied via hydrogen backbones to Europe&#39;s second largest refinery (bp Europoort) and other customers in industry and mobility across the Netherlands and Germany.</p>\n\n<p>The renewable electricity will be supplied via Power Purchase Agreement (PPA) compliant with the EU&rsquo;s Renewable Energy Directive and will source particularly electricity from Dutch offshore wind farms.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "NL",
+      "PROMOTERS": "Hydrogen Chemistry Company (HyCC)",
+      "COMMISSIONING_DATE": "2026",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 443385.53180000186,
+      "y": 6787117.386,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

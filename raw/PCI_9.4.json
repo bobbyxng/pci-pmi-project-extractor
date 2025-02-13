@@ -1,0 +1,196 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.4",
+    "attributes": {
+      "OBJECTID": "4181",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1183",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2ercules West",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Germany [currently known as H2ercules West]",
+      "TECHNICAL_DESCR": "<p>Cross-border and national infrastructure project connecting the Belgium hydrogen backbone with demand centers in Western and Southwestern Germany. The project aims to develop a 500 km dedicated hydrogen infrastructure composed of new and converted onshore pipelines.</p>\n\n<p>Importing into Germany (from Belgium towards Cologne area): new 110 km from Eynatten (border crossing Belgium-Germany) to Porz.&nbsp;</p>\n\n<p>Transport within Germany (from West to North and to the South):</p>\n\n<ul>\n<li>Repurposed 320 km from Porz to Werne and from Porz to Lampertheim.</li>\n<li>New 70 km from Lampertheim to Karlsruhe.</li>\n</ul>\n\n<p>The estimated capacity for the whole project is approx. 0.844 Mt/y.</p>\n\n<p>This route allows imports to be transported through Belgium via the Belgian ports and terminals to Germany. Thus, there is a connection of the consumption center Rhenish Mining Area and the chemical industry in Cologne.</p>\n\n<p>In a second step, it will be possible to connect the Ruhr region and the demand center Frankfurt/Ludwigshafen as well as Karlsruhe further south with hydrogen by 2030 when further new built and repurposed pipelines are completed.&nbsp;</p>\n\n<p>The Rhenish Mining area, the chemical industry in Cologne and the Ruhr area in western Germany and the demand center Frankfurt/Ludwigshafen are characterized by a lot of industry and thus offer numerous decarbonization opportunities for the use of hydrogen.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Open Grid Europe GmbH (DE)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "114229.782092"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            789447.1840000004,
+            6589677.047799997
+          ],
+          [
+            703493.1605999991,
+            6589402.903700002
+          ],
+          [
+            681593.9519000016,
+            6571516.638999999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.4",
+    "attributes": {
+      "OBJECTID": "4182",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1183",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2ercules West",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Germany [currently known as H2ercules West]",
+      "TECHNICAL_DESCR": "<p>Cross-border and national infrastructure project connecting the Belgium hydrogen backbone with demand centers in Western and Southwestern Germany. The project aims to develop a 500 km dedicated hydrogen infrastructure composed of new and converted onshore pipelines.</p>\n\n<p>Importing into Germany (from Belgium towards Cologne area): new 110 km from Eynatten (border crossing Belgium-Germany) to Porz.&nbsp;</p>\n\n<p>Transport within Germany (from West to North and to the South):</p>\n\n<ul>\n<li>Repurposed 320 km from Porz to Werne and from Porz to Lampertheim.</li>\n<li>New 70 km from Lampertheim to Karlsruhe.</li>\n</ul>\n\n<p>The estimated capacity for the whole project is approx. 0.844 Mt/y.</p>\n\n<p>This route allows imports to be transported through Belgium via the Belgian ports and terminals to Germany. Thus, there is a connection of the consumption center Rhenish Mining Area and the chemical industry in Cologne.</p>\n\n<p>In a second step, it will be possible to connect the Ruhr region and the demand center Frankfurt/Ludwigshafen as well as Karlsruhe further south with hydrogen by 2030 when further new built and repurposed pipelines are completed.&nbsp;</p>\n\n<p>The Rhenish Mining area, the chemical industry in Cologne and the Ruhr area in western Germany and the demand center Frankfurt/Ludwigshafen are characterized by a lot of industry and thus offer numerous decarbonization opportunities for the use of hydrogen.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Open Grid Europe GmbH (DE)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "158102.538909"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            841756.2534999996,
+            6729342.086300001
+          ],
+          [
+            831858.6854999997,
+            6664724.1021
+          ],
+          [
+            788639.2738000005,
+            6620715.262599997
+          ],
+          [
+            789447.1840000004,
+            6589677.047799997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.4",
+    "attributes": {
+      "OBJECTID": "4183",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1183",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2ercules West",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Germany [currently known as H2ercules West]",
+      "TECHNICAL_DESCR": "<p>Cross-border and national infrastructure project connecting the Belgium hydrogen backbone with demand centers in Western and Southwestern Germany. The project aims to develop a 500 km dedicated hydrogen infrastructure composed of new and converted onshore pipelines.</p>\n\n<p>Importing into Germany (from Belgium towards Cologne area): new 110 km from Eynatten (border crossing Belgium-Germany) to Porz.&nbsp;</p>\n\n<p>Transport within Germany (from West to North and to the South):</p>\n\n<ul>\n<li>Repurposed 320 km from Porz to Werne and from Porz to Lampertheim.</li>\n<li>New 70 km from Lampertheim to Karlsruhe.</li>\n</ul>\n\n<p>The estimated capacity for the whole project is approx. 0.844 Mt/y.</p>\n\n<p>This route allows imports to be transported through Belgium via the Belgian ports and terminals to Germany. Thus, there is a connection of the consumption center Rhenish Mining Area and the chemical industry in Cologne.</p>\n\n<p>In a second step, it will be possible to connect the Ruhr region and the demand center Frankfurt/Ludwigshafen as well as Karlsruhe further south with hydrogen by 2030 when further new built and repurposed pipelines are completed.&nbsp;</p>\n\n<p>The Rhenish Mining area, the chemical industry in Cologne and the Ruhr area in western Germany and the demand center Frankfurt/Ludwigshafen are characterized by a lot of industry and thus offer numerous decarbonization opportunities for the use of hydrogen.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Open Grid Europe GmbH (DE)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "371947.720872"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            789447.1840000004,
+            6589677.047799997
+          ],
+          [
+            848596.7052000016,
+            6536579.1853
+          ],
+          [
+            930931.7421999983,
+            6452215.624799997
+          ],
+          [
+            939798.4375,
+            6429131.642200001
+          ],
+          [
+            946533.6812000014,
+            6374598.6325
+          ],
+          [
+            936913.432,
+            6358572.176399998
+          ],
+          [
+            930792.564100001,
+            6282607.0484
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

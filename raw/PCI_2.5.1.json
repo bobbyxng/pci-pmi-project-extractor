@@ -1,0 +1,56 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.5.1",
+    "attributes": {
+      "OBJECTID": "3210",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "2.5.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1156",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.5",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " J\u00f3zsa (HU) - Oradea (RO) line",
+      "PROJECT_FULL_TITLE": "Interconnector between J\u00f3zsa (HU) and Oradea (RO)",
+      "TECHNICAL_DESCR": "<p>This projects consists of&nbsp;the construction of a new&nbsp;single circuit 400 kV OHL between Hungary and Romania with a length of 120 km&nbsp;(90 km on Hungarian and 30 km on Romanian side). The expected capacity is 1384 MW between&nbsp;J&oacute;zsa (HU) and Oradea (RO) (onshore).</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "HU, RO",
+      "PROMOTERS": "MAVIR Ltd (HU) ; CNTEE Transelectrica SA (RO)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "84923.735786"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2407355.180300001,
+            6029540.318000004
+          ],
+          [
+            2441274.4276,
+            5951684.518200003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

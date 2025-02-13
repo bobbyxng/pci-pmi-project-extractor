@@ -1,0 +1,821 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.1.4",
+    "attributes": {
+      "OBJECTID": "4801",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.1.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1155",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.1",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " Pleinting (DE) \u2013 St.Peter (AT)",
+      "PROJECT_FULL_TITLE": "Interconnector between Pleinting (DE) \u2013 St.Peter (AT)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">This project with a&nbsp;length of around&nbsp;70 km consists in a new 380kV line between St. Peter (Austria) and Pleinting (Germany), which will increase&nbsp; the cross border transmission capacity between the two countries. The entire project is divided into two sections, section 1 &ldquo;Pirach-Tann&rdquo; with a length of approximately 25 km and section 2 &ldquo;St.Peter (Prienbach)-Pleinting&rdquo; with approximately 45 km. The corresponding substations are located in Pleinting , Simbach and Pirach.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "AT, DE",
+      "PROMOTERS": "TenneT (DE) ; Austrian Power Grid AG (AT)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1458936.5516000018,
+      "y": 6218255.199699998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.1.4",
+    "attributes": {
+      "OBJECTID": "4802",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.1.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1155",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.1",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " Pleinting (DE) \u2013 St.Peter (AT)",
+      "PROJECT_FULL_TITLE": "Interconnector between Pleinting (DE) \u2013 St.Peter (AT)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">This project with a&nbsp;length of around&nbsp;70 km consists in a new 380kV line between St. Peter (Austria) and Pleinting (Germany), which will increase&nbsp; the cross border transmission capacity between the two countries. The entire project is divided into two sections, section 1 &ldquo;Pirach-Tann&rdquo; with a length of approximately 25 km and section 2 &ldquo;St.Peter (Prienbach)-Pleinting&rdquo; with approximately 45 km. The corresponding substations are located in Pleinting , Simbach and Pirach.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "AT, DE",
+      "PROMOTERS": "TenneT (DE) ; Austrian Power Grid AG (AT)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1447465.3764000013,
+      "y": 6150577.2727999985,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.1.4",
+    "attributes": {
+      "OBJECTID": "4803",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.1.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1155",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.1",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " Pleinting (DE) \u2013 St.Peter (AT)",
+      "PROJECT_FULL_TITLE": "Interconnector between Pleinting (DE) \u2013 St.Peter (AT)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">This project with a&nbsp;length of around&nbsp;70 km consists in a new 380kV line between St. Peter (Austria) and Pleinting (Germany), which will increase&nbsp; the cross border transmission capacity between the two countries. The entire project is divided into two sections, section 1 &ldquo;Pirach-Tann&rdquo; with a length of approximately 25 km and section 2 &ldquo;St.Peter (Prienbach)-Pleinting&rdquo; with approximately 45 km. The corresponding substations are located in Pleinting , Simbach and Pirach.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "AT, DE",
+      "PROMOTERS": "TenneT (DE) ; Austrian Power Grid AG (AT)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1419219.0251999982,
+      "y": 6131592.591600001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.1.4",
+    "attributes": {
+      "OBJECTID": "3873",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "2.1.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1155",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.1",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " Pleinting (DE) \u2013 St.Peter (AT)",
+      "PROJECT_FULL_TITLE": "Interconnector between Pleinting (DE) \u2013 St.Peter (AT)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">This project with a&nbsp;length of around&nbsp;70 km consists in a new 380kV line between St. Peter (Austria) and Pleinting (Germany), which will increase&nbsp; the cross border transmission capacity between the two countries. The entire project is divided into two sections, section 1 &ldquo;Pirach-Tann&rdquo; with a length of approximately 25 km and section 2 &ldquo;St.Peter (Prienbach)-Pleinting&rdquo; with approximately 45 km. The corresponding substations are located in Pleinting , Simbach and Pirach.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "AT, DE",
+      "PROMOTERS": "TenneT (DE) ; Austrian Power Grid AG (AT)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "67282.111368"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1453844.8949999996,
+            6166039.8464
+          ],
+          [
+            1454195.4530000016,
+            6165491.952299997
+          ],
+          [
+            1454145.9397,
+            6164760.561700001
+          ],
+          [
+            1454276.1235999987,
+            6164043.143700004
+          ],
+          [
+            1454169.4651999995,
+            6163411.3467999995
+          ],
+          [
+            1454078.2025999986,
+            6162870.717299998
+          ],
+          [
+            1453987.5018999986,
+            6162333.398599997
+          ],
+          [
+            1453876.3203999996,
+            6161674.684500001
+          ],
+          [
+            1453764.4318999983,
+            6161011.7073
+          ],
+          [
+            1453915.1213999987,
+            6160432.790100001
+          ],
+          [
+            1454077.4681000002,
+            6159809.048500001
+          ],
+          [
+            1454211.8916000016,
+            6159292.557999998
+          ],
+          [
+            1454381.6151,
+            6158640.4199
+          ],
+          [
+            1454318.9090999998,
+            6157945.413699999
+          ],
+          [
+            1454644.0317000002,
+            6157645.462300003
+          ],
+          [
+            1454519.0047000013,
+            6157083.369099997
+          ],
+          [
+            1454390.9230000004,
+            6156507.443899997
+          ],
+          [
+            1454262.4761000015,
+            6155888.042999998
+          ]
+        ],
+        [
+          [
+            1458284.8790999986,
+            6212045.840599999
+          ],
+          [
+            1458292.8128000014,
+            6211654.302900001
+          ],
+          [
+            1458300.934700001,
+            6211253.303599998
+          ],
+          [
+            1458241.3608000018,
+            6210661.9397
+          ],
+          [
+            1458266.2677999996,
+            6210030.8697
+          ],
+          [
+            1458699.194699999,
+            6209430.051700003
+          ],
+          [
+            1458892.7149999999,
+            6208885.303099997
+          ],
+          [
+            1459101.7336000018,
+            6208296.887699999
+          ],
+          [
+            1459303.1415,
+            6207729.858099997
+          ],
+          [
+            1459480.8365000002,
+            6207229.559799999
+          ],
+          [
+            1459664.7956000008,
+            6206711.586400002
+          ],
+          [
+            1459816.4054999985,
+            6206284.683700003
+          ],
+          [
+            1460012.1986999996,
+            6205733.3320999965
+          ]
+        ],
+        [
+          [
+            1458848.625500001,
+            6217895.520999998
+          ],
+          [
+            1458449.9598999992,
+            6217673.9296
+          ]
+        ],
+        [
+          [
+            1460012.1986999996,
+            6205733.3320999965
+          ],
+          [
+            1459984.7542999983,
+            6205195.129500002
+          ],
+          [
+            1459953.1063,
+            6204575.050300002
+          ],
+          [
+            1459914.7531000003,
+            6203823.523100004
+          ],
+          [
+            1459893.9901,
+            6203416.621200003
+          ],
+          [
+            1459606.6215999983,
+            6202889.968500003
+          ],
+          [
+            1459336.7842999995,
+            6202395.398900002
+          ]
+        ],
+        [
+          [
+            1458449.9598999992,
+            6217673.9296
+          ],
+          [
+            1458288.2333999984,
+            6217063.009199999
+          ]
+        ],
+        [
+          [
+            1459336.7842999995,
+            6202395.398900002
+          ],
+          [
+            1459160.6171000004,
+            6201916.6175
+          ],
+          [
+            1458954.7133999988,
+            6201356.9965
+          ],
+          [
+            1458936.2928000018,
+            6200695.829099998
+          ],
+          [
+            1458922.389800001,
+            6200196.709200002
+          ],
+          [
+            1458908.4886999987,
+            6199697.544399999
+          ],
+          [
+            1458892.1341999993,
+            6199110.2304000035
+          ],
+          [
+            1459117.2611999996,
+            6198698.7809000015
+          ],
+          [
+            1458872.2184999995,
+            6198182.079400003
+          ],
+          [
+            1458609.1563000008,
+            6197627.335100003
+          ]
+        ],
+        [
+          [
+            1458288.2333999984,
+            6217063.009199999
+          ],
+          [
+            1458440.4505000003,
+            6216559.550399996
+          ],
+          [
+            1458651.8603999987,
+            6215860.2623
+          ],
+          [
+            1458791.9021000005,
+            6215397.013499998
+          ],
+          [
+            1458982.8893,
+            6214765.200999998
+          ]
+        ],
+        [
+          [
+            1458609.1563000008,
+            6197627.335100003
+          ],
+          [
+            1458735.8544000015,
+            6197165.022699997
+          ],
+          [
+            1458900.9919000007,
+            6196562.381300002
+          ],
+          [
+            1459076.6314999983,
+            6195921.429200001
+          ],
+          [
+            1459247.9419,
+            6195296.202500001
+          ],
+          [
+            1459381.4976000004,
+            6194808.740000002
+          ],
+          [
+            1459343.7153999992,
+            6194193.570699997
+          ],
+          [
+            1459304.6440999992,
+            6193557.330300003
+          ],
+          [
+            1459272.6019000001,
+            6193035.479500003
+          ],
+          [
+            1459241.4838000014,
+            6192528.620200001
+          ],
+          [
+            1459212.9952999987,
+            6192064.565499999
+          ],
+          [
+            1458899.8729999997,
+            6191511.0869999975
+          ],
+          [
+            1458459.1002999991,
+            6191267.341300003
+          ],
+          [
+            1458114.6842,
+            6190770.274899997
+          ],
+          [
+            1457807.0515,
+            6190326.253700003
+          ],
+          [
+            1457462.8126000017,
+            6189829.355899997
+          ],
+          [
+            1457578.052099999,
+            6189228.6570999995
+          ],
+          [
+            1457691.1691000015,
+            6188638.981700003
+          ],
+          [
+            1457565.6149000004,
+            6188149.021300003
+          ],
+          [
+            1457447.052099999,
+            6187686.319499999
+          ],
+          [
+            1457289.9063999988,
+            6187072.989100002
+          ],
+          [
+            1457335.2890000008,
+            6186480.6642
+          ],
+          [
+            1457382.1193000004,
+            6185869.423299998
+          ],
+          [
+            1457676.4728000015,
+            6185355.434600003
+          ],
+          [
+            1457972.7807999998,
+            6184837.997199997
+          ],
+          [
+            1458197.9800999984,
+            6184444.706600003
+          ],
+          [
+            1458423.9816000015,
+            6184049.993299998
+          ],
+          [
+            1458459.1017999984,
+            6183651.1611
+          ],
+          [
+            1458516.4541000016,
+            6182999.8330999985
+          ],
+          [
+            1458553.2371000014,
+            6182582.077
+          ],
+          [
+            1458588.3856999986,
+            6182182.871699996
+          ],
+          [
+            1458632.2432999983,
+            6181685.136799999
+          ],
+          [
+            1458677.7586000003,
+            6181168.204800002
+          ],
+          [
+            1458718.1708999984,
+            6180708.756300002
+          ],
+          [
+            1458767.4604999982,
+            6180148.8935
+          ],
+          [
+            1458811.6427999996,
+            6179647.014700003
+          ],
+          [
+            1458427.4651999995,
+            6179122.608900003
+          ],
+          [
+            1458108.1187000014,
+            6178686.657200001
+          ],
+          [
+            1457739.6574000008,
+            6178183.612800002
+          ],
+          [
+            1457341.4338000007,
+            6177639.8794
+          ],
+          [
+            1457073.0639999993,
+            6177273.417800002
+          ],
+          [
+            1456755.914999999,
+            6176840.311300002
+          ]
+        ],
+        [
+          [
+            1458982.8893,
+            6214765.200999998
+          ],
+          [
+            1458595.0434000008,
+            6214303.697300002
+          ]
+        ],
+        [
+          [
+            1456755.914999999,
+            6176840.311300002
+          ],
+          [
+            1456089.2608999982,
+            6176602.358400002
+          ],
+          [
+            1455791.4736000001,
+            6176236.671999998
+          ],
+          [
+            1455669.3454000019,
+            6175720.854699999
+          ],
+          [
+            1455838.0265000015,
+            6175123.563299999
+          ],
+          [
+            1455755.3596,
+            6174640.845700003
+          ],
+          [
+            1455647.6259999983,
+            6174011.703199998
+          ],
+          [
+            1455393.0859999992,
+            6173727.344400004
+          ],
+          [
+            1455309.1207999997,
+            6173261.0713
+          ],
+          [
+            1455192.1499999985,
+            6172611.459100001
+          ]
+        ],
+        [
+          [
+            1458595.0434000008,
+            6214303.697300002
+          ],
+          [
+            1458513.5989999995,
+            6213710.8972999975
+          ],
+          [
+            1458431.6442999989,
+            6213114.327100001
+          ],
+          [
+            1458336.0681000017,
+            6212418.5264
+          ],
+          [
+            1458284.8790999986,
+            6212045.840599999
+          ]
+        ],
+        [
+          [
+            1455192.1499999985,
+            6172611.459100001
+          ],
+          [
+            1455302.870099999,
+            6172186.318099998
+          ],
+          [
+            1454971.9642999992,
+            6171763.192599997
+          ],
+          [
+            1454905.1603999995,
+            6171293.4092999995
+          ],
+          [
+            1454815.1917000003,
+            6170660.737899996
+          ],
+          [
+            1454566.5670999996,
+            6170164.546099998
+          ],
+          [
+            1454270.3073000014,
+            6169573.238399997
+          ],
+          [
+            1454198.1561000012,
+            6168974.121600002
+          ],
+          [
+            1454125.2881999984,
+            6168368.981299996
+          ],
+          [
+            1454060.5364999995,
+            6167831.172200002
+          ],
+          [
+            1453986.7474999987,
+            6167218.298900001
+          ],
+          [
+            1453909.2063000016,
+            6166574.137000002
+          ],
+          [
+            1453844.8949999996,
+            6166039.8464
+          ]
+        ],
+        [
+          [
+            1458958.9068999998,
+            6218238.368299998
+          ],
+          [
+            1458848.625500001,
+            6217895.520999998
+          ]
+        ],
+        [
+          [
+            1458936.5516000018,
+            6218255.199699998
+          ],
+          [
+            1458848.625500001,
+            6217895.520999998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.1.4",
+    "attributes": {
+      "OBJECTID": "3874",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "2.1.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1155",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.1",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " Pleinting (DE) \u2013 St.Peter (AT)",
+      "PROJECT_FULL_TITLE": "Interconnector between Pleinting (DE) \u2013 St.Peter (AT)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">This project with a&nbsp;length of around&nbsp;70 km consists in a new 380kV line between St. Peter (Austria) and Pleinting (Germany), which will increase&nbsp; the cross border transmission capacity between the two countries. The entire project is divided into two sections, section 1 &ldquo;Pirach-Tann&rdquo; with a length of approximately 25 km and section 2 &ldquo;St.Peter (Prienbach)-Pleinting&rdquo; with approximately 45 km. The corresponding substations are located in Pleinting , Simbach and Pirach.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "AT, DE",
+      "PROMOTERS": "TenneT (DE) ; Austrian Power Grid AG (AT)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "3907.238014"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1456353.7287999988,
+            6149948.712300003
+          ],
+          [
+            1456243.1757000014,
+            6150094.735399999
+          ],
+          [
+            1456265.4554000013,
+            6150433.031800002
+          ],
+          [
+            1456297.8869999982,
+            6150925.489200003
+          ],
+          [
+            1455957.390900001,
+            6151222.309299998
+          ],
+          [
+            1455536.2146000005,
+            6151076.894900002
+          ],
+          [
+            1455064.7386999987,
+            6150914.093599997
+          ],
+          [
+            1454582.1717999987,
+            6151149.160899997
+          ],
+          [
+            1454185.4365999997,
+            6151342.479599997
+          ],
+          [
+            1454032.0199000016,
+            6151836.565499999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

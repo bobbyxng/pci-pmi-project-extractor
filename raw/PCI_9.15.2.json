@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.15.2",
+    "attributes": {
+      "OBJECTID": "1930",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.15.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1211",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.15",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Bilbao large scale electrolyser ",
+      "PROJECT_FULL_TITLE": "Bilbao large scale electrolyser ",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The project consists of a 400 MW alkaline electrolysis plant working 24 hours, which aims to produce around 2 tonnes per hour (~65.5 kt/y) of renewable hydrogen. The project will be located in Muskiz (Spain), in the Petronor refinery, and is part of the Basque Hydrogen Corridor (BH2C).</p>\n\n<p style=\"text-align:justify\">The electrolyser is planned in two phases:</p>\n\n<ul>\n<li style=\"text-align: justify;\">first phase with a nominal power capacity of 100 MW to be commissioned in 2026 with an estimated output of 0.016 Mt/y of green hydrogen</li>\n<li style=\"text-align: justify;\">second phase of 300 MW with an estimated output of 0.0495 Mt/y to be commissioned in 2030.</li>\n</ul>\n\n<p style=\"text-align:justify\">The electricity to be fed into the electrolysers will be obtained via renewable PPAs, and no dedicated renewable assets are expected to be directly connected to the electrolysers.</p>\n\n<p style=\"text-align:justify\">The electrolyser will supply hydrogen to the Petronor refinery, with the objective of decarbonising the refining activity by substituting grey hydrogen. The electricity to be fed into the electrolysers will be obtained via renewable electricity procured by Power Purchase Agreement (PPA) form the grids, and therefore no dedicated renewable assets are expected to be directly connected to the electrolysers. The electrolyser is expected to deliver hydrogen via the hydrogen pipeline integrated in the BH2C, enabling the hydrogen supply to be extended to other industrial off-takers in the region and also for mobility solutions.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "Bay of Biscay Hydrogen S.L.",
+      "COMMISSIONING_DATE": "12/2026",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -344878.7950000018,
+      "y": 5361246.272699997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

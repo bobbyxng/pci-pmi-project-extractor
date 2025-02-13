@@ -1,0 +1,499 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Other essential CO2 equipement",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "674",
+      "INFRA": "35",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2086181.4811000004,
+      "y": 7235849.177599996,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "672",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2077993.1644000001,
+      "y": 7240416.289899997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "673",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2078418.3453000002,
+      "y": 7240502.2815999985,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "675",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2189624.6668,
+      "y": 6907623.800700001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "676",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2001895.3253999986,
+      "y": 6951455.659100004,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "1039",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES",
+      "SHAPE.LEN": "146104.537297"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2077993.1644000001,
+            7240416.289899997
+          ],
+          [
+            2082106.432,
+            7253071.395499997
+          ],
+          [
+            2104158.5146000013,
+            7278945.329599999
+          ],
+          [
+            2117305.6834999993,
+            7320221.3248
+          ],
+          [
+            2085202.1316,
+            7365472.045599997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "1040",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES",
+      "SHAPE.LEN": "299004.55273"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2001895.3253999986,
+            6951455.659100004
+          ],
+          [
+            2078418.3453000002,
+            7240502.2815999985
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "1041",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES",
+      "SHAPE.LEN": "350962.859841"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2189624.6668,
+            6907623.800700001
+          ],
+          [
+            2078418.3453000002,
+            7240502.2815999985
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "1042",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES",
+      "SHAPE.LEN": "433.789546"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2078418.3453000002,
+            7240502.2815999985
+          ],
+          [
+            2077993.1644000001,
+            7240416.289899997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.3",
+    "attributes": {
+      "OBJECTID": "1038",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1054",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "ECO2CEE",
+      "PROJECT_FULL_TITLE": "ECO2CEE \u2013 open-access cross-border CO2 transport and storage project with projected storages sites in Denmark, Norway, Netherlands and UK",
+      "TECHNICAL_DESCR": "<p>ECO2CEE (its predecessor listed in the 5th PCI List under the PCI name &ldquo;Poland - EU CCS Interconnector&rdquo;) is a project comprising liquefaction and buffer storage facilities&nbsp; in an open access multi-modal liquid CO2 import - export terminal in the Polish Gda\u0144sk Hub, &nbsp;which will receive CO2 from Polish and Lithuanian emitters, where a link to the planned multi-modal export terminal in the Lithuanian port of Klaipeda (which scope is included in the CCS Baltic Consortium project) is also foreseen. The Project will create a common area on the Southern Baltic coast from which CO2 can be shipped to storage sites in the North Sea basin and the Baltic Sea basin in the future.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters in the multimodal export-import LCO2 Hub in Gda\u0144sk.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "LT, PL",
+      "PROMOTERS": "Air Liquide Polska Sp. z o.o. (PL) ; AB ORLEN Lietuva (LT) ; ORLEN S.A. (PL) ; Holcim Polska S.A. (PL)",
+      "COMMISSIONING_DATE": "09/2027",
+      "CEF_ACTIONS": "12.9-plnl-s-m-23-4ccs interconnector",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146907/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES",
+      "SHAPE.LEN": "9050.837215"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2086181.4811000004,
+            7235849.177599996
+          ],
+          [
+            2078418.3453000002,
+            7240502.2815999985
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

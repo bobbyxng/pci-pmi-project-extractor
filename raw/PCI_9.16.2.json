@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.16.2",
+    "attributes": {
+      "OBJECTID": "1935",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.16.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1216",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.16",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "EmilHy electrolyser",
+      "PROJECT_FULL_TITLE": "EmilHy electrolyser",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The Emil&rsquo;Hy project, spearheaded by GazelEnergie, is dedicated to establishing a renewable and low-carbon hydrogen production plant. This facility will be seamlessly integrated into the MosaHYc pipeline project, a joint effort by GRTgaz (the French gas transmission system operator) and CREOS (the German distribution operator). The MosaHYc pipeline spans over 100 kilometres, connecting France and Germany.</p>\n\n<p style=\"text-align:justify\">The project&rsquo;s overarching goal is to achieve an ultimate capacity of 400 MW. This ambitious target will be realized through a phased approach:</p>\n\n<ul>\n<li style=\"text-align:justify\">Initial Production Phase (2027): The project will kick off with a 200 MW capacity.</li>\n<li style=\"text-align:justify\">Second Phase (2030): An additional 200 MW will be added, bringing the total capacity to the desired level.</li>\n</ul>\n\n<p style=\"text-align:justify\">The heart of this production unit lies in its electrolysis process, which extracts hydrogen from water using electricity sourced from the grid.</p>\n\n<p style=\"text-align:justify\">This production unit will produce up to 0.56 Mt/y of renewable and low carbon hydrogen by electrolysis of water. The energy supply can come from either renewable sources or low-carbon electricity, ensuring compliance with the REDII delegated acts&mdash;a requirement endorsed by most hydrogen off takers.</p>\n\n<p style=\"text-align:justify\">The resulting hydrogen&mdash;whether green or low-carbon&mdash;will play a pivotal role in decarbonizing industry and heavy mobility. These sectors are major contributors to pollution in the region, making Emil&rsquo;Hy&rsquo;s mission all the more critical.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "GazelEnergie Generation",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 746441.9362000003,
+      "y": 6300632.680100001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

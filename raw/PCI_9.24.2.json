@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Hydrogen storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.24.2",
+    "attributes": {
+      "OBJECTID": "3532",
+      "INFRA": "29",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.24.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1229",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.24",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2 storage North \u2013 2",
+      "PROJECT_FULL_TITLE": "H2 storage North \u2013 2",
+      "TECHNICAL_DESCR": "<p>The project consists of the development of a Salt Cavern for H2 seasonal storage in the Basque- Cantabrian Basin including the following provinces: Burgos, Guip&uacute;zcoa and &Aacute;lava as part of the national Spanish hydrogen system.<br />\nThe key infrastructure components of H2 storage North-2 will have the following technical specifications:<br />\n- Injection capacity: 6 mcm/d - 21 GWh/d.<br />\n- Withdrawal capacity: 6 mcm/d - 21 GWh/d.<br />\n- A working gas volume of 4,150 t is expected by 2030. In a later development stage, the working gas volume is expected to reach up to 16,600 t.<br />\nThe underground hydrogen storage capacity is expected to increase from 46 mcm to 184 mcm under normal conditions.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "Enag\u00e1s Infraestructuras de Hidr\u00f3geno",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -334506.3665000014,
+      "y": 5308786.251199998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

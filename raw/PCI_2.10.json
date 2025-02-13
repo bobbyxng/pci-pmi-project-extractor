@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electricity storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.10",
+    "attributes": {
+      "OBJECTID": "1607",
+      "INFRA": "3",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.10",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1162",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": "Ptolemaida Battery Storage",
+      "PROJECT_FULL_TITLE": "Ptolemaida Battery Energy Storage System (EL)",
+      "TECHNICAL_DESCR": "<p><!--StartFragment --></p>\n\n<p>The PCI consists of a state-of-the-art battery energy storage system (BESS) plant with a rated power of 250 MW and storage capacity of 1000 MWh. The plant will consist of Li-ion battery groups connected to multiple DC/AC converters. The connection of the plant to the 400 kV EHV transmission network will be achieved via its own EHV substation (400/33 kV).</p>\n\n<p><!--EndFragment --></p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "EL",
+      "PROMOTERS": "Prolemaida Storage SMSA (Member of Eunice Energy Group) (EL)",
+      "COMMISSIONING_DATE": "01/2026",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2412398.7742,
+      "y": 4961388.5594,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

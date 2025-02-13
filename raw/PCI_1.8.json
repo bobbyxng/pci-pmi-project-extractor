@@ -1,0 +1,72 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.8",
+    "attributes": {
+      "OBJECTID": "1036",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1071",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Interconnection Lonny (FR) - Gramme (BE)",
+      "PROJECT_FULL_TITLE": "Interconnection between Lonny (FR) and Gramme (BE)",
+      "TECHNICAL_DESCR": "<p>The project will further reinforce the existing Lonny-Ach&ecirc;ne-Gramme cross-border transmission line (total length approximately 100 km) with high-performance (HTLS) conductors as well as substation upgrades and installing a second phase shifting transformer (PST) in Ach&ecirc;ne to handle the increased power flows (the construction of the first PST in Ach&ecirc;ne planned for 2025 is outside of this project). The project aims at increasing the transfer capacity between France and Belgium by approximately 1 GW.</p>",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, FR",
+      "PROMOTERS": "RTE - R\u00e9seau de Transport d'Electricit\u00e9 (FR) ; Elia Transmission Belgium (BE)",
+      "COMMISSIONING_DATE": "31/12/2030",
+      "CEF_ACTIONS": "2.32-be-s-m-23-lag study",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101146863/CEF2027",
+      "STUDIES_OR_WORKS": "STUDIES",
+      "SHAPE.LEN": "148827.603598"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            588476.1273000017,
+            6535458.193499997
+          ],
+          [
+            562762.8176999986,
+            6491476.303800002
+          ],
+          [
+            562383.9523999989,
+            6489436.462300003
+          ],
+          [
+            551594.0881000012,
+            6455266.089000002
+          ],
+          [
+            535407.7888999991,
+            6450588.159999996
+          ],
+          [
+            509083.32730000094,
+            6416431.300099999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "11.3",
+    "attributes": {
+      "OBJECTID": "2248",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "11.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1242",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "BEMIP Hydrogen",
+      "CORRIDOR_NUMBER": "23",
+      "PROJECT_FICHE_SHORT_TITLE": "Baltic Sea Hydrogen Collector",
+      "PROJECT_FULL_TITLE": "Hydrogen interconnector between Sweden, Finland and Germany [currently known as the Baltic Sea Hydrogen Collector]",
+      "TECHNICAL_DESCR": "<p>Baltic Sea Hydrogen Collector (BHC) is a cross-border infrastructure project connecting hydrogen production facilities onshore and offshore in Sweden, Finland and the Baltic Sea region with hydrogen offtake in Germany.<br />\nThe project aims to develop two parallel pipeline strands totalling 2,206 km (2 x 168 km on the Swedish side, connecting Sweden with &Aring;land, 2 x 80&nbsp;km connecting Finland with &Aring;land, 2 x 855 km connecting &Aring;land with the German side) as a 100% hydrogen infrastructure composed of new offshore pipelines between Sweden, Finland and Germany.</p>\n\n<p>The project includes, on the Swedish section:<br />\n&bull; New 168 km parallel strand (total of 336 km) from the Swedish starting point to &Aring;land.<br />\nOn the Finnish section:<br />\n&bull; New 80 km parallel strand (total of 160 km) from the Finnish starting point to &Aring;land.<br />\nOn the offshore section to Germany:<br />\n&bull; New 855&nbsp;km parallel strand (total of 1,710 km) from &Aring;land to Lubmin.<br />\n&bull; New offshore pipeline from a diversion point in the Baltic Sea to Gotland and&nbsp;Bornholm; the maritime routes are currently under development.<br />\nThe hydrogen supply potential is ~5.4 Mt/y by 2040.<br />\nDetails provided above reflect the planning status by April 2024. They&nbsp;may be revised in the following months.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, DK, FI, SE",
+      "PROMOTERS": "Gasgrid Finland Oy ; Nordion Energi AB",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "2072534.495214"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1525066.0397000015,
+            7198727.568400003
+          ],
+          [
+            1581844.0876999982,
+            7234635.8473000005
+          ],
+          [
+            1593506.6055999994,
+            7246912.181999996
+          ],
+          [
+            1615910.9164000005,
+            7258881.6083
+          ],
+          [
+            1628187.2511,
+            7273613.210000001
+          ],
+          [
+            1692331.0998000018,
+            7331618.8913
+          ],
+          [
+            1722101.2113999985,
+            7373972.245999999
+          ],
+          [
+            1761385.4824,
+            7418780.867600001
+          ],
+          [
+            1863279.0603,
+            7522515.8957
+          ],
+          [
+            2062769.4989,
+            7649882.868000001
+          ],
+          [
+            2105122.853599999,
+            7710957.633100003
+          ],
+          [
+            2149931.475200001,
+            7758528.43
+          ],
+          [
+            2183384.4871999994,
+            7851214.756899998
+          ],
+          [
+            2264715.204500001,
+            8296538.797600001
+          ],
+          [
+            2243845.4354999997,
+            8464110.766000003
+          ]
+        ],
+        [
+          [
+            2243845.4354999997,
+            8464110.766000003
+          ],
+          [
+            2393002.901900001,
+            8527640.798
+          ]
+        ],
+        [
+          [
+            2243845.4354999997,
+            8464110.766000003
+          ],
+          [
+            2160980.1763999984,
+            8517359.367700003
+          ],
+          [
+            2086401.4431999996,
+            8563549.076899998
+          ],
+          [
+            2002922.3673,
+            8553421.1008
+          ],
+          [
+            1932026.5344999991,
+            8542679.307999998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "11.3",
+    "attributes": {
+      "OBJECTID": "4482",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "11.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1242",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "BEMIP Hydrogen",
+      "CORRIDOR_NUMBER": "23",
+      "PROJECT_FICHE_SHORT_TITLE": "Baltic Sea Hydrogen Collector",
+      "PROJECT_FULL_TITLE": "Hydrogen interconnector between Sweden, Finland and Germany [currently known as the Baltic Sea Hydrogen Collector]",
+      "TECHNICAL_DESCR": "<p>Baltic Sea Hydrogen Collector (BHC) is a cross-border infrastructure project connecting hydrogen production facilities onshore and offshore in Sweden, Finland and the Baltic Sea region with hydrogen offtake in Germany.<br />\nThe project aims to develop two parallel pipeline strands totalling 2,206 km (2 x 168 km on the Swedish side, connecting Sweden with &Aring;land, 2 x 80&nbsp;km connecting Finland with &Aring;land, 2 x 855 km connecting &Aring;land with the German side) as a 100% hydrogen infrastructure composed of new offshore pipelines between Sweden, Finland and Germany.</p>\n\n<p>The project includes, on the Swedish section:<br />\n&bull; New 168 km parallel strand (total of 336 km) from the Swedish starting point to &Aring;land.<br />\nOn the Finnish section:<br />\n&bull; New 80 km parallel strand (total of 160 km) from the Finnish starting point to &Aring;land.<br />\nOn the offshore section to Germany:<br />\n&bull; New 855&nbsp;km parallel strand (total of 1,710 km) from &Aring;land to Lubmin.<br />\n&bull; New offshore pipeline from a diversion point in the Baltic Sea to Gotland and&nbsp;Bornholm; the maritime routes are currently under development.<br />\nThe hydrogen supply potential is ~5.4 Mt/y by 2040.<br />\nDetails provided above reflect the planning status by April 2024. They&nbsp;may be revised in the following months.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, DK, FI, SE",
+      "PROMOTERS": "Gasgrid Finland Oy ; Nordion Energi AB",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "83947.290593"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2190309.8905000016,
+            7889293.096600004
+          ],
+          [
+            2109327.773699999,
+            7911407.443899997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "11.3",
+    "attributes": {
+      "OBJECTID": "4483",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "11.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1242",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "BEMIP Hydrogen",
+      "CORRIDOR_NUMBER": "23",
+      "PROJECT_FICHE_SHORT_TITLE": "Baltic Sea Hydrogen Collector",
+      "PROJECT_FULL_TITLE": "Hydrogen interconnector between Sweden, Finland and Germany [currently known as the Baltic Sea Hydrogen Collector]",
+      "TECHNICAL_DESCR": "<p>Baltic Sea Hydrogen Collector (BHC) is a cross-border infrastructure project connecting hydrogen production facilities onshore and offshore in Sweden, Finland and the Baltic Sea region with hydrogen offtake in Germany.<br />\nThe project aims to develop two parallel pipeline strands totalling 2,206 km (2 x 168 km on the Swedish side, connecting Sweden with &Aring;land, 2 x 80&nbsp;km connecting Finland with &Aring;land, 2 x 855 km connecting &Aring;land with the German side) as a 100% hydrogen infrastructure composed of new offshore pipelines between Sweden, Finland and Germany.</p>\n\n<p>The project includes, on the Swedish section:<br />\n&bull; New 168 km parallel strand (total of 336 km) from the Swedish starting point to &Aring;land.<br />\nOn the Finnish section:<br />\n&bull; New 80 km parallel strand (total of 160 km) from the Finnish starting point to &Aring;land.<br />\nOn the offshore section to Germany:<br />\n&bull; New 855&nbsp;km parallel strand (total of 1,710 km) from &Aring;land to Lubmin.<br />\n&bull; New offshore pipeline from a diversion point in the Baltic Sea to Gotland and&nbsp;Bornholm; the maritime routes are currently under development.<br />\nThe hydrogen supply potential is ~5.4 Mt/y by 2040.<br />\nDetails provided above reflect the planning status by April 2024. They&nbsp;may be revised in the following months.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, DK, FI, SE",
+      "PROMOTERS": "Gasgrid Finland Oy ; Nordion Energi AB",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "54035.354446"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1692331.0998000018,
+            7331618.8913
+          ],
+          [
+            1653821.4100000001,
+            7369524.343699999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

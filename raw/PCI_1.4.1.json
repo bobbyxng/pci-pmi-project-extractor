@@ -1,0 +1,72 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.4.1",
+    "attributes": {
+      "OBJECTID": "1035",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.4.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1068",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "1.4",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "A-Nord (DE)",
+      "PROJECT_FULL_TITLE": "Internal line from Emden-East to Osterath to increase capacity from Northern Germany to the Rhineland [currently known as \u201cA-Nord\u201d]",
+      "TECHNICAL_DESCR": "<p>A grid expansion project [currently known as &quot;A-North&quot;] for low-loss transmission of high power over long distances from Northern Germany, a region characterised by a large number of regenerative onshore and offshore energy sources, to the high-production region of Rhineland. It consists of two new HVDC cables of 300 km with a transfer capacity of 2.4 GW connecting Emden-East to Osterath.</p>\n\n<p>Note: the project is split into different phases and first sections plan to start construction from May 2024.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "AMPRION GmbH (DE)",
+      "COMMISSIONING_DATE": "31/07/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "407170.610511"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            737588.1405000016,
+            6667563.465300001
+          ],
+          [
+            730973.4250000007,
+            6675202.976300001
+          ],
+          [
+            750648.3658000007,
+            6744861.523199998
+          ],
+          [
+            804612.938000001,
+            6855490.397100002
+          ],
+          [
+            825880.7492999993,
+            7000121.4592999965
+          ],
+          [
+            811840.8011999987,
+            7053719.114399999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

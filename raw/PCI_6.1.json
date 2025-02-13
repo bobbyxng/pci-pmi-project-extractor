@@ -1,0 +1,284 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "6.1",
+    "attributes": {
+      "OBJECTID": "4172",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "6.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1168",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "SW offshore",
+      "CORRIDOR_NUMBER": "18",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection Occitanie",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection Occitanie (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Occitanie will consist of&nbsp;750 MW offshore wind connection hub, connecting two different floating windfarms. More precisely, the project will be composed of an HVAC 225 kV offshore connection. The total route length is expected to be around 60 km from the offshore substation Occitanie to the onshore substation.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 391711.57499999925,
+      "y": 5312330.945,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "6.1",
+    "attributes": {
+      "OBJECTID": "4173",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "6.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1168",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "SW offshore",
+      "CORRIDOR_NUMBER": "18",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection Occitanie",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection Occitanie (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Occitanie will consist of&nbsp;750 MW offshore wind connection hub, connecting two different floating windfarms. More precisely, the project will be composed of an HVAC 225 kV offshore connection. The total route length is expected to be around 60 km from the offshore substation Occitanie to the onshore substation.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 331915.86670000106,
+      "y": 5341987.436999999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "6.1",
+    "attributes": {
+      "OBJECTID": "3858",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "6.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1168",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "SW offshore",
+      "CORRIDOR_NUMBER": "18",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection Occitanie",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection Occitanie (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Occitanie will consist of&nbsp;750 MW offshore wind connection hub, connecting two different floating windfarms. More precisely, the project will be composed of an HVAC 225 kV offshore connection. The total route length is expected to be around 60 km from the offshore substation Occitanie to the onshore substation.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "31992.023937"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            351131.2976000011,
+            5334574.079300001
+          ],
+          [
+            349929.8568999991,
+            5334776.836300001
+          ],
+          [
+            348447.42540000007,
+            5333294.404799998
+          ],
+          [
+            347041.0159999989,
+            5331241.807300001
+          ],
+          [
+            346014.71730000153,
+            5330215.508599997
+          ],
+          [
+            344912.3964000009,
+            5330671.641400002
+          ],
+          [
+            343734.0533999987,
+            5330063.464299999
+          ],
+          [
+            341187.3121000007,
+            5330975.7299000025
+          ],
+          [
+            339742.89169999957,
+            5332268.1061
+          ],
+          [
+            339666.8696000017,
+            5334434.736699998
+          ],
+          [
+            340427.0907999985,
+            5336905.455899999
+          ],
+          [
+            340807.20149999857,
+            5338425.898500003
+          ],
+          [
+            340141.24760000035,
+            5338334.671899997
+          ],
+          [
+            338235.08570000157,
+            5339547.3499
+          ],
+          [
+            336934.181499999,
+            5341983.0854
+          ],
+          [
+            335716.31379999965,
+            5342758.092100002
+          ],
+          [
+            334624.37029999867,
+            5343131.375200003
+          ],
+          [
+            333252.8995000012,
+            5342758.092100002
+          ],
+          [
+            331915.86670000106,
+            5341987.436999999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "6.1",
+    "attributes": {
+      "OBJECTID": "3857",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "6.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1168",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "SW offshore",
+      "CORRIDOR_NUMBER": "18",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection Occitanie",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection Occitanie (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection Occitanie will consist of&nbsp;750 MW offshore wind connection hub, connecting two different floating windfarms. More precisely, the project will be composed of an HVAC 225 kV offshore connection. The total route length is expected to be around 60 km from the offshore substation Occitanie to the onshore substation.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "46401.02666"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            351131.2976000011,
+            5334574.079300001
+          ],
+          [
+            352709.5907999985,
+            5333224.038699999
+          ],
+          [
+            355293.12680000067,
+            5331603.855099998
+          ],
+          [
+            373893.0117000006,
+            5321734.586900003
+          ],
+          [
+            381131.44680000097,
+            5317744.167499997
+          ],
+          [
+            385585.86840000004,
+            5316166.559900001
+          ],
+          [
+            391711.57499999925,
+            5312330.945
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

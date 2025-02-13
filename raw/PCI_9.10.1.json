@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Hydrogen terminal",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.10.1",
+    "attributes": {
+      "OBJECTID": "3521",
+      "INFRA": "28",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.10.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1199",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.10",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Ammonia reception facility Antwerp",
+      "PROJECT_FULL_TITLE": "Ammonia reception facility Antwerp",
+      "TECHNICAL_DESCR": "<p>The project consists of a liquified hydrogen terminal aiming to develop a first-of-its kind renewable energy hub, facilitating hydrogen imports (using green/low carbon ammonia as carrier) and its redistribution either for direct usage or via the open-access hydrogen backbone.<br />\nThe terminal will have the following technical characteristics:<br />\n- H2 Injection capacity: 16.2 GWh/d (0.15 Mt/y)<br />\n- Storage capacity: 200,000 m3<br />\nThe project is expected to lead to a H2 capacity increment of 16.2 GWh/d (0.15 Mt/y).<br />\nFluxys Belgium and Advario are assessing the development of the project at Advario Gas Terminal (&ldquo;AGT&rdquo;), suited for the construction of up to 2 tanks of 100,000 m&sup3; each and an industrial scale cracker required for transforming NH3 into H2 with a design capacity of transforming 3,000 t/d of ammonia into H2.<br />\nThe implementation of the project will enable imported hydrogen (via NH3) via the terminal in Antwerp enter the European market, leveraged by the hydrogen network of Fluxys. Through this network, imported hydrogen can be used in local Belgian demand clusters and be exported towards neighbouring countries such as Germany, The Netherlands and France.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": "Fluxys Belgium",
+      "COMMISSIONING_DATE": "31/12/2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 478929.66010000184,
+      "y": 6672372.740599997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

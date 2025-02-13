@@ -1,0 +1,466 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.1.3",
+    "attributes": {
+      "OBJECTID": "3880",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.1.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1174",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.1",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal hydrogen infrastructure in Spain",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Spain",
+      "TECHNICAL_DESCR": "<p>The Spanish hydrogen backbone includes two main axes of pipelines of a total approximate length of 2,600 km:</p>\n\n<p>Axis 1: Gij&oacute;n - Santander - Bilbao - Guip&uacute;zcoa -&nbsp;Haro -&nbsp;Zaragoza&nbsp;-&nbsp;Tivissa -&nbsp;Tarragona - Barcelona; Tivissa - Montesa, Montesa - Cartagena of approximately 1,500 km</p>\n\n<p>Axis 2: Gij&oacute;n (Musel) -&nbsp;Zamora -&nbsp;Almendralejo - Huelva; Almendralejo - Puertollano, of approximately. 1,050 km</p>\n\n<p>Besides, the Spanish Hydrogen Backbone will include the compression stations to ensure the proper flow of hydrogen through the network, as well as different types of valve positions (regulation and metering stations).</p>\n\n<p>It is expected that national hydrogen transmission capacity will reach approx. 325 GWh/d&nbsp;or 3 Mt/y (Axis 1) and 101 GWh/d&nbsp;or 0.9 Mt/y (Axis 2).</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "Enag\u00e1s Infraestructuras de Hidr\u00f3geno (ES)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "281526.686273"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -710694.9989,
+            4680301.683399998
+          ],
+          [
+            -705258.0240000002,
+            4699422.187299997
+          ],
+          [
+            -698870.9299000017,
+            4704075.4771
+          ],
+          [
+            -668106.1336999983,
+            4711413.513499998
+          ],
+          [
+            -651941.127700001,
+            4720599.385200001
+          ],
+          [
+            -608157.0817999989,
+            4736936.288400002
+          ],
+          [
+            -586774.8482000008,
+            4739994.647
+          ],
+          [
+            -567339.1180000007,
+            4734286.942699999
+          ],
+          [
+            -523152.07499999925,
+            4714891.3653
+          ],
+          [
+            -463049.3570000008,
+            4686014.526500002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.1.3",
+    "attributes": {
+      "OBJECTID": "3881",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.1.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1174",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.1",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal hydrogen infrastructure in Spain",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Spain",
+      "TECHNICAL_DESCR": "<p>The Spanish hydrogen backbone includes two main axes of pipelines of a total approximate length of 2,600 km:</p>\n\n<p>Axis 1: Gij&oacute;n - Santander - Bilbao - Guip&uacute;zcoa -&nbsp;Haro -&nbsp;Zaragoza&nbsp;-&nbsp;Tivissa -&nbsp;Tarragona - Barcelona; Tivissa - Montesa, Montesa - Cartagena of approximately 1,500 km</p>\n\n<p>Axis 2: Gij&oacute;n (Musel) -&nbsp;Zamora -&nbsp;Almendralejo - Huelva; Almendralejo - Puertollano, of approximately. 1,050 km</p>\n\n<p>Besides, the Spanish Hydrogen Backbone will include the compression stations to ensure the proper flow of hydrogen through the network, as well as different types of valve positions (regulation and metering stations).</p>\n\n<p>It is expected that national hydrogen transmission capacity will reach approx. 325 GWh/d&nbsp;or 3 Mt/y (Axis 1) and 101 GWh/d&nbsp;or 0.9 Mt/y (Axis 2).</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "Enag\u00e1s Infraestructuras de Hidr\u00f3geno (ES)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "2160454.966775"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -769005.3438000008,
+            4463087.5735
+          ],
+          [
+            -768613.1378000006,
+            4462880.019400001
+          ],
+          [
+            -745705.2620999999,
+            4532125.536600001
+          ],
+          [
+            -746451.1898999996,
+            4626169.412900001
+          ],
+          [
+            -709431.8715000004,
+            4644194.555500001
+          ],
+          [
+            -710692.8348999992,
+            4680304.4921
+          ]
+        ],
+        [
+          [
+            -710694.9989,
+            4680301.683399998
+          ],
+          [
+            -687639.7311000004,
+            4789399.047499999
+          ],
+          [
+            -689318.6031999998,
+            4871813.303400002
+          ],
+          [
+            -653023.4701999985,
+            4917197.134000003
+          ],
+          [
+            -627158.0949000008,
+            5095191.195
+          ],
+          [
+            -624972.2280000001,
+            5171070.967699997
+          ],
+          [
+            -634531.0863999985,
+            5246443.500799999
+          ],
+          [
+            -628833.4899000004,
+            5285591.497199997
+          ],
+          [
+            -648731.6044999994,
+            5329358.9711000025
+          ],
+          [
+            -644259.5767999999,
+            5382577.494400002
+          ]
+        ],
+        [
+          [
+            -320843.52650000155,
+            5246101.643200003
+          ],
+          [
+            -290743.6180000007,
+            5224508.943999998
+          ],
+          [
+            -232062.64759999886,
+            5209278.439999998
+          ],
+          [
+            -107661.46939999983,
+            5098810.849699996
+          ],
+          [
+            -106990.24379999936,
+            5098459.880099997
+          ],
+          [
+            -73748.76520000026,
+            5082357.777900003
+          ],
+          [
+            -52477.248100001365,
+            5053296.741800003
+          ],
+          [
+            -2566.1107000000775,
+            5036817.338799998
+          ],
+          [
+            32613.032699998468,
+            5018441.998300001
+          ],
+          [
+            59060.03099999949,
+            5026574.3429000005
+          ],
+          [
+            73999.88129999861,
+            5020841.470399998
+          ],
+          [
+            94379.99599999934,
+            5016165.649400003
+          ],
+          [
+            167434.41209999844,
+            5048865.990599997
+          ],
+          [
+            217370.0128000006,
+            5081961.124200001
+          ],
+          [
+            234221.96990000084,
+            5060981.362099998
+          ],
+          [
+            240281.62299999967,
+            5062626.857199997
+          ]
+        ],
+        [
+          [
+            -644257.6059999987,
+            5382582.0973000005
+          ],
+          [
+            -603550.185800001,
+            5367493.484399997
+          ],
+          [
+            -570536.5527999997,
+            5377960.979800001
+          ],
+          [
+            -544695.4543999992,
+            5376135.828599997
+          ],
+          [
+            -494116.25560000166,
+            5365278.9771
+          ],
+          [
+            -463383.2760999985,
+            5370487.882799998
+          ],
+          [
+            -458585.8605999984,
+            5365955.471699998
+          ],
+          [
+            -431802.3542000018,
+            5377831.468599997
+          ],
+          [
+            -428498.2038999982,
+            5370641.936399996
+          ],
+          [
+            -405014.558699999,
+            5384665.9793
+          ],
+          [
+            -388497.76040000096,
+            5373426.4641999975
+          ],
+          [
+            -385871.84760000184,
+            5360620.840099998
+          ],
+          [
+            -343276.86989999935,
+            5365237.551200002
+          ],
+          [
+            -326078.5304999985,
+            5344089.885799997
+          ],
+          [
+            -299517.14649999887,
+            5341604.0261999965
+          ],
+          [
+            -271635.3718999997,
+            5324092.792999998
+          ],
+          [
+            -275678.69000000134,
+            5310179.729099996
+          ],
+          [
+            -306516.94519999996,
+            5297382.860299997
+          ],
+          [
+            -311911.21550000086,
+            5280696.683799997
+          ],
+          [
+            -320855.92440000176,
+            5265128.030299999
+          ],
+          [
+            -320845.90579999983,
+            5246106.939199999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.1.3",
+    "attributes": {
+      "OBJECTID": "3882",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.1.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1174",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.1",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal hydrogen infrastructure in Spain",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in Spain",
+      "TECHNICAL_DESCR": "<p>The Spanish hydrogen backbone includes two main axes of pipelines of a total approximate length of 2,600 km:</p>\n\n<p>Axis 1: Gij&oacute;n - Santander - Bilbao - Guip&uacute;zcoa -&nbsp;Haro -&nbsp;Zaragoza&nbsp;-&nbsp;Tivissa -&nbsp;Tarragona - Barcelona; Tivissa - Montesa, Montesa - Cartagena of approximately 1,500 km</p>\n\n<p>Axis 2: Gij&oacute;n (Musel) -&nbsp;Zamora -&nbsp;Almendralejo - Huelva; Almendralejo - Puertollano, of approximately. 1,050 km</p>\n\n<p>Besides, the Spanish Hydrogen Backbone will include the compression stations to ensure the proper flow of hydrogen through the network, as well as different types of valve positions (regulation and metering stations).</p>\n\n<p>It is expected that national hydrogen transmission capacity will reach approx. 325 GWh/d&nbsp;or 3 Mt/y (Axis 1) and 101 GWh/d&nbsp;or 0.9 Mt/y (Axis 2).</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "Enag\u00e1s Infraestructuras de Hidr\u00f3geno (ES)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "581949.201509"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            73999.88129999861,
+            5020841.470399998
+          ],
+          [
+            79426.80889999866,
+            4994330.476499997
+          ],
+          [
+            27029.478700000793,
+            4945861.309699997
+          ],
+          [
+            -15142.3022999987,
+            4859838.007299997
+          ],
+          [
+            -16191.445000000298,
+            4843417.537100002
+          ],
+          [
+            -39031.061200000346,
+            4807917.432999998
+          ],
+          [
+            -59937.3647999987,
+            4792747.052900001
+          ],
+          [
+            -61782.67949999869,
+            4790251.4120000005
+          ],
+          [
+            -68651.0914000012,
+            4716027.5722
+          ],
+          [
+            -64255.68160000071,
+            4703011.693400003
+          ],
+          [
+            -62432.69260000065,
+            4691007.777800001
+          ],
+          [
+            -76166.11400000006,
+            4682259.029700004
+          ],
+          [
+            -66116.83729999885,
+            4669478.872000001
+          ],
+          [
+            -65648.5287999995,
+            4639069.508500002
+          ],
+          [
+            -101590.80649999902,
+            4601819.7119999975
+          ],
+          [
+            -96358.28299999982,
+            4565659.4384
+          ],
+          [
+            -105843.13580000028,
+            4518165.957800001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

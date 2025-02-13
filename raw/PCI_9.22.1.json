@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Hydrogen storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.22.1",
+    "attributes": {
+      "OBJECTID": "3528",
+      "INFRA": "29",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.22.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1225",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.22",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Salthy hydrogen storage Harsefeld ",
+      "PROJECT_FULL_TITLE": "Salthy hydrogen storage Harsefeld ",
+      "TECHNICAL_DESCR": "<p>The project consists of the construction of an underground hydrogen storage and more particularly the creation of a new salt cavern and construction of dedicated surface facilities to store 100% H2. The storage will be connected to the H2 network of Gasunie running from the Netherlands to Denmark via Hamburg where a H2 distribution network is planned.<br />\nThe project will have the following technical specifications:<br />\n- Maximum Injection rate: 17 GWh/d<br />\n- Maximum Withdrawal rate: 17 GWh/d<br />\n- Working gas volume: 205 GWh<br />\n- Expected increase in underground hydrogen storage capacity: 58 mcm<br />\nThe maximum storage volume and the injection/withdrawal capacities are subject to further investigations and may be adapted depending on market needs. The planned Working Gas Volume could be cycled several times in a year thanks to a highly-flexible plant design.<br />\nThe Harsefeld salt dome potentially allows for the creation of several caverns, enabling the following &nbsp;extension options : 2nd phase with another cavern and the necessary surface equipment &amp; 3rd phase: repurposing to H2 of existing natural gas facilities.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Storengy Deutschland GmbH",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1055703.2388000004,
+      "y": 7063805.329700001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

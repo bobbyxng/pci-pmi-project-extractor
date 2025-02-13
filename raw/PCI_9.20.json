@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Hydrogen storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.20",
+    "attributes": {
+      "OBJECTID": "3527",
+      "INFRA": "29",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.20",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1223",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Danish Hydrogen Storage (DK)",
+      "PROJECT_FULL_TITLE": "Danish Hydrogen Storage (DK)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The project will establish an underground hydrogen storage in existing natural gas salt caverns at Lille Torup (DK).<br />\nThe scope of this project covers repurposing one natural gas cavern into hydrogen in 2027, with a scalable set-up capable of repurposing several other caverns if needed.<br />\nThe project aims to enable cluster development, as an essential part of the Danish hydrogen infrastructure, in&nbsp;close collaboration with local projects, as well enhance cross border hydrogen import/export, as part of the development of the Danish Hydrogen Backbone West project.<br />\nThe project has the following technical specifications:<br />\n- The first cavern will be able to hold 7,000 tons H2 and have an injection / withdrawal capacity 480 MWh/h (LHV) or 567 MWh/h (HHV).<br />\n- Working gas volume is 116 GWh (LHV) or 137 MWh/h (HHV).<br />\n- Expected increase in underground hydrogen storage capacity in total 4-5 caverns equal 28-35,000 tons of H2&nbsp;(the caverns have an average size of 700,000 m3).</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DK",
+      "PROMOTERS": "Energinet",
+      "COMMISSIONING_DATE": "2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1048106.2105999999,
+      "y": 7686816.3125,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

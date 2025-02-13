@@ -1,0 +1,414 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.12",
+    "attributes": {
+      "OBJECTID": "3207",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1149",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Pycasso",
+      "PROJECT_FULL_TITLE": "Pycasso \u2013 transport and storage of CO2 in onshore storage site in southwestern FR, industrial emitters from FR and ES",
+      "TECHNICAL_DESCR": "<p>PYCASSO (PYrenean CO2 Abatement through Sustainable Sequestration Operations) consists of a cross-border network of CO2 transport segments, collecting emissions in South-Western France and Northern Spain, and on-shore storage infrastructures in France.</p>\n\n<p>The infrastructure elements comprising this PCI, per development phase, are the following:<br />\n<br />\nThe Phase 1 of the project, due to start operations in 2030, includes:<br />\n-&nbsp;two<strong>&nbsp;</strong>sections of pipeline infrastructure, excluding upstream, required to transport CO2 collected industrial clusters in South West France to the storage sites<strong>;</strong><br />\n- Liquefaction and buffer storage facilities in an import Bayonne terminal which will receive carbon emissions from industrial emitters &nbsp;in France and in Northern Spain;<br />\n- surface and injection facilities in two storage sites located in South West France.&nbsp;</p>\n\n<p>The Phase 2 of the project, due to start operations in 2035, includes:<br />\n- Collecting pipeline, other than upstream, to transport CO2 from industrial clusters located between the Bordeaux area and the storage sites;<br />\n- Cross-border pipeline to transport carbon from industrial emitters located in Northern Spain;<br />\n- Liquefaction and buffer storage facilities in a receiving terminal in Bordeaux which may also receive CO2 from other CCUS hub or export carbon emissions by ship to other offshore storage sites.<br />\n<br />\nThe two potential storage sites are depleted onshore gas fields located in the core project in the Pyrenean foothills in Southwestern France, with an estimated total capacity of up to 500 Mt. Estimated injection rates range from 1-3 Mt/y in 2030 and up to 6 Mt/y in 2035.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "Ter\u00e9ga SA (ES) ;  Lafarge Ciments (FR) ; Repsol SA (ES)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -73086.35920000076,
+      "y": 5375939.839100003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.12",
+    "attributes": {
+      "OBJECTID": "3206",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1149",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Pycasso",
+      "PROJECT_FULL_TITLE": "Pycasso \u2013 transport and storage of CO2 in onshore storage site in southwestern FR, industrial emitters from FR and ES",
+      "TECHNICAL_DESCR": "<p>PYCASSO (PYrenean CO2 Abatement through Sustainable Sequestration Operations) consists of a cross-border network of CO2 transport segments, collecting emissions in South-Western France and Northern Spain, and on-shore storage infrastructures in France.</p>\n\n<p>The infrastructure elements comprising this PCI, per development phase, are the following:<br />\n<br />\nThe Phase 1 of the project, due to start operations in 2030, includes:<br />\n-&nbsp;two<strong>&nbsp;</strong>sections of pipeline infrastructure, excluding upstream, required to transport CO2 collected industrial clusters in South West France to the storage sites<strong>;</strong><br />\n- Liquefaction and buffer storage facilities in an import Bayonne terminal which will receive carbon emissions from industrial emitters &nbsp;in France and in Northern Spain;<br />\n- surface and injection facilities in two storage sites located in South West France.&nbsp;</p>\n\n<p>The Phase 2 of the project, due to start operations in 2035, includes:<br />\n- Collecting pipeline, other than upstream, to transport CO2 from industrial clusters located between the Bordeaux area and the storage sites;<br />\n- Cross-border pipeline to transport carbon from industrial emitters located in Northern Spain;<br />\n- Liquefaction and buffer storage facilities in a receiving terminal in Bordeaux which may also receive CO2 from other CCUS hub or export carbon emissions by ship to other offshore storage sites.<br />\n<br />\nThe two potential storage sites are depleted onshore gas fields located in the core project in the Pyrenean foothills in Southwestern France, with an estimated total capacity of up to 500 Mt. Estimated injection rates range from 1-3 Mt/y in 2030 and up to 6 Mt/y in 2035.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "Ter\u00e9ga SA (ES) ;  Lafarge Ciments (FR) ; Repsol SA (ES)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -168237.8920999989,
+      "y": 5392849.023500003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "CO2 shipping route",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.12",
+    "attributes": {
+      "OBJECTID": "2899",
+      "INFRA": "20",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1149",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Pycasso",
+      "PROJECT_FULL_TITLE": "Pycasso \u2013 transport and storage of CO2 in onshore storage site in southwestern FR, industrial emitters from FR and ES",
+      "TECHNICAL_DESCR": "<p>PYCASSO (PYrenean CO2 Abatement through Sustainable Sequestration Operations) consists of a cross-border network of CO2 transport segments, collecting emissions in South-Western France and Northern Spain, and on-shore storage infrastructures in France.</p>\n\n<p>The infrastructure elements comprising this PCI, per development phase, are the following:<br />\n<br />\nThe Phase 1 of the project, due to start operations in 2030, includes:<br />\n-&nbsp;two<strong>&nbsp;</strong>sections of pipeline infrastructure, excluding upstream, required to transport CO2 collected industrial clusters in South West France to the storage sites<strong>;</strong><br />\n- Liquefaction and buffer storage facilities in an import Bayonne terminal which will receive carbon emissions from industrial emitters &nbsp;in France and in Northern Spain;<br />\n- surface and injection facilities in two storage sites located in South West France.&nbsp;</p>\n\n<p>The Phase 2 of the project, due to start operations in 2035, includes:<br />\n- Collecting pipeline, other than upstream, to transport CO2 from industrial clusters located between the Bordeaux area and the storage sites;<br />\n- Cross-border pipeline to transport carbon from industrial emitters located in Northern Spain;<br />\n- Liquefaction and buffer storage facilities in a receiving terminal in Bordeaux which may also receive CO2 from other CCUS hub or export carbon emissions by ship to other offshore storage sites.<br />\n<br />\nThe two potential storage sites are depleted onshore gas fields located in the core project in the Pyrenean foothills in Southwestern France, with an estimated total capacity of up to 500 Mt. Estimated injection rates range from 1-3 Mt/y in 2030 and up to 6 Mt/y in 2035.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "Ter\u00e9ga SA (ES) ;  Lafarge Ciments (FR) ; Repsol SA (ES)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "466080.261961"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -168237.8920999989,
+            5392849.023500003
+          ],
+          [
+            -168832.94680000097,
+            5392787.9234
+          ],
+          [
+            -427999.95369999856,
+            5424298.2848000005
+          ],
+          [
+            -630421.9798999988,
+            5395884.306199998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.12",
+    "attributes": {
+      "OBJECTID": "2895",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1149",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Pycasso",
+      "PROJECT_FULL_TITLE": "Pycasso \u2013 transport and storage of CO2 in onshore storage site in southwestern FR, industrial emitters from FR and ES",
+      "TECHNICAL_DESCR": "<p>PYCASSO (PYrenean CO2 Abatement through Sustainable Sequestration Operations) consists of a cross-border network of CO2 transport segments, collecting emissions in South-Western France and Northern Spain, and on-shore storage infrastructures in France.</p>\n\n<p>The infrastructure elements comprising this PCI, per development phase, are the following:<br />\n<br />\nThe Phase 1 of the project, due to start operations in 2030, includes:<br />\n-&nbsp;two<strong>&nbsp;</strong>sections of pipeline infrastructure, excluding upstream, required to transport CO2 collected industrial clusters in South West France to the storage sites<strong>;</strong><br />\n- Liquefaction and buffer storage facilities in an import Bayonne terminal which will receive carbon emissions from industrial emitters &nbsp;in France and in Northern Spain;<br />\n- surface and injection facilities in two storage sites located in South West France.&nbsp;</p>\n\n<p>The Phase 2 of the project, due to start operations in 2035, includes:<br />\n- Collecting pipeline, other than upstream, to transport CO2 from industrial clusters located between the Bordeaux area and the storage sites;<br />\n- Cross-border pipeline to transport carbon from industrial emitters located in Northern Spain;<br />\n- Liquefaction and buffer storage facilities in a receiving terminal in Bordeaux which may also receive CO2 from other CCUS hub or export carbon emissions by ship to other offshore storage sites.<br />\n<br />\nThe two potential storage sites are depleted onshore gas fields located in the core project in the Pyrenean foothills in Southwestern France, with an estimated total capacity of up to 500 Mt. Estimated injection rates range from 1-3 Mt/y in 2030 and up to 6 Mt/y in 2035.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "Ter\u00e9ga SA (ES) ;  Lafarge Ciments (FR) ; Repsol SA (ES)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "197920.051074"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            109761.35190000013,
+            5340492.042199999
+          ],
+          [
+            58848.71480000019,
+            5327476.959399998
+          ],
+          [
+            7624.939800001681,
+            5356475.3429000005
+          ],
+          [
+            -68635.14519999921,
+            5380674.888700001
+          ],
+          [
+            -71743.63069999963,
+            5377278.631099999
+          ],
+          [
+            -73086.35920000076,
+            5375939.839100003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.12",
+    "attributes": {
+      "OBJECTID": "2896",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1149",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Pycasso",
+      "PROJECT_FULL_TITLE": "Pycasso \u2013 transport and storage of CO2 in onshore storage site in southwestern FR, industrial emitters from FR and ES",
+      "TECHNICAL_DESCR": "<p>PYCASSO (PYrenean CO2 Abatement through Sustainable Sequestration Operations) consists of a cross-border network of CO2 transport segments, collecting emissions in South-Western France and Northern Spain, and on-shore storage infrastructures in France.</p>\n\n<p>The infrastructure elements comprising this PCI, per development phase, are the following:<br />\n<br />\nThe Phase 1 of the project, due to start operations in 2030, includes:<br />\n-&nbsp;two<strong>&nbsp;</strong>sections of pipeline infrastructure, excluding upstream, required to transport CO2 collected industrial clusters in South West France to the storage sites<strong>;</strong><br />\n- Liquefaction and buffer storage facilities in an import Bayonne terminal which will receive carbon emissions from industrial emitters &nbsp;in France and in Northern Spain;<br />\n- surface and injection facilities in two storage sites located in South West France.&nbsp;</p>\n\n<p>The Phase 2 of the project, due to start operations in 2035, includes:<br />\n- Collecting pipeline, other than upstream, to transport CO2 from industrial clusters located between the Bordeaux area and the storage sites;<br />\n- Cross-border pipeline to transport carbon from industrial emitters located in Northern Spain;<br />\n- Liquefaction and buffer storage facilities in a receiving terminal in Bordeaux which may also receive CO2 from other CCUS hub or export carbon emissions by ship to other offshore storage sites.<br />\n<br />\nThe two potential storage sites are depleted onshore gas fields located in the core project in the Pyrenean foothills in Southwestern France, with an estimated total capacity of up to 500 Mt. Estimated injection rates range from 1-3 Mt/y in 2030 and up to 6 Mt/y in 2035.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "Ter\u00e9ga SA (ES) ;  Lafarge Ciments (FR) ; Repsol SA (ES)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "191396.392477"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -73086.35920000076,
+            5375939.839100003
+          ],
+          [
+            -93070.6640000008,
+            5440448.109999999
+          ],
+          [
+            -107653.4059999995,
+            5563450.200000003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.12",
+    "attributes": {
+      "OBJECTID": "2897",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1149",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Pycasso",
+      "PROJECT_FULL_TITLE": "Pycasso \u2013 transport and storage of CO2 in onshore storage site in southwestern FR, industrial emitters from FR and ES",
+      "TECHNICAL_DESCR": "<p>PYCASSO (PYrenean CO2 Abatement through Sustainable Sequestration Operations) consists of a cross-border network of CO2 transport segments, collecting emissions in South-Western France and Northern Spain, and on-shore storage infrastructures in France.</p>\n\n<p>The infrastructure elements comprising this PCI, per development phase, are the following:<br />\n<br />\nThe Phase 1 of the project, due to start operations in 2030, includes:<br />\n-&nbsp;two<strong>&nbsp;</strong>sections of pipeline infrastructure, excluding upstream, required to transport CO2 collected industrial clusters in South West France to the storage sites<strong>;</strong><br />\n- Liquefaction and buffer storage facilities in an import Bayonne terminal which will receive carbon emissions from industrial emitters &nbsp;in France and in Northern Spain;<br />\n- surface and injection facilities in two storage sites located in South West France.&nbsp;</p>\n\n<p>The Phase 2 of the project, due to start operations in 2035, includes:<br />\n- Collecting pipeline, other than upstream, to transport CO2 from industrial clusters located between the Bordeaux area and the storage sites;<br />\n- Cross-border pipeline to transport carbon from industrial emitters located in Northern Spain;<br />\n- Liquefaction and buffer storage facilities in a receiving terminal in Bordeaux which may also receive CO2 from other CCUS hub or export carbon emissions by ship to other offshore storage sites.<br />\n<br />\nThe two potential storage sites are depleted onshore gas fields located in the core project in the Pyrenean foothills in Southwestern France, with an estimated total capacity of up to 500 Mt. Estimated injection rates range from 1-3 Mt/y in 2030 and up to 6 Mt/y in 2035.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "Ter\u00e9ga SA (ES) ;  Lafarge Ciments (FR) ; Repsol SA (ES)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "100296.124621"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -73086.35920000076,
+            5375939.839100003
+          ],
+          [
+            -96293.69720000029,
+            5391853.162199996
+          ],
+          [
+            -131996.86360000074,
+            5394986.928499997
+          ],
+          [
+            -167537.30299999937,
+            5392759.2936
+          ],
+          [
+            -168237.8920999989,
+            5392849.023500003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.12",
+    "attributes": {
+      "OBJECTID": "2898",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1149",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Pycasso",
+      "PROJECT_FULL_TITLE": "Pycasso \u2013 transport and storage of CO2 in onshore storage site in southwestern FR, industrial emitters from FR and ES",
+      "TECHNICAL_DESCR": "<p>PYCASSO (PYrenean CO2 Abatement through Sustainable Sequestration Operations) consists of a cross-border network of CO2 transport segments, collecting emissions in South-Western France and Northern Spain, and on-shore storage infrastructures in France.</p>\n\n<p>The infrastructure elements comprising this PCI, per development phase, are the following:<br />\n<br />\nThe Phase 1 of the project, due to start operations in 2030, includes:<br />\n-&nbsp;two<strong>&nbsp;</strong>sections of pipeline infrastructure, excluding upstream, required to transport CO2 collected industrial clusters in South West France to the storage sites<strong>;</strong><br />\n- Liquefaction and buffer storage facilities in an import Bayonne terminal which will receive carbon emissions from industrial emitters &nbsp;in France and in Northern Spain;<br />\n- surface and injection facilities in two storage sites located in South West France.&nbsp;</p>\n\n<p>The Phase 2 of the project, due to start operations in 2035, includes:<br />\n- Collecting pipeline, other than upstream, to transport CO2 from industrial clusters located between the Bordeaux area and the storage sites;<br />\n- Cross-border pipeline to transport carbon from industrial emitters located in Northern Spain;<br />\n- Liquefaction and buffer storage facilities in a receiving terminal in Bordeaux which may also receive CO2 from other CCUS hub or export carbon emissions by ship to other offshore storage sites.<br />\n<br />\nThe two potential storage sites are depleted onshore gas fields located in the core project in the Pyrenean foothills in Southwestern France, with an estimated total capacity of up to 500 Mt. Estimated injection rates range from 1-3 Mt/y in 2030 and up to 6 Mt/y in 2035.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "Ter\u00e9ga SA (ES) ;  Lafarge Ciments (FR) ; Repsol SA (ES)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "255268.974678"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -73086.35920000076,
+            5375939.839100003
+          ],
+          [
+            -110841.70749999955,
+            5387318.149899997
+          ],
+          [
+            -143606.15060000122,
+            5380927.131899998
+          ],
+          [
+            -194826.14079999924,
+            5362627.023100004
+          ],
+          [
+            -271757.2597000003,
+            5339031.0484
+          ],
+          [
+            -318850.8590000011,
+            5345921.251900002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "4.5",
+    "attributes": {
+      "OBJECTID": "2242",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "4.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1188",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSOG",
+      "CORRIDOR_NUMBER": "16",
+      "PROJECT_FICHE_SHORT_TITLE": "Nautilus (BE, UK)",
+      "PROJECT_FULL_TITLE": "Multi-purpose interconnector between Modular Offshore Grid 2 (BE) and Leiston (UK) [currently known as \"Nautilus\"]",
+      "TECHNICAL_DESCR": "<p>This project consists of a multi-purpose 1-2 GW HVDC interconnector between UK and Belgium. The timing as well as location, routing, capacity are subject to further studies.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, UK",
+      "PROMOTERS": "National Grid Interconnector Holdings Limited (UK) ; Elia Transmission Belgium (BE)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "1.15-0017-beuk-s-m-19",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/1.15-0017-BEUK-S-M-19.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "405188.528788"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            90999.45760000125,
+            6687479.111299999
+          ],
+          [
+            278148.85599999875,
+            6715219.516199999
+          ],
+          [
+            487394.6048000008,
+            6661649.1219
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

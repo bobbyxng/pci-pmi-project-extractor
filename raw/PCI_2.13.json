@@ -1,0 +1,212 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.13",
+    "attributes": {
+      "OBJECTID": "1604",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.13",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1165",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": "GREGY Interconnector",
+      "PROJECT_FULL_TITLE": "Interconnection between Wadi El Natroon (EG) and Mesogeia/St Stefanos (EL) [currently known as \u201cGREGY Interconnector\u201d]",
+      "TECHNICAL_DESCR": "<p><!--StartFragment --></p>\n\n<p>This project is a HVDC interconnection of about 954 km and with the capacity of up to 3000 MW between Egypt and Greece consisting of a HVDC submarine cable (&plusmn;525 kV) and supplementary infrastructure required for the operation of the link.</p>\n\n<p><!--EndFragment --></p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "EG, EL",
+      "PROMOTERS": "Elica Interconnector Single Member S.A. (EL)",
+      "COMMISSIONING_DATE": "01/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2662627.8720999993,
+      "y": 4559330.252800003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.13",
+    "attributes": {
+      "OBJECTID": "1605",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.13",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1165",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": "GREGY Interconnector",
+      "PROJECT_FULL_TITLE": "Interconnection between Wadi El Natroon (EG) and Mesogeia/St Stefanos (EL) [currently known as \u201cGREGY Interconnector\u201d]",
+      "TECHNICAL_DESCR": "<p><!--StartFragment --></p>\n\n<p>This project is a HVDC interconnection of about 954 km and with the capacity of up to 3000 MW between Egypt and Greece consisting of a HVDC submarine cable (&plusmn;525 kV) and supplementary infrastructure required for the operation of the link.</p>\n\n<p><!--EndFragment --></p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "EG, EL",
+      "PROMOTERS": "Elica Interconnector Single Member S.A. (EL)",
+      "COMMISSIONING_DATE": "01/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2653358.6330000013,
+      "y": 4598155.493199997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.13",
+    "attributes": {
+      "OBJECTID": "1611",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "2.13",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1165",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": "GREGY Interconnector",
+      "PROJECT_FULL_TITLE": "Interconnection between Wadi El Natroon (EG) and Mesogeia/St Stefanos (EL) [currently known as \u201cGREGY Interconnector\u201d]",
+      "TECHNICAL_DESCR": "<p><!--StartFragment --></p>\n\n<p>This project is a HVDC interconnection of about 954 km and with the capacity of up to 3000 MW between Egypt and Greece consisting of a HVDC submarine cable (&plusmn;525 kV) and supplementary infrastructure required for the operation of the link.</p>\n\n<p><!--EndFragment --></p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "EG, EL",
+      "PROMOTERS": "Elica Interconnector Single Member S.A. (EL)",
+      "COMMISSIONING_DATE": "01/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1179929.206938"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2688219.0450999998,
+            4550312.9318
+          ],
+          [
+            2685287.411200002,
+            4566210.2038
+          ],
+          [
+            2675971.4283999987,
+            4589132.913099997
+          ],
+          [
+            2672808.7490000017,
+            4593291.277900003
+          ],
+          [
+            2669505.493900001,
+            4593937.352399997
+          ]
+        ],
+        [
+          [
+            2677784.5025000013,
+            4558180.800099999
+          ],
+          [
+            2688218.9151999988,
+            4550312.814599998
+          ],
+          [
+            2666378.600400001,
+            4503163.522
+          ],
+          [
+            2660933.161899999,
+            4492516.934199996
+          ],
+          [
+            2591509.483600002,
+            4359701.670699999
+          ],
+          [
+            2584046.3293000013,
+            4288077.372000001
+          ],
+          [
+            2586373.5698999986,
+            4258354.717600003
+          ],
+          [
+            2607758.030299999,
+            4251576.8314
+          ],
+          [
+            2609784.4455999993,
+            4189834.4877000004
+          ],
+          [
+            2655903.590999998,
+            4180939.0047999993
+          ],
+          [
+            2684267.723000001,
+            4021273.147699997
+          ],
+          [
+            2914625.856400002,
+            3975055.5319000036
+          ],
+          [
+            2931549.6504000016,
+            3852690.4513000026
+          ],
+          [
+            2926730.159600001,
+            3702839.3567999974
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

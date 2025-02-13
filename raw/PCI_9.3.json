@@ -1,0 +1,226 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.3",
+    "attributes": {
+      "OBJECTID": "4177",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1180",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Franco-Belgian H2 corridor",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in France to the Belgium border [currently known as Franco-Belgian H2 corridor]",
+      "TECHNICAL_DESCR": "<p>The Franco-Belgian H2 corridor aims to develop a 465 km cross-border network allowing import from the Dunkirk port and hydrogen flows to the Parisian and the Grand-Est regions in France and to Belgium.</p>\n\n<p>The project is part of a three-part program:</p>\n\n<p>- Development of a 50 km network in the Port of Dunkirk, connecting it with Channel ports in Belgium via Alveringem, French-Belgian border.</p>\n\n<p style=\"text-align:justify\">- New 40 km from Valenciennes (FR) to Marchipont (BE), French-Belgian border.</p>\n\n<p style=\"text-align:justify\">- Repurposed pipeline 200 km from Taisni&egrave;res (French-Belgian border) to Paris and</p>\n\n<p style=\"text-align:justify\">- repurposed pipeline 265 km from Taisni&egrave;res (French-Belgian border) to Nancy.</p>\n\n<p style=\"text-align:left\">Across the whole Franco-Belgian H2 corridor, an average transport volume of &nbsp;1 Mt/y (45.3 TWh/year) of renewable and low carbon hydrogen is expected.</p>\n\n<p style=\"text-align:left\">The hydrogen will be used in particularly hard-to-abate sectors, including steel production, high-value chemicals production and&nbsp;mobility applications.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "GRTgaz (FR)",
+      "COMMISSIONING_DATE": "2034",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "15364.193755"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            407217.9127999991,
+            6511504.481799997
+          ],
+          [
+            401528.7917999998,
+            6507583.681699999
+          ],
+          [
+            396311.24020000175,
+            6514236.648100004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.3",
+    "attributes": {
+      "OBJECTID": "4178",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1180",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Franco-Belgian H2 corridor",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in France to the Belgium border [currently known as Franco-Belgian H2 corridor]",
+      "TECHNICAL_DESCR": "<p>The Franco-Belgian H2 corridor aims to develop a 465 km cross-border network allowing import from the Dunkirk port and hydrogen flows to the Parisian and the Grand-Est regions in France and to Belgium.</p>\n\n<p>The project is part of a three-part program:</p>\n\n<p>- Development of a 50 km network in the Port of Dunkirk, connecting it with Channel ports in Belgium via Alveringem, French-Belgian border.</p>\n\n<p style=\"text-align:justify\">- New 40 km from Valenciennes (FR) to Marchipont (BE), French-Belgian border.</p>\n\n<p style=\"text-align:justify\">- Repurposed pipeline 200 km from Taisni&egrave;res (French-Belgian border) to Paris and</p>\n\n<p style=\"text-align:justify\">- repurposed pipeline 265 km from Taisni&egrave;res (French-Belgian border) to Nancy.</p>\n\n<p style=\"text-align:left\">Across the whole Franco-Belgian H2 corridor, an average transport volume of &nbsp;1 Mt/y (45.3 TWh/year) of renewable and low carbon hydrogen is expected.</p>\n\n<p style=\"text-align:left\">The hydrogen will be used in particularly hard-to-abate sectors, including steel production, high-value chemicals production and&nbsp;mobility applications.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "GRTgaz (FR)",
+      "COMMISSIONING_DATE": "2034",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "39270.98254"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            286267.1682999991,
+            6623032.561099999
+          ],
+          [
+            247231.51570000127,
+            6627325.3336
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.3",
+    "attributes": {
+      "OBJECTID": "4179",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1180",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Franco-Belgian H2 corridor",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in France to the Belgium border [currently known as Franco-Belgian H2 corridor]",
+      "TECHNICAL_DESCR": "<p>The Franco-Belgian H2 corridor aims to develop a 465 km cross-border network allowing import from the Dunkirk port and hydrogen flows to the Parisian and the Grand-Est regions in France and to Belgium.</p>\n\n<p>The project is part of a three-part program:</p>\n\n<p>- Development of a 50 km network in the Port of Dunkirk, connecting it with Channel ports in Belgium via Alveringem, French-Belgian border.</p>\n\n<p style=\"text-align:justify\">- New 40 km from Valenciennes (FR) to Marchipont (BE), French-Belgian border.</p>\n\n<p style=\"text-align:justify\">- Repurposed pipeline 200 km from Taisni&egrave;res (French-Belgian border) to Paris and</p>\n\n<p style=\"text-align:justify\">- repurposed pipeline 265 km from Taisni&egrave;res (French-Belgian border) to Nancy.</p>\n\n<p style=\"text-align:left\">Across the whole Franco-Belgian H2 corridor, an average transport volume of &nbsp;1 Mt/y (45.3 TWh/year) of renewable and low carbon hydrogen is expected.</p>\n\n<p style=\"text-align:left\">The hydrogen will be used in particularly hard-to-abate sectors, including steel production, high-value chemicals production and&nbsp;mobility applications.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "GRTgaz (FR)",
+      "COMMISSIONING_DATE": "2034",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "417236.631989"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            702528.6600000001,
+            6224830.943000004
+          ],
+          [
+            445046.3134999983,
+            6433949.100299999
+          ],
+          [
+            401528.7917999998,
+            6507583.681699999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.3",
+    "attributes": {
+      "OBJECTID": "4180",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1180",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": " Franco-Belgian H2 corridor",
+      "PROJECT_FULL_TITLE": "Internal hydrogen infrastructure in France to the Belgium border [currently known as Franco-Belgian H2 corridor]",
+      "TECHNICAL_DESCR": "<p>The Franco-Belgian H2 corridor aims to develop a 465 km cross-border network allowing import from the Dunkirk port and hydrogen flows to the Parisian and the Grand-Est regions in France and to Belgium.</p>\n\n<p>The project is part of a three-part program:</p>\n\n<p>- Development of a 50 km network in the Port of Dunkirk, connecting it with Channel ports in Belgium via Alveringem, French-Belgian border.</p>\n\n<p style=\"text-align:justify\">- New 40 km from Valenciennes (FR) to Marchipont (BE), French-Belgian border.</p>\n\n<p style=\"text-align:justify\">- Repurposed pipeline 200 km from Taisni&egrave;res (French-Belgian border) to Paris and</p>\n\n<p style=\"text-align:justify\">- repurposed pipeline 265 km from Taisni&egrave;res (French-Belgian border) to Nancy.</p>\n\n<p style=\"text-align:left\">Across the whole Franco-Belgian H2 corridor, an average transport volume of &nbsp;1 Mt/y (45.3 TWh/year) of renewable and low carbon hydrogen is expected.</p>\n\n<p style=\"text-align:left\">The hydrogen will be used in particularly hard-to-abate sectors, including steel production, high-value chemicals production and&nbsp;mobility applications.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "GRTgaz (FR)",
+      "COMMISSIONING_DATE": "2034",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "255550.682806"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            294879.3145999983,
+            6275803.000799999
+          ],
+          [
+            417517.5742000006,
+            6500003.823200002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

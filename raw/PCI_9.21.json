@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Hydrogen storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.21",
+    "attributes": {
+      "OBJECTID": "4808",
+      "INFRA": "29",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.21",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1224",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Hystock Opslag H2 storage",
+      "PROJECT_FULL_TITLE": "Hystock Opslag H2 storage",
+      "TECHNICAL_DESCR": "<p>The project consists in the development of an underground hydrogen storage in the Netherlands, aiming to:<br />\n- construct&nbsp;an oversized plant with 1 cavern connected as first cavern and with an aboveground installation,<br />\n- expand&nbsp;the capacity by developing three more salt-caverns,<br />\n- realize a connection with the Hydrogen Backbone.&nbsp;<br />\nMore particularly, the project plans to develop: 4 (salt) caverns which can store up to 25.3 kt (960 GWh) of hydrogen; an above ground installation; connection to the National H2 backbone (and European backbone).&nbsp;<br />\nThe project will have the following technical specifications:<br />\n- Maximum Injection rate: 64 GWh/d<br />\n- Maximum Withdrawal rate: 64 GWh/d<br />\n- Working gas volume: 1,000 GWh<br />\n- Expected increase in underground hydrogen storage capacity: 420 mcm (total stored hydrogen capacity: 4 caverns of approx. 1,000,000 m3 = 4,000,000 m3 with approx. Pmax180 bar).<br />\nThe project will help to achieve more flexibility in the electricity system and thus ensure flexibility services for the hydrogen value chain around 2030 and later. This will be made possible by connecting Hystock to the Dutch National Hydrogen grid. The Dutch Hydrogen grid will be further linked to the Belgian and German Hydrogen grids.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "NL",
+      "PROMOTERS": "N.V.Nederlandse Gasunie",
+      "COMMISSIONING_DATE": "2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 772047.3832999989,
+      "y": 6998492.601599999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

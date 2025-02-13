@@ -1,0 +1,56 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.5",
+    "attributes": {
+      "OBJECTID": "2900",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1181",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Aurora line 2",
+      "PROJECT_FULL_TITLE": "Fourth interconnection between Finland \u2013 Sweden [currently known as\n\"Aurora line 2\"]",
+      "TECHNICAL_DESCR": "<p>A 400 kV AC overhead line interconnection of approximately 250+ km&nbsp;between Northern Sweden and Northern Finland.&nbsp;The exact location of the line, as well as the connecting substations will be decided based on the currently ongoing detailed grid and market studies. The other technical specifications will also be settled after these studies.</p>\n\n<p style=\"text-align:justify\">The capacity of the Aurora Line 2 is estimated to be 800 MW, if constructed as a single circuit line. With double circuit technology the capacity can be up to 1600 MW.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FI, SE",
+      "PROMOTERS": "Fingrid(FI) ; Svenska kraftn\u00e4t (SE)",
+      "COMMISSIONING_DATE": "31/12/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "608800.031876"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2821549.862300001,
+            9950884.46
+          ],
+          [
+            2263538.068500001,
+            9707450.0401
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

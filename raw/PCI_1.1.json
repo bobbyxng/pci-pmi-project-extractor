@@ -1,0 +1,1401 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.1",
+    "attributes": {
+      "OBJECTID": "4050",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1059",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Beariz-Fontefr\u00eda (ES)-Ponte de Lima-Vila Nova de Famalic\u00e3o (PT) interconnection",
+      "PROJECT_FULL_TITLE": "Portugal \u2013 Spain interconnection between Beariz \u2013 Fontefr\u00eda (ES), Fontefria (ES) \u2013 Ponte de Lima (PT) and Ponte de Lima \u2013 Vila Nova de Famalic\u00e3o (PT), including substations in Beariz (ES), Fontefr\u00eda (ES) and Ponte de Lima (PT)",
+      "TECHNICAL_DESCR": "<p>New 400 kV AC double circuit (OHL) of about 169 km (117 km in Portugal and 52&nbsp;km in Spain) between Beariz (ES) - Fontefr&iacute;a (ES) - Ponte de Lima (PT) &ndash; Vila Nova de Famalic&atilde;o (PT), with only one circuit being installed on the Fontefr&iacute;a &ndash; Vila Nova de Famalic&atilde;o section (on shore) 1499/1706 MVA (summer/winter). New 400 kV substations Fontefr&iacute;a, Beariz and Ponte de Lima.</p>\n\n<p>Note: Section Ponte de Lima (PT)-Vila Nova de Famalic&atilde;o (PT) has been commissioned in 2021.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "ES, PT",
+      "PROMOTERS": "REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES) ; REN - Rede El\u00e9ctrica Nacional S.A. (PT)",
+      "COMMISSIONING_DATE": "04/2025",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -918315.563099999,
+      "y": 5234534.656300001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.1",
+    "attributes": {
+      "OBJECTID": "4051",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1059",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Beariz-Fontefr\u00eda (ES)-Ponte de Lima-Vila Nova de Famalic\u00e3o (PT) interconnection",
+      "PROJECT_FULL_TITLE": "Portugal \u2013 Spain interconnection between Beariz \u2013 Fontefr\u00eda (ES), Fontefria (ES) \u2013 Ponte de Lima (PT) and Ponte de Lima \u2013 Vila Nova de Famalic\u00e3o (PT), including substations in Beariz (ES), Fontefr\u00eda (ES) and Ponte de Lima (PT)",
+      "TECHNICAL_DESCR": "<p>New 400 kV AC double circuit (OHL) of about 169 km (117 km in Portugal and 52&nbsp;km in Spain) between Beariz (ES) - Fontefr&iacute;a (ES) - Ponte de Lima (PT) &ndash; Vila Nova de Famalic&atilde;o (PT), with only one circuit being installed on the Fontefr&iacute;a &ndash; Vila Nova de Famalic&atilde;o section (on shore) 1499/1706 MVA (summer/winter). New 400 kV substations Fontefr&iacute;a, Beariz and Ponte de Lima.</p>\n\n<p>Note: Section Ponte de Lima (PT)-Vila Nova de Famalic&atilde;o (PT) has been commissioned in 2021.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "ES, PT",
+      "PROMOTERS": "REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES) ; REN - Rede El\u00e9ctrica Nacional S.A. (PT)",
+      "COMMISSIONING_DATE": "04/2025",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -925796.8057999983,
+      "y": 5198813.192100003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.1",
+    "attributes": {
+      "OBJECTID": "4052",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1059",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Beariz-Fontefr\u00eda (ES)-Ponte de Lima-Vila Nova de Famalic\u00e3o (PT) interconnection",
+      "PROJECT_FULL_TITLE": "Portugal \u2013 Spain interconnection between Beariz \u2013 Fontefr\u00eda (ES), Fontefria (ES) \u2013 Ponte de Lima (PT) and Ponte de Lima \u2013 Vila Nova de Famalic\u00e3o (PT), including substations in Beariz (ES), Fontefr\u00eda (ES) and Ponte de Lima (PT)",
+      "TECHNICAL_DESCR": "<p>New 400 kV AC double circuit (OHL) of about 169 km (117 km in Portugal and 52&nbsp;km in Spain) between Beariz (ES) - Fontefr&iacute;a (ES) - Ponte de Lima (PT) &ndash; Vila Nova de Famalic&atilde;o (PT), with only one circuit being installed on the Fontefr&iacute;a &ndash; Vila Nova de Famalic&atilde;o section (on shore) 1499/1706 MVA (summer/winter). New 400 kV substations Fontefr&iacute;a, Beariz and Ponte de Lima.</p>\n\n<p>Note: Section Ponte de Lima (PT)-Vila Nova de Famalic&atilde;o (PT) has been commissioned in 2021.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "ES, PT",
+      "PROMOTERS": "REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES) ; REN - Rede El\u00e9ctrica Nacional S.A. (PT)",
+      "COMMISSIONING_DATE": "04/2025",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -956648.9406000003,
+      "y": 5112899.416599996,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.1",
+    "attributes": {
+      "OBJECTID": "3537",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1059",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Beariz-Fontefr\u00eda (ES)-Ponte de Lima-Vila Nova de Famalic\u00e3o (PT) interconnection",
+      "PROJECT_FULL_TITLE": "Portugal \u2013 Spain interconnection between Beariz \u2013 Fontefr\u00eda (ES), Fontefria (ES) \u2013 Ponte de Lima (PT) and Ponte de Lima \u2013 Vila Nova de Famalic\u00e3o (PT), including substations in Beariz (ES), Fontefr\u00eda (ES) and Ponte de Lima (PT)",
+      "TECHNICAL_DESCR": "<p>New 400 kV AC double circuit (OHL) of about 169 km (117 km in Portugal and 52&nbsp;km in Spain) between Beariz (ES) - Fontefr&iacute;a (ES) - Ponte de Lima (PT) &ndash; Vila Nova de Famalic&atilde;o (PT), with only one circuit being installed on the Fontefr&iacute;a &ndash; Vila Nova de Famalic&atilde;o section (on shore) 1499/1706 MVA (summer/winter). New 400 kV substations Fontefr&iacute;a, Beariz and Ponte de Lima.</p>\n\n<p>Note: Section Ponte de Lima (PT)-Vila Nova de Famalic&atilde;o (PT) has been commissioned in 2021.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "ES, PT",
+      "PROMOTERS": "REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES) ; REN - Rede El\u00e9ctrica Nacional S.A. (PT)",
+      "COMMISSIONING_DATE": "04/2025",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "40695.674905"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -918403.0837999992,
+            5234510.923900001
+          ],
+          [
+            -918458.9675000012,
+            5234472.377599999
+          ],
+          [
+            -918558.3746000007,
+            5233870.804899998
+          ],
+          [
+            -918307.1539000012,
+            5233203.997199997
+          ],
+          [
+            -918110.7694999985,
+            5232682.7245000005
+          ],
+          [
+            -917798.0355000012,
+            5231852.553199999
+          ],
+          [
+            -917540.7663999982,
+            5231169.5559
+          ],
+          [
+            -917152.6240000017,
+            5230139.013499998
+          ],
+          [
+            -916900.8420000002,
+            5229470.449900001
+          ],
+          [
+            -916708.9177000001,
+            5228960.792800002
+          ],
+          [
+            -916506.4858000018,
+            5228423.200099997
+          ],
+          [
+            -916332.3511999995,
+            5227960.728500001
+          ],
+          [
+            -916431.2773999982,
+            5227517.361400001
+          ],
+          [
+            -917134.0375000015,
+            5226857.154299997
+          ],
+          [
+            -917393.8812000006,
+            5225903.379600003
+          ],
+          [
+            -917185.1037000008,
+            5225120.768399999
+          ],
+          [
+            -916992.2853000015,
+            5224397.921499997
+          ],
+          [
+            -916833.3007999994,
+            5223801.495099999
+          ],
+          [
+            -916738.3165000007,
+            5223445.743600003
+          ],
+          [
+            -916773.4560999982,
+            5223058.4580999985
+          ],
+          [
+            -917249.993900001,
+            5222429.834100001
+          ],
+          [
+            -917612.5377000012,
+            5221951.541299999
+          ],
+          [
+            -918243.4373000003,
+            5221119.123300001
+          ],
+          [
+            -918516.9340000004,
+            5220758.2311
+          ],
+          [
+            -918829.8035000004,
+            5220345.357699998
+          ],
+          [
+            -919387.190299999,
+            5219609.739200003
+          ],
+          [
+            -919543.4085999988,
+            5219296.158500001
+          ],
+          [
+            -919859.1136999987,
+            5218662.398100004
+          ],
+          [
+            -920335.3845000006,
+            5217706.208400004
+          ],
+          [
+            -920541.9651999995,
+            5217291.425899997
+          ],
+          [
+            -920564.0643999986,
+            5216289.402599998
+          ],
+          [
+            -920197.0513999984,
+            5215569.327100001
+          ],
+          [
+            -919890.3902000003,
+            5214967.8456000015
+          ],
+          [
+            -919304.6794000007,
+            5213818.918200001
+          ],
+          [
+            -919493.0414000005,
+            5212744.708899997
+          ],
+          [
+            -919584.8654000014,
+            5212220.997900002
+          ],
+          [
+            -919678.3357999995,
+            5211687.863499999
+          ],
+          [
+            -920165.9646999985,
+            5210626.2250000015
+          ],
+          [
+            -920302.4684999995,
+            5210329.009599999
+          ],
+          [
+            -920148.7564000003,
+            5209859.9130000025
+          ],
+          [
+            -920003.3577999994,
+            5209416.178000003
+          ],
+          [
+            -919787.2861000001,
+            5208756.7183
+          ],
+          [
+            -919677.0320999995,
+            5208420.221299998
+          ],
+          [
+            -919669.3181000017,
+            5207921.939800002
+          ],
+          [
+            -919916.8530000001,
+            5207749.322800003
+          ],
+          [
+            -920435.5515000001,
+            5207387.579700001
+          ],
+          [
+            -920494.4853000008,
+            5207091.992799997
+          ],
+          [
+            -920629.6176999994,
+            5206414.193800002
+          ],
+          [
+            -920759.7325999998,
+            5205761.512100004
+          ],
+          [
+            -920883.6968999989,
+            5205139.633900002
+          ],
+          [
+            -921629.1686999984,
+            5204347.152400002
+          ],
+          [
+            -922289.8231999986,
+            5203886.259599999
+          ],
+          [
+            -922564.7599,
+            5203694.434699997
+          ],
+          [
+            -923150.5384000018,
+            5203285.693599999
+          ],
+          [
+            -923270.9785000011,
+            5202965.501900002
+          ],
+          [
+            -923505.0901999995,
+            5202343.088399999
+          ],
+          [
+            -923675.2826999985,
+            5201890.579400003
+          ],
+          [
+            -924451.5639999993,
+            5201061.593099996
+          ],
+          [
+            -924645.0947000012,
+            5200854.903399996
+          ],
+          [
+            -924738.684700001,
+            5200229.060599998
+          ],
+          [
+            -924776.4153999984,
+            5199976.740000002
+          ],
+          [
+            -925123.6928000003,
+            5199651.5744
+          ],
+          [
+            -925500.3414999992,
+            5199037.3213
+          ],
+          [
+            -925647.7193999998,
+            5198796.956500001
+          ],
+          [
+            -925702.9265000001,
+            5198773.889300004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.1",
+    "attributes": {
+      "OBJECTID": "3538",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1059",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Beariz-Fontefr\u00eda (ES)-Ponte de Lima-Vila Nova de Famalic\u00e3o (PT) interconnection",
+      "PROJECT_FULL_TITLE": "Portugal \u2013 Spain interconnection between Beariz \u2013 Fontefr\u00eda (ES), Fontefria (ES) \u2013 Ponte de Lima (PT) and Ponte de Lima \u2013 Vila Nova de Famalic\u00e3o (PT), including substations in Beariz (ES), Fontefr\u00eda (ES) and Ponte de Lima (PT)",
+      "TECHNICAL_DESCR": "<p>New 400 kV AC double circuit (OHL) of about 169 km (117 km in Portugal and 52&nbsp;km in Spain) between Beariz (ES) - Fontefr&iacute;a (ES) - Ponte de Lima (PT) &ndash; Vila Nova de Famalic&atilde;o (PT), with only one circuit being installed on the Fontefr&iacute;a &ndash; Vila Nova de Famalic&atilde;o section (on shore) 1499/1706 MVA (summer/winter). New 400 kV substations Fontefr&iacute;a, Beariz and Ponte de Lima.</p>\n\n<p>Note: Section Ponte de Lima (PT)-Vila Nova de Famalic&atilde;o (PT) has been commissioned in 2021.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "ES, PT",
+      "PROMOTERS": "REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES) ; REN - Rede El\u00e9ctrica Nacional S.A. (PT)",
+      "COMMISSIONING_DATE": "04/2025",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "29459.588812"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -925884.2452999987,
+            5198698.704599999
+          ],
+          [
+            -925984.8222999983,
+            5198672.520800002
+          ],
+          [
+            -926917.7259000018,
+            5198541.486100003
+          ],
+          [
+            -927333.2294000015,
+            5197954.641400002
+          ],
+          [
+            -927246.9618999995,
+            5197591.054799996
+          ],
+          [
+            -927084.7974000014,
+            5196907.549599998
+          ],
+          [
+            -926918.9838000014,
+            5196208.613899998
+          ],
+          [
+            -926753.5284999982,
+            5195511.135799997
+          ],
+          [
+            -926583.8229999989,
+            5194795.688000001
+          ],
+          [
+            -926407.2740000002,
+            5194051.330600001
+          ],
+          [
+            -926266.0311000012,
+            5193455.794799998
+          ],
+          [
+            -926387.4866000004,
+            5193004.797499999
+          ],
+          [
+            -926599.8055000007,
+            5192216.3398
+          ],
+          [
+            -926727.884300001,
+            5191740.676399998
+          ],
+          [
+            -926983.5956000015,
+            5190790.928499997
+          ],
+          [
+            -927036.2197999991,
+            5190595.462800004
+          ],
+          [
+            -927599.1524999999,
+            5190243.369900003
+          ],
+          [
+            -928517.636500001,
+            5189668.794200003
+          ],
+          [
+            -928843.6656000018,
+            5189037.2258
+          ],
+          [
+            -929080.6882999986,
+            5188578.042599998
+          ],
+          [
+            -929591.9065000005,
+            5187587.532399997
+          ],
+          [
+            -929715.5773000009,
+            5187347.9287
+          ],
+          [
+            -929780.0568000004,
+            5186697.6994
+          ],
+          [
+            -929979.2384000011,
+            5186504.068700001
+          ],
+          [
+            -930324.004999999,
+            5186168.891999997
+          ],
+          [
+            -930675.7001999989,
+            5185487.269000001
+          ],
+          [
+            -930752.9241999984,
+            5184507.914099999
+          ],
+          [
+            -930779.3374999985,
+            5184172.917099997
+          ],
+          [
+            -930719.3729999997,
+            5183932.950199999
+          ],
+          [
+            -930581.9855000004,
+            5183383.129600003
+          ],
+          [
+            -930689.8814000003,
+            5182321.153700002
+          ],
+          [
+            -930768.6645000018,
+            5181545.633500002
+          ],
+          [
+            -930859.0865999982,
+            5180655.451700002
+          ],
+          [
+            -930825.9600000009,
+            5180278.179399997
+          ],
+          [
+            -930728.3680000007,
+            5179166.634199999
+          ],
+          [
+            -930666.5408000015,
+            5178462.385899998
+          ],
+          [
+            -930615.5927000009,
+            5177882.022
+          ],
+          [
+            -930399.6999000013,
+            5177611.185099997
+          ],
+          [
+            -930030.9913000017,
+            5177329.377499998
+          ],
+          [
+            -929187.3936999999,
+            5176684.522100002
+          ],
+          [
+            -928542.9373000003,
+            5176191.811700001
+          ],
+          [
+            -928473.5489000008,
+            5175734.939999998
+          ],
+          [
+            -928693.189100001,
+            5175425.993699998
+          ],
+          [
+            -928661.7620999999,
+            5174883.023400001
+          ],
+          [
+            -928640.1598999985,
+            5174509.760899998
+          ],
+          [
+            -928274.3321000002,
+            5174011.695699997
+          ],
+          [
+            -927770.1798,
+            5173325.240400001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.1",
+    "attributes": {
+      "OBJECTID": "3539",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1059",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Beariz-Fontefr\u00eda (ES)-Ponte de Lima-Vila Nova de Famalic\u00e3o (PT) interconnection",
+      "PROJECT_FULL_TITLE": "Portugal \u2013 Spain interconnection between Beariz \u2013 Fontefr\u00eda (ES), Fontefria (ES) \u2013 Ponte de Lima (PT) and Ponte de Lima \u2013 Vila Nova de Famalic\u00e3o (PT), including substations in Beariz (ES), Fontefr\u00eda (ES) and Ponte de Lima (PT)",
+      "TECHNICAL_DESCR": "<p>New 400 kV AC double circuit (OHL) of about 169 km (117 km in Portugal and 52&nbsp;km in Spain) between Beariz (ES) - Fontefr&iacute;a (ES) - Ponte de Lima (PT) &ndash; Vila Nova de Famalic&atilde;o (PT), with only one circuit being installed on the Fontefr&iacute;a &ndash; Vila Nova de Famalic&atilde;o section (on shore) 1499/1706 MVA (summer/winter). New 400 kV substations Fontefr&iacute;a, Beariz and Ponte de Lima.</p>\n\n<p>Note: Section Ponte de Lima (PT)-Vila Nova de Famalic&atilde;o (PT) has been commissioned in 2021.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "ES, PT",
+      "PROMOTERS": "REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES) ; REN - Rede El\u00e9ctrica Nacional S.A. (PT)",
+      "COMMISSIONING_DATE": "04/2025",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "88643.596806"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -956521.0298000015,
+            5112989.583400004
+          ],
+          [
+            -956481.1915000007,
+            5113073.491999999
+          ],
+          [
+            -956483.0703000017,
+            5113519.059699997
+          ],
+          [
+            -956485.1055999994,
+            5114001.8882
+          ],
+          [
+            -956136.9618000016,
+            5114938.648900002
+          ],
+          [
+            -956175.1931999996,
+            5115337.700400002
+          ],
+          [
+            -956208.4417000003,
+            5115684.718500003
+          ],
+          [
+            -956270.1376999989,
+            5116328.618100002
+          ],
+          [
+            -956315.2181000002,
+            5116799.076200001
+          ],
+          [
+            -956130.6759000011,
+            5117288.4651999995
+          ],
+          [
+            -955657.7008000016,
+            5117649.627999999
+          ],
+          [
+            -955119.0562000014,
+            5117716.330499999
+          ],
+          [
+            -954425.008200001,
+            5117813.628399998
+          ],
+          [
+            -954164.8438999988,
+            5117731.600699998
+          ],
+          [
+            -953590.9415000007,
+            5117810.001800001
+          ],
+          [
+            -953261.1651000008,
+            5117973.023100004
+          ],
+          [
+            -952935.2569999993,
+            5118029.527800001
+          ],
+          [
+            -952772.684799999,
+            5117955.550399996
+          ],
+          [
+            -952660.0606999993,
+            5117668.223999999
+          ],
+          [
+            -952113.0375000015,
+            5117209.943999998
+          ],
+          [
+            -951959.3839999996,
+            5116641.252400003
+          ],
+          [
+            -951747.3489000015,
+            5116320.196500003
+          ],
+          [
+            -951327.2855999991,
+            5115684.1021
+          ],
+          [
+            -951058.9301000014,
+            5115455.861299999
+          ],
+          [
+            -950576.5511000007,
+            5115431.607299998
+          ],
+          [
+            -949922.2107999995,
+            5115892.850199997
+          ],
+          [
+            -949761.430300001,
+            5116462.4201000035
+          ],
+          [
+            -949623.8350000009,
+            5116877.955799997
+          ],
+          [
+            -949466.7122999988,
+            5117352.440899998
+          ],
+          [
+            -948891.2258000001,
+            5117755.741599999
+          ],
+          [
+            -948664.3856000006,
+            5118364.849100001
+          ],
+          [
+            -948451.0588999987,
+            5118524.374899998
+          ],
+          [
+            -947800.9343999997,
+            5118681.944700003
+          ],
+          [
+            -947025.3720000014,
+            5118869.856700003
+          ],
+          [
+            -946542.8590999991,
+            5118986.730899997
+          ],
+          [
+            -945634.9719999991,
+            5119165.824199997
+          ],
+          [
+            -945160.5216000006,
+            5119235.947899997
+          ],
+          [
+            -944879.4657999985,
+            5119277.475599997
+          ],
+          [
+            -944493.4050000012,
+            5119413.883900002
+          ],
+          [
+            -944203.6768000014,
+            5119516.242299996
+          ],
+          [
+            -943352.1466000006,
+            5119915.007799998
+          ],
+          [
+            -942992.680300001,
+            5120083.315399997
+          ],
+          [
+            -942757.8051999994,
+            5120193.2782000005
+          ],
+          [
+            -942318.9833000004,
+            5120561.006099999
+          ],
+          [
+            -941949.3993999995,
+            5120870.688199997
+          ],
+          [
+            -941707.8110999987,
+            5121073.105999999
+          ],
+          [
+            -941149.991799999,
+            5121540.442699999
+          ],
+          [
+            -940824.8511000015,
+            5121675.102600001
+          ],
+          [
+            -940383.4679000005,
+            5121857.882700004
+          ],
+          [
+            -939969.9633000009,
+            5122029.0967999995
+          ],
+          [
+            -939686.0507000014,
+            5122321.8882
+          ],
+          [
+            -939201.0009000003,
+            5122822.066
+          ],
+          [
+            -938971.6398000009,
+            5123101.9076000005
+          ],
+          [
+            -938632.3561999984,
+            5123515.837300003
+          ],
+          [
+            -938340.9329999983,
+            5123871.352799997
+          ],
+          [
+            -938123.9822000004,
+            5124121.525700003
+          ],
+          [
+            -937412.8759000003,
+            5124941.4454
+          ],
+          [
+            -937219.1666000001,
+            5125164.774099998
+          ],
+          [
+            -936807.5835999995,
+            5125639.260799997
+          ],
+          [
+            -936494.0390999988,
+            5126000.698700003
+          ],
+          [
+            -936163.1297999993,
+            5126382.128200002
+          ],
+          [
+            -935550.7340999991,
+            5126672.355999999
+          ],
+          [
+            -934936.7824999988,
+            5126963.2729
+          ],
+          [
+            -934175.9517999999,
+            5127240.366400003
+          ],
+          [
+            -933549.7490999997,
+            5127468.378200002
+          ],
+          [
+            -933199.2457000017,
+            5127751.088600002
+          ],
+          [
+            -932577.5643000007,
+            5128335.180500001
+          ],
+          [
+            -932104.6552000009,
+            5128993.301100001
+          ],
+          [
+            -932229.9560000002,
+            5129645.422899999
+          ],
+          [
+            -931993.5700999983,
+            5130163.560500003
+          ],
+          [
+            -932034.9732999988,
+            5130570.357000001
+          ],
+          [
+            -932064.1521999985,
+            5130857.0348000005
+          ],
+          [
+            -932097.5454000011,
+            5131185.0956000015
+          ],
+          [
+            -932153.1444000006,
+            5131731.307300001
+          ],
+          [
+            -932177.2316000015,
+            5131967.927900001
+          ],
+          [
+            -932220.495000001,
+            5132392.909100004
+          ],
+          [
+            -932171.8154000007,
+            5133007.596900001
+          ],
+          [
+            -932144.0289000012,
+            5133358.437799998
+          ],
+          [
+            -931646.0020000003,
+            5134128.112999998
+          ],
+          [
+            -931472.1651999988,
+            5134371.568599999
+          ],
+          [
+            -931274.2582999989,
+            5134648.698600002
+          ],
+          [
+            -930999.0648999996,
+            5135034.032300003
+          ],
+          [
+            -930688.5725000016,
+            5135792.117700003
+          ],
+          [
+            -930658.1587999985,
+            5136109.919200003
+          ],
+          [
+            -930624.2424000017,
+            5136464.322800003
+          ],
+          [
+            -930793.0632000007,
+            5137271.806999996
+          ],
+          [
+            -930887.6493999995,
+            5137724.186399996
+          ],
+          [
+            -931615.6064999998,
+            5139010.373800002
+          ],
+          [
+            -931899.5447000004,
+            5139511.974200003
+          ],
+          [
+            -932155.9913999997,
+            5139948.3418999985
+          ],
+          [
+            -932418.9023999982,
+            5140395.682599999
+          ],
+          [
+            -932824.8284000009,
+            5141086.3037
+          ],
+          [
+            -933180.4085999988,
+            5141536.280500002
+          ],
+          [
+            -933758.058699999,
+            5142264.1523
+          ],
+          [
+            -934062.2595000006,
+            5142649.168200001
+          ],
+          [
+            -934436.5441999994,
+            5143122.854500003
+          ],
+          [
+            -934598.1570999995,
+            5143327.374700002
+          ],
+          [
+            -934786.3894000016,
+            5143595.640799999
+          ],
+          [
+            -935032.8964999989,
+            5143946.941
+          ],
+          [
+            -935206.8117999993,
+            5144194.778399996
+          ],
+          [
+            -935508.3110999987,
+            5144443.164899997
+          ],
+          [
+            -935877.9400000013,
+            5144625.348999999
+          ],
+          [
+            -936138.2129000016,
+            5145095.3046
+          ],
+          [
+            -936330.5159000009,
+            5145658.3605
+          ],
+          [
+            -936697.1400000006,
+            5146099.829499997
+          ],
+          [
+            -936876.8282999992,
+            5146423.980300002
+          ],
+          [
+            -937058.4087999985,
+            5146751.531099997
+          ],
+          [
+            -937333.7751999982,
+            5147248.232199997
+          ],
+          [
+            -937474.4463,
+            5147501.960100003
+          ],
+          [
+            -937716.1717999987,
+            5147937.935099997
+          ],
+          [
+            -937899.0991999991,
+            5148267.846699998
+          ],
+          [
+            -937979.4640999995,
+            5148891.770199999
+          ],
+          [
+            -937808.9052999988,
+            5149189.581200004
+          ],
+          [
+            -937604.5335999988,
+            5149546.415100001
+          ],
+          [
+            -937654.2248999998,
+            5150189.159699999
+          ],
+          [
+            -937711.6882000007,
+            5150613.7971
+          ],
+          [
+            -937821.3104999997,
+            5151423.821900003
+          ],
+          [
+            -937720.6706000008,
+            5151796.565099999
+          ],
+          [
+            -937444.0938000008,
+            5152820.855099998
+          ],
+          [
+            -937371.6801000014,
+            5153284.262400001
+          ],
+          [
+            -937310.6185000017,
+            5153675.013700001
+          ],
+          [
+            -937228.9657000005,
+            5154197.496699996
+          ],
+          [
+            -937157.2177999988,
+            5154656.580700003
+          ],
+          [
+            -937122.3293000013,
+            5155055.725299999
+          ],
+          [
+            -937076.9345999993,
+            5155575.0239999965
+          ],
+          [
+            -937045.0958000012,
+            5155939.2434
+          ],
+          [
+            -937020.4926999994,
+            5156222.057499997
+          ],
+          [
+            -936959.4904000014,
+            5157016.047399998
+          ],
+          [
+            -936768.1356000006,
+            5157328.053300001
+          ],
+          [
+            -936294.7454999983,
+            5157444.9934
+          ],
+          [
+            -935886.9367000014,
+            5157458.595899999
+          ],
+          [
+            -935373.6449000016,
+            5157475.692199998
+          ],
+          [
+            -935032.1997000016,
+            5157520.016199999
+          ],
+          [
+            -934642.3205999993,
+            5157757.183300003
+          ],
+          [
+            -934544.8962000012,
+            5158031.426899999
+          ],
+          [
+            -934370.0520000011,
+            5158523.582999997
+          ],
+          [
+            -934234.4090000018,
+            5158905.372699998
+          ],
+          [
+            -933845.2765000015,
+            5159573.960900001
+          ],
+          [
+            -933563.4717999995,
+            5160058.105300002
+          ],
+          [
+            -933355.3101999983,
+            5160415.707900003
+          ],
+          [
+            -932730.3594000004,
+            5161489.2114999965
+          ],
+          [
+            -932112.870099999,
+            5162014.0898
+          ],
+          [
+            -931433.6689999998,
+            5162591.3464
+          ],
+          [
+            -931062.7485000007,
+            5162963.403300002
+          ],
+          [
+            -930791.6662000008,
+            5163235.309900001
+          ],
+          [
+            -930482.4624999985,
+            5163545.433899999
+          ],
+          [
+            -930178.375599999,
+            5163850.407399997
+          ],
+          [
+            -929715.3517000005,
+            5164117.8379999995
+          ],
+          [
+            -929284.2021000013,
+            5164366.831100002
+          ],
+          [
+            -928980.9864999987,
+            5164675.130500004
+          ],
+          [
+            -928934.803199999,
+            5165116.9058
+          ],
+          [
+            -929101.2826000005,
+            5165457.9956
+          ],
+          [
+            -929702.811999999,
+            5165694.497900002
+          ],
+          [
+            -929863.3016999997,
+            5166207.496399999
+          ],
+          [
+            -929795.489599999,
+            5166591.513899997
+          ],
+          [
+            -929646.8872999996,
+            5166922.918200001
+          ],
+          [
+            -929430.9704999998,
+            5167404.418799996
+          ],
+          [
+            -929230.4767999984,
+            5168340.430699997
+          ],
+          [
+            -929038.8539999984,
+            5168821.758000001
+          ],
+          [
+            -928824.8409000002,
+            5169359.290399998
+          ],
+          [
+            -928536.8037,
+            5170082.695100002
+          ],
+          [
+            -928484.3359000012,
+            5170350.373599999
+          ],
+          [
+            -928391.5859999992,
+            5170823.545500003
+          ],
+          [
+            -928330.6407000013,
+            5171134.450599998
+          ],
+          [
+            -928242.4803000018,
+            5171584.1743
+          ],
+          [
+            -928172.5108999982,
+            5171941.0836
+          ],
+          [
+            -928094.0810999982,
+            5172249.137999997
+          ],
+          [
+            -928013.427099999,
+            5172565.9201000035
+          ],
+          [
+            -927999.930399999,
+            5172996.460900001
+          ],
+          [
+            -927779.5722000003,
+            5173315.3156
+          ],
+          [
+            -928274.4125999995,
+            5174011.534999996
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,2909 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2883",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1377343.8143999986,
+      "y": 5544549.0079,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2884",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1396632.1426,
+      "y": 5539728.119800001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2885",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1393173.1121000014,
+      "y": 5548077.965000004,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2886",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1390873.6966999993,
+      "y": 5550523.886100002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Other essential CO2 equipement",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2881",
+      "INFRA": "35",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1365223.0143,
+      "y": 5551230.875299998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2882",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1363130.3192000017,
+      "y": 5536664.659100004,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2887",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 538057.1928000003,
+      "y": 5380923.145000003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2888",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 545369.7701000012,
+      "y": 5375409.096699998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2889",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 556433.8143000007,
+      "y": 5372116.333800003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2563",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "6394.397009"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1365227.355799999,
+            5549591.575400002
+          ],
+          [
+            1366416.9382000007,
+            5549121.7236
+          ],
+          [
+            1367606.3982000016,
+            5548651.739699997
+          ],
+          [
+            1368795.7357,
+            5548181.623800002
+          ],
+          [
+            1369984.9507,
+            5547711.3759
+          ],
+          [
+            1371174.0430000015,
+            5547240.996100001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2564",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "37434.454059"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1365216.1125000007,
+            5549580.174000002
+          ],
+          [
+            1366473.7314000018,
+            5548969.3989999965
+          ],
+          [
+            1367731.182,
+            5548358.490199998
+          ],
+          [
+            1368988.4642999992,
+            5547747.4476
+          ],
+          [
+            1370245.5782000013,
+            5547136.271200001
+          ],
+          [
+            1371502.523600001,
+            5546524.961199999
+          ],
+          [
+            1372759.3007999994,
+            5545913.5176
+          ],
+          [
+            1374015.9094999991,
+            5545301.940399997
+          ],
+          [
+            1375272.3498999998,
+            5544690.229999997
+          ],
+          [
+            1376528.6218000017,
+            5544078.386
+          ],
+          [
+            1377855.5692999996,
+            5544235.4152000025
+          ],
+          [
+            1379182.5623000003,
+            5544392.252800003
+          ],
+          [
+            1380509.6009000018,
+            5544548.898900002
+          ],
+          [
+            1381836.6849999987,
+            5544705.353600003
+          ],
+          [
+            1383163.8145999983,
+            5544861.616499998
+          ],
+          [
+            1384490.989599999,
+            5545017.687899999
+          ],
+          [
+            1385818.2098999992,
+            5545173.567599997
+          ],
+          [
+            1387145.4756000005,
+            5545329.2557
+          ],
+          [
+            1388472.7864999995,
+            5545484.752099998
+          ],
+          [
+            1389800.1424999982,
+            5545640.056999996
+          ],
+          [
+            1391127.5436999984,
+            5545795.170000002
+          ],
+          [
+            1392454.9899999984,
+            5545950.091200002
+          ],
+          [
+            1393256.0339000002,
+            5545379.7119999975
+          ],
+          [
+            1394056.9776000008,
+            5544809.297399998
+          ],
+          [
+            1394857.8211999983,
+            5544238.847400002
+          ],
+          [
+            1394228.7164000012,
+            5545229.552100003
+          ],
+          [
+            1393599.4748999998,
+            5546220.32
+          ],
+          [
+            1392970.0967999995,
+            5547211.151000001
+          ],
+          [
+            1392340.5821000002,
+            5548202.045000002
+          ],
+          [
+            1391710.9305999987,
+            5549193.002300002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2565",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "21217.070371"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1365223.0143,
+            5551230.875299998
+          ],
+          [
+            1364584.0625,
+            5550101.5647
+          ],
+          [
+            1363945.2688000016,
+            5548972.347900003
+          ],
+          [
+            1363306.633299999,
+            5547843.224799998
+          ],
+          [
+            1362668.1556000002,
+            5546714.195600003
+          ],
+          [
+            1362029.8359999992,
+            5545585.259900004
+          ],
+          [
+            1361391.6741999984,
+            5544456.417999998
+          ],
+          [
+            1360753.6702000014,
+            5543327.669799998
+          ],
+          [
+            1360115.8238999993,
+            5542199.015500002
+          ],
+          [
+            1359478.1352999993,
+            5541070.454700001
+          ],
+          [
+            1358840.6042000018,
+            5539941.987499997
+          ],
+          [
+            1358203.2305999994,
+            5538813.614
+          ],
+          [
+            1357566.0144999996,
+            5537685.334200002
+          ],
+          [
+            1358678.9748000018,
+            5537481.463200003
+          ],
+          [
+            1359791.885499999,
+            5537277.460000001
+          ],
+          [
+            1360904.7465000004,
+            5537073.325000003
+          ],
+          [
+            1362017.5577999987,
+            5536869.057899997
+          ],
+          [
+            1363130.3192000017,
+            5536664.659100004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2566",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "82820.341447"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1365223.0143,
+            5551230.875299998
+          ],
+          [
+            1363833.9899000004,
+            5551270.332800001
+          ],
+          [
+            1362444.9532999992,
+            5551309.577500001
+          ],
+          [
+            1361055.9048999995,
+            5551348.609200001
+          ],
+          [
+            1359666.8447000012,
+            5551387.428400002
+          ],
+          [
+            1358277.7725999989,
+            5551426.034699999
+          ],
+          [
+            1356888.6887999997,
+            5551464.428199999
+          ],
+          [
+            1355499.5934000015,
+            5551502.608800001
+          ],
+          [
+            1354110.4864000008,
+            5551540.5766
+          ],
+          [
+            1352721.367899999,
+            5551578.331600003
+          ],
+          [
+            1351332.2377999984,
+            5551615.873800002
+          ],
+          [
+            1349943.0962999985,
+            5551653.203100003
+          ],
+          [
+            1348553.943599999,
+            5551690.319600001
+          ],
+          [
+            1347164.7795999981,
+            5551727.223200001
+          ],
+          [
+            1345775.6042999998,
+            5551763.914099999
+          ],
+          [
+            1344386.4178999998,
+            5551800.391999997
+          ],
+          [
+            1342997.2204000019,
+            5551836.656999998
+          ],
+          [
+            1341608.0119000003,
+            5551872.709200002
+          ],
+          [
+            1340218.7925000004,
+            5551908.548600003
+          ],
+          [
+            1338829.5621999986,
+            5551944.174900003
+          ],
+          [
+            1337440.3211000003,
+            5551979.588600002
+          ],
+          [
+            1336051.0692000017,
+            5552014.7892
+          ],
+          [
+            1334661.8066000007,
+            5552049.776900001
+          ],
+          [
+            1333819.2643,
+            5553123.553000003
+          ],
+          [
+            1332976.523600001,
+            5554197.3763
+          ],
+          [
+            1332133.5843000002,
+            5555271.246799998
+          ],
+          [
+            1331290.4466000013,
+            5556345.164300002
+          ],
+          [
+            1330447.110100001,
+            5557419.129000001
+          ],
+          [
+            1329603.5749999993,
+            5558493.140699998
+          ],
+          [
+            1328759.8409999982,
+            5559567.199600004
+          ],
+          [
+            1327915.9079999998,
+            5560641.305500001
+          ],
+          [
+            1327071.7762000002,
+            5561715.458300002
+          ],
+          [
+            1326227.4453000017,
+            5562789.658299997
+          ],
+          [
+            1325382.9153000005,
+            5563863.905199997
+          ],
+          [
+            1324538.1860000007,
+            5564938.199199997
+          ],
+          [
+            1323693.2575000003,
+            5566012.539999999
+          ],
+          [
+            1322848.1295000017,
+            5567086.9278
+          ],
+          [
+            1322002.802099999,
+            5568161.362400003
+          ],
+          [
+            1321157.2752999999,
+            5569235.8442
+          ],
+          [
+            1320311.548700001,
+            5570310.372699998
+          ],
+          [
+            1319465.6224999987,
+            5571384.947999999
+          ],
+          [
+            1318619.4965999983,
+            5572459.570100002
+          ],
+          [
+            1317773.1706999987,
+            5573534.239100002
+          ],
+          [
+            1316926.6449000016,
+            5574608.9548999965
+          ],
+          [
+            1316079.9191999994,
+            5575683.717299998
+          ],
+          [
+            1315232.9932000004,
+            5576758.5266999975
+          ],
+          [
+            1314435.0777000003,
+            5577892.428199999
+          ],
+          [
+            1313636.9633000009,
+            5579026.399599999
+          ],
+          [
+            1312838.6497999988,
+            5580160.441
+          ],
+          [
+            1312040.1371,
+            5581294.552299999
+          ],
+          [
+            1311241.4252000004,
+            5582428.733499996
+          ],
+          [
+            1310442.513799999,
+            5583562.984499998
+          ],
+          [
+            1309643.4032000005,
+            5584697.305299997
+          ],
+          [
+            1308844.0929000005,
+            5585831.696099997
+          ],
+          [
+            1308044.5830999985,
+            5586966.156800002
+          ],
+          [
+            1307244.8735999987,
+            5588100.687299997
+          ],
+          [
+            1306444.9642000012,
+            5589235.287600003
+          ],
+          [
+            1305644.8550000004,
+            5590369.957900003
+          ],
+          [
+            1304844.5458999984,
+            5591504.697700001
+          ],
+          [
+            1304044.0368000008,
+            5592639.5075
+          ],
+          [
+            1303243.3275000006,
+            5593774.387199998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2567",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "115263.195421"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1303243.3275000006,
+            5593774.387199998
+          ],
+          [
+            1303827.8418999985,
+            5595028.6263
+          ],
+          [
+            1304412.5179000013,
+            5596282.999700002
+          ],
+          [
+            1304997.3555000015,
+            5597537.507399999
+          ],
+          [
+            1305582.3548000008,
+            5598792.149400003
+          ],
+          [
+            1306167.515999999,
+            5600046.925800003
+          ],
+          [
+            1306752.8390999995,
+            5601301.836400002
+          ],
+          [
+            1307338.324000001,
+            5602556.881499998
+          ],
+          [
+            1307923.9712000005,
+            5603812.0612
+          ],
+          [
+            1308509.7804999985,
+            5605067.375200003
+          ],
+          [
+            1309095.7518999986,
+            5606322.823799998
+          ],
+          [
+            1309681.8856999986,
+            5607578.406999998
+          ],
+          [
+            1310268.182,
+            5608834.124700002
+          ],
+          [
+            1310854.6407000013,
+            5610089.9771
+          ],
+          [
+            1311441.2619999982,
+            5611345.964100003
+          ],
+          [
+            1312028.046,
+            5612602.0858
+          ],
+          [
+            1312614.9926999994,
+            5613858.342299998
+          ],
+          [
+            1313202.1022000015,
+            5615114.733499996
+          ],
+          [
+            1313789.3746999986,
+            5616371.259499997
+          ],
+          [
+            1314376.8101000004,
+            5617627.920500003
+          ],
+          [
+            1314964.4087000005,
+            5618884.716300003
+          ],
+          [
+            1315552.170499999,
+            5620141.646899998
+          ],
+          [
+            1316140.0954999998,
+            5621398.7124999985
+          ],
+          [
+            1316728.1838000007,
+            5622655.9130000025
+          ],
+          [
+            1317316.4356000014,
+            5623913.2487
+          ],
+          [
+            1317904.8509000018,
+            5625170.719300002
+          ],
+          [
+            1318493.4298,
+            5626428.325099997
+          ],
+          [
+            1318815.362300001,
+            5627805.252999999
+          ],
+          [
+            1319137.3929000013,
+            5629182.377700001
+          ],
+          [
+            1319459.5216999985,
+            5630559.699199997
+          ],
+          [
+            1319781.7485000007,
+            5631937.217500001
+          ],
+          [
+            1320104.0736000016,
+            5633314.932899997
+          ],
+          [
+            1320426.4970000014,
+            5634692.845200002
+          ],
+          [
+            1320749.0187,
+            5636070.954700001
+          ],
+          [
+            1321071.6389000006,
+            5637449.261399999
+          ],
+          [
+            1321394.3574,
+            5638827.765299998
+          ],
+          [
+            1321717.1744999997,
+            5640206.466700003
+          ],
+          [
+            1322040.0901000015,
+            5641585.365400001
+          ],
+          [
+            1322363.1044999994,
+            5642964.461900003
+          ],
+          [
+            1322686.2175000012,
+            5644343.755800001
+          ],
+          [
+            1323009.429299999,
+            5645723.247500002
+          ],
+          [
+            1323332.7399000004,
+            5647102.936999999
+          ],
+          [
+            1323656.1493999995,
+            5648482.824299999
+          ],
+          [
+            1323979.6576999985,
+            5649862.909599997
+          ],
+          [
+            1324303.2652000003,
+            5651243.193099998
+          ],
+          [
+            1324626.9717000015,
+            5652623.674500003
+          ],
+          [
+            1324950.7771000005,
+            5654004.3543
+          ],
+          [
+            1325274.6818999983,
+            5655385.232199997
+          ],
+          [
+            1325598.6860000007,
+            5656766.308700003
+          ],
+          [
+            1325922.7892000005,
+            5658147.583499998
+          ],
+          [
+            1326246.991700001,
+            5659529.056900002
+          ],
+          [
+            1326571.2938,
+            5660910.729000002
+          ],
+          [
+            1326895.6953999996,
+            5662292.599699996
+          ],
+          [
+            1327220.1964000016,
+            5663674.669299997
+          ],
+          [
+            1327544.7969999984,
+            5665056.937700003
+          ],
+          [
+            1327869.4974000007,
+            5666439.405000001
+          ],
+          [
+            1328194.2974000014,
+            5667822.071599998
+          ],
+          [
+            1328519.1970999986,
+            5669204.937100001
+          ],
+          [
+            1329708.1862999983,
+            5669963.017700002
+          ],
+          [
+            1330897.3757000007,
+            5670721.0035
+          ],
+          [
+            1332086.7655000016,
+            5671478.894699998
+          ],
+          [
+            1333276.3555000015,
+            5672236.690800004
+          ],
+          [
+            1334466.1459,
+            5672994.392099999
+          ],
+          [
+            1335656.1367000006,
+            5673751.998300001
+          ],
+          [
+            1336846.3277999982,
+            5674509.509499997
+          ],
+          [
+            1338036.7193000019,
+            5675266.9256
+          ],
+          [
+            1339227.3114,
+            5676024.246200003
+          ],
+          [
+            1340418.1037000008,
+            5676781.471699998
+          ],
+          [
+            1341609.0967000015,
+            5677538.601599999
+          ],
+          [
+            1342800.2901999988,
+            5678295.636200003
+          ],
+          [
+            1343991.6840999983,
+            5679052.575099997
+          ],
+          [
+            1345183.2785999998,
+            5679809.418499999
+          ],
+          [
+            1346375.0736999996,
+            5680566.166100003
+          ],
+          [
+            1347567.0694999993,
+            5681322.818000004
+          ],
+          [
+            1348759.2657999992,
+            5682079.373999998
+          ],
+          [
+            1349951.6629000008,
+            5682835.833999999
+          ],
+          [
+            1351144.2606999986,
+            5683592.197999999
+          ],
+          [
+            1352337.0590000004,
+            5684348.465800002
+          ],
+          [
+            1353530.0582000017,
+            5685104.637699999
+          ],
+          [
+            1354723.2580999993,
+            5685860.713100001
+          ],
+          [
+            1355916.6587999985,
+            5686616.692299999
+          ],
+          [
+            1357110.2602999993,
+            5687372.575000003
+          ],
+          [
+            1358304.0626999997,
+            5688128.361299999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2568",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "369553.164934"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            546529.6079000011,
+            5382484.444499999
+          ],
+          [
+            546540.3850000016,
+            5383859.323700003
+          ],
+          [
+            546551.1651000008,
+            5385234.4045
+          ],
+          [
+            546561.9484999999,
+            5386609.687299997
+          ],
+          [
+            546572.7351999991,
+            5387985.1721
+          ],
+          [
+            546583.5249999985,
+            5389360.8587
+          ],
+          [
+            546594.318,
+            5390736.747500002
+          ],
+          [
+            546605.1141999997,
+            5392112.8386999965
+          ],
+          [
+            546615.9136000015,
+            5393489.131999999
+          ],
+          [
+            546626.7162000015,
+            5394865.627700001
+          ],
+          [
+            546637.5219999999,
+            5396242.325999998
+          ],
+          [
+            546648.3310000002,
+            5397619.226899996
+          ],
+          [
+            546659.1431999989,
+            5398996.330499999
+          ],
+          [
+            546669.9585999995,
+            5400373.636799999
+          ],
+          [
+            546680.7771999985,
+            5401751.145999998
+          ],
+          [
+            546691.5989999995,
+            5403128.858099997
+          ],
+          [
+            546702.4241000004,
+            5404506.773400001
+          ],
+          [
+            546713.2523000017,
+            5405884.891800001
+          ],
+          [
+            546724.0837999992,
+            5407263.213399999
+          ],
+          [
+            546734.9184000008,
+            5408641.738300003
+          ],
+          [
+            546745.7564000003,
+            5410020.466700003
+          ],
+          [
+            546756.5976000018,
+            5411399.398699999
+          ],
+          [
+            546767.4419,
+            5412778.5342999995
+          ],
+          [
+            546778.2895000018,
+            5414157.873499997
+          ],
+          [
+            546789.1402999982,
+            5415537.416699998
+          ],
+          [
+            546799.9943999983,
+            5416917.163699999
+          ],
+          [
+            546810.8515999988,
+            5418297.114500001
+          ],
+          [
+            546821.7120999992,
+            5419677.269699998
+          ],
+          [
+            546832.5758999996,
+            5421057.629000001
+          ],
+          [
+            546843.4428999983,
+            5422438.192500003
+          ],
+          [
+            546854.3132000007,
+            5423818.960500002
+          ],
+          [
+            546865.1865999997,
+            5425199.932899997
+          ],
+          [
+            546876.0632999986,
+            5426581.109899998
+          ],
+          [
+            546886.9431999996,
+            5427962.491499998
+          ],
+          [
+            546897.8264999986,
+            5429344.077799998
+          ],
+          [
+            546908.7129999995,
+            5430725.869199999
+          ],
+          [
+            546919.6026999988,
+            5432107.8653
+          ],
+          [
+            546930.4957000017,
+            5433490.066600002
+          ],
+          [
+            546941.3918000013,
+            5434872.472999997
+          ],
+          [
+            546952.2912999988,
+            5436255.084600002
+          ],
+          [
+            546963.1941,
+            5437637.901500002
+          ],
+          [
+            546974.1002000012,
+            5439020.923900001
+          ],
+          [
+            546985.0093999989,
+            5440404.151799999
+          ],
+          [
+            546995.9219000004,
+            5441787.585199997
+          ],
+          [
+            547006.8377999999,
+            5443171.224600002
+          ],
+          [
+            547017.7569000013,
+            5444555.069499999
+          ],
+          [
+            547028.6792000011,
+            5445939.120499998
+          ],
+          [
+            547039.6048000008,
+            5447323.3772
+          ],
+          [
+            547050.5337000005,
+            5448707.840300001
+          ],
+          [
+            547061.4659000002,
+            5450092.509400003
+          ],
+          [
+            547072.4013999999,
+            5451477.384900004
+          ],
+          [
+            547083.3401000015,
+            5452862.466700003
+          ],
+          [
+            547094.2820999995,
+            5454247.755000003
+          ],
+          [
+            547105.2274999991,
+            5455633.25
+          ],
+          [
+            547116.1761000007,
+            5457018.951499999
+          ],
+          [
+            547127.1279999986,
+            5458404.8598000035
+          ],
+          [
+            547138.0830999985,
+            5459790.9749
+          ],
+          [
+            547149.0416000001,
+            5461177.2971
+          ],
+          [
+            547160.0034000017,
+            5462563.826099999
+          ],
+          [
+            547170.9684999995,
+            5463950.5625
+          ],
+          [
+            547181.936900001,
+            5465337.506099999
+          ],
+          [
+            547192.9085000008,
+            5466724.656900004
+          ],
+          [
+            547203.8834999986,
+            5468112.015100002
+          ],
+          [
+            547214.8619000018,
+            5469499.581
+          ],
+          [
+            547225.8434000015,
+            5470887.354500003
+          ],
+          [
+            547236.8284000009,
+            5472275.335600004
+          ],
+          [
+            547247.8167000003,
+            5473663.524599999
+          ],
+          [
+            547258.8081,
+            5475051.921599999
+          ],
+          [
+            547269.8029999994,
+            5476440.526600003
+          ],
+          [
+            547280.8011999987,
+            5477829.339599997
+          ],
+          [
+            547291.8027000017,
+            5479218.360799998
+          ],
+          [
+            547302.807500001,
+            5480607.590400003
+          ],
+          [
+            547313.8156000003,
+            5481997.028300002
+          ],
+          [
+            547324.8271000013,
+            5483386.674699999
+          ],
+          [
+            547335.8420000002,
+            5484776.529700004
+          ],
+          [
+            547346.8601000011,
+            5486166.5934000015
+          ],
+          [
+            547357.8816,
+            5487556.865900002
+          ],
+          [
+            547368.9063000008,
+            5488947.3473000005
+          ],
+          [
+            547379.9345000014,
+            5490338.037600003
+          ],
+          [
+            547390.9659000002,
+            5491728.937200002
+          ],
+          [
+            547402.0007999986,
+            5493120.0458
+          ],
+          [
+            547413.0388999991,
+            5494511.363700002
+          ],
+          [
+            547424.0804999992,
+            5495902.890799999
+          ],
+          [
+            547435.1253999993,
+            5497294.627599999
+          ],
+          [
+            547446.1735000014,
+            5498686.573899999
+          ],
+          [
+            547457.2250999995,
+            5500078.729800001
+          ],
+          [
+            547468.2800000012,
+            5501471.0956000015
+          ],
+          [
+            547479.3383000009,
+            5502863.670999996
+          ],
+          [
+            547490.3999999985,
+            5504256.456600003
+          ],
+          [
+            547501.4648999982,
+            5505649.452200003
+          ],
+          [
+            547512.5333000012,
+            5507042.657899998
+          ],
+          [
+            547523.6050000004,
+            5508436.073899999
+          ],
+          [
+            547534.6801000014,
+            5509829.700099997
+          ],
+          [
+            547545.7584999986,
+            5511223.536899999
+          ],
+          [
+            547556.8403000012,
+            5512617.584200002
+          ],
+          [
+            547567.9255000018,
+            5514011.842100002
+          ],
+          [
+            547579.0141000003,
+            5515406.310800001
+          ],
+          [
+            547590.1061000004,
+            5516800.9903
+          ],
+          [
+            547601.2014000006,
+            5518195.880800001
+          ],
+          [
+            547612.3000000007,
+            5519590.982299998
+          ],
+          [
+            547623.4021999985,
+            5520986.2949
+          ],
+          [
+            547634.5075999983,
+            5522381.818599999
+          ],
+          [
+            547645.6165000014,
+            5523777.553800002
+          ],
+          [
+            547656.7287999988,
+            5525173.500399999
+          ],
+          [
+            547667.8443000019,
+            5526569.658399999
+          ],
+          [
+            547678.9633999988,
+            5527966.0282000005
+          ],
+          [
+            547690.0859000012,
+            5529362.609700002
+          ],
+          [
+            547701.2116999999,
+            5530759.402900003
+          ],
+          [
+            547712.3409999982,
+            5532156.408200003
+          ],
+          [
+            547723.4736000001,
+            5533553.625399999
+          ],
+          [
+            547734.6096000001,
+            5534951.054700002
+          ],
+          [
+            547745.7490999997,
+            5536348.696199998
+          ],
+          [
+            547756.8918999992,
+            5537746.550099999
+          ],
+          [
+            547768.0381000005,
+            5539144.616400003
+          ],
+          [
+            547779.1878000014,
+            5540542.8950999975
+          ],
+          [
+            547790.3409000002,
+            5541941.386600003
+          ],
+          [
+            547801.4974000007,
+            5543340.090599999
+          ],
+          [
+            547812.6572999991,
+            5544739.007600002
+          ],
+          [
+            547823.820700001,
+            5546138.137400001
+          ],
+          [
+            547834.987399999,
+            5547537.4802
+          ],
+          [
+            547846.1576000005,
+            5548937.036200002
+          ],
+          [
+            547857.3313000016,
+            5550336.805299997
+          ],
+          [
+            547868.5082999989,
+            5551736.787699997
+          ],
+          [
+            547879.6887999997,
+            5553136.9837
+          ],
+          [
+            547890.8726000004,
+            5554537.3928999975
+          ],
+          [
+            547902.0599999987,
+            5555938.015900001
+          ],
+          [
+            547913.2507999986,
+            5557338.8527000025
+          ],
+          [
+            547924.4450000003,
+            5558739.903099999
+          ],
+          [
+            547935.6425999999,
+            5560141.167499997
+          ],
+          [
+            547946.8438000008,
+            5561542.645999998
+          ],
+          [
+            547958.0483999997,
+            5562944.338399999
+          ],
+          [
+            547969.2562999986,
+            5564346.245200001
+          ],
+          [
+            547980.4677999988,
+            5565748.366099998
+          ],
+          [
+            547991.6827999987,
+            5567150.7016
+          ],
+          [
+            548002.9010999985,
+            5568553.251500003
+          ],
+          [
+            548014.1229000017,
+            5569956.016099997
+          ],
+          [
+            548025.3482000008,
+            5571358.995300002
+          ],
+          [
+            548036.5769000016,
+            5572762.189400002
+          ],
+          [
+            548047.8092,
+            5574165.5983000025
+          ],
+          [
+            548059.0447999984,
+            5575569.2223000005
+          ],
+          [
+            548070.2839000002,
+            5576973.061300002
+          ],
+          [
+            548081.5265000015,
+            5578377.115699999
+          ],
+          [
+            548092.7727000006,
+            5579781.385300003
+          ],
+          [
+            548104.0221999995,
+            5581185.870300002
+          ],
+          [
+            548115.2751999982,
+            5582590.570699997
+          ],
+          [
+            548126.5317000002,
+            5583995.487000003
+          ],
+          [
+            548137.7917000018,
+            5585400.618799999
+          ],
+          [
+            548149.0551000014,
+            5586805.9663999975
+          ],
+          [
+            548160.3220999986,
+            5588211.530000001
+          ],
+          [
+            548171.5925000012,
+            5589617.309699997
+          ],
+          [
+            548182.8665000014,
+            5591023.305299997
+          ],
+          [
+            548194.1440000013,
+            5592429.517200001
+          ],
+          [
+            548205.424899999,
+            5593835.945500001
+          ],
+          [
+            548216.7091999985,
+            5595242.5901999995
+          ],
+          [
+            548227.9970999993,
+            5596649.451499999
+          ],
+          [
+            548239.2886000015,
+            5598056.529200003
+          ],
+          [
+            548250.5835000016,
+            5599463.823799998
+          ],
+          [
+            548261.8819000013,
+            5600871.335199997
+          ],
+          [
+            548273.1838000007,
+            5602279.063500002
+          ],
+          [
+            548284.4893000014,
+            5603687.0088
+          ],
+          [
+            548295.7983000018,
+            5605095.171300001
+          ],
+          [
+            548307.1107000001,
+            5606503.550999999
+          ],
+          [
+            548318.4266000018,
+            5607912.148100004
+          ],
+          [
+            548329.746100001,
+            5609320.9624999985
+          ],
+          [
+            548341.0692000017,
+            5610729.994599998
+          ],
+          [
+            548352.3957999982,
+            5612139.244199999
+          ],
+          [
+            548363.7258000001,
+            5613548.711599998
+          ],
+          [
+            548375.0593999997,
+            5614958.396899998
+          ],
+          [
+            548386.3964999989,
+            5616368.299999997
+          ],
+          [
+            548397.7371000014,
+            5617778.421300001
+          ],
+          [
+            548409.0813000016,
+            5619188.760700002
+          ],
+          [
+            548420.4290000014,
+            5620599.318400003
+          ],
+          [
+            548431.7802999988,
+            5622010.094400004
+          ],
+          [
+            548443.1350999996,
+            5623421.088799998
+          ],
+          [
+            548454.4934,
+            5624832.301799998
+          ],
+          [
+            548465.8553000018,
+            5626243.733499996
+          ],
+          [
+            548477.2206000015,
+            5627655.384000003
+          ],
+          [
+            548488.5896999985,
+            5629067.253399998
+          ],
+          [
+            548499.9622000009,
+            5630479.341600001
+          ],
+          [
+            548511.3383000009,
+            5631891.649099998
+          ],
+          [
+            548522.7179000005,
+            5633304.175700001
+          ],
+          [
+            548534.1011000015,
+            5634716.921599999
+          ],
+          [
+            548545.4879000001,
+            5636129.886699997
+          ],
+          [
+            548556.8781999983,
+            5637543.071500003
+          ],
+          [
+            548568.2719999999,
+            5638956.4758
+          ],
+          [
+            548579.6693999991,
+            5640370.099799998
+          ],
+          [
+            548591.0703999996,
+            5641783.943499997
+          ],
+          [
+            548602.4750000015,
+            5643198.007299997
+          ],
+          [
+            548613.883200001,
+            5644612.291000001
+          ],
+          [
+            548625.2949000001,
+            5646026.794799998
+          ],
+          [
+            548636.7102000006,
+            5647441.518799998
+          ],
+          [
+            548648.1290999986,
+            5648856.463200003
+          ],
+          [
+            548942.065299999,
+            5650230.969400004
+          ],
+          [
+            549236.0910999998,
+            5651605.674000002
+          ],
+          [
+            549530.2065000013,
+            5652980.576899998
+          ],
+          [
+            549824.4116999991,
+            5654355.678599998
+          ],
+          [
+            550118.7065999992,
+            5655730.978699997
+          ],
+          [
+            550413.0912000015,
+            5657106.477799997
+          ],
+          [
+            550707.5658,
+            5658482.175499998
+          ],
+          [
+            551002.1301999986,
+            5659858.0722
+          ],
+          [
+            551296.7846000008,
+            5661234.167999998
+          ],
+          [
+            551591.5289999992,
+            5662610.462700002
+          ],
+          [
+            551886.363499999,
+            5663986.956600003
+          ],
+          [
+            552181.2881000005,
+            5665363.6499999985
+          ],
+          [
+            552476.3029000014,
+            5666740.5424000025
+          ],
+          [
+            552771.4079999998,
+            5668117.634400003
+          ],
+          [
+            553066.6033000015,
+            5669494.925800003
+          ],
+          [
+            553361.8889999986,
+            5670872.4168
+          ],
+          [
+            553657.2650999986,
+            5672250.1076000035
+          ],
+          [
+            553952.7314999998,
+            5673627.998099998
+          ],
+          [
+            554248.2884999998,
+            5675006.088399999
+          ],
+          [
+            554543.9362000003,
+            5676384.378700003
+          ],
+          [
+            554839.6743000001,
+            5677762.869000003
+          ],
+          [
+            555135.5031999983,
+            5679141.559299998
+          ],
+          [
+            555431.4228000008,
+            5680520.449900001
+          ],
+          [
+            555727.4332999997,
+            5681899.5407000035
+          ],
+          [
+            556023.5344999991,
+            5683278.831900001
+          ],
+          [
+            556319.7265999988,
+            5684658.323600002
+          ],
+          [
+            556616.0095999986,
+            5686038.015699998
+          ],
+          [
+            556912.3836999983,
+            5687417.908500001
+          ],
+          [
+            557208.8487999998,
+            5688798.002099998
+          ],
+          [
+            557505.4050000012,
+            5690178.296300001
+          ],
+          [
+            557802.0524000004,
+            5691558.791500002
+          ],
+          [
+            558098.7910000011,
+            5692939.4877
+          ],
+          [
+            558395.6209000014,
+            5694320.384800002
+          ],
+          [
+            558692.5421000011,
+            5695701.483199999
+          ],
+          [
+            558989.5546000004,
+            5697082.7826000005
+          ],
+          [
+            559286.6587000005,
+            5698464.283500001
+          ],
+          [
+            559583.8542000018,
+            5699845.985600002
+          ],
+          [
+            559881.1413000003,
+            5701227.889399998
+          ],
+          [
+            560178.5199000016,
+            5702609.9947
+          ],
+          [
+            560475.9902999997,
+            5703992.301600002
+          ],
+          [
+            560773.5522999987,
+            5705374.8103
+          ],
+          [
+            561071.2061999999,
+            5706757.5207
+          ],
+          [
+            561368.9519000016,
+            5708140.432999998
+          ],
+          [
+            561666.7894000001,
+            5709523.547499999
+          ],
+          [
+            561964.7188999988,
+            5710906.863899998
+          ],
+          [
+            562262.7402999997,
+            5712290.382700004
+          ],
+          [
+            562560.8537999988,
+            5713674.103500001
+          ],
+          [
+            562859.0593999997,
+            5715058.0266999975
+          ],
+          [
+            563157.3572999984,
+            5716442.152400002
+          ],
+          [
+            563455.747299999,
+            5717826.480599999
+          ],
+          [
+            563754.2296000011,
+            5719211.011399999
+          ],
+          [
+            564052.8040999994,
+            5720595.744800001
+          ],
+          [
+            564351.4710999988,
+            5721980.681000002
+          ],
+          [
+            564650.2305999994,
+            5723365.820200004
+          ],
+          [
+            564949.0824000016,
+            5724751.162199996
+          ],
+          [
+            565248.0269000009,
+            5726136.7073
+          ],
+          [
+            565547.0639999993,
+            5727522.455600001
+          ],
+          [
+            565846.1937000006,
+            5728908.406999998
+          ],
+          [
+            566145.4162000008,
+            5730294.561700001
+          ],
+          [
+            566444.7314999998,
+            5731680.919799998
+          ],
+          [
+            566744.1394999996,
+            5733067.4815
+          ],
+          [
+            567043.6405000016,
+            5734454.246600002
+          ],
+          [
+            567343.2344000004,
+            5735841.215400003
+          ],
+          [
+            567642.9213000014,
+            5737228.387999997
+          ],
+          [
+            567942.7012999989,
+            5738615.764300004
+          ],
+          [
+            568242.5742999986,
+            5740003.3445999995
+          ],
+          [
+            568542.5406000018,
+            5741391.128899999
+          ],
+          [
+            568842.6000999995,
+            5742779.117200002
+          ],
+          [
+            569142.752799999,
+            5744167.309699997
+          ],
+          [
+            569442.9990000017,
+            5745555.706500001
+          ],
+          [
+            569743.3385000005,
+            5746944.307700001
+          ],
+          [
+            570043.7714000009,
+            5748333.113300003
+          ],
+          [
+            570344.2978999987,
+            5749722.123400003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2569",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "14338.446338"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            546529.6079000011,
+            5382484.444499999
+          ],
+          [
+            547430.9021000005,
+            5381541.8539
+          ],
+          [
+            548332.0139000006,
+            5380599.270300001
+          ],
+          [
+            549232.9431999996,
+            5379656.693599999
+          ],
+          [
+            550133.6900000013,
+            5378714.123899996
+          ],
+          [
+            551034.2544,
+            5377771.5612
+          ],
+          [
+            551934.636500001,
+            5376829.005599998
+          ],
+          [
+            552834.8363999985,
+            5375886.456900001
+          ],
+          [
+            553734.8539999984,
+            5374943.9155
+          ],
+          [
+            554634.6895000003,
+            5374001.380999997
+          ],
+          [
+            555534.3429000005,
+            5373058.8539
+          ],
+          [
+            556433.8143000007,
+            5372116.333800003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2570",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "32425.505639"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            547291.1444999985,
+            5382975.079000004
+          ],
+          [
+            548578.113499999,
+            5383219.2678999975
+          ],
+          [
+            549865.1501000002,
+            5383463.2839
+          ],
+          [
+            551152.2540999986,
+            5383707.126900002
+          ],
+          [
+            552439.4255000018,
+            5383950.796999998
+          ],
+          [
+            553726.6642999984,
+            5384194.294
+          ],
+          [
+            555013.9706000015,
+            5384437.618000001
+          ],
+          [
+            556301.3440999985,
+            5384680.768799998
+          ],
+          [
+            557576.2452999987,
+            5384844.118699998
+          ],
+          [
+            558851.191300001,
+            5385007.295400001
+          ],
+          [
+            560126.182,
+            5385170.299000002
+          ],
+          [
+            561401.2173000015,
+            5385333.129299998
+          ],
+          [
+            562676.2972000018,
+            5385495.786600001
+          ],
+          [
+            563951.4217000008,
+            5385658.2707
+          ],
+          [
+            565226.5907999985,
+            5385820.5814
+          ],
+          [
+            566501.804299999,
+            5385982.718900003
+          ],
+          [
+            567777.0623000003,
+            5386144.6831
+          ],
+          [
+            569052.364599999,
+            5386306.474100001
+          ],
+          [
+            570327.7113000005,
+            5386468.091700003
+          ],
+          [
+            571447.6856999993,
+            5387010.322499998
+          ],
+          [
+            572567.7905000001,
+            5387552.449000001
+          ],
+          [
+            573688.0260000005,
+            5388094.470899999
+          ],
+          [
+            574808.3920999989,
+            5388636.3882
+          ],
+          [
+            575928.8887999989,
+            5389178.200900003
+          ],
+          [
+            577049.5161000006,
+            5389719.9089
+          ],
+          [
+            577860.0463000014,
+            5389570.295900002
+          ],
+          [
+            578670.5505000018,
+            5389420.614200003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2571",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "9459.191532"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            538057.1928000003,
+            5380923.145000003
+          ],
+          [
+            539376.0793000013,
+            5381216.815800004
+          ],
+          [
+            540695.0489999987,
+            5381510.307599999
+          ],
+          [
+            542014.1020000018,
+            5381803.620099999
+          ],
+          [
+            543333.2380000018,
+            5382096.753700003
+          ],
+          [
+            544652.4571999982,
+            5382389.707999997
+          ],
+          [
+            545971.759300001,
+            5382682.483199999
+          ],
+          [
+            547291.1444999985,
+            5382975.079000004
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.5",
+    "attributes": {
+      "OBJECTID": "2572",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1142",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Callisto",
+      "PROJECT_FULL_TITLE": "Callisto \u2013 Development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy",
+      "TECHNICAL_DESCR": "<p>Callisto&nbsp;is a project aiming to collect, transport and permanently store anthropogenic CO2 in the Mediterranean Sea.</p>\n\n<p>The infrastructure elements comprising in this PCI are:</p>\n\n<p>- In France, dedicated pipelines, other than upstream, collecting CO2 from industrial clusters located in the Rh&ocirc;ne Valley and Fos - Marseille industrial areas zones.</p>\n\n<p>- In Italy, several dedicated pipelines, other than upstream, as follows: (i) a pipeline connecting Ravenna and the Ravenna Casalborsetti facility (15 km); (ii) a new pipeline connecting Ferrara and Ravenna-Casalborsetti; (iii) a pipeline connecting Marghera and Ferrara. Two offshore dedicated pipelines will be laid to reach the injection reservoirs.</p>\n\n<p>- In France, fixed facilities for liquefaction, buffer storage and CO2 converters in a CO2 Hub located in the Fos-Marseille zone. The CO2 Hub will gather the CO2 coming from the Rh&ocirc;ne Valley and Fos - Marseille emitter clusters, to be then transported, by ship, to the Ravenna CCS permanent storage in Italy to be stored. In Italy, fixed facilities of the Ravenna Hub, including receiving/offloading facilities, buffer storage and converters of carbon dioxide. Shipping solutions are not part of the PCI.</p>\n\n<p>- Surface and injection facilities associated to the related offshore CO2 storage fields of Ravenna CCS.</p>\n\n<p>- Any equipment or installation for the proper, secure and efficient operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total amount of CO2 avoided via collection in the Fos - Marseille &amp; Rhone Valley areas for the French emitters and the Ravenna Hub for the Italian emitters and injected in the related geological storage is estimated at 128 Mt CO2 over 23 years of operation with a ramp up from 2 to 6,4 Mt/y within the first 6 years of operation. CO2 will come from France and Italy, with the possibility to extend to other industrial basins in France and Italy, and other countries.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR, IT",
+      "PROMOTERS": "Air Liquide France Industrie (FR) ; Enipower SpA (IT) ; Basell Polyol\u00e9fines France SAS (FR) ; Cabot Italiana SPA (IT) ; Elengy S.A (FR) ; Versalis SpA (IT) ; Marcegaglia Ravenna S.p.A (IT) ; Lafarge Ciments S.A. (FR) ; Herambiente S.p.A. (IT) ; Les Chaux de la Tour (LHOIST Group) (FR) ; Polynt S.p.A. (IT) ; Lyondell Chimie France (FR) ; PetroIneos Manufacturing France SAS (FR) ; Soci\u00e9t\u00e9 du Pipeline Sud Europ\u00e9en (SPSE) (FR) ; Eni S.p.A. (IT) ; Snam S.p.A. (IT) ; ArcelorMittal M\u00e9diterran\u00e9e (FR)  ; Yara Italia SpA (IT) ; GRTgaz S.A. (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "5408.439003"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            545369.7701000012,
+            5375409.096699998
+          ],
+          [
+            546601.0205000006,
+            5375967.574000001
+          ],
+          [
+            547832.4184999987,
+            5376525.920400001
+          ],
+          [
+            549063.9642000012,
+            5377084.136100002
+          ],
+          [
+            550295.6576000005,
+            5377642.221000001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

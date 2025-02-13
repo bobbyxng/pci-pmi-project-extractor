@@ -1,0 +1,930 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2895",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 351674.27329999954,
+      "y": 8500989.687299997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2896",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 902477.9098999985,
+      "y": 7097699.015100002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "3201",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 473985.9836000018,
+      "y": 8531372.3627,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "CO2 injection and surface facilities",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "3202",
+      "INFRA": "34",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 356280.8717,
+      "y": 6682677.917999998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2574",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1433727.44163"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            902477.9098999985,
+            7097699.015100002
+          ],
+          [
+            561251.2800999992,
+            7655331.006899998
+          ],
+          [
+            427360.9197999984,
+            8423730.769000001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2575",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1742481.037627"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            356266.22780000046,
+            6682700.697099999
+          ],
+          [
+            427360.9197999984,
+            8423730.769000001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2576",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "378918.456277"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            356266.22780000046,
+            6682700.697099999
+          ],
+          [
+            356221.188099999,
+            6681570.156099997
+          ],
+          [
+            378635.87469999865,
+            6656527.940200001
+          ],
+          [
+            392179.0436999984,
+            6647053.406499997
+          ],
+          [
+            410447.12590000033,
+            6646225.383400001
+          ],
+          [
+            427078.9433000013,
+            6643660.8561
+          ],
+          [
+            428019.85489999875,
+            6641525.271899998
+          ],
+          [
+            433340.1414999999,
+            6642439.030199997
+          ],
+          [
+            442284.98849999905,
+            6632937.379799999
+          ],
+          [
+            446890.3308000006,
+            6631390.929899998
+          ],
+          [
+            450505.27230000123,
+            6621744.519000001
+          ],
+          [
+            456248.43250000104,
+            6620352.405199997
+          ],
+          [
+            462900.3526000008,
+            6613275.189599998
+          ],
+          [
+            472837.6955000013,
+            6617266.4690999985
+          ],
+          [
+            481381.10060000047,
+            6616309.900700003
+          ],
+          [
+            487340.2485000007,
+            6620896.137400001
+          ],
+          [
+            509612.1079999991,
+            6610787.259199999
+          ],
+          [
+            517599.27059999853,
+            6612287.8347999975
+          ],
+          [
+            530030.5848999992,
+            6608514.789099999
+          ],
+          [
+            534524.9521000013,
+            6600002.469400004
+          ],
+          [
+            555858.240699999,
+            6594271.442100003
+          ],
+          [
+            583987.6290000007,
+            6573629.947300002
+          ],
+          [
+            603412.8412000015,
+            6577054.697700001
+          ],
+          [
+            621223.6631000005,
+            6573141.290600002
+          ],
+          [
+            639507.0203999989,
+            6577900.557599999
+          ],
+          [
+            664489.0207000002,
+            6565529.971000001
+          ],
+          [
+            681028.3079999983,
+            6570372.396600001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2881",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "11414.092832"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            424044.84120000154,
+            6648441.344499998
+          ],
+          [
+            427745.08210000023,
+            6654934.883199997
+          ],
+          [
+            426704.9411999993,
+            6658735.401600003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2882",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "112101.855604"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            392179.0436999984,
+            6647053.406499997
+          ],
+          [
+            410637.6270999983,
+            6652824.560699999
+          ],
+          [
+            426887.73490000144,
+            6655652.175999999
+          ],
+          [
+            474648.5749000013,
+            6664819.3829
+          ],
+          [
+            479653.41270000115,
+            6675317.3204
+          ],
+          [
+            477012.75400000066,
+            6676405.963299997
+          ],
+          [
+            476668.02969999984,
+            6680112.951300003
+          ],
+          [
+            476424.0943999998,
+            6683808.465999998
+          ],
+          [
+            473998.28990000114,
+            6685241.713100001
+          ],
+          [
+            472761.36740000173,
+            6687870.084399998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2883",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "105651.825194"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            378635.87469999865,
+            6656527.940200001
+          ],
+          [
+            337869.4754999988,
+            6614566.268299997
+          ],
+          [
+            291079.10830000043,
+            6608768.974299997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2884",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "324193.003058"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            392179.0436999984,
+            6647053.406499997
+          ],
+          [
+            400526.9998999983,
+            6608885.0251
+          ],
+          [
+            413981.5115999989,
+            6581269.229699999
+          ],
+          [
+            432262.873300001,
+            6556153.2744999975
+          ],
+          [
+            452088.0153999999,
+            6531517.540899999
+          ],
+          [
+            457581.2382999994,
+            6532421.131099999
+          ],
+          [
+            464623.7996999994,
+            6543778.651000001
+          ],
+          [
+            464624.2465999983,
+            6543913.043399997
+          ],
+          [
+            469269.17020000145,
+            6544992.334700003
+          ],
+          [
+            469274.3110000007,
+            6545109.944200002
+          ],
+          [
+            535496.0632000007,
+            6538207.038099997
+          ],
+          [
+            570315.9054000005,
+            6540115.827799998
+          ],
+          [
+            606997.4631999992,
+            6562109.189199999
+          ],
+          [
+            626935.6030000001,
+            6574628.1426
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2885",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "51091.335933"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            431054.34490000084,
+            6557829.091300003
+          ],
+          [
+            398858.55249999836,
+            6553068.941200003
+          ],
+          [
+            380478.6361999996,
+            6555542.0286
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2886",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "194606.018683"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            552245.5045999996,
+            6538818.909699999
+          ],
+          [
+            598828.7846999988,
+            6427305.4419
+          ],
+          [
+            653807.0568000004,
+            6378142.299099997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "CO2 pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.8",
+    "attributes": {
+      "OBJECTID": "2887",
+      "INFRA": "19",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "13.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1145",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "EU2NSEA ",
+      "PROJECT_FULL_TITLE": "EU2NSEA \u2013 cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL, SE and CH with storage on the Norwegian continental shelf",
+      "TECHNICAL_DESCR": "<p>The EU2NSEA project is designed to enable the transport and storage of CO2 from North-West Europe to the North Sea in Norway. The project, which involves 8 EU Member States, 1 EEA country (Norway) and a third country (Switzerland), will transport CO2 from collection hubs in Belgium and Germany through offshore pipeline infrastructure to storage sites in the North Sea. Additional collection hubs in France and the Netherlands will be connected to the offshore pipeline infrastructure.</p>\n\n<p>The cross-border transport between EU Member States along multiple corridors; CO2 captured in Denmark, Latvia, Poland, Sweden, and eastern Germany will travel via ship through the Kiel Canal to Wilhelmshaven for injection into the pipeline, avoiding longer travel distances, improving ship operating efficiency and reducing GHG emissions from transport. Interconnection between Germany and Belgium will provide transport route of CO2 for central and southern Germany to Zeebrugge.</p>\n\n<p>The infrastructure elements comprising this PCI are:</p>\n\n<ul>\n<li>An offshore CO2 transport pipeline infrastructure from export terminals in Zeebrugge and Wilhelmshaven to storage sites in the North Sea, with a length of over 1000 km CO2 collection networks, other than upstream pipelines, and hubs in 8 EU member states (BE, DE, DK, FR, LV, NL, PL, SE), 1 EEA country (NO) and 1 third country (CH):</li>\n<li>Fixed facilities for liquefaction, buffer storage and converters in two CO2 export terminals in Zeebrugge (BE) and Wilhelmshaven (DE). Shipping solutions are not part of the PCI.</li>\n<li>Surface and injection facilities associated to two storage sites in the North Sea for the permanent safe geological storage of CO2.</li>\n<li>Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</li>\n</ul>\n\n<p>There will be two storage sites that are part of this PCI:<br />\n- Smeaheia CO2 geological storage site (NO) with an annual injection rate of &gt;20 Mt/y. The theoretical maximum storage capacity of the Smeaheia storage site is larger than 500 Mt.<br />\n- Luna CO2 geological storage site (NO) with an annual injection rate of min 5 Mt/y. The theoretical maximum storage capacity of the Luna storage site is estimated to be 375 Mt.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, CH, DE, DK, FR, LV, NL, NO, PL, SE",
+      "PROMOTERS": "Equinor ASA (NO) ; Fluxys Belgium (BE) ; Wintershall Dea AG (DE)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "15133.900752"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            479653.41270000115,
+            6675317.3204
+          ],
+          [
+            482219.5124000013,
+            6671284.502800003
+          ],
+          [
+            479577.78880000114,
+            6667782.246100001
+          ],
+          [
+            482976.6917999983,
+            6665565.2217999995
+          ],
+          [
+            483050.84600000083,
+            6665471.019000001
+          ],
+          [
+            481927.9483000003,
+            6664078.184699997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

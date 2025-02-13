@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.15.3",
+    "attributes": {
+      "OBJECTID": "974",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.15.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1212",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.15",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Cartagena large scale electrolyser ",
+      "PROJECT_FULL_TITLE": "Cartagena large scale electrolyser ",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The project consists of a 600 MW alkaline electrolysis plant in Cartagena (Spain) capable of operating on a continuous basis (24/7), located in a major industrial area in the Cartagena Hydrogen Valley. The project aims to contribute to the overall flexibility and efficiency of the energy system, both the electricity grid and the future hydrogen network.</p>\n\n<p style=\"text-align:justify\">The project will be developed in two phases:</p>\n\n<ul>\n<li style=\"text-align:justify\">Phase 1 (100 MW) to be commissioned in 2027</li>\n<li style=\"text-align:justify\">Phase 2 (500 MW additional) planned to be commissioned after 2030.</li>\n</ul>\n\n<p style=\"text-align:justify\">The plant will include all the process, utilities and general facilities to support the operation, with a target yearly average availability factor of approximately 95%. Pressurized hydrogen storage will also be included as part of the electrolysis plant scope.</p>\n\n<p style=\"text-align:justify\">Required water supply and electricity supply will come from existing local grids. The production of the renewable hydrogen will be mainly for industrial use (Repsol Refinery), as well as other uses such as mobility and injection into the future repurposed natural gas network.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "Repsol S.A.",
+      "COMMISSIONING_DATE": "05/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -102695.56980000064,
+      "y": 4518796.266199999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

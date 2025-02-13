@@ -1,0 +1,278 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.7.1",
+    "attributes": {
+      "OBJECTID": "4230",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.7.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1193",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.7",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydrogen interconnector from the North-South backbone in East to Oude (NL) - H2ercules North (DE)",
+      "PROJECT_FULL_TITLE": " Hydrogen interconnector from the North-South backbone in East to Oude (NL) - H2ercules North (DE)",
+      "TECHNICAL_DESCR": "<p>The project is aiming to establish cross border hydrogen transport capacity between Germany and the Netherlands. The network National H2 Backbone (HNS) - H2ercules Network (OGE) can establish a connection to five European countries (Norway, Netherlands, Belgium, France and Czech Republic) via pipeline.</p>\n\n<p>The project concerns the hydrogen transport through the cross-border point Oude Statenzijl.</p>\n\n<p>It covers the following infrastructure in Germany:</p>\n\n<ul>\n<li>Wilhelmshaven/Dornum &ndash; Wettringen (H2ercules Network North) - new gas pipeline of approx. 240 km.</li>\n<li>Wettringen &ndash; Werne (H2ercules Network North) - repurposed gas pipeline of approx. 74 km.</li>\n<li>Hamm/Werne &ndash; Krefeld (H2ercules Network North) new gas pipeline of approx. 120 km.</li>\n</ul>\n\n<p>The project aims to realise 52.8 GWh/d (0.5 Mt/y) of green hydrogen transmission capacity from the Netherlands to Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "N.V. Nederlandse Gasunie (NE) ; Open Grid Europe GmbH (DE)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "2143.807093"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            805009.6887999997,
+            7021316.747500002
+          ],
+          [
+            802866.7258000001,
+            7021256.5940999985
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.7.1",
+    "attributes": {
+      "OBJECTID": "4231",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.7.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1193",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.7",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydrogen interconnector from the North-South backbone in East to Oude (NL) - H2ercules North (DE)",
+      "PROJECT_FULL_TITLE": " Hydrogen interconnector from the North-South backbone in East to Oude (NL) - H2ercules North (DE)",
+      "TECHNICAL_DESCR": "<p>The project is aiming to establish cross border hydrogen transport capacity between Germany and the Netherlands. The network National H2 Backbone (HNS) - H2ercules Network (OGE) can establish a connection to five European countries (Norway, Netherlands, Belgium, France and Czech Republic) via pipeline.</p>\n\n<p>The project concerns the hydrogen transport through the cross-border point Oude Statenzijl.</p>\n\n<p>It covers the following infrastructure in Germany:</p>\n\n<ul>\n<li>Wilhelmshaven/Dornum &ndash; Wettringen (H2ercules Network North) - new gas pipeline of approx. 240 km.</li>\n<li>Wettringen &ndash; Werne (H2ercules Network North) - repurposed gas pipeline of approx. 74 km.</li>\n<li>Hamm/Werne &ndash; Krefeld (H2ercules Network North) new gas pipeline of approx. 120 km.</li>\n</ul>\n\n<p>The project aims to realise 52.8 GWh/d (0.5 Mt/y) of green hydrogen transmission capacity from the Netherlands to Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "N.V. Nederlandse Gasunie (NE) ; Open Grid Europe GmbH (DE)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "32374.513433"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            806781.0960999988,
+            7053137.4133
+          ],
+          [
+            784526.4829000011,
+            7058260.672499999
+          ],
+          [
+            780169.5722999983,
+            7049776.1624
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.7.1",
+    "attributes": {
+      "OBJECTID": "4232",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.7.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1193",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.7",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydrogen interconnector from the North-South backbone in East to Oude (NL) - H2ercules North (DE)",
+      "PROJECT_FULL_TITLE": " Hydrogen interconnector from the North-South backbone in East to Oude (NL) - H2ercules North (DE)",
+      "TECHNICAL_DESCR": "<p>The project is aiming to establish cross border hydrogen transport capacity between Germany and the Netherlands. The network National H2 Backbone (HNS) - H2ercules Network (OGE) can establish a connection to five European countries (Norway, Netherlands, Belgium, France and Czech Republic) via pipeline.</p>\n\n<p>The project concerns the hydrogen transport through the cross-border point Oude Statenzijl.</p>\n\n<p>It covers the following infrastructure in Germany:</p>\n\n<ul>\n<li>Wilhelmshaven/Dornum &ndash; Wettringen (H2ercules Network North) - new gas pipeline of approx. 240 km.</li>\n<li>Wettringen &ndash; Werne (H2ercules Network North) - repurposed gas pipeline of approx. 74 km.</li>\n<li>Hamm/Werne &ndash; Krefeld (H2ercules Network North) new gas pipeline of approx. 120 km.</li>\n</ul>\n\n<p>The project aims to realise 52.8 GWh/d (0.5 Mt/y) of green hydrogen transmission capacity from the Netherlands to Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "N.V. Nederlandse Gasunie (NE) ; Open Grid Europe GmbH (DE)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "446587.474047"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            900894.9237999991,
+            7098611.703900002
+          ],
+          [
+            887039.9758000001,
+            7073316.788699999
+          ],
+          [
+            806781.0960999988,
+            7053137.4133
+          ],
+          [
+            811214.4437000006,
+            7046716.7029
+          ],
+          [
+            805009.6887999997,
+            7021316.747500002
+          ],
+          [
+            808615.5848000012,
+            7006816.574100003
+          ],
+          [
+            797290.0359999985,
+            6947634.102600001
+          ],
+          [
+            801974.4305999987,
+            6889061.678099997
+          ],
+          [
+            815766.6596999988,
+            6839695.845700003
+          ],
+          [
+            839212.6963,
+            6785872.3994999975
+          ],
+          [
+            844511.7353000008,
+            6762156.9038999975
+          ],
+          [
+            841652.1777000017,
+            6729464.003799997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.7.1",
+    "attributes": {
+      "OBJECTID": "4233",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.7.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1193",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.7",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydrogen interconnector from the North-South backbone in East to Oude (NL) - H2ercules North (DE)",
+      "PROJECT_FULL_TITLE": " Hydrogen interconnector from the North-South backbone in East to Oude (NL) - H2ercules North (DE)",
+      "TECHNICAL_DESCR": "<p>The project is aiming to establish cross border hydrogen transport capacity between Germany and the Netherlands. The network National H2 Backbone (HNS) - H2ercules Network (OGE) can establish a connection to five European countries (Norway, Netherlands, Belgium, France and Czech Republic) via pipeline.</p>\n\n<p>The project concerns the hydrogen transport through the cross-border point Oude Statenzijl.</p>\n\n<p>It covers the following infrastructure in Germany:</p>\n\n<ul>\n<li>Wilhelmshaven/Dornum &ndash; Wettringen (H2ercules Network North) - new gas pipeline of approx. 240 km.</li>\n<li>Wettringen &ndash; Werne (H2ercules Network North) - repurposed gas pipeline of approx. 74 km.</li>\n<li>Hamm/Werne &ndash; Krefeld (H2ercules Network North) new gas pipeline of approx. 120 km.</li>\n</ul>\n\n<p>The project aims to realise 52.8 GWh/d (0.5 Mt/y) of green hydrogen transmission capacity from the Netherlands to Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "N.V. Nederlandse Gasunie (NE) ; Open Grid Europe GmbH (DE)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "174096.735322"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            721629.4461999983,
+            6691748.480700001
+          ],
+          [
+            758392.1829000004,
+            6685980.760300003
+          ],
+          [
+            758161.2833999991,
+            6706053.5419000015
+          ],
+          [
+            841816.375500001,
+            6729510.044200003
+          ],
+          [
+            857333.0921999998,
+            6739293.983800001
+          ],
+          [
+            867996.5441000015,
+            6743821.991700001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

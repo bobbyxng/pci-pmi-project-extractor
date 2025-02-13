@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.16.3",
+    "attributes": {
+      "OBJECTID": "2242",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.16.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1261",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.16",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "HyGreen",
+      "PROJECT_FULL_TITLE": "HyGreen electrolyser ",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">HyGreen aims to decarbonize industrial and mobility use cases (steel, chemicals as well as heavy mobility) in the South of France thanks to the integration of large-scale production (HyGreen Project), connected to storage in salt caverns (GeoH2) and several hydrogen pipelines (Hynframed and HY-FEN). Beyond the production of renewable and low carbon hydrogen, the project foresees to guarantee stability of supply (in conjunction with the hydrogen storage facility) as well as grid balancing and flexibility services for both the hydrogen and electricity sectors. The application will be integrated in the cross-border hydrogen network H2Med, HY-FEN, BARMAR connecting Iberia and large industrial demand centres in France and enables to address demand in other regions and across Member States (Germany, Benelux).&nbsp;Overall, the project has an estimated output of 0.055 Mt/y of hydrogen.</p>\n\n<p style=\"text-align:justify\">The project will be developed in phases: &nbsp;</p>\n\n<ul>\n<li style=\"text-align:justify\">Hygreen Phase 1 aims to install 120 MW of electrolysis capacity in the area of Fos-sur-Mer. The source of electricity will be taken from the power grid.&nbsp;</li>\n<li style=\"text-align:justify\">Hygreen Phase 2 will increase electrolysis capacity by 350 MW in Villeneuve nearby H2 storage salt caverns and will be connected to HYNFRAMED and H2MED Pipeline.</li>\n</ul>\n\n<p style=\"text-align:justify\">The source of electricity for the electrolysers is a set of solar farms in the area nearby and on shore wind farms. From 2030, the target annual hydrogen production is expected to be 250 tonnes per day.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "ENGIE Energie Services",
+      "COMMISSIONING_DATE": "31/07/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 652654.7085999995,
+      "y": 6256944.801600002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

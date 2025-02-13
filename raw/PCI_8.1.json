@@ -1,0 +1,424 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "8.1",
+    "attributes": {
+      "OBJECTID": "4170",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "8.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1170",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "Atlantic offshore grids",
+      "CORRIDOR_NUMBER": "20",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection South Britanny",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection South Britanny (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection South Britanny will consist of&nbsp;&nbsp;a 225 kV HVAC link connecting up to 750 MW floating offshore wind to the onshore substation Pluvigner (225kV) in the Brittany Region with a cable total route length of ca. 80 km (offshore + onshore).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -339565.1323999986,
+      "y": 6069175.810599998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "8.1",
+    "attributes": {
+      "OBJECTID": "4171",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "8.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1170",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "Atlantic offshore grids",
+      "CORRIDOR_NUMBER": "20",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection South Britanny",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection South Britanny (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection South Britanny will consist of&nbsp;&nbsp;a 225 kV HVAC link connecting up to 750 MW floating offshore wind to the onshore substation Pluvigner (225kV) in the Brittany Region with a cable total route length of ca. 80 km (offshore + onshore).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -403919.99549999833,
+      "y": 6004100.495099999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "8.1",
+    "attributes": {
+      "OBJECTID": "3856",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "8.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1170",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "Atlantic offshore grids",
+      "CORRIDOR_NUMBER": "20",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection South Britanny",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection South Britanny (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection South Britanny will consist of&nbsp;&nbsp;a 225 kV HVAC link connecting up to 750 MW floating offshore wind to the onshore substation Pluvigner (225kV) in the Brittany Region with a cable total route length of ca. 80 km (offshore + onshore).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "37905.789521"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -352527.98220000044,
+            6042235.972400002
+          ],
+          [
+            -351796.39400000125,
+            6042565.187100001
+          ],
+          [
+            -351137.96460000053,
+            6042711.504799999
+          ],
+          [
+            -350369.7969999984,
+            6042809.049900003
+          ],
+          [
+            -350202.8156000003,
+            6042856.364399999
+          ],
+          [
+            -349866.3440000005,
+            6043105.117700003
+          ],
+          [
+            -349453.9371000007,
+            6043454.681699999
+          ],
+          [
+            -349088.6625000015,
+            6043784.6071000025
+          ],
+          [
+            -348905.3706,
+            6043916.8391999975
+          ],
+          [
+            -348554.4974000007,
+            6044054.3081
+          ],
+          [
+            -348409.1730999984,
+            6044005.866700001
+          ],
+          [
+            -348291.34259999916,
+            6043905.056100003
+          ],
+          [
+            -348187.9134999998,
+            6043771.514899999
+          ],
+          [
+            -348055.681499999,
+            6043669.3950999975
+          ],
+          [
+            -347901.19260000065,
+            6043590.8413999975
+          ],
+          [
+            -347638.03770000115,
+            6043631.427500002
+          ],
+          [
+            -347153.21930000186,
+            6043781.917099997
+          ],
+          [
+            -346871.9398000017,
+            6043893.7896
+          ],
+          [
+            -346808.01260000095,
+            6044072.785599999
+          ],
+          [
+            -346740.88910000026,
+            6044312.512500003
+          ],
+          [
+            -346718.5146000013,
+            6044676.8972999975
+          ],
+          [
+            -346638.6057000011,
+            6045415.255900003
+          ],
+          [
+            -346517.1440999992,
+            6046431.697700001
+          ],
+          [
+            -346450.02059999853,
+            6046789.6897
+          ],
+          [
+            -346120.79569999874,
+            6047502.477499999
+          ],
+          [
+            -345935.4070000015,
+            6047866.862300001
+          ],
+          [
+            -345430.3825000003,
+            6048844.947800003
+          ],
+          [
+            -344835.85990000144,
+            6050088.330899999
+          ],
+          [
+            -344401.1552999988,
+            6050944.954800002
+          ],
+          [
+            -344091.1086000018,
+            6051577.833700001
+          ],
+          [
+            -343745.90190000087,
+            6052303.406900004
+          ],
+          [
+            -343541.3350000009,
+            6052699.755199999
+          ],
+          [
+            -343004.34690000117,
+            6053802.498599999
+          ],
+          [
+            -342671.9257000014,
+            6054243.596000001
+          ],
+          [
+            -341658.68030000106,
+            6054854.100400001
+          ],
+          [
+            -340897.9472000003,
+            6055276.0195999965
+          ],
+          [
+            -340006.16330000013,
+            6055771.454999998
+          ],
+          [
+            -339299.7683000006,
+            6056161.410700001
+          ],
+          [
+            -339088.808699999,
+            6056263.6941
+          ],
+          [
+            -338647.71130000055,
+            6056589.722599998
+          ],
+          [
+            -337986.065200001,
+            6057069.176299997
+          ],
+          [
+            -337279.67020000145,
+            6058587.446199998
+          ],
+          [
+            -336603.745099999,
+            6059708.737999998
+          ],
+          [
+            -336262.3372000009,
+            6061025.5967999995
+          ],
+          [
+            -335920.9294000007,
+            6061915.695900001
+          ],
+          [
+            -335396.624499999,
+            6062744.8292
+          ],
+          [
+            -335750.2254999988,
+            6063061.8508
+          ],
+          [
+            -336786.6420999989,
+            6063720.280199997
+          ],
+          [
+            -339359.3940999992,
+            6065744.340899996
+          ],
+          [
+            -339420.35979999974,
+            6066610.0537
+          ],
+          [
+            -339554.48429999873,
+            6067939.105599999
+          ],
+          [
+            -339737.3812999986,
+            6068792.625200003
+          ],
+          [
+            -339565.1323999986,
+            6069175.810599998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "8.1",
+    "attributes": {
+      "OBJECTID": "3855",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "8.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1170",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "Atlantic offshore grids",
+      "CORRIDOR_NUMBER": "20",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection South Britanny",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection South Britanny (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection South Britanny will consist of&nbsp;&nbsp;a 225 kV HVAC link connecting up to 750 MW floating offshore wind to the onshore substation Pluvigner (225kV) in the Brittany Region with a cable total route length of ca. 80 km (offshore + onshore).</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "66349.083565"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -403919.99549999833,
+            6004100.495099999
+          ],
+          [
+            -399547.7615999989,
+            6010937.924800001
+          ],
+          [
+            -391314.938099999,
+            6013589.173
+          ],
+          [
+            -381919.2864000015,
+            6016659.039399996
+          ],
+          [
+            -371267.7802999988,
+            6024287.192299999
+          ],
+          [
+            -359127.8541000001,
+            6033729.3571000025
+          ],
+          [
+            -353050.07829999924,
+            6039325.285999998
+          ],
+          [
+            -352527.98220000044,
+            6042235.972400002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

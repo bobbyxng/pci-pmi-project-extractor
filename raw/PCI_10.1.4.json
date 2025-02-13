@@ -1,0 +1,100 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.1.4",
+    "attributes": {
+      "OBJECTID": "1929",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "10.1.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1234",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "10.1",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "HyPipe Bavaria \u2013 The Hydrogen Hub",
+      "PROJECT_FULL_TITLE": " Internal hydrogen infrastructure in Germany [currently knowns as HyPipe Bavaria \u2013 The Hydrogen Hub",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">HyPipe Bavaria &ndash; The Hydrogen Hub sets the course for a hydrogen interconnection point between Germany and Austria (IP-H2 &Uuml;berackern) and establishes a hydrogen hub in Southern Bavaria. HyPipe Bavaria supports the development of an EU-wide network for transport and storage of hydrogen and creates necessary interconnections for the priority corridors HI West and East. It is driven by the market demand of end customers as well as of the goal of Bayernets to contribute to the EU targets to decarbonize hard-to-abate sectors.</p>\n\n<p>The project increases as a hydrogen hub the security of supply for neighbouring TSOs by diversifying the international transit from all geographical directions. It enables the timely supply of demand centers in Bavaria by connecting the potential hydrogen sources from various directions, i.e. renewable hydrogen from Northern Africa (e.g. Tunisia and Algeria) via Italy and Austria. The project is mainly focused on the utilization of existing repurposed infrastructure to transport renewable H2. Out of a 294 km long network, 280 km of the existing pipelines will be repurposed. It also includes the construction of 14 km of new pipelines from Forchheim to Irsching in the direction of Ingolstadt and from Burghausen to the Austrian interconnection point &Uuml;berackern. The total potential H2 transmission capacity of the HyPipe Bavaria is around 1.39 Mt/y or 150 GWh/d in both directions.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "BAYERNETS GmbH (DE)",
+      "COMMISSIONING_DATE": "31/12/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "405098.61755"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1431886.2133999988,
+            6139328.138099998
+          ],
+          [
+            1430658.2807999998,
+            6139154.851300001
+          ],
+          [
+            1426398.8630999997,
+            6137814.673699997
+          ],
+          [
+            1415076.0011,
+            6136467.026600003
+          ],
+          [
+            1411045.0714000016,
+            6135184.8499
+          ],
+          [
+            1383550.3213,
+            6128149.935599998
+          ],
+          [
+            1380372.7065000013,
+            6128038.3618
+          ],
+          [
+            1317803.6942000017,
+            6142822.795000002
+          ],
+          [
+            1302605.2441999987,
+            6244871.920500003
+          ],
+          [
+            1290176.4230000004,
+            6235673.276600003
+          ],
+          [
+            1277346.0725000016,
+            6240099.999700002
+          ],
+          [
+            1277464.4050999992,
+            6228797.289499998
+          ],
+          [
+            1144185.4748999998,
+            6173238.7761999965
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.10",
+    "attributes": {
+      "OBJECTID": "1921",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.10",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1147",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Norne",
+      "PROJECT_FULL_TITLE": "Norne \u2013 transportation infrastructure in Denmark with onshore storage, emitters primarily from DK will transport by pipeline and SE, BE and UK emitters will transport to DK via ship",
+      "TECHNICAL_DESCR": "<p>Norne establishes a cross-border onshore CO2 storage solution for emitters in Northern Europe. The physical infrastructure will be located in Denmark, with two onshore storage locations, two reception facilities at ports to receive primarily international (EU) CO2 by ship, and connecting pipeline.<br />\n<br />\nNorne is phased for the first system to be operating by mid-2027. The full Norne CO2-hub concept across two storage structures and receiving facilities is planned to be operational by end-2028.<br />\n<br />\nThe infrastructure components included in this PCI are:</p>\n\n<p>- A dedicated 80 km pipeline from reception facility at the Port of Aalborg to the Gassum Structure.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters at the reception facility at the Port of Aalborg.</p>\n\n<p>- Surface and injection facilities associated to the Gassum structure.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>A future expansion of this PCI would include:</p>\n\n<p>- Approximately 170 km of additional pipelines, other than upstream, to connect industries south of the Gassum Structure and East of the Havns&oslash; Structure, to CO2 injection in each system. In addition, a 20 km pipeline from the Port of Kalundborg to the Havns&oslash; Structure.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters at the Port of Kalundborg.</p>\n\n<p>- Surface and injection facilities in a second system for permanent CO2 storage in the Havns&oslash; Structure.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total estimated combined capacity of the targeted reservoirs is 800 - 900 Mt of CO2. This is sufficient to inject CO2 for permanent storage at a 2030 goal rate of 28 Mt/y for approximately 30 years.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, DK, SE, UK",
+      "PROMOTERS": "Capio Danmark Holding III ApS (DK)",
+      "COMMISSIONING_DATE": "2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1121771.1840999983,
+      "y": 7768606.261100002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "CO2 liquefaction and buffer storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "13.10",
+    "attributes": {
+      "OBJECTID": "1922",
+      "INFRA": "24",
+      "SHAPE": "Point",
+      "PCI_CODE": "13.10",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1147",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "C",
+      "CORRIDOR_CODE": "CO2 network",
+      "CORRIDOR_NUMBER": "25",
+      "PROJECT_FICHE_SHORT_TITLE": "Norne",
+      "PROJECT_FULL_TITLE": "Norne \u2013 transportation infrastructure in Denmark with onshore storage, emitters primarily from DK will transport by pipeline and SE, BE and UK emitters will transport to DK via ship",
+      "TECHNICAL_DESCR": "<p>Norne establishes a cross-border onshore CO2 storage solution for emitters in Northern Europe. The physical infrastructure will be located in Denmark, with two onshore storage locations, two reception facilities at ports to receive primarily international (EU) CO2 by ship, and connecting pipeline.<br />\n<br />\nNorne is phased for the first system to be operating by mid-2027. The full Norne CO2-hub concept across two storage structures and receiving facilities is planned to be operational by end-2028.<br />\n<br />\nThe infrastructure components included in this PCI are:</p>\n\n<p>- A dedicated 80 km pipeline from reception facility at the Port of Aalborg to the Gassum Structure.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters at the reception facility at the Port of Aalborg.</p>\n\n<p>- Surface and injection facilities associated to the Gassum structure.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>A future expansion of this PCI would include:</p>\n\n<p>- Approximately 170 km of additional pipelines, other than upstream, to connect industries south of the Gassum Structure and East of the Havns&oslash; Structure, to CO2 injection in each system. In addition, a 20 km pipeline from the Port of Kalundborg to the Havns&oslash; Structure.</p>\n\n<p>- Fixed facilities for liquefaction, buffer storage and CO2 converters at the Port of Kalundborg.</p>\n\n<p>- Surface and injection facilities in a second system for permanent CO2 storage in the Havns&oslash; Structure.</p>\n\n<p>- Any equipment or installation for the operation of the project, including protection, control and monitoring systems.</p>\n\n<p>The total estimated combined capacity of the targeted reservoirs is 800 - 900 Mt of CO2. This is sufficient to inject CO2 for permanent storage at a 2030 goal rate of 28 Mt/y for approximately 30 years.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE, DK, SE, UK",
+      "PROMOTERS": "Capio Danmark Holding III ApS (DK)",
+      "COMMISSIONING_DATE": "2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1235899.2657000013,
+      "y": 7493445.252400003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

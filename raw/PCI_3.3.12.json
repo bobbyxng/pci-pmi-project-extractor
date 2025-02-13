@@ -1,0 +1,375 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.12",
+    "attributes": {
+      "OBJECTID": "667",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "3.3.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1108",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Pi\u0142a Krzewina-\u017bydowo Kierzkowo (PL)",
+      "PROJECT_FULL_TITLE": "Internal line between Pi\u0142a Krzewina and \u017bydowo Kierzkowo (PL)",
+      "TECHNICAL_DESCR": "<p>The Pi\u0142a Krzewina-\u017bydowo Kierzkowo 400 kV line is interrelated with the project aiming to build the Dunowo-\u017bydowo Kierzkowo line.</p>\n\n<p>The Pi\u0142a Krzewina-\u017bydowo Kierzkowo 400 kV project includes:</p>\n\n<p>-The reconstruction and modernization of Pi\u0142a Krzewina electrical station with installation of 400/110 kV transformers and reactive power compensation devices and,</p>\n\n<p>-The construction of new double-circuit 400 kV line.</p>\n\n<p>The lines Pi\u0142a Krzewina-\u017bydowo Kierzkowo 400 kV and Dunowo-\u017bydowo Kierzkowo 400 kV will be connected to each other.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL) ",
+      "COMMISSIONING_DATE": "31/03/2026",
+      "CEF_ACTIONS": "4.8.9-w-m-21-bs synchro phii - p2",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101069633/CEF2027",
+      "STUDIES_OR_WORKS": "WORKS"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1878087.4422999993,
+      "y": 6997655.070299998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.12",
+    "attributes": {
+      "OBJECTID": "3548",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.3.12",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1108",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Pi\u0142a Krzewina-\u017bydowo Kierzkowo (PL)",
+      "PROJECT_FULL_TITLE": "Internal line between Pi\u0142a Krzewina and \u017bydowo Kierzkowo (PL)",
+      "TECHNICAL_DESCR": "<p>The Pi\u0142a Krzewina-\u017bydowo Kierzkowo 400 kV line is interrelated with the project aiming to build the Dunowo-\u017bydowo Kierzkowo line.</p>\n\n<p>The Pi\u0142a Krzewina-\u017bydowo Kierzkowo 400 kV project includes:</p>\n\n<p>-The reconstruction and modernization of Pi\u0142a Krzewina electrical station with installation of 400/110 kV transformers and reactive power compensation devices and,</p>\n\n<p>-The construction of new double-circuit 400 kV line.</p>\n\n<p>The lines Pi\u0142a Krzewina-\u017bydowo Kierzkowo 400 kV and Dunowo-\u017bydowo Kierzkowo 400 kV will be connected to each other.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "PL",
+      "PROMOTERS": "PSE S.A. (PL) ",
+      "COMMISSIONING_DATE": "31/03/2026",
+      "CEF_ACTIONS": "4.8.9-w-m-21-bs synchro phii - p2",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101069633/CEF2027",
+      "STUDIES_OR_WORKS": "WORKS",
+      "SHAPE.LEN": "201555.063109"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1878600.1700000018,
+            6997681.460900001
+          ],
+          [
+            1878549.5513999984,
+            6997475.664800003
+          ]
+        ],
+        [
+          [
+            1878600.1700000018,
+            6997681.460900001
+          ],
+          [
+            1878588.2635999992,
+            6997445.141400002
+          ]
+        ],
+        [
+          [
+            1877575.265999999,
+            7104202.242299996
+          ],
+          [
+            1877584.9831999987,
+            7104177.768700004
+          ],
+          [
+            1880247.9686999992,
+            7097467.427500002
+          ],
+          [
+            1880015.0885999985,
+            7095984.547399998
+          ],
+          [
+            1881024.0372000001,
+            7093385.650300004
+          ],
+          [
+            1882293.1871000007,
+            7092040.0222999975
+          ],
+          [
+            1883008.2140999995,
+            7090159.307999998
+          ],
+          [
+            1882773.3511000015,
+            7088877.259599999
+          ],
+          [
+            1884056.318500001,
+            7085568.793700002
+          ],
+          [
+            1884227.6721,
+            7078064.1162
+          ],
+          [
+            1884555.520300001,
+            7077680.921099998
+          ],
+          [
+            1884270.8370999992,
+            7076171.741999999
+          ],
+          [
+            1885245.0546000004,
+            7073006.412199996
+          ],
+          [
+            1888008.5769999996,
+            7068227.6413
+          ],
+          [
+            1886231.0709999986,
+            7064035.566699997
+          ],
+          [
+            1886117.3938999996,
+            7062938.044500001
+          ],
+          [
+            1881548.5099,
+            7058489.684500001
+          ],
+          [
+            1882198.7545000017,
+            7054808.6448
+          ],
+          [
+            1884167.3830000013,
+            7052261.4243
+          ],
+          [
+            1882866.7237999998,
+            7043695.061700001
+          ],
+          [
+            1882148.1088999994,
+            7042370.404700004
+          ],
+          [
+            1882326.1706000008,
+            7040269.441200003
+          ],
+          [
+            1881499.2135999985,
+            7035244.368699998
+          ],
+          [
+            1885780.8394999988,
+            7025540.0427
+          ],
+          [
+            1886217.4048999995,
+            7025110.815099999
+          ],
+          [
+            1887799.4334999993,
+            7021525.4485
+          ],
+          [
+            1890355.0749000013,
+            7019518.685400002
+          ],
+          [
+            1889997.6563000008,
+            7015423.918499999
+          ],
+          [
+            1888602.128899999,
+            7014466.365900002
+          ],
+          [
+            1887810.5511000007,
+            7012604.702200003
+          ],
+          [
+            1887873.2415000014,
+            7012143.876800001
+          ],
+          [
+            1887956.4351999983,
+            7011532.380199999
+          ],
+          [
+            1888136.3057000004,
+            7010210.009800002
+          ],
+          [
+            1887471.6895999983,
+            7008345.741300002
+          ],
+          [
+            1886854.1706000008,
+            7008117.474299997
+          ],
+          [
+            1886696.0872999988,
+            7007240.066600002
+          ],
+          [
+            1885757.9879,
+            7002030.522
+          ],
+          [
+            1885957.2226999998,
+            7000085.393600002
+          ],
+          [
+            1885465.4814000018,
+            6998983.563900001
+          ],
+          [
+            1884280.876600001,
+            6998592.045299999
+          ],
+          [
+            1881520.982900001,
+            6998150.691500001
+          ],
+          [
+            1881155.7168999985,
+            6997610.774800003
+          ],
+          [
+            1880618.4371000007,
+            6997223.4004999995
+          ],
+          [
+            1878930.4442000017,
+            6997872.655000001
+          ],
+          [
+            1878600.1700000018,
+            6997681.460900001
+          ]
+        ],
+        [
+          [
+            1865563.078499999,
+            7166569.059600003
+          ],
+          [
+            1866804.8858999982,
+            7165425.063500002
+          ],
+          [
+            1867054.7778000012,
+            7151900.6504999995
+          ],
+          [
+            1867920.7182999998,
+            7146012.821099997
+          ],
+          [
+            1868737.6453999989,
+            7143913.876400001
+          ],
+          [
+            1868858.1176000014,
+            7142562.0449
+          ],
+          [
+            1870589.2413999997,
+            7135477.065499999
+          ],
+          [
+            1870950.2972000018,
+            7134002.2544
+          ],
+          [
+            1871424.4222999997,
+            7131888.374399997
+          ],
+          [
+            1876483.0599000007,
+            7126394.218500003
+          ],
+          [
+            1876498.3937,
+            7122525.2333
+          ],
+          [
+            1876778.0504,
+            7119863.029299997
+          ],
+          [
+            1873262.5753000006,
+            7115055.281000003
+          ],
+          [
+            1877575.264899999,
+            7104202.245099999
+          ]
+        ],
+        [
+          [
+            1860271.7795000002,
+            7174916.847900003
+          ],
+          [
+            1860161.1739000008,
+            7174215.693400003
+          ],
+          [
+            1860122.739599999,
+            7173226.084100001
+          ],
+          [
+            1860352.315299999,
+            7172488.819799997
+          ],
+          [
+            1860767.4180999994,
+            7170983.557999998
+          ],
+          [
+            1865563.076200001,
+            7166569.047499999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

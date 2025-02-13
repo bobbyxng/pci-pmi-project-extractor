@@ -1,0 +1,84 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.10",
+    "attributes": {
+      "OBJECTID": "1016",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.3.10",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1106",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Internal line Darb\u0117nai-Bit\u0117nai (LT) ",
+      "PROJECT_FULL_TITLE": "Internal line between Darbenai and Bitenai (LT)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">New 330 kV OHL Darb\u0117nai-Bit\u0117nai in Lithuania. The project consists of two phases:</p>\n\n<p style=\"text-align:justify\">- Reconstruction of existing 330 kV line Klaip\u0117da-Grobi\u0146a by adding a second circuit;</p>\n\n<p>- Construction of 330 kV OHL Darb\u0117nai-Bit\u0117nai, including a bypass around the city of Klaip\u0117da.</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "LT",
+      "PROMOTERS": "LITGRID AB (LT)",
+      "COMMISSIONING_DATE": "01/05/2025",
+      "CEF_ACTIONS": "4.8.9-w-m-21-bs synchro phii - p2",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101069633/CEF2027",
+      "STUDIES_OR_WORKS": "WORKS",
+      "SHAPE.LEN": "225373.914032"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2371827.0837000012,
+            7566845.386
+          ],
+          [
+            2369853.5889,
+            7528914.884300001
+          ],
+          [
+            2376580.0691,
+            7520965.345899999
+          ],
+          [
+            2383306.5493,
+            7477549.133000001
+          ],
+          [
+            2401651.4448000006,
+            7463484.654200003
+          ],
+          [
+            2407766.3357999995,
+            7430463.866700001
+          ],
+          [
+            2437118.1684999987,
+            7413341.992700003
+          ],
+          [
+            2443233.1708000004,
+            7391939.729000002
+          ],
+          [
+            2456141.371199999,
+            7376523.301799998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

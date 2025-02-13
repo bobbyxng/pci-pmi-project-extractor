@@ -1,0 +1,168 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.7.2",
+    "attributes": {
+      "OBJECTID": "4234",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.7.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1194",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.7",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydrogen interconnector from the North-South backbone in East to Vlieghuis (NL) \u2013 Vlieghuis \u2013 Ochtrup (DE)",
+      "PROJECT_FULL_TITLE": "Hydrogen interconnector from the North-South backbone in East to Vlieghuis (NL) \u2013 Vlieghuis \u2013 Ochtrup (DE)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The Vlieghuis-Ochtrup project enables the first border crossing point between the Netherlands&nbsp;and Germany.</p>\n\n<p style=\"text-align:justify\">The project also connects a hydrogen electrolysis and the planned hydrogen storage in Gronau-Epe of RWE via the GETH2 system in Ochtrup.</p>\n\n<p style=\"text-align:justify\">The project consists of about 50.2 km repurposed natural gas pipelines (12.2 km DN400, 38 km DN600) in Germany.</p>\n\n<p style=\"text-align:justify\">The expected transmission capacity from the Netherlands to Germany: 19.2 GWh/d (0.178 Mt/y) by 2029 and 31.2&nbsp;GWh/d (0.289 Mt/y) by 2031.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Thyssengas GmbH (DE)",
+      "COMMISSIONING_DATE": "2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "97120.454887"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            761190.5505000018,
+            6920283.497400001
+          ],
+          [
+            762730.2234999985,
+            6920700.531499997
+          ],
+          [
+            762887.8114,
+            6919929.862099998
+          ],
+          [
+            762643.0144000016,
+            6918206.779100001
+          ],
+          [
+            764467.7826999985,
+            6915618.636
+          ],
+          [
+            767014.3819999993,
+            6913914.054200001
+          ],
+          [
+            766014.2404999994,
+            6910817.376900002
+          ],
+          [
+            768643.7138999999,
+            6906828.138899997
+          ],
+          [
+            771024.6400000006,
+            6904332.435199998
+          ],
+          [
+            774273.8429000005,
+            6897522.325199999
+          ],
+          [
+            774888.8944999985,
+            6890106.536200002
+          ],
+          [
+            775148.7122999988,
+            6889226.793700002
+          ],
+          [
+            777268.3720000014,
+            6887748.126599997
+          ],
+          [
+            780593.9156000018,
+            6885106.486000001
+          ],
+          [
+            781979.8350000009,
+            6881580.558499999
+          ],
+          [
+            783436.3352000006,
+            6880161.941200003
+          ],
+          [
+            783184.6834000014,
+            6877220.599600002
+          ],
+          [
+            787031.4521000013,
+            6873081.508699998
+          ],
+          [
+            788687.4633000009,
+            6870285.924800001
+          ],
+          [
+            789450.8005999997,
+            6867836.0233
+          ],
+          [
+            793423.5020999983,
+            6862081.137599997
+          ],
+          [
+            793311.2179999985,
+            6859316.0151999965
+          ],
+          [
+            795029.0201999992,
+            6855347.673100002
+          ],
+          [
+            796104.6994000003,
+            6850592.022500001
+          ],
+          [
+            795844.0432000011,
+            6847863.827600002
+          ],
+          [
+            796400.1783000007,
+            6846186.758400001
+          ],
+          [
+            795782.4296999983,
+            6841650.304399997
+          ],
+          [
+            795441.4741999991,
+            6840649.563199997
+          ],
+          [
+            795949.3440000005,
+            6839413.562600002
+          ],
+          [
+            795482.6152999997,
+            6837601.894400001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.17.1",
+    "attributes": {
+      "OBJECTID": "2244",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.17.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1217",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.17",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Enecolyser",
+      "PROJECT_FULL_TITLE": "Enecolyser - Green Hydrogen plant",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The Eneco Electrolyser - Green Hydrogen plant is a facility with a capacity of up to 800 MW. It is strategically located in the Port of Rotterdam. The project is designed to be developed in phases, with Phase 1 estimated to fall within the range of 50 to 200 MW. Phase 2 is planned to intalled an additional 800 MW capacity.</p>\n\n<p style=\"text-align:justify\">The overall capacity of the project will depend on the outcomes of upcoming offshore wind and hydrogen subsidies tenders in the Netherlands.</p>\n\n<p style=\"text-align:justify\">For its power supply, the project will draw from two sources:</p>\n\n<ul>\n<li style=\"text-align: justify;\">Promoter&rsquo;s own renewable units: Eneco plans to utilize electricity generated from its own renewable energy assets.</li>\n<li style=\"text-align: justify;\">Dutch Electricity Transmission System: Additionally, the project will tap into the Dutch electricity transmission system.</li>\n</ul>\n\n<p style=\"text-align:justify\">To facilitate distribution, the Eneco Electrolyser will be seamlessly integrated into the HyNetwork Services (HNS) network at one of the five projected connection points within the Port of Rotterdam. This network was formerly known as &ldquo;HyTransPort&rdquo;. The connection will be established via a ~3 km distribution pipeline, which could also link the Enecolyzer, Enecogen, and BP Refinery.</p>\n\n<p style=\"text-align:justify\">As for operational efficiency, the load factor of the Eneco Electrolyser is anticipated to range between 60% and 70%. This variability will depend on the final power sourcing strategy adopted for each phase of the project. Overall, the electrolyser will have an output ranging between 0.085 Mt/y and 0.1 Mt/y.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "NL",
+      "PROMOTERS": "N.V. Eneco",
+      "COMMISSIONING_DATE": "2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 455416.24109999835,
+      "y": 6792436.262800001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

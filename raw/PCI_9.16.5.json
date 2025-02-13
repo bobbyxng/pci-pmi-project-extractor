@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.16.5",
+    "attributes": {
+      "OBJECTID": "1936",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.16.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1263",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.16",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2V Thionville electrolyser ",
+      "PROJECT_FULL_TITLE": "H2V Thionville electrolyser ",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">H2V Thionville is a 400 MW electrolyser, located in the industrial area of Thionville in France, close to the German and Luxembourg borders.</p>\n\n<p style=\"text-align:justify\">The estimated total production capacity of the project is of 0.056 Mt/y of hydrogen.</p>\n\n<p style=\"text-align:justify\">The production of hydrogen will be dedicated to industrial and mobility applications.</p>\n\n<p style=\"text-align:justify\">The hydrogen will be produced with electricity coming from wind and solar power purchase agreements (PPA) and grid electricity from the French mix.</p>\n\n<p style=\"text-align:justify\">The plant will be connected to RTE gas grid: project mosaHYc (moselle-saar-hydrogen-conversion), developed by the distribution network operators Creos (Germany) and GRTgaz (France), in cooperation with the energy company Encevo (Luxembourg).</p>\n\n<p>The project will be developed in two phases: &nbsp;</p>\n\n<ul>\n<li>the first 200 MW are planned to operate by 2028.&nbsp;&nbsp;</li>\n<li>the second phase of 200 MW capacity is aimed to be operational by 2030. &nbsp;</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "H2V ",
+      "COMMISSIONING_DATE": "2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 685201.9673999995,
+      "y": 6328468.185099997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

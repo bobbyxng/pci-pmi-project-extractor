@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.19",
+    "attributes": {
+      "OBJECTID": "2248",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.19",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1222",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Jytske Banke",
+      "PROJECT_FULL_TITLE": "Jytske Banke electrolyser (DK)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The Jytske Banke electrolyser (DK) is a 1 GW hydrogen electrolyser located on the Westcoast of Jutland.</p>\n\n<p style=\"text-align:justify\">It aims to produce hydrogen (H2) in the amount of 4 TWh/y, equivalent of 0.115 Mt/y.</p>\n\n<p style=\"text-align:justify\">The project aims to utilise and integrate the abundant wind resources of the North Sea via a direct line to produce green hydrogen, a versatile element and energy carrier with an unprecedented potential to accelerate the green energy transition.</p>\n\n<p style=\"text-align:justify\">The project is located in the European Union priority corridor HI WEST and will supply green hydrogen for hard-to-abate sectors in Europe, while supporting a green European hydrogen economy and the European Union&rsquo;s climate ambitions. The project can meet local hydrogen market demand in Denmark and the local area, supporting the several initiatives in Northwestern Jutland to become bunkering hubs for green fuels and to decarbonize their industry.</p>\n\n<p style=\"text-align:justify\">The electrolyser is expected to be powered exclusively by the nearby offshore wind farm. Note that the project is undergoing a change of name and will become the Jord Hydrogen Project.&nbsp;</p>\n\n<p style=\"text-align:justify\">The timeline for realisation of this project of common interest has been aligned with the timeline for construction of the offshore windfarm project(s) that are intended to deliver power via a direct line to the facility. This means that the FID of the integrated project (offshore wind and electrolyser) is expected by 2027, with commissioning date by 2030.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DK",
+      "PROMOTERS": "Copenhagen Infrastructure Energy Transition Fund I K/S (CI ETF I)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 933547.5320999995,
+      "y": 7490358.393700004,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

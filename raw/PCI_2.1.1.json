@@ -1,0 +1,146 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.1.1",
+    "attributes": {
+      "OBJECTID": "643",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.1.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1076",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.1",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " Isar/Altheim/Ottenhofen (DE) - St.Peter (AT) line",
+      "PROJECT_FULL_TITLE": "Interconnection between Isar/Altheim/Ottenhofen (DE) - St.Peter (AT)",
+      "TECHNICAL_DESCR": "<p>New 380 kV AC OHL between Isar and St. Peter, including a&nbsp;110 km of new line in DE (including Pirach), new 380 kV switchgears in Altheim, Simbach, Pirach and St. Peter and one new 380/220 kV transformer in the substations Altheim and St. Peter. The Austrian part St Peter&nbsp;section is under construction.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "AT, DE",
+      "PROMOTERS": "TenneT (DE) ; Austrian Power Grid AG (AT)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "2016-eu-sa-0013",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_transport/2016-EU-SA-0013.pdf",
+      "STUDIES_OR_WORKS": "Studies"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1360528.4450999983,
+      "y": 6204912.860799998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.1.1",
+    "attributes": {
+      "OBJECTID": "644",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.1.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1076",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.1",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " Isar/Altheim/Ottenhofen (DE) - St.Peter (AT) line",
+      "PROJECT_FULL_TITLE": "Interconnection between Isar/Altheim/Ottenhofen (DE) - St.Peter (AT)",
+      "TECHNICAL_DESCR": "<p>New 380 kV AC OHL between Isar and St. Peter, including a&nbsp;110 km of new line in DE (including Pirach), new 380 kV switchgears in Altheim, Simbach, Pirach and St. Peter and one new 380/220 kV transformer in the substations Altheim and St. Peter. The Austrian part St Peter&nbsp;section is under construction.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "AT, DE",
+      "PROMOTERS": "TenneT (DE) ; Austrian Power Grid AG (AT)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "2016-eu-sa-0013",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_transport/2016-EU-SA-0013.pdf",
+      "STUDIES_OR_WORKS": "Studies"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1456169.9250999987,
+      "y": 6149566.995899998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.1.1",
+    "attributes": {
+      "OBJECTID": "992",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "2.1.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1076",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "2.1",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": " Isar/Altheim/Ottenhofen (DE) - St.Peter (AT) line",
+      "PROJECT_FULL_TITLE": "Interconnection between Isar/Altheim/Ottenhofen (DE) - St.Peter (AT)",
+      "TECHNICAL_DESCR": "<p>New 380 kV AC OHL between Isar and St. Peter, including a&nbsp;110 km of new line in DE (including Pirach), new 380 kV switchgears in Altheim, Simbach, Pirach and St. Peter and one new 380/220 kV transformer in the substations Altheim and St. Peter. The Austrian part St Peter&nbsp;section is under construction.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "AT, DE",
+      "PROMOTERS": "TenneT (DE) ; Austrian Power Grid AG (AT)",
+      "COMMISSIONING_DATE": "12/2030",
+      "CEF_ACTIONS": "2016-eu-sa-0013",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_transport/2016-EU-SA-0013.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "106253.577813"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1368901.488499999,
+            6208424.3330999985
+          ],
+          [
+            1412578.2144000009,
+            6170267.8522000015
+          ],
+          [
+            1456169.9250999987,
+            6149566.995899998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

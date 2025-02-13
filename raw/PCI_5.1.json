@@ -1,0 +1,275 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "5.1",
+    "attributes": {
+      "OBJECTID": "3982",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "5.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1166",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP offshore",
+      "CORRIDOR_NUMBER": "17",
+      "PROJECT_FICHE_SHORT_TITLE": "Elwind",
+      "PROJECT_FULL_TITLE": "Latvia and Estonia Hybrid Offshore interconnector [currently known as \"Elwind\"]",
+      "TECHNICAL_DESCR": "<p>The ELWIND PCI consists of a hybrid interconnector project in the Baltic Sea with planned offshore generation production capacity from 1000 MW to 2000 MW.&nbsp;&nbsp;Studies are ongoing to determine the exact location and number of the offshore substations to be built.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "EE, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE)",
+      "COMMISSIONING_DATE": "31/12/2035",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2652605.050900001,
+      "y": 8112623.430699997,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "5.1",
+    "attributes": {
+      "OBJECTID": "3983",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "5.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1166",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP offshore",
+      "CORRIDOR_NUMBER": "17",
+      "PROJECT_FICHE_SHORT_TITLE": "Elwind",
+      "PROJECT_FULL_TITLE": "Latvia and Estonia Hybrid Offshore interconnector [currently known as \"Elwind\"]",
+      "TECHNICAL_DESCR": "<p>The ELWIND PCI consists of a hybrid interconnector project in the Baltic Sea with planned offshore generation production capacity from 1000 MW to 2000 MW.&nbsp;&nbsp;Studies are ongoing to determine the exact location and number of the offshore substations to be built.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "EE, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE)",
+      "COMMISSIONING_DATE": "31/12/2035",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2455676.859099999,
+      "y": 8012098.4054000005,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "5.1",
+    "attributes": {
+      "OBJECTID": "3984",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "5.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1166",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP offshore",
+      "CORRIDOR_NUMBER": "17",
+      "PROJECT_FICHE_SHORT_TITLE": "Elwind",
+      "PROJECT_FULL_TITLE": "Latvia and Estonia Hybrid Offshore interconnector [currently known as \"Elwind\"]",
+      "TECHNICAL_DESCR": "<p>The ELWIND PCI consists of a hybrid interconnector project in the Baltic Sea with planned offshore generation production capacity from 1000 MW to 2000 MW.&nbsp;&nbsp;Studies are ongoing to determine the exact location and number of the offshore substations to be built.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "EE, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE)",
+      "COMMISSIONING_DATE": "31/12/2035",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2356366.9208999984,
+      "y": 7666039.5309000015,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "5.1",
+    "attributes": {
+      "OBJECTID": "3985",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "5.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1166",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP offshore",
+      "CORRIDOR_NUMBER": "17",
+      "PROJECT_FICHE_SHORT_TITLE": "Elwind",
+      "PROJECT_FULL_TITLE": "Latvia and Estonia Hybrid Offshore interconnector [currently known as \"Elwind\"]",
+      "TECHNICAL_DESCR": "<p>The ELWIND PCI consists of a hybrid interconnector project in the Baltic Sea with planned offshore generation production capacity from 1000 MW to 2000 MW.&nbsp;&nbsp;Studies are ongoing to determine the exact location and number of the offshore substations to be built.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "EE, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE)",
+      "COMMISSIONING_DATE": "31/12/2035",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2846431.3312,
+      "y": 8155989.808499999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "5.1",
+    "attributes": {
+      "OBJECTID": "3986",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "5.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1166",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP offshore",
+      "CORRIDOR_NUMBER": "17",
+      "PROJECT_FICHE_SHORT_TITLE": "Elwind",
+      "PROJECT_FULL_TITLE": "Latvia and Estonia Hybrid Offshore interconnector [currently known as \"Elwind\"]",
+      "TECHNICAL_DESCR": "<p>The ELWIND PCI consists of a hybrid interconnector project in the Baltic Sea with planned offshore generation production capacity from 1000 MW to 2000 MW.&nbsp;&nbsp;Studies are ongoing to determine the exact location and number of the offshore substations to be built.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "EE, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE)",
+      "COMMISSIONING_DATE": "31/12/2035",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2400448.8715000004,
+      "y": 7840333.539499998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "5.1",
+    "attributes": {
+      "OBJECTID": "3523",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "5.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1166",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP offshore",
+      "CORRIDOR_NUMBER": "17",
+      "PROJECT_FICHE_SHORT_TITLE": "Elwind",
+      "PROJECT_FULL_TITLE": "Latvia and Estonia Hybrid Offshore interconnector [currently known as \"Elwind\"]",
+      "TECHNICAL_DESCR": "<p>The ELWIND PCI consists of a hybrid interconnector project in the Baltic Sea with planned offshore generation production capacity from 1000 MW to 2000 MW.&nbsp;&nbsp;Studies are ongoing to determine the exact location and number of the offshore substations to be built.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "EE, LV",
+      "PROMOTERS": "Augstsprieguma tikls AS (LV) ; Elering AS (EE)",
+      "COMMISSIONING_DATE": "31/12/2035",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "401527.101858"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2400448.8715000004,
+            7840333.539499998
+          ],
+          [
+            2455676.859099999,
+            8012098.4054000005
+          ],
+          [
+            2652605.050900001,
+            8112623.430699997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

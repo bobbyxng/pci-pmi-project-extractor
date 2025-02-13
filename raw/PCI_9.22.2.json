@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Hydrogen storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.22.2",
+    "attributes": {
+      "OBJECTID": "3529",
+      "INFRA": "29",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.22.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1226",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.22",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2 Storage expansion Gronau-Epe",
+      "PROJECT_FULL_TITLE": "RWE H2 Storage expansion Gronau-Epe",
+      "TECHNICAL_DESCR": "<p>The project consists of the Hydrogen Storage expansion in Gronau-Epe, close to the Dutch border.<br />\nThe enlargement includes additional sub- and above-surface installations counting: two repurposed salt caverns, used for storing natural gas, as well as a new developed above surface installation, in combination with the first project phase installation, co-existing with the natural gas storage.<br />\nThe project will have the following technical specifications:<br />\n- Maximum Injection rate: 120,000 Nm&sup3;/h (259 t/d).<br />\n- Maximum Withdrawal rate: 120,000 Nm&sup3;/h (259 t/d).<br />\n- Working gas volume: approx. 154 GWh.<br />\n- Expected increase in underground hydrogen storage capacity: approx. 43.5 M Nm&sup3; H2 of working gas volume.<br />\nThe commercial start of these additional capacities will contribute to support the development and upscale of the infrastructure of one of the first hydrogen clusters in Germany. The enlargement of the hydrogen storage will contribute to the development of the European Hydrogen Backbone, by enabling market parties to balance and structure the increasing H2 flows, matching the needs of the end users.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "RWE Gas Storage West GmbH",
+      "COMMISSIONING_DATE": "2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 780042.3887000009,
+      "y": 6832116.572300002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

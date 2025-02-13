@@ -1,0 +1,154 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.7.3",
+    "attributes": {
+      "OBJECTID": "4490",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.7.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1195",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.7",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Delta Rhine Corridor H2",
+      "PROJECT_FULL_TITLE": "Delta Rhine Corridor H2",
+      "TECHNICAL_DESCR": "<p>Cross-border and national infrastructure project&nbsp;connecting the port of Rotterdam via the Dutch hydrogen backbone with demand centers in Western and Southwestern Germany (North Rhine-Westphalia and Rhineland-Palatine). The project aims to develop a 506 km (175 km on the Dutch side and 331 km on the German side) 100% hydrogen infrastructure composed of new onshore pipelines.&nbsp;<br />\n&nbsp;<br />\nThe Dutch section, realized by Gasunie/ HyNetwork Services, includes:</p>\n\n<p>- New 55 km from starting point West of Rotterdam to Moerdijk</p>\n\n<p>- New 40 km from Moerdijk to Tilburg</p>\n\n<p>- New 80 from Tilburg to Tegelen/Venlo which is the border point Netherlands/Germany</p>\n\n<p>The German section&nbsp;realized by OGE includes:</p>\n\n<p>- New 18 km from Venlo (border crossing Netherlands-Germany) to Gelsenkirchen/Scholven</p>\n\n<p>- New 103 km from Venlo (border crossing Netherlands-Germany) to Cologne/Wesseling</p>\n\n<p>- New 210 km from Cologne/Wesseling to Ludwigshafen.&nbsp;</p>\n\n<p>The estimated capacity for the whole project is up to 2.18 Mt/y.</p>\n\n<p>The Delta Rhine Corridor H2 project plays a significant role in the national hydrogen network development plans (Dutch hydrogen grid roll-out plan and German Hydrogen Core Grid) that are currently being worked out.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, NL",
+      "PROMOTERS": "Port of Rotterdam Authority (NE) ; Open Grid Europe GmbH (OGE) (DE) ; Shell New Energies (NL) ; BASF (NE)",
+      "COMMISSIONING_DATE": "2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "275192.023911"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            458587.0331000015,
+            6785376.477899998
+          ],
+          [
+            482113.4659000002,
+            6771174.653499998
+          ],
+          [
+            509426.62999999896,
+            6769551.345700003
+          ],
+          [
+            508488.4497999996,
+            6741777.1712
+          ],
+          [
+            591770.3387000002,
+            6728548.273000002
+          ],
+          [
+            692730.8984000012,
+            6689541.0239999965
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.7.3",
+    "attributes": {
+      "OBJECTID": "4244",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.7.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1195",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.7",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Delta Rhine Corridor H2",
+      "PROJECT_FULL_TITLE": "Delta Rhine Corridor H2",
+      "TECHNICAL_DESCR": "<p>Cross-border and national infrastructure project&nbsp;connecting the port of Rotterdam via the Dutch hydrogen backbone with demand centers in Western and Southwestern Germany (North Rhine-Westphalia and Rhineland-Palatine). The project aims to develop a 506 km (175 km on the Dutch side and 331 km on the German side) 100% hydrogen infrastructure composed of new onshore pipelines.&nbsp;<br />\n&nbsp;<br />\nThe Dutch section, realized by Gasunie/ HyNetwork Services, includes:</p>\n\n<p>- New 55 km from starting point West of Rotterdam to Moerdijk</p>\n\n<p>- New 40 km from Moerdijk to Tilburg</p>\n\n<p>- New 80 from Tilburg to Tegelen/Venlo which is the border point Netherlands/Germany</p>\n\n<p>The German section&nbsp;realized by OGE includes:</p>\n\n<p>- New 18 km from Venlo (border crossing Netherlands-Germany) to Gelsenkirchen/Scholven</p>\n\n<p>- New 103 km from Venlo (border crossing Netherlands-Germany) to Cologne/Wesseling</p>\n\n<p>- New 210 km from Cologne/Wesseling to Ludwigshafen.&nbsp;</p>\n\n<p>The estimated capacity for the whole project is up to 2.18 Mt/y.</p>\n\n<p>The Delta Rhine Corridor H2 project plays a significant role in the national hydrogen network development plans (Dutch hydrogen grid roll-out plan and German Hydrogen Core Grid) that are currently being worked out.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "DE, NL",
+      "PROMOTERS": "Port of Rotterdam Authority (NE) ; Open Grid Europe GmbH (OGE) (DE) ; Shell New Energies (NL) ; BASF (NE)",
+      "COMMISSIONING_DATE": "2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "529544.255563"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            935701.1057000011,
+            6360983.348499998
+          ],
+          [
+            912313.3896000013,
+            6417844.804799996
+          ],
+          [
+            890181.1052000001,
+            6421082.9855
+          ],
+          [
+            817834.2155999988,
+            6485728.751000002
+          ],
+          [
+            768906.9596000016,
+            6572191.871299997
+          ],
+          [
+            774492.6460999995,
+            6588962.818800002
+          ],
+          [
+            692730.8984000012,
+            6689541.0239999965
+          ],
+          [
+            737930.7413000017,
+            6726883.130500004
+          ],
+          [
+            781175.5064999983,
+            6730549.5945999995
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

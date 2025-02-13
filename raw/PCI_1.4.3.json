@@ -1,0 +1,56 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.4.3",
+    "attributes": {
+      "OBJECTID": "984",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.4.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1070",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "1.4",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Korridor B (DE)",
+      "PROJECT_FULL_TITLE": "Internal line from Wilhelmshaven to Uentrop to increase capacity from Northern Germany to the Ruhr-Area [currently known as \"Korridor B\"]",
+      "TECHNICAL_DESCR": "<p>The project is part of the grid expansion project [currently known as &quot;Korridor B&quot;] for low-loss transmission of high power over long distances from Northern Germany, a region characterised by a large number of regenerative onshore and offshore energy sources, to the high-production region Ruhr-Area. It consists of a new HVDC cable of approximately 270 km from Wilhelmshaven to Hamm/Uentrop, with a transfer capacity of 2 GW.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "AMPRION GmbH (DE)",
+      "COMMISSIONING_DATE": "31/12/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "336026.567928"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            884099.5628999993,
+            6744327.005800001
+          ],
+          [
+            902929.7556999996,
+            7079825.557499997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

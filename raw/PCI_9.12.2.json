@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 4,
+    "layerName": "Other hydrogen assets",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.12.2",
+    "attributes": {
+      "OBJECTID": "3524",
+      "INFRA": "30",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.12.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1206",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.12",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Ammonia reception facility Amplifhy Rotterdam ",
+      "PROJECT_FULL_TITLE": "Ammonia reception facility Amplifhy Rotterdam ",
+      "TECHNICAL_DESCR": "<p>The project consists of a new build green ammonia storage terminal and on-site ammonia cracking facilities in Rotterdam, aiming to service the green ammonia market (fertilizer, chemicals &amp; marine) as well as the green hydrogen market, through cracking the ammonia to hydrogen and injecting it into the European backbone system.<br />\nAmplifhy Rotterdam will be connected to other European countries (incl. Germany and Belgium) via the National H2 Backbone and Delta Rhine Corridor and is expected to have a significant impact on the decarbonization of northwest European countries.<br />\nAfter phase 1 &amp; 2 (phase 1 to be operational in 2028 and phase 2 in 2029/2030), the facility will have an ammonia import/storage capacity of ~0.109 Mt (~160k m3); and an ammonia cracking capacity of ~0.4 Mt/y (~400 ktpa).&nbsp;<br />\nImport capacity is based on the number of jetties at the terminal and the discharge flow rates from vessels into the terminal.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "NL",
+      "PROMOTERS": "VTTI Terminal Support Services (\u201cVTTI\u201d)",
+      "COMMISSIONING_DATE": "01/07/2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 466743.4985000007,
+      "y": 6786583.634000003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

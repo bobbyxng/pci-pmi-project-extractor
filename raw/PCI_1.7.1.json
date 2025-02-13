@@ -1,0 +1,207 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.7.1",
+    "attributes": {
+      "OBJECTID": "688",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.7.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1063",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "1.7",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Pyrenean crossing 1 (ES, FR)",
+      "PROJECT_FULL_TITLE": "Interconnection between Navarra (ES) and Landes (FR) [currently known as \u201cPyrenean crossing 1\u201d]",
+      "TECHNICAL_DESCR": "<p>A new 225 km HVDC interconnection between France and Spain in the Western part of the Pyrenees between Pamplona area (Spain) and Cantegrit (France). The project consists of a new HVDC line of 2 GW transfer capacity, internal reinforcements in France and a new substation in the Pamplona area.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "RTE - R\u00e9seau de Transport d'Electricit\u00e9 (FR) ; REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES)",
+      "COMMISSIONING_DATE": "Null",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -192880.77549999952,
+      "y": 5290550.984200001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.7.1",
+    "attributes": {
+      "OBJECTID": "985",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.7.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1063",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "1.7",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Pyrenean crossing 1 (ES, FR)",
+      "PROJECT_FULL_TITLE": "Interconnection between Navarra (ES) and Landes (FR) [currently known as \u201cPyrenean crossing 1\u201d]",
+      "TECHNICAL_DESCR": "<p>A new 225 km HVDC interconnection between France and Spain in the Western part of the Pyrenees between Pamplona area (Spain) and Cantegrit (France). The project consists of a new HVDC line of 2 GW transfer capacity, internal reinforcements in France and a new substation in the Pamplona area.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "RTE - R\u00e9seau de Transport d'Electricit\u00e9 (FR) ; REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES)",
+      "COMMISSIONING_DATE": "Null",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "98348.764091"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -98763.24740000069,
+            5467457.078500003
+          ],
+          [
+            -68333.25539999828,
+            5560979.7761999965
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.7.1",
+    "attributes": {
+      "OBJECTID": "986",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.7.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1063",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "1.7",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Pyrenean crossing 1 (ES, FR)",
+      "PROJECT_FULL_TITLE": "Interconnection between Navarra (ES) and Landes (FR) [currently known as \u201cPyrenean crossing 1\u201d]",
+      "TECHNICAL_DESCR": "<p>A new 225 km HVDC interconnection between France and Spain in the Western part of the Pyrenees between Pamplona area (Spain) and Cantegrit (France). The project consists of a new HVDC line of 2 GW transfer capacity, internal reinforcements in France and a new substation in the Pamplona area.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "RTE - R\u00e9seau de Transport d'Electricit\u00e9 (FR) ; REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES)",
+      "COMMISSIONING_DATE": "Null",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "101871.018493"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -98762.6966000013,
+            5467456.090400003
+          ],
+          [
+            -66322.72940000147,
+            5370888.223399997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.7.1",
+    "attributes": {
+      "OBJECTID": "997",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.7.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1063",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "1.7",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Pyrenean crossing 1 (ES, FR)",
+      "PROJECT_FULL_TITLE": "Interconnection between Navarra (ES) and Landes (FR) [currently known as \u201cPyrenean crossing 1\u201d]",
+      "TECHNICAL_DESCR": "<p>A new 225 km HVDC interconnection between France and Spain in the Western part of the Pyrenees between Pamplona area (Spain) and Cantegrit (France). The project consists of a new HVDC line of 2 GW transfer capacity, internal reinforcements in France and a new substation in the Pamplona area.</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "ES, FR",
+      "PROMOTERS": "RTE - R\u00e9seau de Transport d'Electricit\u00e9 (FR) ; REE - Red El\u00e9ctrica de Espa\u00f1a S.A.U. (ES)",
+      "COMMISSIONING_DATE": "Null",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "200383.705364"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            -192880.77549999952,
+            5290550.984200001
+          ],
+          [
+            -98762.6966000013,
+            5467456.090400003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.15.1",
+    "attributes": {
+      "OBJECTID": "973",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.15.1",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1210",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.15",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Tarragona hydrogen network electrolyser",
+      "PROJECT_FULL_TITLE": "Tarragona hydrogen network electrolyser",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The project consists of a 150 MW alkaline electrolysis plant in Europe working 24/7 in a major industrial area in the Catalonian Hydrogen Valley with an estimated output ranging between 0.0181 and 0.0227 Mt/y. The project aims to contribute to the overall flexibility and efficiency of the energy system, both the electricity grid and the future hydrogen network.&nbsp;</p>\n\n<p style=\"text-align:justify\">The plant will include all the process and general facilities to support the operation, with a target yearly average availability factor of approximately&nbsp;95%. Pressurized hydrogen storage will also be included as part of the electrolysis plant scope. Required water supply and electricity supply will come from existing local grids.&nbsp;The production of the renewable hydrogen will be mainly for industrial use (Repsol Refinery and new methanol plant, Ecoplanta Molecular Recycling Solution), as well as other uses such as mobility and injection into the existing natural gas network.&nbsp;The completion of the electrolyser is foreseen for November 2027.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "ES",
+      "PROMOTERS": "Repsol S.A",
+      "COMMISSIONING_DATE": "11/2027",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 136379.28929999843,
+      "y": 5037419.921999998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

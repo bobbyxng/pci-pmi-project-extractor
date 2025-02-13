@@ -1,0 +1,100 @@
+[
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "3.3.2",
+    "attributes": {
+      "OBJECTID": "994",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "3.3.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1115",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "3.3",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "BEMIP Electricity",
+      "CORRIDOR_NUMBER": "15",
+      "PROJECT_FICHE_SHORT_TITLE": "Viru (EE) and Tsirguliina (EE)",
+      "PROJECT_FULL_TITLE": "Internal line between Viru and Tsirguliina (EE)",
+      "TECHNICAL_DESCR": "<p>Reinforcement of existing 330 kV OHL between Eesti and Tsirguliina (EE) with a planned capacity of 1143 MVA (243 km).</p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EE",
+      "PROMOTERS": "Elering AS (EE)",
+      "COMMISSIONING_DATE": "01/03/2025",
+      "CEF_ACTIONS": "4.8.1-0021-ltlv-w-m-18",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/4.8.1-0021-LTLV-W-M-18.pdf",
+      "STUDIES_OR_WORKS": "Works",
+      "SHAPE.LEN": "393438.166897"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            3106356.3643000014,
+            8238682.378399998
+          ],
+          [
+            3104501.1136999987,
+            8229000.447499998
+          ],
+          [
+            3101396.524500001,
+            8224697.987000003
+          ],
+          [
+            3087239.468199998,
+            8191625.704499997
+          ],
+          [
+            3075271.2870999984,
+            8184053.712200001
+          ],
+          [
+            3048258.499499999,
+            8183623.613499999
+          ],
+          [
+            3024667.1163999997,
+            8179719.912799999
+          ],
+          [
+            3008033.2014000006,
+            8171001.378300004
+          ],
+          [
+            2980842.525199998,
+            8109314.0211
+          ],
+          [
+            2981923.4375,
+            8090167.493799999
+          ],
+          [
+            2969273.090500001,
+            8067139.041699998
+          ],
+          [
+            2971183.2217999995,
+            8047478.128200002
+          ],
+          [
+            2914017.7688999996,
+            7935406.103600003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

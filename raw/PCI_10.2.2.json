@@ -1,0 +1,254 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.2.2",
+    "attributes": {
+      "OBJECTID": "1932",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "10.2.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1236",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "10.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "FLOW East",
+      "PROJECT_FULL_TITLE": " Internal hydrogen infrastructure in Germany [currently known as FLOW East - Making Hydrogen Happen]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">GASCADE Gastransport GmbH in cooperation with ONTRAS Gastransport GmbH develops with FLOW &ndash; making hydrogen happen (East) a project to connect the Baltic Sea with the Czech Republic and Poland with a potential capacity of 2.22 Mt/y or 240 GWh/d. The project foresees mainly repurposing of existing infrastructure on that route. On the entry side, capacities of renewable hydrogen sourced in the onshore and offshore production in the region of Lubmin and delivered via offshore connections from projects within the Baltic Sea are planned. The renewable hydrogen will be transported to the Czech-German VIP Brandov where it is handed over to the network of Net4Gas, s.r.o.. This cooperation is formed under the title of the Czech-German Hydrogen Interconnector (CGHI) which will ensure an integrated cross border hydrogen network from the Baltic Region to Central European countries. Another amount of hydrogen will be transported to Poland into the network of GAZ-SYSTEM S.A. via the newly built H2 interconnection Germany-Poland operated by ONTRAS Gastransport GmbH. This connection is also capable to transport green hydrogen from the Polish network to the Flow (East) system depending on market demand.</p>\n\n<p style=\"text-align:justify\">The project includes the following activities and infrastructure elements:</p>\n\n<p style=\"text-align:justify\">- Repurposing of 480 km of existing pipelines starting at IP Lubmin, German entry point and ending at IP Deutschneudorf, German-Czech interconnection point to the Czech gas transmission system.</p>\n\n<p style=\"text-align:justify\">- Construction of two sections of 49 km of new pipelines in total, where the first section starting at Biesenbrow, connection point to the repurposed FLOW pipeline, and ending at Schwedt, connection point to a refinery to be delivered with hydrogen in the future, and the second section starting at Schwedt, Germany and ending at Mescherin, German-Polish interconnection point to the future Polish hydrogen network.</p>\n\n<p>- One compressor station, for which the location and capacity is very dependent on the updated expected flows calculation within the national hydrogen core grid.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "GASCADE Gastransport GmbH (DE) ; ONTRAS Gastransport GmbH (DE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "701907.994693"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1520003.3093000017,
+            7198975.376400001
+          ],
+          [
+            1513032.1400999986,
+            7174001.4657000005
+          ],
+          [
+            1512164.9952999987,
+            7150577.069300003
+          ],
+          [
+            1523333.427000001,
+            7134298.108000003
+          ],
+          [
+            1541561.7267999984,
+            7115189.571599998
+          ],
+          [
+            1553821.8341999985,
+            7094255.656300001
+          ],
+          [
+            1555036.888799999,
+            7071254.730800003
+          ],
+          [
+            1555985.1453999989,
+            7050477.765600003
+          ],
+          [
+            1554408.4923,
+            7025958.619800001
+          ],
+          [
+            1563427.879900001,
+            7003519.675099999
+          ],
+          [
+            1565402.5945999995,
+            6977464.866300002
+          ],
+          [
+            1567900.3115000017,
+            6953371.9548999965
+          ],
+          [
+            1567369.1893999986,
+            6930808.623000003
+          ],
+          [
+            1555269.1568999998,
+            6908698.835500002
+          ],
+          [
+            1555018.25,
+            6883114.080799997
+          ],
+          [
+            1536237.2522,
+            6864768.365099996
+          ],
+          [
+            1525767.2399000004,
+            6844902.848499998
+          ],
+          [
+            1517105.9726000018,
+            6833649.299099997
+          ],
+          [
+            1507321.9222000018,
+            6814371.1483
+          ],
+          [
+            1520579.6262000017,
+            6795077.602799997
+          ],
+          [
+            1521981.7496999986,
+            6769257.025300004
+          ],
+          [
+            1522551.1502999999,
+            6744553.047799997
+          ],
+          [
+            1523175.3916999996,
+            6721351.418200001
+          ],
+          [
+            1518642.680399999,
+            6698723.035899997
+          ],
+          [
+            1514795.7879999988,
+            6677717.642300002
+          ],
+          [
+            1509468.1975000016,
+            6655101.598999999
+          ],
+          [
+            1504217.5296999998,
+            6634726.160400003
+          ],
+          [
+            1492550.9294000007,
+            6613982.590400003
+          ],
+          [
+            1495505.4243,
+            6595546.207699999
+          ],
+          [
+            1486283.9858000018,
+            6580515.530699998
+          ],
+          [
+            1495593.1878999993,
+            6570010.4782000035
+          ],
+          [
+            1501439.5916000009,
+            6565009.551799998
+          ],
+          [
+            1498302.5284000002,
+            6551806.619000003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.2.2",
+    "attributes": {
+      "OBJECTID": "1933",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "10.2.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1236",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "10.2",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "FLOW East",
+      "PROJECT_FULL_TITLE": " Internal hydrogen infrastructure in Germany [currently known as FLOW East - Making Hydrogen Happen]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">GASCADE Gastransport GmbH in cooperation with ONTRAS Gastransport GmbH develops with FLOW &ndash; making hydrogen happen (East) a project to connect the Baltic Sea with the Czech Republic and Poland with a potential capacity of 2.22 Mt/y or 240 GWh/d. The project foresees mainly repurposing of existing infrastructure on that route. On the entry side, capacities of renewable hydrogen sourced in the onshore and offshore production in the region of Lubmin and delivered via offshore connections from projects within the Baltic Sea are planned. The renewable hydrogen will be transported to the Czech-German VIP Brandov where it is handed over to the network of Net4Gas, s.r.o.. This cooperation is formed under the title of the Czech-German Hydrogen Interconnector (CGHI) which will ensure an integrated cross border hydrogen network from the Baltic Region to Central European countries. Another amount of hydrogen will be transported to Poland into the network of GAZ-SYSTEM S.A. via the newly built H2 interconnection Germany-Poland operated by ONTRAS Gastransport GmbH. This connection is also capable to transport green hydrogen from the Polish network to the Flow (East) system depending on market demand.</p>\n\n<p style=\"text-align:justify\">The project includes the following activities and infrastructure elements:</p>\n\n<p style=\"text-align:justify\">- Repurposing of 480 km of existing pipelines starting at IP Lubmin, German entry point and ending at IP Deutschneudorf, German-Czech interconnection point to the Czech gas transmission system.</p>\n\n<p style=\"text-align:justify\">- Construction of two sections of 49 km of new pipelines in total, where the first section starting at Biesenbrow, connection point to the repurposed FLOW pipeline, and ending at Schwedt, connection point to a refinery to be delivered with hydrogen in the future, and the second section starting at Schwedt, Germany and ending at Mescherin, German-Polish interconnection point to the future Polish hydrogen network.</p>\n\n<p>- One compressor station, for which the location and capacity is very dependent on the updated expected flows calculation within the national hydrogen core grid.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "GASCADE Gastransport GmbH (DE) ; ONTRAS Gastransport GmbH (DE)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "69246.737102"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1562026.9083999991,
+            7007005.091499999
+          ],
+          [
+            1568776.0801,
+            7004235.654200003
+          ],
+          [
+            1585121.5610999987,
+            6997564.048699997
+          ],
+          [
+            1580938.2217999995,
+            7002747.450099997
+          ],
+          [
+            1587338.105799999,
+            7007055.9586
+          ],
+          [
+            1599493.5245999992,
+            7023047.369599998
+          ],
+          [
+            1606991.7027000003,
+            7029410.284199998
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

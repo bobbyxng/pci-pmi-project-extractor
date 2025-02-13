@@ -1,0 +1,122 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.1.5",
+    "attributes": {
+      "OBJECTID": "3885",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.1.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1176",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.1",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "HyFen ",
+      "PROJECT_FULL_TITLE": " Internal hydrogen infrastructure in France connecting to Germany [currently known as HyFen] ",
+      "TECHNICAL_DESCR": "<p>The internal hydrogen infrastructure in France (currently known as HyFen&nbsp;project) aims to develop a French hydrogen transmission network via pipeline, connected to Germany (currently known as H2ercules) and national storage sites. A connection via BarMar will further allow to ensure the interconnection with the Iberian peninsula.</p>\n\n<p>Being part of the European South-North corridor, HyFen&nbsp;project will link significant hydrogen potential from renewable electricity (solar and wind power) produced in Iberia (ES and PT) and France to future industrial consumption areas in North-Western Europe.</p>\n\n<p>The 1000 km pipeline network,&nbsp;starting from&nbsp;Fos-sur-Mer&nbsp;will be partially (approx. 327 km from Etrez to Voisines and from Cerville to Obergailbach) based on repurposed natural gas assets. The rest of HyFen network (673 km) is designed with new pipes.&nbsp;</p>\n\n<p>HyFen&nbsp;project will ensure maximum transmission capacity of hydrogen at 2 Mt/y from France to Germany.</p>\n\n<p style=\"text-align:left\">&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "GRTgaz (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1029272.740254"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            810370.8898000009,
+            6295735.941699997
+          ],
+          [
+            702528.6600000001,
+            6224830.943000004
+          ],
+          [
+            576074.6856999993,
+            6086424.884199999
+          ],
+          [
+            547637.8234999999,
+            5409536.321199998
+          ],
+          [
+            541915.4472000003,
+            5374755.533500001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.1.5",
+    "attributes": {
+      "OBJECTID": "3886",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.1.5",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1176",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.1",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "HyFen ",
+      "PROJECT_FULL_TITLE": " Internal hydrogen infrastructure in France connecting to Germany [currently known as HyFen] ",
+      "TECHNICAL_DESCR": "<p>The internal hydrogen infrastructure in France (currently known as HyFen&nbsp;project) aims to develop a French hydrogen transmission network via pipeline, connected to Germany (currently known as H2ercules) and national storage sites. A connection via BarMar will further allow to ensure the interconnection with the Iberian peninsula.</p>\n\n<p>Being part of the European South-North corridor, HyFen&nbsp;project will link significant hydrogen potential from renewable electricity (solar and wind power) produced in Iberia (ES and PT) and France to future industrial consumption areas in North-Western Europe.</p>\n\n<p>The 1000 km pipeline network,&nbsp;starting from&nbsp;Fos-sur-Mer&nbsp;will be partially (approx. 327 km from Etrez to Voisines and from Cerville to Obergailbach) based on repurposed natural gas assets. The rest of HyFen network (673 km) is designed with new pipes.&nbsp;</p>\n\n<p>HyFen&nbsp;project will ensure maximum transmission capacity of hydrogen at 2 Mt/y from France to Germany.</p>\n\n<p style=\"text-align:left\">&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "GRTgaz (FR)",
+      "COMMISSIONING_DATE": "2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "155869.855972"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            838154.2672000006,
+            6148072.9397
+          ],
+          [
+            702438.5872999988,
+            6224732.356799997
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

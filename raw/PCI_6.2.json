@@ -1,0 +1,178 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "6.2",
+    "attributes": {
+      "OBJECTID": "4174",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "6.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1169",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "SW offshore",
+      "CORRIDOR_NUMBER": "18",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection PACA",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection PACA (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection PACA will consist of&nbsp;a 225kV HVAC link connecting up to 750 MW floating offshore wind to the onshore grid. The total cable route length will be approximately 55 km.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "06/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 559246.5018999986,
+      "y": 5367075.7192,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "6.2",
+    "attributes": {
+      "OBJECTID": "4175",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "6.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1169",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "SW offshore",
+      "CORRIDOR_NUMBER": "18",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection PACA",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection PACA (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection PACA will consist of&nbsp;a 225kV HVAC link connecting up to 750 MW floating offshore wind to the onshore grid. The total cable route length will be approximately 55 km.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "06/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 519188.63589999825,
+      "y": 5326761.870099999,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Offshore grids",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "6.2",
+    "attributes": {
+      "OBJECTID": "3859",
+      "INFRA": "25",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "6.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1169",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "SW offshore",
+      "CORRIDOR_NUMBER": "18",
+      "PROJECT_FICHE_SHORT_TITLE": "Offshore Wind Connection PACA",
+      "PROJECT_FULL_TITLE": "Offshore Wind Connection PACA (FR)",
+      "TECHNICAL_DESCR": "<p>The offshore Wind connection PACA will consist of&nbsp;a 225kV HVAC link connecting up to 750 MW floating offshore wind to the onshore grid. The total cable route length will be approximately 55 km.</p>\n\n<p>&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "1",
+      "IMPLEMENTATION_STATUS_DESCR": "Under consideration ",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "RTE (FR)",
+      "COMMISSIONING_DATE": "06/2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "61565.227039"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            519188.63589999825,
+            5326761.870099999
+          ],
+          [
+            531271.9393000007,
+            5337409.208800003
+          ],
+          [
+            544057.7369999997,
+            5347990.558700003
+          ],
+          [
+            555079.9763999991,
+            5355485.681500003
+          ],
+          [
+            558855.5449000001,
+            5358204.090899996
+          ],
+          [
+            559977.258200001,
+            5359814.790299997
+          ],
+          [
+            559849.3902999982,
+            5360801.070299998
+          ],
+          [
+            558674.4571000002,
+            5362935.453500003
+          ],
+          [
+            557507.9956,
+            5365859.181699999
+          ],
+          [
+            557735.2283000015,
+            5366571.177599996
+          ],
+          [
+            559246.5018999986,
+            5367075.7192
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

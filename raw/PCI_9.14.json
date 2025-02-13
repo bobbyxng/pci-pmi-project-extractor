@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.14",
+    "attributes": {
+      "OBJECTID": "1929",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.14",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1209",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2Sines.RDAM electrolyser (PT)",
+      "PROJECT_FULL_TITLE": "H2Sines.RDAM electrolyser (PT)",
+      "TECHNICAL_DESCR": "<p style=\"text-align: justify;\">The foreseen infrastructure includes a 400 MW electrolyser for renewable hydrogen production in Sines (Portugal) with an estimated output of 0.03 Mt/y of hydrogen. The electricity supplied to the electrolyser will come from a dedicated hybrid renewable energy source, composed of renewable energy fields in direct connection and renewable supply through the grid and dedicated power purchase agreement (PPA).</p>\n\n<p style=\"text-align:justify\">End users of the produced hydrogen will be mainly the hydrogen liquefaction plant, connected to the local hydrogen pipeline. Other end users connected to this pipe such as industrials or buildings are targeted. End usages in the mobility sector are expected to develop in the coming years as well.&nbsp;&nbsp;The commissioning timeline of the infrastructure is still under evaluation.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "PT",
+      "PROMOTERS": "ELECTRABEL",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": -987032.432500001,
+      "y": 4572364.359200001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

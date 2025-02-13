@@ -1,0 +1,104 @@
+[
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.8",
+    "attributes": {
+      "OBJECTID": "4204",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "9.8",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1196",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "AquaDuctus",
+      "PROJECT_FULL_TITLE": "Offshore hydrogen pipeline Germany [currently known as AquaDuctus]",
+      "TECHNICAL_DESCR": "<p>AquaDuctus will be an offshore hydrogen pipeline&nbsp;capable to connect adjacent offshore hydrogen pipelines (e.g., from NO, UK or NL) aiming for export of local hydrogen production to the European market as well as offshore hydrogen from wind farm sites in the German EEZ, like the first large-scale offshore hydrogen wind farm site SEN-1 (up to 1 GW generation capacity). The 48&rdquo; offshore pipeline will transport offshore hydrogen to Wilhelmshaven, Germany. Through AquaDuctus&#39; onshore pipeline section from Wilhelmshaven to Bunde, a direct link to HyPerLink and H2ercules will secure downstream connection to hydrogen users.</p>\n\n<p>The project concerns the construction of new sections: 295 km connecting the offshore production site SEN-1 via landfall in the area Wilhelmshaven to Bunde at the Dutch-German border, and 200 km from SEN-1 further north to the end of the German EEZ in the North Sea, where a connection to adjacent offshore hydrogen pipelines (e.g., from NO, UK or NL) is planned.</p>\n\n<p>From the national production in Germany (Electrolyser) to the transmission system in Germany, it is expected to reach transportation capacity&nbsp;of 24 GWh/day by 2029, 120 GWh/day by 2039 and 336 GWh/day by 2045.</p>\n\n<p>The project will have a transmission capacity of 20 GW of green H2 (based on a full load 4.45 Mt/y) from 2029, sourced from offshore-electrolysis in the North Sea. The hydrogen will be transported to industrial and private consumers in Germany and neighboring countries to create a carbon neutral industrial production as well as power and heat market.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "GASCADE Gastransport GmbH (DE)",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "799133.954117"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            454402.25499999896,
+            7518654.645000003
+          ],
+          [
+            724316.1992000006,
+            7224425.066
+          ],
+          [
+            854646.3341000006,
+            7229193.948200002
+          ],
+          [
+            896730.3830999993,
+            7133523.0266999975
+          ],
+          [
+            892041.1625000015,
+            7115054.704800002
+          ],
+          [
+            888730.3951999992,
+            7110528.958400004
+          ],
+          [
+            890935.4497999996,
+            7085271.563500002
+          ],
+          [
+            887335.3847000003,
+            7077604.400300004
+          ],
+          [
+            874933.0725000016,
+            7066872.865800001
+          ],
+          [
+            876885.4365000017,
+            7061863.539099999
+          ],
+          [
+            871850.2144000009,
+            7052964.378200002
+          ],
+          [
+            845827.8227000013,
+            7043462.032200001
+          ],
+          [
+            820872.0681000017,
+            7027085.644900002
+          ],
+          [
+            805009.6887999997,
+            7021316.747500002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

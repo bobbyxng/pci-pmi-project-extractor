@@ -1,0 +1,98 @@
+[
+  {
+    "layerId": 7,
+    "layerName": "Gas pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "15.2",
+    "attributes": {
+      "OBJECTID": "1006",
+      "INFRA": "9",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "15.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1131",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "AR",
+      "CORRIDOR_CODE": "Article 24 derogation",
+      "CORRIDOR_NUMBER": "27",
+      "PROJECT_FICHE_SHORT_TITLE": "EastMed Pipeline (EL)",
+      "PROJECT_FULL_TITLE": "Pipeline from the East Mediterranean gas reserves to Greece mainland via Cyprus and Crete [currently known as \u201cEastMed Pipeline\u201d], with metering and regulating station at Megalopoli",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The &lsquo;EastMed Pipeline&rsquo; is a new onshore and offshore pipeline, spanning approximately 1900 km from the sources collection point located at the EU offshore Cypriot border to the European markets, through Cyprus and Greece. It has been designed with a transportation capacity up to 12 bcm/y for natural gas, able to transport up to ~13 bcm/y of pure hydrogen when converted. The Project, in conjunction with the energy grids to which will be interconnected, is designed to guarantee the possibility to physically reverse the flow, both natural gas and hydrogen, along its entire route.</p>\n\n<p style=\"text-align:justify\">The overall power of the compressor stations to be installed is approximately 280 MW.</p>\n\n<p style=\"text-align:justify\">The Project is interconnected with the Greek and Italian transmission grids through, respectively, the Metering and Regulating Station in Megalopoli and the Poseidon Pipeline.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "CY, EL",
+      "PROMOTERS": "IGI Poseidon S.A. (EL, IT)",
+      "COMMISSIONING_DATE": "12/2027",
+      "CEF_ACTIONS": "7.3.1-0023-cyel-s-m-17 ; 7.3.1-0025-elcy-s-m-15",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/7.3.1-0023-CYEL-S-M-17.pdf ; https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/7.3.1-0025-ELCY-S-M-15.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "2020722.509024"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            3696388.0251,
+            4118311.2430000007
+          ],
+          [
+            3697463.7566,
+            4124099.9280999973
+          ],
+          [
+            2907566.2151000015,
+            4163774.7322999984
+          ],
+          [
+            2957201.027800001,
+            4224123.5222999975
+          ],
+          [
+            2761260.7575999983,
+            4306205.161700003
+          ]
+        ],
+        [
+          [
+            2957201.027800001,
+            4224123.5222999975
+          ],
+          [
+            2761260.7575999983,
+            4306205.161700003
+          ],
+          [
+            2566466.0342999995,
+            4384789.876400001
+          ],
+          [
+            2458376.406399999,
+            4490158.457400002
+          ],
+          [
+            2398995.8709999993,
+            4624526.633500002
+          ],
+          [
+            2375156.6361999996,
+            4704173.747299999
+          ],
+          [
+            2265535.469300002,
+            4773840.0918999985
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

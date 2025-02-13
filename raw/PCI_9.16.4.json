@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electrolyser",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.16.4",
+    "attributes": {
+      "OBJECTID": "2241",
+      "INFRA": "27",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.16.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1262",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.16",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "H2V Valenciennes electrolyser",
+      "PROJECT_FULL_TITLE": "H2V Valenciennes electrolyser",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">H2V Valenciennes aims to create a sizeable renewable hydrogen production plant of 400 MW in the industrial area of Valenciennes. &nbsp;<br />\n<br />\nThe plant will be connected to the European hydrogen backbone through the GRTgaz pipeline transport infrastructure in the Valenciennes region, interconnected with Belgium (operated by Fluxys). &nbsp;Renewable electricity from wind and solar power Purchase Agreements and grid electricity from French mix will feed into the electrolysers.</p>\n\n<p style=\"text-align:justify\">The plant will be connected to RTE grid and developed in phases:</p>\n\n<ul>\n<li style=\"text-align: justify;\">As of 2028, the first unit of 100 MW will produce 0.014 Mt/y of hydrogen for industrial and mobility applications.</li>\n<li style=\"text-align: justify;\">The addition of the other three 100 MW units will take place gradually in order to meet the increasing consumption of hydrogen in the region.</li>\n</ul>\n\n<p style=\"text-align: justify;\">The final target is to produce 0.056 Mt/y of hydrogen. &nbsp;</p>\n\n<p>Technical parameters:&nbsp;</p>\n\n<ul>\n<li>H2V Valenciennes 1a: Installed capacity : 100 MW&nbsp;</li>\n<li>H2V Valenciennes 1b:Installed capacity : 100 MW (200 MW)&nbsp;</li>\n<li>H2V Valenciennes 2a: Installed capacity : 100 MW (300 MW)&nbsp;</li>\n<li>H2V Valenciennes 2b: Installed capacity : 100 MW (400 MW)</li>\n</ul>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "FR",
+      "PROMOTERS": "H2V",
+      "COMMISSIONING_DATE": "2031",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 370982.2217999995,
+      "y": 6486885.652000003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

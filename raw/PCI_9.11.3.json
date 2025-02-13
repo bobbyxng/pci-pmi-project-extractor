@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Hydrogen terminal",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.11.3",
+    "attributes": {
+      "OBJECTID": "3539",
+      "INFRA": "28",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.11.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1204",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.11",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Ammonia reception facility Wilhelmshaven (Uniper)",
+      "PROJECT_FULL_TITLE": "Ammonia reception facility Wilhelmshaven (Uniper)",
+      "TECHNICAL_DESCR": "<p>The project consists in the construction of an import terminal at Wilhelmshaven (WHV), enabling the import of up to 2.6 Mt renewable/green/blue ammonia (NH3) inclunding NH3 storage, a rail car loading station and a first-of-its-kind large-scale NH3 cracking plant for the production of renewable hydrogen. Up to 20% NH3 can be directly redistributed by rail. The larger part will be cracked into up to 0.28 Mt/y of H2 and injected into the regulated German hydrogen core network which runs directly alongside the terminal site, and which contains cross border connection to DK and NL and also to the future European Hydrogen Backbone. The terminal and the connecting pipeline infrastructure significantly contribute to Security of Supply based on the forecasted gap between EU hydrogen production and demand.<br />\nMore particularly the site will include:<br />\n- NH3 transshipment facility: a marine infrastructure with up to two berths to allow unloading of NH3 carriers and transportation of ammonia ashore. The terminal capacity is designed to handle approx. 100 shipments/y<br />\n- NH3 Tank Farm: two tanks with each 50,000 m&sup3; NH3 capacity<br />\n- NH3 to H2 Cracker: 6 cracker units with total NH3 intake of 7,200 t/d (1,200 t/d each cracker) and production of ca. 160 t/d/unit of hydrogen<br />\n- Compressor power for pipeline injection (considering cracking with 6 units): ca. 38 MW Grid connection to hydrogen core network.<br />\nThe project is expected to lead to an increase in hydrogen reception facility send-out capacity of about 0.3 Mt/y.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "Uniper Hydrogen GmbH",
+      "COMMISSIONING_DATE": "2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 900315.2950000018,
+      "y": 7100812.336900003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

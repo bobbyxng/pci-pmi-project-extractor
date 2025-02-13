@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Hydrogen terminal",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.10.3",
+    "attributes": {
+      "OBJECTID": "3523",
+      "INFRA": "28",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.10.3",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1201",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.10",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Zeebrugge New Molecules development ammonia reception facility",
+      "PROJECT_FULL_TITLE": "Zeebrugge New Molecules development ammonia reception facility",
+      "TECHNICAL_DESCR": "<p>The project consists in the development of an open-access NH3 to H2 import terminal in Zeebrugge, aiming to create a large-scale import terminal, facilitating hydrogen imports (using green/low carbon ammonia as carrier) and redistribution of hydrogen (via transformation of NH3 into H2) via the open-access hydrogen backbone.<br />\nThe terminal will have the following technical characteristics:<br />\n- H2 Injection capacity: 45 GWh/d (0.45 Mt/y)<br />\n- Storage capacity: 300,000 m3 &nbsp; &nbsp;<br />\nThe project is expected to lead to a H2 capacity increment of 38 GWh/d (0.41 Mt/y)<br />\nThe pre-feasibility studies confirmed that an extension of the existing LNG Terminal would allow Fluxys to build one to two additional deep-sea jetties (allowing VLGCs of today and tomorrow to moor), up to 3 ammonia storage tanks of 100,000 m&sup3; each, up to 3 NH3 to H2 cracking units of 3,000 t/d of ammonia transformation capacity each and a connection to the open-access H2 network (including compressors, metering, etc&hellip;).<br />\nThe feasibility studies will explore terminal extension (land) and partial repurposing of the Zeebrugge LNG Terminal, enabling the development of the next logical steps toward the successful completion of the PCI.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "BE",
+      "PROMOTERS": "Fluxys Belgium",
+      "COMMISSIONING_DATE": "01/12/2032",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 356035.86510000005,
+      "y": 6682694.5867,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Hydrogen terminal",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "9.11.2",
+    "attributes": {
+      "OBJECTID": "3538",
+      "INFRA": "28",
+      "SHAPE": "Point",
+      "PCI_CODE": "9.11.2",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1203",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "9.11",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI West",
+      "CORRIDOR_NUMBER": "21",
+      "PROJECT_FICHE_SHORT_TITLE": "Ammonia reception facility Wilhelmshaven (BP) ",
+      "PROJECT_FULL_TITLE": "Ammonia reception facility Wilhelmshaven (BP) ",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">The project consists in the development of a green hydrogen import facility, located in the German port of Wilhelmshaven.<br />\nThe project aims to develop green hydrogen production from the conversion to ammonia for transportation, shipping to the now&nbsp;Terminal site in Wilhelmshaven, cracking ammonia back to hydrogen and the onward supply to industrial demand centres.<br />\nThe terminal will have the following technical characteristics:<br />\n- H2 Import capacity: approx. 1 Mt/y of liquid green ammonia (gNH3) by ship<br />\n- Production of 0.13&nbsp;Mt/y of green hydrogen (gH2)<br />\n- Injection capacity: 0.13&nbsp;Mt/y (hydrogen will then be injected into dedicated hydrogen pipelines for transportation to industrial regions)<br />\n- Storage capacity: 2x 55,000 m3 (with the option for future expansion)<br />\nThe project is expected to lead to an increase in hydrogen reception facility send-out capacity of 0.13&nbsp;Mt/y.</p>\n",
+      "IMPLEMENTATION_STATUS": "3",
+      "IMPLEMENTATION_STATUS_DESCR": "Permitting",
+      "COUNTRY_CONCERNED": "DE",
+      "PROMOTERS": "BP Europa SE",
+      "COMMISSIONING_DATE": "2028",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 906031.2280000001,
+      "y": 7085927.43,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

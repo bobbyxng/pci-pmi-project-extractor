@@ -1,0 +1,282 @@
+[
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.21",
+    "attributes": {
+      "OBJECTID": "5447",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.21",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1154",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Tarchon (DE, UK)",
+      "PROJECT_FULL_TITLE": "Interconnection between Emden areas (DE) and Corringham, Essex (UK) [currently known as Tarchon]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">A new 1400 MW subsea direct current electricity&nbsp;interconnector of approximately 650 km between&nbsp;Niederlangen&nbsp;(previously Emden) areas in&nbsp;Germany and&nbsp;Ardleigh&nbsp;(previously Corringham) in&nbsp;the United Kingdom (UK), linking two VSC converter stations.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, UK",
+      "PROMOTERS": "Tarchon Energy Ltd (UK)",
+      "COMMISSIONING_DATE": "31/10/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 807472.6851000004,
+      "y": 6979716.334399998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 2,
+    "layerName": "Electricity substation",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.21",
+    "attributes": {
+      "OBJECTID": "5448",
+      "INFRA": "5",
+      "SHAPE": "Point",
+      "PCI_CODE": "1.21",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1154",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Tarchon (DE, UK)",
+      "PROJECT_FULL_TITLE": "Interconnection between Emden areas (DE) and Corringham, Essex (UK) [currently known as Tarchon]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">A new 1400 MW subsea direct current electricity&nbsp;interconnector of approximately 650 km between&nbsp;Niederlangen&nbsp;(previously Emden) areas in&nbsp;Germany and&nbsp;Ardleigh&nbsp;(previously Corringham) in&nbsp;the United Kingdom (UK), linking two VSC converter stations.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, UK",
+      "PROMOTERS": "Tarchon Energy Ltd (UK)",
+      "COMMISSIONING_DATE": "31/10/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 121172.02210000157,
+      "y": 6784963.079300001,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "1.21",
+    "attributes": {
+      "OBJECTID": "4493",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "1.21",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1154",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PMI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI West Electricity",
+      "CORRIDOR_NUMBER": "13",
+      "PROJECT_FICHE_SHORT_TITLE": "Tarchon (DE, UK)",
+      "PROJECT_FULL_TITLE": "Interconnection between Emden areas (DE) and Corringham, Essex (UK) [currently known as Tarchon]",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\">A new 1400 MW subsea direct current electricity&nbsp;interconnector of approximately 650 km between&nbsp;Niederlangen&nbsp;(previously Emden) areas in&nbsp;Germany and&nbsp;Ardleigh&nbsp;(previously Corringham) in&nbsp;the United Kingdom (UK), linking two VSC converter stations.&nbsp;</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "DE, UK",
+      "PROMOTERS": "Tarchon Energy Ltd (UK)",
+      "COMMISSIONING_DATE": "31/10/2030",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "1037153.374647"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            807472.6851000004,
+            6979716.334399998
+          ],
+          [
+            805711.319600001,
+            7001978.979599997
+          ],
+          [
+            807293.2888000011,
+            7015913.204999998
+          ],
+          [
+            805456.5221000016,
+            7026465.104099996
+          ],
+          [
+            813165.2736999989,
+            7047499.804300003
+          ],
+          [
+            800927.7501999997,
+            7114323.825000003
+          ],
+          [
+            795946.1623999998,
+            7126651.1708
+          ],
+          [
+            784973.6385999992,
+            7129994.667599998
+          ],
+          [
+            771350.8513000011,
+            7154368.552299999
+          ],
+          [
+            708263.9114999995,
+            7141543.869000003
+          ],
+          [
+            693220.2787999995,
+            7136339.5451000035
+          ],
+          [
+            508354.89609999955,
+            7068882.0801
+          ],
+          [
+            494563.6548999995,
+            7063011.1307
+          ],
+          [
+            476435.625,
+            7046516.831100002
+          ],
+          [
+            458399.68250000104,
+            7050426.172899999
+          ],
+          [
+            408322.8231000006,
+            7036167.296499997
+          ],
+          [
+            405315.77699999884,
+            7024482.493799999
+          ],
+          [
+            398370.76839999855,
+            7024999.4164
+          ],
+          [
+            388445.29839999974,
+            7020713.496699996
+          ],
+          [
+            366934.84209999815,
+            6978772.701899998
+          ],
+          [
+            359795.2681999989,
+            6954386.288699999
+          ],
+          [
+            353428.11670000106,
+            6952684.206500001
+          ],
+          [
+            286899.9567000009,
+            6819001.356299996
+          ],
+          [
+            260803.7664999999,
+            6783622.559199996
+          ],
+          [
+            250022.7120999992,
+            6778460.282399997
+          ],
+          [
+            240433.56010000035,
+            6775937.897699997
+          ],
+          [
+            225508.50019999966,
+            6772657.651000001
+          ],
+          [
+            203604.61560000107,
+            6763823.275399998
+          ],
+          [
+            186573.34299999848,
+            6766589.6994
+          ],
+          [
+            167705.10880000144,
+            6763665.233800001
+          ],
+          [
+            149291.14669999853,
+            6765092.702
+          ],
+          [
+            136169.79679999873,
+            6764774.7795
+          ],
+          [
+            134926.0524000004,
+            6765388.5123
+          ],
+          [
+            133788.96070000157,
+            6765069.927900001
+          ],
+          [
+            132939.11710000038,
+            6771947.7126
+          ],
+          [
+            122194.79470000044,
+            6777770.150600001
+          ],
+          [
+            121172.02210000157,
+            6784963.079300001
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

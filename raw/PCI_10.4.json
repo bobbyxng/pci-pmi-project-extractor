@@ -1,0 +1,950 @@
+[
+  {
+    "layerId": 4,
+    "layerName": "Other hydrogen assets",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.4",
+    "attributes": {
+      "OBJECTID": "1927",
+      "INFRA": "30",
+      "SHAPE": "Point",
+      "PCI_CODE": "10.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1239",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "Generic corridor",
+      "PROJECT_FULL_TITLE": "Generic corridor aiming to transmit hydrogen from Ukraine to Slovakia, Czechia, Austria and Germany",
+      "TECHNICAL_DESCR": "<p>The Generic Corridor between Ukraine, Slovakia, Czechia, Austria and Germany represents a key hydrogen corridor in Central Europe for transporting hydrogen from major high potential and cost-efficient hydrogen supply areas outside the EU, from Ukraine, North Africa and South-East Europe via Slovakia and Czechia to hydrogen demand areas in Germany. The hydrogen corridor will also enable the transport of hydrogen between hydrogen production facilities and hydrogen consumers mainly in Ukraine, Czechia, Slovakia and Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "CZ, SK, UA",
+      "PROMOTERS": "GAS TSO OF UKRAINE LLC (UA) ; Eustream, a.s. (SK) ; NET4GAS, s.r.o. (CZ)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 1927574.3425999992,
+      "y": 6198442.921099998,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 4,
+    "layerName": "Other hydrogen assets",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.4",
+    "attributes": {
+      "OBJECTID": "1928",
+      "INFRA": "30",
+      "SHAPE": "Point",
+      "PCI_CODE": "10.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1239",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "Generic corridor",
+      "PROJECT_FULL_TITLE": "Generic corridor aiming to transmit hydrogen from Ukraine to Slovakia, Czechia, Austria and Germany",
+      "TECHNICAL_DESCR": "<p>The Generic Corridor between Ukraine, Slovakia, Czechia, Austria and Germany represents a key hydrogen corridor in Central Europe for transporting hydrogen from major high potential and cost-efficient hydrogen supply areas outside the EU, from Ukraine, North Africa and South-East Europe via Slovakia and Czechia to hydrogen demand areas in Germany. The hydrogen corridor will also enable the transport of hydrogen between hydrogen production facilities and hydrogen consumers mainly in Ukraine, Czechia, Slovakia and Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "CZ, SK, UA",
+      "PROMOTERS": "GAS TSO OF UKRAINE LLC (UA) ; Eustream, a.s. (SK) ; NET4GAS, s.r.o. (CZ)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2456939.5962999985,
+      "y": 6195940.979500003,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.4",
+    "attributes": {
+      "OBJECTID": "1930",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "10.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1239",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "Generic corridor",
+      "PROJECT_FULL_TITLE": "Generic corridor aiming to transmit hydrogen from Ukraine to Slovakia, Czechia, Austria and Germany",
+      "TECHNICAL_DESCR": "<p>The Generic Corridor between Ukraine, Slovakia, Czechia, Austria and Germany represents a key hydrogen corridor in Central Europe for transporting hydrogen from major high potential and cost-efficient hydrogen supply areas outside the EU, from Ukraine, North Africa and South-East Europe via Slovakia and Czechia to hydrogen demand areas in Germany. The hydrogen corridor will also enable the transport of hydrogen between hydrogen production facilities and hydrogen consumers mainly in Ukraine, Czechia, Slovakia and Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "CZ, SK, UA",
+      "PROMOTERS": "GAS TSO OF UKRAINE LLC (UA) ; Eustream, a.s. (SK) ; NET4GAS, s.r.o. (CZ)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "576584.735513"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1893685.2831000015,
+            6226975.235399999
+          ],
+          [
+            1890491.7747999988,
+            6229224.294
+          ],
+          [
+            1887859.7971,
+            6230497.4617
+          ],
+          [
+            1885337.131099999,
+            6237064.7064
+          ],
+          [
+            1878723.9034999982,
+            6247767.763999999
+          ],
+          [
+            1874916.3942999989,
+            6253610.4454
+          ],
+          [
+            1860385.4532000013,
+            6263274.407399997
+          ],
+          [
+            1860247.4858000018,
+            6267927.910099998
+          ],
+          [
+            1850548.3603000008,
+            6273722.2223000005
+          ],
+          [
+            1838063.7650999986,
+            6275472.9067
+          ],
+          [
+            1835303.7595999986,
+            6278821.683300003
+          ],
+          [
+            1824591.1297000013,
+            6275628.105899997
+          ],
+          [
+            1822465.0993000008,
+            6271195.816100001
+          ],
+          [
+            1817603.5623999983,
+            6269299.440899998
+          ],
+          [
+            1806730.7298999988,
+            6271964.391199999
+          ],
+          [
+            1802717.1741999984,
+            6270990.173299998
+          ],
+          [
+            1793690.3057999983,
+            6274468.412799999
+          ],
+          [
+            1781911.3775999993,
+            6270188.8561
+          ],
+          [
+            1772539.1374000013,
+            6270851.670500003
+          ],
+          [
+            1764291.7668999992,
+            6279087.7333
+          ],
+          [
+            1745297.0931000002,
+            6288586.969899997
+          ],
+          [
+            1738221.8143000007,
+            6290240.998599999
+          ],
+          [
+            1735129.6262000017,
+            6292138.6017
+          ],
+          [
+            1725797.5289000012,
+            6289888.345200002
+          ],
+          [
+            1706575.6541000009,
+            6294795.060199998
+          ],
+          [
+            1681386.4607999995,
+            6309176.128600001
+          ],
+          [
+            1670839.7408999987,
+            6306830.519900002
+          ],
+          [
+            1665156.9497000016,
+            6309070.800999999
+          ],
+          [
+            1663390.4294999987,
+            6312765.591799997
+          ],
+          [
+            1648471.7490999997,
+            6313273.365099996
+          ],
+          [
+            1634819.1640000008,
+            6310218.562700003
+          ],
+          [
+            1610901.6713000014,
+            6309887.642999999
+          ],
+          [
+            1588636.8751999997,
+            6306486.375200003
+          ],
+          [
+            1582966.9496,
+            6303508.741899997
+          ],
+          [
+            1574871.4923,
+            6307702.7971
+          ],
+          [
+            1572264.3869999982,
+            6313152.762199998
+          ],
+          [
+            1561359.5535000004,
+            6324789.4624999985
+          ],
+          [
+            1542935.7938,
+            6333398.3364999965
+          ],
+          [
+            1529003.9814999998,
+            6337048.555699997
+          ],
+          [
+            1523386.0450999998,
+            6336445.893799998
+          ],
+          [
+            1517912.7197000012,
+            6339527.445100002
+          ],
+          [
+            1513003.3984000012,
+            6339175.108599998
+          ],
+          [
+            1495359.0909000002,
+            6354486.6611
+          ],
+          [
+            1484941.1774000004,
+            6355939.223499998
+          ],
+          [
+            1476950.1755000018,
+            6359993.325300001
+          ],
+          [
+            1470053.0144000016,
+            6359858.124300003
+          ],
+          [
+            1453996.0557999983,
+            6365540.279600002
+          ],
+          [
+            1444335.478599999,
+            6375987.432599999
+          ],
+          [
+            1431732.0516999997,
+            6376584.915299997
+          ],
+          [
+            1429237.0617999993,
+            6380455.745700002
+          ],
+          [
+            1414070.3871,
+            6385958.9804000035
+          ],
+          [
+            1412764.1627999991,
+            6388722.568300001
+          ],
+          [
+            1404243.0929000005,
+            6387378.0352
+          ],
+          [
+            1400168.6336000003,
+            6388972.413699999
+          ],
+          [
+            1396841.2025999986,
+            6388237.425999999
+          ],
+          [
+            1395758.6502999999,
+            6387683.305799998
+          ],
+          [
+            1394738.297699999,
+            6386644.141999997
+          ],
+          [
+            1394365.2606000006,
+            6386591.703299999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.4",
+    "attributes": {
+      "OBJECTID": "1979",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "10.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1239",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "Generic corridor",
+      "PROJECT_FULL_TITLE": "Generic corridor aiming to transmit hydrogen from Ukraine to Slovakia, Czechia, Austria and Germany",
+      "TECHNICAL_DESCR": "<p>The Generic Corridor between Ukraine, Slovakia, Czechia, Austria and Germany represents a key hydrogen corridor in Central Europe for transporting hydrogen from major high potential and cost-efficient hydrogen supply areas outside the EU, from Ukraine, North Africa and South-East Europe via Slovakia and Czechia to hydrogen demand areas in Germany. The hydrogen corridor will also enable the transport of hydrogen between hydrogen production facilities and hydrogen consumers mainly in Ukraine, Czechia, Slovakia and Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "CZ, SK, UA",
+      "PROMOTERS": "GAS TSO OF UKRAINE LLC (UA) ; Eustream, a.s. (SK) ; NET4GAS, s.r.o. (CZ)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "304123.9281"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2741129.6493999995,
+            6242336.8967999965
+          ],
+          [
+            2733970.7399999984,
+            6235620.015799999
+          ],
+          [
+            2724623.2386999987,
+            6238174.443499997
+          ],
+          [
+            2718548.761500001,
+            6240041.368699998
+          ],
+          [
+            2713102.060800001,
+            6241002.091499999
+          ],
+          [
+            2709040.1746000014,
+            6241767.9595
+          ],
+          [
+            2698550.4135,
+            6244397.563100003
+          ],
+          [
+            2690244.8082000017,
+            6246602.418300003
+          ],
+          [
+            2685343.0769999996,
+            6247173.780599996
+          ],
+          [
+            2678290.465599999,
+            6249700.000200003
+          ],
+          [
+            2674518.057599999,
+            6253350.341200002
+          ],
+          [
+            2668638.1832000017,
+            6256948.3248
+          ],
+          [
+            2665226.604600001,
+            6260055.807499997
+          ],
+          [
+            2660886.546500001,
+            6261721.081299998
+          ],
+          [
+            2654108.797600001,
+            6259907.561300002
+          ],
+          [
+            2640233.0430999994,
+            6255585.2136999965
+          ],
+          [
+            2629533.5023000017,
+            6248916.101499997
+          ],
+          [
+            2616108.4277000017,
+            6243136.001800001
+          ],
+          [
+            2606601.1369000003,
+            6234931.6241
+          ],
+          [
+            2599700.776299998,
+            6228400.722099997
+          ],
+          [
+            2581967.785,
+            6228954.463200003
+          ],
+          [
+            2568971.0251,
+            6230622.958400004
+          ],
+          [
+            2558671.1842,
+            6234396.396300003
+          ],
+          [
+            2549802.9943000004,
+            6232363.9824
+          ],
+          [
+            2543189.3651,
+            6227290.133000001
+          ],
+          [
+            2526424.8630000018,
+            6219539.8376
+          ],
+          [
+            2512739.219300002,
+            6208920.858400002
+          ],
+          [
+            2503104.909699999,
+            6202759.144299999
+          ],
+          [
+            2500507.7694000006,
+            6201234.1307
+          ],
+          [
+            2498140.4882999994,
+            6199820.945299998
+          ],
+          [
+            2491527.421599999,
+            6198706.214100003
+          ],
+          [
+            2488385.4554000013,
+            6196542.515600003
+          ],
+          [
+            2483772.5001000017,
+            6196146.3059
+          ],
+          [
+            2470248.1072999984,
+            6197530.281199999
+          ],
+          [
+            2466750.269099999,
+            6197023.706600003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.4",
+    "attributes": {
+      "OBJECTID": "1980",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "10.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1239",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "Generic corridor",
+      "PROJECT_FULL_TITLE": "Generic corridor aiming to transmit hydrogen from Ukraine to Slovakia, Czechia, Austria and Germany",
+      "TECHNICAL_DESCR": "<p>The Generic Corridor between Ukraine, Slovakia, Czechia, Austria and Germany represents a key hydrogen corridor in Central Europe for transporting hydrogen from major high potential and cost-efficient hydrogen supply areas outside the EU, from Ukraine, North Africa and South-East Europe via Slovakia and Czechia to hydrogen demand areas in Germany. The hydrogen corridor will also enable the transport of hydrogen between hydrogen production facilities and hydrogen consumers mainly in Ukraine, Czechia, Slovakia and Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "CZ, SK, UA",
+      "PROMOTERS": "GAS TSO OF UKRAINE LLC (UA) ; Eustream, a.s. (SK) ; NET4GAS, s.r.o. (CZ)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "590563.103317"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2466750.269099999,
+            6197023.706600003
+          ],
+          [
+            2463872.5135999992,
+            6196850.796700001
+          ],
+          [
+            2456939.5962999985,
+            6195940.979500003
+          ],
+          [
+            2439335.2408999987,
+            6202447.701899998
+          ],
+          [
+            2393476.0102999993,
+            6211418.851300001
+          ],
+          [
+            2385504.0568000004,
+            6213239.563100003
+          ],
+          [
+            2359392.7864999995,
+            6200145.724200003
+          ],
+          [
+            2334866.553199999,
+            6205159.151600003
+          ],
+          [
+            2319863.3845999986,
+            6206868.036700003
+          ],
+          [
+            2300583.9532000013,
+            6203734.338600002
+          ],
+          [
+            2273706.975400001,
+            6193998.6523
+          ],
+          [
+            2260917.3541,
+            6179241.752700001
+          ],
+          [
+            2244381.6323999986,
+            6173982.063199997
+          ],
+          [
+            2228621.925900001,
+            6167617.293899998
+          ],
+          [
+            2210536.2386999987,
+            6167840.736199997
+          ],
+          [
+            2191890.705699999,
+            6157788.2695999965
+          ],
+          [
+            2167528.332199998,
+            6136734.619199999
+          ],
+          [
+            2139025.161200002,
+            6129510.0506
+          ],
+          [
+            2111377.604600001,
+            6132205.862400003
+          ],
+          [
+            2099230.032400001,
+            6128752.230999999
+          ],
+          [
+            2086028.454,
+            6134181.225199997
+          ],
+          [
+            2080230.2719999999,
+            6132449.368900001
+          ],
+          [
+            2054726.374400001,
+            6139527.058300003
+          ],
+          [
+            2028515.8246,
+            6146949.790299997
+          ],
+          [
+            2015522.9858000018,
+            6143074.872599997
+          ],
+          [
+            2005318.9034000002,
+            6155519.601400003
+          ],
+          [
+            1977568.7082999982,
+            6168595.324299999
+          ],
+          [
+            1973380.934700001,
+            6172891.286499999
+          ],
+          [
+            1957646.234099999,
+            6179600.752400003
+          ],
+          [
+            1941790.2036000006,
+            6195404.287199996
+          ],
+          [
+            1927571.8658000007,
+            6198443.147100002
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.4",
+    "attributes": {
+      "OBJECTID": "1981",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "10.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1239",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "Generic corridor",
+      "PROJECT_FULL_TITLE": "Generic corridor aiming to transmit hydrogen from Ukraine to Slovakia, Czechia, Austria and Germany",
+      "TECHNICAL_DESCR": "<p>The Generic Corridor between Ukraine, Slovakia, Czechia, Austria and Germany represents a key hydrogen corridor in Central Europe for transporting hydrogen from major high potential and cost-efficient hydrogen supply areas outside the EU, from Ukraine, North Africa and South-East Europe via Slovakia and Czechia to hydrogen demand areas in Germany. The hydrogen corridor will also enable the transport of hydrogen between hydrogen production facilities and hydrogen consumers mainly in Ukraine, Czechia, Slovakia and Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "CZ, SK, UA",
+      "PROMOTERS": "GAS TSO OF UKRAINE LLC (UA) ; Eustream, a.s. (SK) ; NET4GAS, s.r.o. (CZ)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "64770.599831"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1927571.8658000007,
+            6198443.147100002
+          ],
+          [
+            1917371.8502000012,
+            6186406.872599997
+          ],
+          [
+            1907737.2263000011,
+            6176156.348700002
+          ],
+          [
+            1904476.2052999996,
+            6168237.987000003
+          ],
+          [
+            1899869.8434999995,
+            6164882.776600003
+          ],
+          [
+            1891785.1689000018,
+            6164286.721500002
+          ],
+          [
+            1884024.4930000007,
+            6165199.450099997
+          ],
+          [
+            1881448.2314000018,
+            6163000.428900003
+          ],
+          [
+            1881231.1110999994,
+            6162585.641800001
+          ],
+          [
+            1881229.6393,
+            6161849.331299998
+          ],
+          [
+            1881213.4329000004,
+            6161698.9868
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 5,
+    "layerName": "Hydrogen pipeline",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "10.4",
+    "attributes": {
+      "OBJECTID": "1982",
+      "INFRA": "26",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "10.4",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1239",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "H",
+      "CORRIDOR_CODE": "HI East",
+      "CORRIDOR_NUMBER": "22",
+      "PROJECT_FICHE_SHORT_TITLE": "Generic corridor",
+      "PROJECT_FULL_TITLE": "Generic corridor aiming to transmit hydrogen from Ukraine to Slovakia, Czechia, Austria and Germany",
+      "TECHNICAL_DESCR": "<p>The Generic Corridor between Ukraine, Slovakia, Czechia, Austria and Germany represents a key hydrogen corridor in Central Europe for transporting hydrogen from major high potential and cost-efficient hydrogen supply areas outside the EU, from Ukraine, North Africa and South-East Europe via Slovakia and Czechia to hydrogen demand areas in Germany. The hydrogen corridor will also enable the transport of hydrogen between hydrogen production facilities and hydrogen consumers mainly in Ukraine, Czechia, Slovakia and Germany.</p>\n",
+      "IMPLEMENTATION_STATUS": "2",
+      "IMPLEMENTATION_STATUS_DESCR": "Planned but not yet in permitting",
+      "COUNTRY_CONCERNED": "CZ, SK, UA",
+      "PROMOTERS": "GAS TSO OF UKRAINE LLC (UA) ; Eustream, a.s. (SK) ; NET4GAS, s.r.o. (CZ)",
+      "COMMISSIONING_DATE": "31/12/2029",
+      "CEF_ACTIONS": "Null",
+      "CEF_ACTION_FICHES": "Null",
+      "STUDIES_OR_WORKS": "Null",
+      "SHAPE.LEN": "52429.761035"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            1927574.3425999992,
+            6198442.921099998
+          ],
+          [
+            1922792.2043000013,
+            6195494.2861
+          ],
+          [
+            1922150.2820000015,
+            6195506.582900003
+          ],
+          [
+            1920651.993999999,
+            6197416.292000003
+          ],
+          [
+            1919018.9032000005,
+            6199325.655599996
+          ],
+          [
+            1917386.996199999,
+            6201185.410499997
+          ],
+          [
+            1916994.5036000013,
+            6202547.905199997
+          ],
+          [
+            1915264.167199999,
+            6204315.422200002
+          ],
+          [
+            1914422.3343999982,
+            6205155.324299999
+          ],
+          [
+            1913942.8238999993,
+            6206593.747900002
+          ],
+          [
+            1913011.3205999993,
+            6208761.309799999
+          ],
+          [
+            1911011.0304999985,
+            6211673.270499997
+          ],
+          [
+            1910851.8396000005,
+            6213143.6032000035
+          ],
+          [
+            1910311.6400000006,
+            6216261.327200003
+          ],
+          [
+            1909192.5852000006,
+            6218011.546099998
+          ],
+          [
+            1906164.2749999985,
+            6218420.380199999
+          ],
+          [
+            1900274.5366000012,
+            6219516.098499998
+          ],
+          [
+            1898527.8456000015,
+            6221126.749399997
+          ],
+          [
+            1896086.8913000003,
+            6222081.715999998
+          ],
+          [
+            1895388.1664000005,
+            6223850.7601
+          ],
+          [
+            1894533.1697999984,
+            6225416.876400001
+          ],
+          [
+            1893905.3806000017,
+            6226846.181400001
+          ],
+          [
+            1893685.2831000015,
+            6226975.235399999
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]

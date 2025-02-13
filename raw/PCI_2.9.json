@@ -1,0 +1,374 @@
+[
+  {
+    "layerId": 1,
+    "layerName": "Electricity storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.9",
+    "attributes": {
+      "OBJECTID": "1284",
+      "INFRA": "3",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.9",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1093",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydro-pumped storage Amfilochia ",
+      "PROJECT_FULL_TITLE": "Hydro-pumped storage in Amfilochia (EL)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\"><!--StartFragment --></p>\n\n<p style=\"text-align: justify;\">The project of hydro pumped storage system in Amfilochia, is an energy storage facility that utilizes the potential energy of water to store and generate electricity. The system consists of two main components: the independent upper reservoirs of Ag. Georgios and Pyrgos respectively, while the existing Kastraki lake will serve as the lower reservoir (Owned by the Public Power Corporation).</p>\n\n<p style=\"text-align: justify;\">A single Powerhouse, located on the right bank of the Kastraki lake will house the electromechanical equipment. With a total installed capacity is 680 MW for production and 730 MW for pumping, the system will provide a storage capacity of 4.88 GWh and a net annual generation of 816 GWh.</p>\n\n<p style=\"text-align:justify\"><!--EndFragment --></p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EL",
+      "PROMOTERS": "TERNA ENERGY S.A (EL)",
+      "COMMISSIONING_DATE": "07/2026",
+      "CEF_ACTIONS": "3.24-0013-el-s-m-14",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/3.24-0013-EL-S-M-14.pdf",
+      "STUDIES_OR_WORKS": "Studies"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2385084.8660999984,
+      "y": 4703477.171800002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 1,
+    "layerName": "Electricity storage",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.9",
+    "attributes": {
+      "OBJECTID": "1285",
+      "INFRA": "3",
+      "SHAPE": "Point",
+      "PCI_CODE": "2.9",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1093",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydro-pumped storage Amfilochia ",
+      "PROJECT_FULL_TITLE": "Hydro-pumped storage in Amfilochia (EL)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\"><!--StartFragment --></p>\n\n<p style=\"text-align: justify;\">The project of hydro pumped storage system in Amfilochia, is an energy storage facility that utilizes the potential energy of water to store and generate electricity. The system consists of two main components: the independent upper reservoirs of Ag. Georgios and Pyrgos respectively, while the existing Kastraki lake will serve as the lower reservoir (Owned by the Public Power Corporation).</p>\n\n<p style=\"text-align: justify;\">A single Powerhouse, located on the right bank of the Kastraki lake will house the electromechanical equipment. With a total installed capacity is 680 MW for production and 730 MW for pumping, the system will provide a storage capacity of 4.88 GWh and a net annual generation of 816 GWh.</p>\n\n<p style=\"text-align:justify\"><!--EndFragment --></p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EL",
+      "PROMOTERS": "TERNA ENERGY S.A (EL)",
+      "COMMISSIONING_DATE": "07/2026",
+      "CEF_ACTIONS": "3.24-0013-el-s-m-14",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/3.24-0013-EL-S-M-14.pdf",
+      "STUDIES_OR_WORKS": "Studies"
+    },
+    "geometryType": "esriGeometryPoint",
+    "geometry": {
+      "x": 2387604.4626,
+      "y": 4707063.159900002,
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  },
+  {
+    "layerId": 3,
+    "layerName": "Electricity line",
+    "displayFieldName": "LIST_NAME",
+    "foundFieldName": "PCI_CODE",
+    "value": "2.9",
+    "attributes": {
+      "OBJECTID": "1601",
+      "INFRA": "1",
+      "SHAPE": "Polyline",
+      "PCI_CODE": "2.9",
+      "ISHIGHWAY": "Null",
+      "PCI_ID": "1093",
+      "PCI_LIST_ID": "41",
+      "LIST_NAME": "1st PCI/PMI list",
+      "PCI_LIST_ACTIVE": "1",
+      "NATURE_CODE": "PCI",
+      "CLUSTER_CODE": "n/a",
+      "SECTOR_ABBREVIATION": "E",
+      "CORRIDOR_CODE": "NSI East Electricity",
+      "CORRIDOR_NUMBER": "14",
+      "PROJECT_FICHE_SHORT_TITLE": "Hydro-pumped storage Amfilochia ",
+      "PROJECT_FULL_TITLE": "Hydro-pumped storage in Amfilochia (EL)",
+      "TECHNICAL_DESCR": "<p style=\"text-align:justify\"><!--StartFragment --></p>\n\n<p style=\"text-align: justify;\">The project of hydro pumped storage system in Amfilochia, is an energy storage facility that utilizes the potential energy of water to store and generate electricity. The system consists of two main components: the independent upper reservoirs of Ag. Georgios and Pyrgos respectively, while the existing Kastraki lake will serve as the lower reservoir (Owned by the Public Power Corporation).</p>\n\n<p style=\"text-align: justify;\">A single Powerhouse, located on the right bank of the Kastraki lake will house the electromechanical equipment. With a total installed capacity is 680 MW for production and 730 MW for pumping, the system will provide a storage capacity of 4.88 GWh and a net annual generation of 816 GWh.</p>\n\n<p style=\"text-align:justify\"><!--EndFragment --></p>\n",
+      "IMPLEMENTATION_STATUS": "4",
+      "IMPLEMENTATION_STATUS_DESCR": "Under construction",
+      "COUNTRY_CONCERNED": "EL",
+      "PROMOTERS": "TERNA ENERGY S.A (EL)",
+      "COMMISSIONING_DATE": "07/2026",
+      "CEF_ACTIONS": "3.24-0013-el-s-m-14",
+      "CEF_ACTION_FICHES": "https://ec.europa.eu/assets/cinea/project_fiches/cef/cef_energy/3.24-0013-EL-S-M-14.pdf",
+      "STUDIES_OR_WORKS": "Studies",
+      "SHAPE.LEN": "26122.086793"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "geometry": {
+      "paths": [
+        [
+          [
+            2384599.5716999993,
+            4681576.1162
+          ],
+          [
+            2384657.463799998,
+            4681532.036600001
+          ],
+          [
+            2384951.9180000015,
+            4681633.357000001
+          ],
+          [
+            2385235.990699999,
+            4681685.7951000035
+          ],
+          [
+            2385353.080499999,
+            4681729.8587
+          ],
+          [
+            2385709.8828999996,
+            4682094.968500003
+          ],
+          [
+            2385770.4617,
+            4682377.935400002
+          ],
+          [
+            2386204.789500002,
+            4683027.415799998
+          ],
+          [
+            2386221.9389000013,
+            4683572.487199999
+          ],
+          [
+            2386420.3467000015,
+            4684176.319399998
+          ],
+          [
+            2386549.7628000006,
+            4684570.1998
+          ],
+          [
+            2387192.021499999,
+            4685119.154100001
+          ],
+          [
+            2387613.5331000015,
+            4685240.145999998
+          ],
+          [
+            2388156.716699999,
+            4685311.799099997
+          ],
+          [
+            2388567.6838999987,
+            4685815.929099999
+          ],
+          [
+            2388929.0667999983,
+            4686313.7108
+          ],
+          [
+            2389102.5912999995,
+            4686636.506499998
+          ],
+          [
+            2389246.228500001,
+            4686903.719899997
+          ],
+          [
+            2389334.8134000003,
+            4687409.373899996
+          ],
+          [
+            2389492.296,
+            4687746.329499997
+          ],
+          [
+            2389774.7239999995,
+            4688350.5955
+          ],
+          [
+            2389841.9179,
+            4688881.078299999
+          ],
+          [
+            2389875.4497999996,
+            4689145.888800003
+          ],
+          [
+            2389834.1864,
+            4689474.310500003
+          ],
+          [
+            2389734.598200001,
+            4690266.708999999
+          ],
+          [
+            2389745.224399999,
+            4690818.308700003
+          ],
+          [
+            2389750.517499998,
+            4691093.091700003
+          ],
+          [
+            2389755.5058000013,
+            4691351.978699997
+          ],
+          [
+            2389770.8641999997,
+            4692149.3213
+          ],
+          [
+            2389778.4239999987,
+            4692541.809100002
+          ],
+          [
+            2389571.239599999,
+            4693096.244099997
+          ],
+          [
+            2389457.3478000015,
+            4693400.975100003
+          ],
+          [
+            2389275.485100001,
+            4693713.6932
+          ],
+          [
+            2389148.960499998,
+            4693931.248300001
+          ],
+          [
+            2388914.732000001,
+            4694150.687600002
+          ],
+          [
+            2388566.096999999,
+            4694477.288900003
+          ],
+          [
+            2388369.4723999985,
+            4694680.7773
+          ],
+          [
+            2388167.9899000004,
+            4694889.293899998
+          ],
+          [
+            2387744.1415,
+            4695327.881899998
+          ],
+          [
+            2387610.6691999994,
+            4695695.513099998
+          ],
+          [
+            2387490.995099999,
+            4696025.1039
+          ],
+          [
+            2387359.4902000017,
+            4696387.242600001
+          ],
+          [
+            2387147.1367999986,
+            4696856.4130000025
+          ],
+          [
+            2386988.038800001,
+            4697207.889600001
+          ],
+          [
+            2386859.9967,
+            4697490.7469
+          ],
+          [
+            2386674.833900001,
+            4697899.755800001
+          ],
+          [
+            2386468.5176,
+            4698355.486100003
+          ],
+          [
+            2386450.2437000014,
+            4698658.085900001
+          ],
+          [
+            2386420.3770999983,
+            4699152.725100003
+          ],
+          [
+            2386400.9695999995,
+            4699473.942000002
+          ],
+          [
+            2386371.6939000003,
+            4699958.621699996
+          ],
+          [
+            2386516.1446,
+            4700525.354500003
+          ],
+          [
+            2386775.032299999,
+            4701012.430200003
+          ],
+          [
+            2387243.1407000013,
+            4701489.709399998
+          ],
+          [
+            2387586.897599999,
+            4701744.845399998
+          ],
+          [
+            2387689.2487999983,
+            4702075.408399999
+          ],
+          [
+            2387597.785100002,
+            4702449.399899997
+          ],
+          [
+            2387370.971500002,
+            4702903.185900003
+          ],
+          [
+            2387217.7201000005,
+            4703209.755800001
+          ],
+          [
+            2387475.7556000017,
+            4703517.296400003
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+      }
+    }
+  }
+]
