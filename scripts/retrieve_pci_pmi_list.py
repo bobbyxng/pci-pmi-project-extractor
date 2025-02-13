@@ -8,6 +8,8 @@ import re
 import pandas as pd
 import pdfplumber
 
+from _helpers import configure_logging
+
 logger = logging.getLogger(__name__)
 
 
@@ -112,6 +114,8 @@ if __name__ == "__main__":
         from _helpers import mock_snakemake
 
         snakemake = mock_snakemake("retrieve_pci_pmi_list")
+    
+    configure_logging(snakemake)
 
     pdf_path = snakemake.input[0]
     project_list = snakemake.output[0]

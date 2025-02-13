@@ -16,7 +16,8 @@ rule retrieve_pci_pmi_list:
     input:
         "data/annex/Annex_PCI_PMI_list.pdf",
     output:
-        "output/project_list.csv",
-    threads: 1
+        "resources/project_list.csv",
+    log:
+        "logs/retrieve_pci_pmi_list.log",
     script:
         "scripts/retrieve_pci_pmi_list.py"
