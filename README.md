@@ -22,19 +22,13 @@ as stated on the [PCI-PMI Transparency Platform](https://ec.europa.eu/energy/inf
 
 > Modern energy infrastructure is crucial for an integrated energy market, security of supply and for enabling the EU to meet its broader climate and energy goals. The Transparency Platform is a public information system available to every EU citizen in line with the TEN-E Regulation (Art.23) that provides detailed information about Energy Projects of Common Interest (PCIs) and Projects of Mutual Interest (PMIs), including:
 >
-> a) geographical representation,
-> 
-> b) technical description,
->
-> c) implementation plan and dates,
->
-> d) benefits to the Member States and local communities and costs of the projects except for commercially sensitive information,
->
-> e) the European Union financial support,
->
-> f) links to national manuals of procedures for permit granting,
->
-> g) existing sea basin studies and plans for each priority offshore grid corridor.
+> - a) geographical representation,
+> - b) technical description,
+> - c) implementation plan and dates,
+> - d) benefits to the Member States and local communities and costs of the projects except for commercially sensitive information,
+> - e) the European Union financial support,
+> - f) links to national manuals of procedures for permit granting,
+> - g) existing sea basin studies and plans for each priority offshore grid corridor.
 >
 > The PCI-PMI Transparency Platform provides up to date information on the geographic location for each of the Projects of Common Interest (PCI) & Projects of Mutual Interest (PMI) in the latest PCI-PMI list published by the European Commission. These projects relate to networks for electricity, offshore grids, hydrogen and electrolysers, cross-border carbon dioxide and smart grids in electricity and gas. For each Project of Common Interest (PCI) and Project of Mutual Interest (PMI), the PCI-PMI fiche and PCI-PMI implementation plan are published. In addition, completed PCIs and PMIs from previous lists can be displayed by using the filtering option. For projects in electricity and hydrogen, information on the results from the cost-benefit analysis on the basis of the methodology drawn up pursuant to Article 11 of the TEN-Regulation can be found on ENTSO-E and ENTSOG websites. The underlying grid is based on information related to energy networks in Europe, Russia and the Middle East from S&P Global PLATTS Geospatial Database.
 >
