@@ -18,7 +18,7 @@ Users accessing this data are responsible for:
 - Verifying the information against official sources for their specific use case
 
 ## Original Terms of Use 
-as stated on the [PCI-PMI Transparency Platform](https://ec.europa.eu/energy/infrastructure/transparency_platform/map-viewer/main.html) (last accessed on 13.02.2024)
+as stated on the [PCI-PMI Transparency Platform](https://ec.europa.eu/energy/infrastructure/transparency_platform/map-viewer/main.html) (last accessed on 13.02.2025)
 
 > Modern energy infrastructure is crucial for an integrated energy market, security of supply and for enabling the EU to meet its broader climate and energy goals. The Transparency Platform is a public information system available to every EU citizen in line with the TEN-E Regulation (Art.23) that provides detailed information about Energy Projects of Common Interest (PCIs) and Projects of Mutual Interest (PMIs), including:
 >
