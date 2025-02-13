@@ -120,9 +120,9 @@ LAYER_MAPPING = {
     "Electricity substation": "buses_electricity_transmission",  # contains both onshore and offshore projects, split in import
     "Electrolyser": "links_electrolyser",
     "Gas pipeline": "links_gas_pipeline",
-    "Hydrogen pipeline": "links_hydrogen_pipeline",
-    "Hydrogen storage": "stores_hydrogen",
-    "Hydrogen terminal": "generators_hydrogen_terminal",
+    "Hydrogen pipeline": "links_h2_pipeline",
+    "Hydrogen storage": "stores_h2",
+    "Hydrogen terminal": "generators_h2_terminal",
     "Offshore grids": "links_offshore_grids",
     "Other essential CO2 equipement": "other",  # arbitrary assignment to mark for dropping later
     "Other hydrogen assets": "other",  # arbitrary assignment to mark for dropping later
@@ -134,7 +134,7 @@ COMPONENTS_MAPPING = {
     "buses_electricity_transmission": COLUMNS_BUSES,
     "buses_offshore_grids": COLUMNS_BUSES,
     "buses_smart_electricity_transmission": COLUMNS_BUSES,
-    "generators_hydrogen_terminal": COLUMNS_GENERATORS,
+    "generators_h2_terminal": COLUMNS_GENERATORS,
     "lines_electricity_transmission": COLUMNS_LINES,
     "links_electricity_transmission": COLUMNS_LINKS,
     "links_co2_pipeline": COLUMNS_LINKS,
@@ -142,10 +142,10 @@ COMPONENTS_MAPPING = {
     "links_electricity_transmission": COLUMNS_LINKS,
     "links_electrolyser": COLUMNS_LINKS,
     "links_gas_pipeline": COLUMNS_LINKS,
-    "links_hydrogen_pipeline": COLUMNS_LINKS,
+    "links_h2_pipeline": COLUMNS_LINKS,
     "links_offshore_grids": COLUMNS_LINKS,
     "storage_units_electricity": COLUMNS_STORAGE_UNITS,
-    "stores_hydrogen": COLUMNS_STORES,
+    "stores_h2": COLUMNS_STORES,
     "stores_co2": COLUMNS_STORES,
 }
 
@@ -157,21 +157,21 @@ UNDERGROUND_MAPPING = {  # "t" for true (underground), "f" for false (overground
     "links_electricity_transmission": "t",
     "links_electrolyser": "f",
     "links_gas_pipeline": "t",
-    "links_hydrogen_pipeline": "t",
+    "links_h2_pipeline": "t",
     "links_offshore_grids": "t",
 }
 
 CARRIER_MAPPING = {
-    "generators_hydrogen_terminal": "H2",
+    "generators_h2_terminal": "H2",
     "lines_electricity_transmission": "AC",
     "links_co2_pipeline": "CO2 pipeline",
     "links_co2_shipping": "CO2 pipeline",
     "links_electricity_transmission": "DC",
     "links_electrolyser": "H2",
     "links_gas_pipeline": "gas",
-    "links_hydrogen_pipeline": "H2 pipeline",
+    "links_h2_pipeline": "H2 pipeline",
     "links_offshore_grids": "DC",
-    "stores_hydrogen": "H2 Store",
+    "stores_h2": "H2 Store",
     "stores_co2": "co2 sequestered",
 }
 
@@ -927,7 +927,7 @@ def _convert_array_to_mw(array: np.ndarray) -> np.ndarray:
     return np.array([_convert_to_mw(value) for value in array])
 
 
-def _set_params_links_hydrogen(df):
+def _set_params_links_h2(df):
     """
     Sets the nominal power (p_nom) for hydrogen pipelines.
 
@@ -1115,32 +1115,31 @@ if __name__ == "__main__":
             "clean_pci_pmi_projects",
         )
 
-    country_shapes = gpd.read_file(snakemake.input.country_shapes).set_index("name")
-    json_files = snakemake.input.projects
-    fixes = snakemake.input.fix
+    json_files = snakemake.input.raw
+    corrections = snakemake.input.corrections
 
     # Read params for storage units
     params_stores_co2 = pd.read_csv(
         snakemake.input.params_stores_co2,
         skiprows=[1],
-        dtype={"id": str, "p_nom": float, "max_hours": float},
+        dtype={"id": str, "e_nom": float, "source": str},
     )
     params_stores_co2.set_index("id", inplace=True)
 
-    params_stores_hydrogen = pd.read_csv(
-        snakemake.input.params_stores_hydrogen,
+    params_stores_h2 = pd.read_csv(
+        snakemake.input.params_stores_h2,
         skiprows=[1],
-        dtype={"id": str, "p_nom": float, "max_hours": float},
+        dtype={"id": str, "p_nom": float, "source": str},
     )
-    params_stores_hydrogen.set_index("id", inplace=True)
+    params_stores_h2.set_index("id", inplace=True)
 
     # INITIALISATION OF PROJECTS
     projects = _import_projects(json_files)  # Import projects from JSON files
-    projects_fixes = _import_projects(fixes)  # Import fixes from CSV files
-    projects_fixes.PCI_CODE.unique()
-    # Overwrite projects with fixes, if the pci_code is in both
-    projects = projects[~projects["PCI_CODE"].isin(projects_fixes["PCI_CODE"].unique())]
-    projects = pd.concat([projects, projects_fixes], ignore_index=True)
+    projects_corrections = _import_projects(corrections)  # Import corrections from CSV files
+    projects_corrections.PCI_CODE.unique()
+    # Overwrite projects with corrections, if the pci_code is in both
+    projects = projects[~projects["PCI_CODE"].isin(projects_corrections["PCI_CODE"].unique())]
+    projects = pd.concat([projects, projects_corrections], ignore_index=True)
 
     projects = _clean_columns(projects)
     projects = _assign_project_types(
@@ -1203,13 +1202,13 @@ if __name__ == "__main__":
         components["lines_electricity_transmission"]
     )
 
-    components["links_hydrogen_pipeline"] = _set_params_links_hydrogen(
-        components["links_hydrogen_pipeline"]
+    components["links_h2_pipeline"] = _set_params_links_h2(
+        components["links_h2_pipeline"]
     )
 
     # Split linestrings into segments if they are touched by others
-    components["links_hydrogen_pipeline"] = _split_to_segments(
-        components["links_hydrogen_pipeline"]
+    components["links_h2_pipeline"] = _split_to_segments(
+        components["links_h2_pipeline"]
     )
 
     components["links_co2_pipeline"] = _split_to_segments(
@@ -1233,9 +1232,9 @@ if __name__ == "__main__":
         "e_nom",
     )
 
-    components["stores_hydrogen"] = _map_params_to_projects(
-        components["stores_hydrogen"],
-        params_stores_hydrogen,
+    components["stores_h2"] = _map_params_to_projects(
+        components["stores_h2"],
+        params_stores_h2,
         "e_nom",
     )
 
