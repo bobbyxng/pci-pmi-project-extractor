@@ -1,0 +1,13 @@
+master
+
+.snakemake*
+.ipynb_checkpoints
+__pycache__
+*dconf
+.vscode
+*.orig
+.idea
+gurobi.log
+
+data/annex/
+output/
