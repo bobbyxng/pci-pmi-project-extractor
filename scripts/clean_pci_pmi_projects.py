@@ -358,7 +358,7 @@ def _clean_build_year(row, build_year_fallback=2030):
 
     This function handles various cases for the 'build_year' field:
     - If 'build_year' is a string, it attempts to parse it as a date.
-      - If the month is December, it returns the next year.
+      - Optional: If the month is December, it returns the next year (deactivated).
       - If parsing fails, it checks if the string is a 4-digit year.
       - If the string is 'Null', it uses a manual correction based on 'pci_code' or a fallback year.
     - If 'build_year' is an integer or float, it returns it as an integer.
@@ -385,8 +385,8 @@ def _clean_build_year(row, build_year_fallback=2030):
             year = parsed_date.year
 
             # If the month is December, return next year
-            if parsed_date.month == 12:
-                return year + 1
+            # if parsed_date.month == 12:
+            #     return year + 1
             return year
         except (ValueError, parser.ParserError):
             # Handle cases where parsing fails or format is unexpected

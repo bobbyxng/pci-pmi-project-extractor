@@ -1,9 +1,13 @@
-id,e_nom,source
-PCI Code,MWh,
-9.20,116000,
-9.21,1000000,
-9.22.1,205000,
-9.22.2,154000,
-9.23,250000,
-9.24.1,229444,
-9.24.2,138320,
+id,e_nom,injection_withdrawal,year,source,comments
+PCI Code,MWh,MW,,,
+9.20,116000,480,2027,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.20_1st_PCI_PMI_list.pdf,"LHV, working gas volume"
+9.20,580000,2400,2032,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.20_1st_PCI_PMI_list.pdf,"LHV, increase year not specified, assuming 5 years later, linear increase in injection and withdrawal capacity"
+9.21,1000000,2667,2032,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.21_1st_PCI_PMI_list.pdf,assumed LHV
+9.22.1,205000,708,2031,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.22.1_1st_PCI_PMI_list.pdf,assumed LHV
+9.22.2,154000,360,2028,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.22.2_1st_PCI_PMI_list.pdf,calculated injection_withdrawal using LHV of H2
+9.23,250000,250,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.23_1st_PCI_PMI_list.pdf,assumed LHV
+9.23,2050000,2050,2034,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.23_1st_PCI_PMI_list.pdf,"assumed LHV, increase year not specified, assuming 5 years later, linear increase in injection and withdrawal capacity"
+9.24.1,229444,1708,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.24.1_1st_PCI_PMI_list.pdf,assumed LHV
+9.24.1,458854,3416,2035,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.24.1_1st_PCI_PMI_list.pdf,"assumed LHV, increase year not specified, assuming 5 years later, linear increase in injection and withdrawal capacity"
+9.24.2,138320,875,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.24.2_1st_PCI_PMI_list.pdf,assumed LHV
+9.24.2,553278,3500,2034,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_9.24.2_1st_PCI_PMI_list.pdf,"assumed LHV, increase year not specified, assuming 5 years later, linear increase in injection and withdrawal capacity"
