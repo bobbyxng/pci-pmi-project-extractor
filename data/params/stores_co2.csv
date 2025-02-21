@@ -1,5 +1,4 @@
-id,injection_rate,total_sequestration_capacity,year,source,comments
-PCI Code,Mt/year,Mt,,,
+pci_code,injection_rate_Mtpa,total_sequestration_capacity_Mt,year,source,comments
 "13.1",2.5,37,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.1_1st_PCI_PMI_list.pdf,"taken average, originally says 2-3 Mt/y"
 "13.1",5,37,2031,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.1_1st_PCI_PMI_list.pdf,"no increase year specified, assuming 5 years later"
 "13.2",7.5,400,2028,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.2_1st_PCI_PMI_list.pdf,https://www.aramis-ccs.com/faq/",Total sequestration capacity from project website

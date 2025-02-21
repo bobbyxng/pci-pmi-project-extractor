@@ -1,5 +1,4 @@
-id,p_nom_charge,p_nom_discharge,storage_capacity,carrier,year,source,comments
-PCI Code,MW,MW,GWh,,,,
+pci_code,p_nom_charge_MW,p_nom_discharge_MW,storage_capacity_GWh,carrier,year,source,comments
 "1.11",400,440,64,PHS,2034,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.11_1st_PCI_PMI_list.pdf,
 "1.12",548,552,3.6,PHS,2027,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.12_1st_PCI_PMI_list.pdf,
 "1.13",360,360,1.8,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.13_1st_PCI_PMI_list.pdf,
@@ -9,5 +8,6 @@ PCI Code,MW,MW,GWh,,,,
 "1.17",400,400,2.4,PHS,2034,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.17_1st_PCI_PMI_list.pdf,
 "1.18",1000,1000,6,PHS,2028,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.18_1st_PCI_PMI_list.pdf,
 "2.9",730,680,4.88,PHS,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_2.9_1st_PCI_PMI_list.pdf,
+"2.10",250,250,1,battery,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_2.10_1st_PCI_PMI_list.pdf,model as PyPSA store
 "2.11",670,730,4,PHS,2031,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_2.11_1st_PCI_PMI_list.pdf,
 "3.2",500,500,6,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_3.2_1st_PCI_PMI_list.pdf,

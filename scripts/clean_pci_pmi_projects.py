@@ -42,6 +42,7 @@ COLUMNS_BUSES = [
     "y",
     "geometry",
 ]
+
 COLUMNS_GENERATORS = [
     "project_status",
     "build_year",
@@ -50,6 +51,7 @@ COLUMNS_GENERATORS = [
     "tags",
     "geometry",
 ]
+
 COLUMNS_LINES = [
     "project_status",
     "length",
@@ -63,6 +65,7 @@ COLUMNS_LINES = [
     "tags",
     "geometry",
 ]
+
 COLUMNS_LINKS = [
     "project_status",
     "length",
@@ -73,6 +76,7 @@ COLUMNS_LINKS = [
     "tags",
     "geometry",
 ]
+
 COLUMNS_STORAGE_UNITS = [
     "project_status",
     "build_year",
@@ -82,6 +86,7 @@ COLUMNS_STORAGE_UNITS = [
     "tags",
     "geometry",
 ]
+
 COLUMNS_STORES = [
     "project_status",
     "build_year",
@@ -89,6 +94,19 @@ COLUMNS_STORES = [
     "carrier",
     "tags",
     "geometry",
+]
+
+CO2_STORE_LOCATIONS = [
+    (3.9120515912952234, 52.090333354196375), # 13.1, NL
+    (3.6453023968064997, 53.27954000564358), # 13.2, NL
+    (5.024999999674805, 56.32600000009013), # 13.4, DK
+    (12.546159999901748, 44.47808899982594), # 13.5, IT
+    (3.159143747370153, 60.45166361005639), # 13.8, NO
+    (18.096058679795195, 45.72414205477944), # 13.9, HR
+    (11.102272000104046, 55.672252999942366), # 13.10, DK
+    (24.47674514483711, 40.79165498012275), # 13.11, GR
+    (-0.6565459353001007, 43.41882314187304), # 13.12, FR
+    (3.44336863983537, 60.57642758996766), # 13.13, NO
 ]
 
 RENAME_COLUMNS = {
@@ -1093,16 +1111,25 @@ def _clip_to_offshore(gdf, regions, distance_crs=DISTANCE_CRS, geo_crs=GEO_CRS):
     return gdf_clip
 
 
-def _map_params_to_projects(df, params, column):
+def _map_params_to_projects(df, params):
+    df.reset_index(inplace=True)
     df["pci_code"] = df["tags"].apply(lambda x: x["pci_code"])
-    df[column] = df["pci_code"].map(params[column])
 
-    # Group by pci_code and divide column value by number of projects with the same pci_code
-    df[column] = (
-        df.groupby("pci_code")[column].transform(lambda x: x / x.count()).round(0)
-    )
+    # Left join
+    df = df.merge(params, how="inner", on="pci_code")
 
-    df.drop(columns=["pci_code"], inplace=True)
+    # Add additional columns to tags dict
+    columns = ["pci_code", "source", "comments"]
+    for column in columns:
+        # Add column "source" to dictionary in tags column
+        df["tags"] = df.apply(
+            lambda x: {**x["tags"], column: x[column] if column not in {**x["tags"]} else None},
+            axis=1,
+        )
+
+    df = df.drop(columns=columns)
+
+    df.set_index("id", inplace=True)
 
     return df
 
@@ -1119,19 +1146,9 @@ if __name__ == "__main__":
     corrections = snakemake.input.corrections
 
     # Read params for storage units
-    params_stores_co2 = pd.read_csv(
-        snakemake.input.params_stores_co2,
-        skiprows=[1],
-        dtype={"id": str, "e_nom": float, "source": str},
-    )
-    params_stores_co2.set_index("id", inplace=True)
-
-    params_stores_h2 = pd.read_csv(
-        snakemake.input.params_stores_h2,
-        skiprows=[1],
-        dtype={"id": str, "p_nom": float, "source": str},
-    )
-    params_stores_h2.set_index("id", inplace=True)
+    params_stores_co2 = pd.read_csv(snakemake.input.params_stores_co2, dtype={"pci_code": str})
+    params_stores_h2 = pd.read_csv(snakemake.input.params_stores_h2, dtype={"pci_code": str})
+    params_storage_units_electricity = pd.read_csv(snakemake.input.params_storage_units_electricity, dtype={"pci_code": str})
 
     # INITIALISATION OF PROJECTS
     projects = _import_projects(json_files)  # Import projects from JSON files
@@ -1160,7 +1177,7 @@ if __name__ == "__main__":
     projects = projects[
         ~(
             (projects.layer_name == "CO2 liquefaction and buffer storage")
-            & (~projects.pci_code.isin(params_stores_co2.index))
+            & (~projects.pci_code.isin(params_stores_co2["pci_code"]))
         )
     ]
 
@@ -1215,36 +1232,48 @@ if __name__ == "__main__":
         components["links_co2_pipeline"]
     )
 
-    ### Storage unites
-    # Drop CO2 onshore surface injection facilities BE and DE
-    onshore_DE_BE = components["stores_co2"]["geometry"].apply(
-        lambda x: x.within(country_shapes.loc["BE"].geometry.buffer(0.02))
-        or x.within(country_shapes.loc["DE"].geometry.buffer(0.02))
+    ### Storage units
+    # Only keep actual store locations (remove injections)
+    # Check for each row in components["stores_co2"] if geometry.coords[0] is in list of coordinates
+    components["stores_co2"] = components["stores_co2"][
+        components["stores_co2"].geometry.apply(
+            lambda row: row.coords[0] in CO2_STORE_LOCATIONS
+        )
+    ]
+    # Remove substring in index behind last "-" and merge substrings
+    components["stores_co2"].index = components["stores_co2"].reset_index().id.apply(
+        lambda x: "-".join(x.split("-")[:-1]) if len(x.split("-")) > 2 else x
     )
-    components["stores_co2"] = components["stores_co2"][~onshore_DE_BE]
+    # Remove substring in index behind last "-" and merge substrings
+    components["stores_h2"].index = components["stores_h2"].reset_index().id.apply(
+        lambda x: "-".join(x.split("-")[:-1]) if len(x.split("-")) > 2 else x
+    )
+    # Remove substring in index behind last "-" and merge substrings
+    components["storage_units_electricity"].index = components["storage_units_electricity"].reset_index().id.apply(
+        lambda x: "-".join(x.split("-")[:-1]) if len(x.split("-")) > 2 else x
+    )
+    components["storage_units_electricity"] = components["storage_units_electricity"].loc[
+        ~components["storage_units_electricity"].index.duplicated(keep="first")
+    ]
 
     # Map params to storage projects
-    # CO2
-
+    components["stores_co2"].drop(columns=["e_nom"], inplace=True)
     components["stores_co2"] = _map_params_to_projects(
         components["stores_co2"],
-        params_stores_co2,
-        "e_nom",
+        params_stores_co2
     )
 
+    components["stores_h2"].drop(columns=["e_nom"], inplace=True)
     components["stores_h2"] = _map_params_to_projects(
         components["stores_h2"],
         params_stores_h2,
-        "e_nom",
     )
 
-    # components["links_co2_shipping"] = _clip_to_offshore(
-    #     components["links_co2_shipping"], country_shapes
-    # )
-
-    # components["links_co2_shipping"] = _split_to_segments(
-    #     components["links_co2_shipping"]
-    # )
+    components["storage_units_electricity"].drop(columns=["p_nom", "max_hours", "carrier"], inplace=True)
+    components["storage_units_electricity"] = _map_params_to_projects(
+        components["storage_units_electricity"],
+        params_storage_units_electricity,
+    )
 
     # Export to correct output files depending on project_type
     total_count = 0

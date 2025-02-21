@@ -31,6 +31,7 @@ rule clean_pci_pmi_projects:
         project_list="resources/project_list.csv",
         raw=glob("data/raw/*.json"),
         corrections=glob("data/corrections/*.json"),
+        params_storage_units_electricity="data/params/storage_units_electricity.csv",
         params_stores_co2="data/params/stores_co2.csv",
         params_stores_h2="data/params/stores_h2.csv",
     output:
