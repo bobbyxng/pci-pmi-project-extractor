@@ -6,34 +6,21 @@ from shutil import move
 
 rule all:
     input: 
-        # buses_electricity_transmission="resources/buses_electricity_transmission.geojson",
-        # buses_offshore_grids="resources/buses_offshore_grids.geojson",
-        # buses_smart_electricity_transmission="resources/buses_smart_electricity_transmission.geojson",
-        # generators_h2_terminal="resources/generators_h2_terminal.geojson",
-        lines_electricity_transmission="resources/lines_electricity_transmission.geojson",
-        links_co2_pipeline="resources/links_co2_pipeline.geojson",
-        # links_co2_shipping="resources/links_co2_shipping.geojson",
-        links_electricity_transmission="resources/links_electricity_transmission.geojson",
-        # links_electrolyser="resources/links_electrolyser.geojson",
-        # links_gas_pipeline="resources/links_gas_pipeline.geojson",
-        links_h2_pipeline="resources/links_h2_pipeline.geojson",
-        # links_offshore_grids="resources/links_offshore_grids.geojson",
-        storage_units_electricity="resources/storage_units_electricity.geojson",
-        stores_h2="resources/stores_h2.geojson",
-        stores_co2="resources/stores_co2.geojson",
-    output:
-        lines_electricity_transmission="output/lines_electricity_transmission.geojson",
-        links_co2_pipeline="output/links_co2_pipeline.geojson",
-        links_electricity_transmission="output/links_electricity_transmission.geojson",
-        links_h2_pipeline="output/links_h2_pipeline.geojson",
-        storage_units_electricity="output/storage_units_electricity.geojson",
-        stores_h2="output/stores_h2.geojson",
-        stores_co2="output/stores_co2.geojson",
-    log:
-        "logs/create_pci_pmi_projects.log",
-    run:
-        for i in input.keys():
-            move(input[i], output[i])
+        # buses_electricity_transmission="resources/geojson/buses_electricity_transmission.geojson",
+        # buses_offshore_grids="resources/geojson/buses_offshore_grids.geojson",
+        # buses_smart_electricity_transmission="resources/geojson/buses_smart_electricity_transmission.geojson",
+        # generators_h2_terminal="resources/geojson/generators_h2_terminal.geojson",
+        lines_electricity_transmission="resources/geojson/lines_electricity_transmission.geojson",
+        links_co2_pipeline="resources/geojson/links_co2_pipeline.geojson",
+        # links_co2_shipping="resources/geojson/links_co2_shipping.geojson",
+        links_electricity_transmission="resources/geojson/links_electricity_transmission.geojson",
+        # links_electrolyser="resources/geojson/links_electrolyser.geojson",
+        # links_gas_pipeline="resources/geojson/links_gas_pipeline.geojson",
+        links_h2_pipeline="resources/geojson/links_h2_pipeline.geojson",
+        # links_offshore_grids="resources/geojson/links_offshore_grids.geojson",
+        storage_units_electricity="resources/geojson/storage_units_electricity.geojson",
+        stores_h2="resources/geojson/stores_h2.geojson",
+        stores_co2="resources/geojson/stores_co2.geojson",
 
 
 rule retrieve_pci_pmi_annex:
@@ -68,22 +55,35 @@ rule create_pci_pmi_projects:
         params_stores_co2="data/params/stores_co2.csv",
         params_stores_h2="data/params/stores_h2.csv",
     output:
-        buses_electricity_transmission="resources/buses_electricity_transmission.geojson",
-        buses_offshore_grids="resources/buses_offshore_grids.geojson",
-        buses_smart_electricity_transmission="resources/buses_smart_electricity_transmission.geojson",
-        generators_h2_terminal="resources/generators_h2_terminal.geojson",
-        lines_electricity_transmission="resources/lines_electricity_transmission.geojson",
-        links_co2_pipeline="resources/links_co2_pipeline.geojson",
-        links_co2_shipping="resources/links_co2_shipping.geojson",
-        links_electricity_transmission="resources/links_electricity_transmission.geojson",
-        links_electrolyser="resources/links_electrolyser.geojson",
-        links_gas_pipeline="resources/links_gas_pipeline.geojson",
-        links_h2_pipeline="resources/links_h2_pipeline.geojson",
-        links_offshore_grids="resources/links_offshore_grids.geojson",
-        storage_units_electricity="resources/storage_units_electricity.geojson",
-        stores_h2="resources/stores_h2.geojson",
-        stores_co2="resources/stores_co2.geojson",
+        buses_electricity_transmission="resources/geojson/buses_electricity_transmission.geojson",
+        buses_offshore_grids="resources/geojson/buses_offshore_grids.geojson",
+        buses_smart_electricity_transmission="resources/geojson/buses_smart_electricity_transmission.geojson",
+        generators_h2_terminal="resources/geojson/generators_h2_terminal.geojson",
+        lines_electricity_transmission="resources/geojson/lines_electricity_transmission.geojson",
+        links_co2_pipeline="resources/geojson/links_co2_pipeline.geojson",
+        links_co2_shipping="resources/geojson/links_co2_shipping.geojson",
+        links_electricity_transmission="resources/geojson/links_electricity_transmission.geojson",
+        links_electrolyser="resources/geojson/links_electrolyser.geojson",
+        links_gas_pipeline="resources/geojson/links_gas_pipeline.geojson",
+        links_h2_pipeline="resources/geojson/links_h2_pipeline.geojson",
+        links_offshore_grids="resources/geojson/links_offshore_grids.geojson",
+        storage_units_electricity="resources/geojson/storage_units_electricity.geojson",
+        stores_h2="resources/geojson/stores_h2.geojson",
+        stores_co2="resources/geojson/stores_co2.geojson",
     log:
         "logs/create_pci_pmi_projects.log",
     script:
         "scripts/create_pci_pmi_projects.py"
+
+
+rule create_csvs:
+    input: 
+        lines_electricity_transmission="resources/geojson/lines_electricity_transmission.geojson",
+        links_electricity_transmission="resources/geojson/links_electricity_transmission.geojson",
+    output:
+        new_lines="resources/csv/new_lines.csv",
+        new_links="resources/csv/new_links.csv",
+    log:
+        "logs/create_csvs.log",
+    script:
+        "scripts/create_csvs.py"
