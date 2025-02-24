@@ -64,3 +64,6 @@ new_links["x0"] = new_links.geometry.apply(lambda x: x.coords[0][0])
 new_links["y0"] = new_links.geometry.apply(lambda x: x.coords[0][1])
 new_links["x1"] = new_links.geometry.apply(lambda x: x.coords[-1][0])
 new_links["y1"] = new_links.geometry.apply(lambda x: x.coords[-1][1])
+new_links = new_links[COLS_LINKS]
+new_links = new_links.replace({"f": False, "t": True})
+new_links.to_csv(snakemake.output.new_links, index=True)

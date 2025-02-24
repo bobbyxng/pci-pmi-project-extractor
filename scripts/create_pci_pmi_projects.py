@@ -1142,6 +1142,7 @@ if __name__ == "__main__":
             "create_pci_pmi_projects",
         )
 
+    exclude = snakemake.params.exclude
     json_files = snakemake.input.raw
     corrections = snakemake.input.corrections
 
@@ -1162,6 +1163,11 @@ if __name__ == "__main__":
     projects = _assign_project_types(
         projects
     )  # Assign project types based on layerName
+
+    # Remove projects with excluded PCI codes
+    logger.info(f"Excluding {len(exclude)} projects:")
+    logger.info(f"{exclude}")
+    projects = projects[~projects["pci_code"].isin(exclude)]
 
     # Storage units CO2
     list_co2_sequestration = projects[

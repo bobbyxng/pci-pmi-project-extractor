@@ -4,6 +4,9 @@ from glob import glob
 from shutil import move
 
 
+configfile: "config/config.default.yaml"
+
+
 rule all:
     input: 
         # buses_electricity_transmission="resources/geojson/buses_electricity_transmission.geojson",
@@ -21,6 +24,8 @@ rule all:
         storage_units_electricity="resources/geojson/storage_units_electricity.geojson",
         stores_h2="resources/geojson/stores_h2.geojson",
         stores_co2="resources/geojson/stores_co2.geojson",
+        new_lines="resources/csv/new_lines.csv",
+        new_links="resources/csv/new_links.csv",
 
 
 rule retrieve_pci_pmi_annex:
@@ -47,6 +52,8 @@ rule retrieve_pci_pmi_list:
 
 
 rule create_pci_pmi_projects:
+    params:
+        exclude=config["exclude"]
     input:
         project_list="resources/project_list.csv",
         raw=glob("data/raw/*.json"),

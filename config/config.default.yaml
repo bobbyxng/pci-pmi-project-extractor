@@ -1,0 +1,6 @@
+# PCI-PMI projects to exclude
+exclude:
+  - "1.19"
+  - "2.13"
+  - "2.6.1"
+  - "2.6.2"
