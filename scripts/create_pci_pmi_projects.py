@@ -1121,12 +1121,12 @@ def _map_params_to_projects(df, params):
 
     # Add additional columns to tags dict
     columns = ["pci_code", "source", "comments"]
-    for column in columns:
-        # Add column "source" to dictionary in tags column
-        df["tags"] = df.apply(
-            lambda x: {**x["tags"], column: x[column] if column not in {**x["tags"]} else None},
-            axis=1,
-        )
+    # for column in columns:
+    #     # Add column "source" to dictionary in tags column
+    #     df["tags"] = df.apply(
+    #         lambda x: {**x["tags"], column: x[column] if column not in {**x["tags"]} else None},
+    #         axis=1,
+    #     )
 
     df = df.drop(columns=columns)
 
