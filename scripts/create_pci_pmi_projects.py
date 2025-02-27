@@ -16,6 +16,7 @@ import pypsa
 import tqdm
 from dateutil import parser
 from shapely.geometry import LineString, MultiLineString, Point, Polygon
+from shapely.algorithms.polylabel import polylabel
 from shapely.ops import linemerge 
 
 logging.getLogger("pyogrio._io").setLevel(logging.WARNING)  # disable pyogrio info
@@ -1134,6 +1135,76 @@ def _map_params_to_projects(df, params):
     return df
 
 
+def _create_link_ends(df):
+
+    buses = pd.concat(
+        [
+            df["geometry"].apply(lambda x: Point(x.coords[0])),
+            df["geometry"].apply(lambda x: Point(x.coords[-1])),
+        ]
+    ).reset_index(drop=True)
+
+    return buses
+
+
+def _create_stations(buses, tol=500):
+    buses = buses.to_crs(DISTANCE_CRS).buffer(tol).to_crs(GEO_CRS)
+
+    gdf = gpd.GeoDataFrame(geometry=[poly for poly in buses.union_all().geoms], crs=GEO_CRS)
+    
+    # Create PoI
+    gdf["poi"] = (
+        gdf["geometry"]
+        .to_crs(DISTANCE_CRS)
+        .apply(lambda x: polylabel(x, tolerance=tol / 2))
+        .to_crs(GEO_CRS)
+    )
+
+    return gdf
+
+
+def _drop_internal_links(links, buses):
+
+    links = links.copy().reset_index()
+    internal_links = gpd.sjoin(links, buses, how="inner", predicate="within").index
+
+    links.drop(internal_links, inplace=True)
+    links.set_index("id", inplace=True)
+
+    return links
+
+
+def _extend_links_to_buses(links, buses):
+    links = links.copy().reset_index()
+    
+    bus0 = gpd.GeoDataFrame(links["geometry"].apply(lambda x: Point(x.coords[0])), geometry="geometry", crs=links.crs)
+    bus1 = gpd.GeoDataFrame(links["geometry"].apply(lambda x: Point(x.coords[-1])), geometry="geometry", crs=links.crs)
+
+    links["bus0"] = bus0
+    links["bus0_ext"] = gpd.sjoin(bus0, buses, how="left", predicate="within")["poi"]
+    links["bus0_line"] = links.apply(
+        lambda row: LineString([row["bus0"], row["bus0_ext"]]), axis=1
+    )
+    links["bus1"] = bus1
+    links["bus1_ext"] = gpd.sjoin(bus1, buses, how="left", predicate="within")["poi"]
+    links["bus1_line"] = links.apply(
+        lambda row: LineString([row["bus1"], row["bus1_ext"]]), axis=1
+    )
+    links["geometry"] = links.apply(
+        lambda row: linemerge([row["bus0_line"], row["geometry"], row["bus1_line"]]), axis=1
+    )
+
+    links = links.drop(columns=["bus0", "bus0_ext", "bus0_line", "bus1", "bus1_ext", "bus1_line"])
+
+    return links.set_index("id")
+
+
+def _calculate_length(gdf):
+    gdf["length"] = gdf.to_crs(DISTANCE_CRS).length.div(1e3).round(1)  # Calculate length in km
+
+    return gdf
+
+
 if __name__ == "__main__":
     if "snakemake" not in globals():
         from _helpers import mock_snakemake
@@ -1231,12 +1302,52 @@ if __name__ == "__main__":
 
     # Split linestrings into segments if they are touched by others
     components["links_h2_pipeline"] = _split_to_segments(
-        components["links_h2_pipeline"]
+        components["links_h2_pipeline"],
+        buffer_radius=1600
     )
 
+    # Clean up topology
+    buses_h2 = _create_link_ends(components["links_h2_pipeline"])
+    buses_h2 = _create_stations(buses_h2, tol=3300)
+
+    # Drop all lines within buses_h2
+    components["links_h2_pipeline"] = _drop_internal_links(components["links_h2_pipeline"], buses_h2)
+
+    # Map links to buses
+    components["links_h2_pipeline"] = _extend_links_to_buses(components["links_h2_pipeline"], buses_h2)
+
+    # Drop closed loops
+    components["links_h2_pipeline"] = components["links_h2_pipeline"].loc[~components["links_h2_pipeline"].is_closed]
+
+    # Update ids and lengths
+    components["links_h2_pipeline"]["pci_code"] = components["links_h2_pipeline"]["tags"].apply(lambda x: x["pci_code"])
+    components["links_h2_pipeline"] = _create_unique_ids(components["links_h2_pipeline"])
+    components["links_h2_pipeline"] = _calculate_length(components["links_h2_pipeline"])
+
+
+    # CO2 pipelines
     components["links_co2_pipeline"] = _split_to_segments(
         components["links_co2_pipeline"]
     )
+    
+    # Clean up topology
+    buses_co2 = _create_link_ends(components["links_co2_pipeline"])
+    buses_co2 = _create_stations(buses_co2, tol=1200)
+
+    # Drop all lines within buses_co2
+    components["links_co2_pipeline"] = _drop_internal_links(components["links_co2_pipeline"], buses_co2)
+
+    # Map links to buses
+    components["links_co2_pipeline"] = _extend_links_to_buses(components["links_co2_pipeline"], buses_co2)
+
+    # Drop closed loops
+    components["links_co2_pipeline"] = components["links_co2_pipeline"].loc[~components["links_co2_pipeline"].is_closed]
+
+    # Update ids and lengths
+    components["links_co2_pipeline"]["pci_code"] = components["links_co2_pipeline"]["tags"].apply(lambda x: x["pci_code"])
+    components["links_co2_pipeline"] = _create_unique_ids(components["links_co2_pipeline"])
+    components["links_co2_pipeline"] = _calculate_length(components["links_co2_pipeline"])
+
 
     ### Storage units
     # Only keep actual store locations (remove injections)
