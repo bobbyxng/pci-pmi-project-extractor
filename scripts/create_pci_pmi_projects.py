@@ -1379,18 +1379,27 @@ if __name__ == "__main__":
         components["stores_co2"],
         params_stores_co2
     )
+    components["stores_co2"].index = components["stores_co2"]["name"]
+    components["stores_co2"].index.name = "id"
+    components["stores_co2"].drop(columns=["name"], inplace=True)
 
     components["stores_h2"].drop(columns=["e_nom"], inplace=True)
     components["stores_h2"] = _map_params_to_projects(
         components["stores_h2"],
         params_stores_h2,
     )
+    components["stores_h2"].index = components["stores_h2"]["name"]
+    components["stores_h2"].index.name = "id"
+    components["stores_h2"].drop(columns=["name"], inplace=True)
 
     components["storage_units_electricity"].drop(columns=["p_nom", "max_hours", "carrier"], inplace=True)
     components["storage_units_electricity"] = _map_params_to_projects(
         components["storage_units_electricity"],
         params_storage_units_electricity,
     )
+    components["storage_units_electricity"].index = components["storage_units_electricity"]["name"]
+    components["storage_units_electricity"].index.name = "id"
+    components["storage_units_electricity"].drop(columns=["name"], inplace=True)
 
     # Export to correct output files depending on project_type
     total_count = 0

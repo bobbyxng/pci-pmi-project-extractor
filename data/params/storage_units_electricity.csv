@@ -1,13 +1,13 @@
-pci_code,p_nom_charge_MW,p_nom_discharge_MW,storage_capacity_GWh,carrier,year,source,comments
-"1.11",400,440,64,PHS,2034,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.11_1st_PCI_PMI_list.pdf,
-"1.12",548,552,3.6,PHS,2027,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.12_1st_PCI_PMI_list.pdf,
-"1.13",360,360,1.8,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.13_1st_PCI_PMI_list.pdf,
-"1.14",300,300,3.5,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.14_1st_PCI_PMI_list.pdf,
-"1.15",404,340,1.4,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.15_1st_PCI_PMI_list.pdf,
-"1.16",220,320,19,CAES,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.16_1st_PCI_PMI_list.pdf,compressed air energy storages (CAES)
-"1.17",400,400,2.4,PHS,2034,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.17_1st_PCI_PMI_list.pdf,
-"1.18",1000,1000,6,PHS,2028,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.18_1st_PCI_PMI_list.pdf,
-"2.9",730,680,4.88,PHS,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_2.9_1st_PCI_PMI_list.pdf,
-"2.10",250,250,1,battery,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_2.10_1st_PCI_PMI_list.pdf,model as PyPSA store
-"2.11",670,730,4,PHS,2031,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_2.11_1st_PCI_PMI_list.pdf,
-"3.2",500,500,6,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_3.2_1st_PCI_PMI_list.pdf,
+pci_code,name,p_nom_charge_MW,p_nom_discharge_MW,storage_capacity_GWh,carrier,year,source,comments
+"1.11",1.11_2034,400,440,64,PHS,2034,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.11_1st_PCI_PMI_list.pdf,
+"1.12",1.12_2027,548,552,3.6,PHS,2027,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.12_1st_PCI_PMI_list.pdf,
+"1.13",1.13_2030,360,360,1.8,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.13_1st_PCI_PMI_list.pdf,
+"1.14",1.14_2030,300,300,3.5,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.14_1st_PCI_PMI_list.pdf,
+"1.15",1.15_2030,404,340,1.4,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.15_1st_PCI_PMI_list.pdf,
+"1.16",1.16_2029,220,320,19,CAES,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.16_1st_PCI_PMI_list.pdf,compressed air energy storages (CAES)
+"1.17",1.17_2034,400,400,2.4,PHS,2034,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.17_1st_PCI_PMI_list.pdf,
+"1.18",1.18_2028,1000,1000,6,PHS,2028,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_1.18_1st_PCI_PMI_list.pdf,
+"2.9",2.9_2026,730,680,4.88,PHS,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_2.9_1st_PCI_PMI_list.pdf,
+"2.10",2.10_2026,250,250,1,battery,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_2.10_1st_PCI_PMI_list.pdf,model as PyPSA store
+"2.11",2.11_2031,670,730,4,PHS,2031,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_2.11_1st_PCI_PMI_list.pdf,
+"3.2",3.2_2030,500,500,6,PHS,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_3.2_1st_PCI_PMI_list.pdf,

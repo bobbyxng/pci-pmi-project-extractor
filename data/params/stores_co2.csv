@@ -1,19 +1,19 @@
-pci_code,injection_rate_Mtpa,total_sequestration_capacity_Mt,year,source,comments
-"13.1",2.5,37,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.1_1st_PCI_PMI_list.pdf,"taken average, originally says 2-3 Mt/y"
-"13.1",5,37,2031,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.1_1st_PCI_PMI_list.pdf,"no increase year specified, assuming 5 years later"
-"13.2",7.5,400,2028,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.2_1st_PCI_PMI_list.pdf,https://www.aramis-ccs.com/faq/",Total sequestration capacity from project website
-"13.2",14.75,400,2033,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.2_1st_PCI_PMI_list.pdf,https://www.aramis-ccs.com/faq/","scale up potetential to 22 Mt/y in steps (assuming every five years, 7.5 Mt/y in add. Capacity)"
-"13.2",22,400,2038,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.2_1st_PCI_PMI_list.pdf,https://www.aramis-ccs.com/faq/","scale up potetential to 22 Mt/y in steps (assuming every five years, 7.5 Mt/y in add. Capacity)"
-"13.4",2.5,40,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.4_1st_PCI_PMI_list.pdf,Harald depleted fields
-"13.4",10.5,220,2035,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.4_1st_PCI_PMI_list.pdf,"Harald depleted fields + saline aquifers offshore DK, no increase year specified, assuming 5 years later"
-"13.5",2,128,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.5_1st_PCI_PMI_list.pdf,geological storage in the Mediterranean Sea
-"13.5",6.4,128,2035,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.5_1st_PCI_PMI_list.pdf,ramp up from 2 to 6.4 Mt/y within the first 6 years of operation
-"13.8",25,875,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.8_1st_PCI_PMI_list.pdf,"Smeaheia, NO: >20Mt/y (500 Mt) + Luna, 5 Mt/y (375 Mt)"
-"13.9",0.631,15.77,2027,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.9_1st_PCI_PMI_list.pdf,injection_rate calculated from distributing total capacity over 25 years
-"13.10",28,850,2027,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.10_1st_PCI_PMI_list.pdf,https://climate.ec.europa.eu/system/files/2023-05/policy_ccs_implementation_presentations_20230330_en.pdf",taken average for total sequestration capacity (800-900 Mt)
-"13.11",1,,2025,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.11_1st_PCI_PMI_list.pdf,https://www.iene.eu/articlefiles/inline/sardi%20-%2014th%20seeed.pdf",commissioning date of first phase taken from description
-"13.11",3,75,2028,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.11_1st_PCI_PMI_list.pdf,https://www.iene.eu/articlefiles/inline/sardi%20-%2014th%20seeed.pdf",commissioning date refers to second phase
-"13.12",2,500,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.12_1st_PCI_PMI_list.pdf,"taken average, originally says 1-3 Mt/y"
-"13.12",6,500,2035,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.12_1st_PCI_PMI_list.pdf,ramp up specified in PCI fiche
-"13.13",1.5,37.5,2026,https://ec.europa.eu/assets/cinea/PCI/files/PMIFiche_13.13_1st_PCI_PMI_list.pdf,"many different commissioning years depending on source (2024 vs. 2026, using 2026 based on TP)"
-"13.13",5,37.5,2031,https://ec.europa.eu/assets/cinea/PCI/files/PMIFiche_13.13_1st_PCI_PMI_list.pdf,"no increase year specified, assuming 5 years later"
+pci_code,name,injection_rate_Mtpa,total_sequestration_capacity_Mt,year,source,comments
+"13.1",13.1_2026,2.5,37,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.1_1st_PCI_PMI_list.pdf,"taken average, originally says 2-3 Mt/y"
+"13.1",13.1_2031_added,2.5,0,2031,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.1_1st_PCI_PMI_list.pdf,"no increase year specified, assuming 5 years later"
+"13.2",13.2_2028,7.5,400,2028,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.2_1st_PCI_PMI_list.pdf,https://www.aramis-ccs.com/faq/",Total sequestration capacity from project website
+"13.2",13.2_2033_added,7.25,0,2033,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.2_1st_PCI_PMI_list.pdf,https://www.aramis-ccs.com/faq/","scale up potetential to 22 Mt/y in steps (assuming every five years, 7.5 Mt/y in add. Capacity)"
+"13.2",13.2_2038_added,7.25,0,2038,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.2_1st_PCI_PMI_list.pdf,https://www.aramis-ccs.com/faq/","scale up potetential to 22 Mt/y in steps (assuming every five years, 7.5 Mt/y in add. Capacity)"
+"13.4",13.4_2030,2.5,40,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.4_1st_PCI_PMI_list.pdf,Harald depleted fields
+"13.4",13.4_2035_added,8,180,2035,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.4_1st_PCI_PMI_list.pdf,"Harald depleted fields + saline aquifers offshore DK, no increase year specified, assuming 5 years later"
+"13.5",13.5_2029,2,128,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.5_1st_PCI_PMI_list.pdf,geological storage in the Mediterranean Sea
+"13.5",13.5_2035_added,4.4,0,2035,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.5_1st_PCI_PMI_list.pdf,ramp up from 2 to 6.4 Mt/y within the first 6 years of operation
+"13.8",13.8_2029,25,875,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.8_1st_PCI_PMI_list.pdf,"Smeaheia, NO: >20Mt/y (500 Mt) + Luna, 5 Mt/y (375 Mt)"
+"13.9",13.9_2027,0.631,15.77,2027,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.9_1st_PCI_PMI_list.pdf,injection_rate calculated from distributing total capacity over 25 years
+"13.10",13.10_2027,28,850,2027,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.10_1st_PCI_PMI_list.pdf,https://climate.ec.europa.eu/system/files/2023-05/policy_ccs_implementation_presentations_20230330_en.pdf",taken average for total sequestration capacity (800-900 Mt)
+"13.11",13.11_2025,1,75,2025,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.11_1st_PCI_PMI_list.pdf,https://www.iene.eu/articlefiles/inline/sardi%20-%2014th%20seeed.pdf",commissioning date of first phase taken from description
+"13.11",13.11_2028_added,2,0,2028,"https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.11_1st_PCI_PMI_list.pdf,https://www.iene.eu/articlefiles/inline/sardi%20-%2014th%20seeed.pdf",commissioning date refers to second phase
+"13.12",13.12_2030,2,500,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.12_1st_PCI_PMI_list.pdf,"taken average, originally says 1-3 Mt/y"
+"13.12",13.12_2035_added,4,0,2035,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.12_1st_PCI_PMI_list.pdf,ramp up specified in PCI fiche
+"13.13",13.13_2026,1.5,37.5,2026,https://ec.europa.eu/assets/cinea/PCI/files/PMIFiche_13.13_1st_PCI_PMI_list.pdf,"many different commissioning years depending on source (2024 vs. 2026, using 2026 based on TP)"
+"13.13",13.13_2026_added,3.5,0,2031,https://ec.europa.eu/assets/cinea/PCI/files/PMIFiche_13.13_1st_PCI_PMI_list.pdf,"no increase year specified, assuming 5 years later"
