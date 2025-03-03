@@ -53,7 +53,8 @@ rule retrieve_pci_pmi_list:
 
 rule create_pci_pmi_projects:
     params:
-        exclude=config["exclude"]
+        exclude=config["exclude"],
+        overwrite_parsed_data=config["overwrite_parsed_data"],
     input:
         project_list="resources/project_list.csv",
         raw=glob("data/raw/*.json"),
@@ -61,6 +62,8 @@ rule create_pci_pmi_projects:
         params_storage_units_electricity="data/params/storage_units_electricity.csv",
         params_stores_co2="data/params/stores_co2.csv",
         params_stores_h2="data/params/stores_h2.csv",
+        params_links_co2_pipeline="data/params/links_co2_pipeline.csv",
+        params_links_h2_pipeline="data/params/links_h2_pipeline.csv",
     output:
         buses_electricity_transmission="resources/geojson/buses_electricity_transmission.geojson",
         buses_offshore_grids="resources/geojson/buses_offshore_grids.geojson",

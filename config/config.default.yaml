@@ -4,3 +4,8 @@ exclude:
   - "2.13"
   - "2.6.1"
   - "2.6.2"
+  - "13.3"
+
+overwrite_parsed_data:
+  links_h2_pipeline: true
+  links_co2_pipeline: true

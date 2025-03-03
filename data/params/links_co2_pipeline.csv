@@ -1,0 +1,12 @@
+pci_code,p_Mtpa,utilisation_factor,year,source,comments
+"13.1",5,0.8,2026,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.1_1st_PCI_PMI_list.pdf,"assuming 0.8 uf"
+"13.2",22,0.8,2028,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.2_1st_PCI_PMI_list.pdf,"assuming 0.8 uf"
+"13.4",10.5,0.8,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.4_1st_PCI_PMI_list.pdf,"assuming 0.8 uf"
+"13.5",6.4,0.8,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.5_1st_PCI_PMI_list.pdf,"assuming 0.8 uf"
+"13.7",22,0.8,2030,https://www.portofrotterdam.com/en/news-and-press-releases/broad-industry-support-for-delta-corridor-project,"assuming 0.8 uf"
+"13.8",25,0.8,2029,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.8_1st_PCI_PMI_list.pdf,"assuming 0.8 uf"
+"13.9",0.631,0.8,2027,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.9_1st_PCI_PMI_list.pdf,"assuming 0.8 uf"
+"13.11",10,0.8,2028,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.11_1st_PCI_PMI_list.pdf,"assuming 0.8 uf"
+"13.12",6,0.8,2030,https://ec.europa.eu/assets/cinea/PCI/files/PCIFiche_13.12_1st_PCI_PMI_list.pdf,"assuming 0.8 uf"
+"13.13",5,0.8,2026,https://ec.europa.eu/assets/cinea/PCI/files/PMIFiche_13.13_1st_PCI_PMI_list.pdf,"assuming 0.8 uf"
+"13.14",1.5,0.8,2029,https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43251567/101147522/CEF2027,"assuming 0.8 uf"

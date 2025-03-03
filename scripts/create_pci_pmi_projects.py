@@ -1116,6 +1116,9 @@ def _map_params_to_projects(df, params):
     df.reset_index(inplace=True)
     df["pci_code"] = df["tags"].apply(lambda x: x["pci_code"])
 
+    if "p_nom" in df.columns:
+        df = df.drop(columns=["p_nom"])
+
     # Left join
     df = df.merge(params, how="inner", on="pci_code")
 
@@ -1222,6 +1225,23 @@ if __name__ == "__main__":
     params_stores_h2 = pd.read_csv(snakemake.input.params_stores_h2, dtype={"pci_code": str})
     params_storage_units_electricity = pd.read_csv(snakemake.input.params_storage_units_electricity, dtype={"pci_code": str})
 
+    # Overwrite parsed data
+    overwrite_parsed_data = snakemake.params.overwrite_parsed_data
+    if overwrite_parsed_data["links_h2_pipeline"]:
+        params_links_h2_pipeline = pd.read_csv(snakemake.input.params_links_h2_pipeline, dtype={"pci_code": str})
+        params_links_h2_pipeline["p_nom"] = (
+            params_links_h2_pipeline["p_Mtpa"] / params_links_h2_pipeline["utilisation_factor"] 
+            * 1e6 * LHV_H2 / 8760
+        ).round(0)
+
+    if overwrite_parsed_data["links_co2_pipeline"]:
+        params_links_co2_pipeline = pd.read_csv(snakemake.input.params_links_co2_pipeline, dtype={"pci_code": str})
+
+        params_links_co2_pipeline["p_nom"] = (
+            params_links_co2_pipeline["p_Mtpa"] / params_links_co2_pipeline["utilisation_factor"] 
+            * 1e6 / 8760
+        ).round(0)
+
     # INITIALISATION OF PROJECTS
     projects = _import_projects(json_files)  # Import projects from JSON files
     projects_corrections = _import_projects(corrections)  # Import corrections from CSV files
@@ -1300,6 +1320,12 @@ if __name__ == "__main__":
         components["links_h2_pipeline"]
     )
 
+    # Overwrite parsed data
+    components["links_h2_pipeline"] = _map_params_to_projects(
+        components["links_h2_pipeline"],
+        params_links_h2_pipeline[["pci_code", "p_nom", "source", "comments"]],
+    )
+
     # Split linestrings into segments if they are touched by others
     components["links_h2_pipeline"] = _split_to_segments(
         components["links_h2_pipeline"],
@@ -1326,6 +1352,11 @@ if __name__ == "__main__":
 
 
     # CO2 pipelines
+    components["links_co2_pipeline"] = _map_params_to_projects(
+        components["links_co2_pipeline"],
+        params_links_co2_pipeline[["pci_code", "p_nom", "source", "comments"]],
+    )
+
     components["links_co2_pipeline"] = _split_to_segments(
         components["links_co2_pipeline"]
     )
