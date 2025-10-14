@@ -1,4 +1,4 @@
-# pci-pmi-projects
+# pcipmi-project-extractor
 This repository contains data on Projects of Common Interest (PCI) and Projects of Mutual Interest (PMI) collected from publicly available sources. 
 
 ## Data Sources
