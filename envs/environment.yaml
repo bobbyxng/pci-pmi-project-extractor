@@ -1,4 +1,4 @@
-name: pcipmi-project-extractor
+name: pci-pmi-project-extractor
 channels:
 - conda-forge
 - bioconda

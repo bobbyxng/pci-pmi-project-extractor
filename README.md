@@ -1,6 +1,26 @@
 # pci-pmi-project-extractor
 This repository contains data on Projects of Common Interest (PCI) and Projects of Mutual Interest (PMI) collected from publicly available sources. 
 
+## Clone the repository
+
+To start you need to clone the repository, run:
+
+`git clone https://github.com/bobbyxng/pci-pmi-project-extractor.git`
+
+## Initialisation
+
+Before running the workflow for the first time, please run in this order:
+
+* `cd pci-pmi-project-extractor` to enter the correct project directory
+* `conda env create -f envs/environment.yaml` to create the environment and installing dependencies
+* `conda activate pci-pmi-project-extractor` to activate the environment
+
+## Run the workflow
+
+To extract, clean and build PCI-PMI projects and map project data to the respective projects, please run:
+* `snakemake create_pci_pmi_projects` (add `-n` for dry-run)
+
+
 ## Data Sources
 - European Commission (2024). PCI-PMI Transparency Platform. https://ec.europa.eu/energy/infrastructure/transparency_platform/map-viewer/main.html (last accessed on 17.09.2024)
 - European Commission (2023). Annex to the Commission Delegated Regulation (EU) amending Regulation (EU) No 2022/869 of the European Parliament and of the Council as regards the Union list of projects of common interest and projects of mutual interest. https://energy.ec.europa.eu/publications/annex-first-union-list-projects-common-and-mutual-interest_en (last accessed on 17.09.2024)
