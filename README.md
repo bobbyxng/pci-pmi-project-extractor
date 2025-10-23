@@ -20,6 +20,9 @@ Before running the workflow for the first time, please run in this order:
 To extract, clean and build PCI-PMI projects and map project data to the respective projects, please run:
 * `snakemake create_pci_pmi_projects` (add `-n` for dry-run)
 
+## License
+
+There are different open licenses for different types of files in the repository. See [specifications here](.reuse/dep5).
 
 ## Data Sources
 - European Commission (2024). PCI-PMI Transparency Platform. https://ec.europa.eu/energy/infrastructure/transparency_platform/map-viewer/main.html (last accessed on 17.09.2024)

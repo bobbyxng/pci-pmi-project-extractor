@@ -1,0 +1,24 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: pci-pmi-project-extractor
+Upstream-Contact: Bobby Xiong <xiong@tu-berlin.de>
+Source: https://github.com/bobbyxng/pci-pmi-project-extractor
+
+Files: data/*
+Copyright: : 2025 European Commission, CINEA, DG ENER, PLATTS
+License: No license specified; please consult the data source: https://ec.europa.eu/energy/infrastructure/transparency_platform/map-viewer/main.html
+
+Files: config/*
+Copyright: : 2025 Bobby Xiong, Tom Brown, Iegor Riepin
+License: MIT
+
+Files: envs/*
+Copyright: : 2025 Bobby Xiong, Tom Brown, Iegor Riepin
+License: MIT
+
+Files: resources/*
+Copyright: : 2025 Bobby Xiong, Tom Brown, Iegor Riepin
+License: MIT
+
+Files: scripts/*
+Copyright: : 2025 Bobby Xiong, Tom Brown, Iegor Riepin
+License: MIT
